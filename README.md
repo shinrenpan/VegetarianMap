@@ -35,7 +35,7 @@
 請依照 [GeoJSON](https://geojson.org) format 新增一個 **type = Feature**, **geometry.type = Point** 的 Object  
 例如:
 
-```json
+```javascript
 {
   "type": "Feature", // 必填 Feature
   "geometry": {
@@ -44,8 +44,8 @@
   },
   "properties": {
     "name": "我的餐廳", // name 必填
- 		"address": "台北市內湖區 111 號" // address 必填
- 		// 可新增其他 Property, 例如 tel
+    "address": "台北市內湖區 111 號" // address 必填
+    // 可新增其他 Property, 例如 tel
   }
 }
 ```
