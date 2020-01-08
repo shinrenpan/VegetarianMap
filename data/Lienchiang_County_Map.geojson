@@ -1,0 +1,61 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.95191199999999,
+          26.158234
+        ]
+      },
+      "properties" : {
+        "name" : "楊師姐素食",
+        "address" : "連江縣南竿鄉復興村159號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.990336,
+          26.223645999999999
+        ]
+      },
+      "properties" : {
+        "name" : "消遣小說出租",
+        "address" : "連江縣北竿鄉塘岐村202號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.922352,
+          26.145804999999999
+        ]
+      },
+      "properties" : {
+        "name" : "日光海岸",
+        "address" : "連江縣南竿鄉仁愛村1-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.944585,
+          26.162685
+        ]
+      },
+      "properties" : {
+        "name" : "素食園",
+        "address" : "連江縣南竿鄉福沃村80號"
+      }
+    }
+  ]
+}

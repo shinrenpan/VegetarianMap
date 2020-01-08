@@ -1,0 +1,1055 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.30673299999999,
+          22.971889000000001
+        ]
+      },
+      "properties" : {
+        "name" : "都蘭 Rose Villa下午茶",
+        "address" : "台東縣東河鄉都蘭村新社3-7號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.220178,
+          23.125169
+        ]
+      },
+      "properties" : {
+        "name" : "池上百寶蔬食",
+        "address" : "台東縣池上鄉中正路31號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.137049,
+          22.762632
+        ]
+      },
+      "properties" : {
+        "name" : "蜜蜜早餐",
+        "address" : "台東縣台東市新生路648號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.215069,
+          23.126131000000001
+        ]
+      },
+      "properties" : {
+        "name" : "福原豆腐店",
+        "address" : "台東縣池上鄉中西三路70號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.13901199999999,
+          22.763832000000001
+        ]
+      },
+      "properties" : {
+        "name" : "快樂蔬食早餐吧",
+        "address" : "台東縣台東市北平街93號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.00640199999999,
+          22.611362
+        ]
+      },
+      "properties" : {
+        "name" : "信隆美食飯包",
+        "address" : "台東縣太麻里鄉外環路92號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.99445,
+          22.684830999999999
+        ]
+      },
+      "properties" : {
+        "name" : "知本江媽媽",
+        "address" : "台東縣卑南鄉龍泉路139巷26號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.14002600000001,
+          22.764468000000001
+        ]
+      },
+      "properties" : {
+        "name" : "曙光森林早午餐",
+        "address" : "台東縣台東市更生路556號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.141543,
+          22.758341000000001
+        ]
+      },
+      "properties" : {
+        "name" : "四季素食館",
+        "address" : "台東縣台東市新生路394號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.146952,
+          22.757377000000002
+        ]
+      },
+      "properties" : {
+        "name" : "聖母健康會館",
+        "address" : "台東縣台東市南京路77號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.13806599999999,
+          22.765899000000001
+        ]
+      },
+      "properties" : {
+        "name" : "得來素蔬食早午餐",
+        "address" : "台東縣台東市更生路627號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.157555,
+          22.754949
+        ]
+      },
+      "properties" : {
+        "name" : "美素美",
+        "address" : "台東縣台東市精誠路140號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.1318632,
+          22.752350100000001
+        ]
+      },
+      "properties" : {
+        "name" : "漢陽素食",
+        "address" : "台東縣台東市漢陽北路468號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.137856,
+          22.765832
+        ]
+      },
+      "properties" : {
+        "name" : "桂田素食",
+        "address" : "台東縣台東市更生路635巷5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.148759,
+          22.763300999999998
+        ]
+      },
+      "properties" : {
+        "name" : "素食水煎包",
+        "address" : "台東縣台東市開封街253號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.155367,
+          22.755493999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食蕃薯粥",
+        "address" : "台東縣台東市寶桑路199號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.144302,
+          22.768214
+        ]
+      },
+      "properties" : {
+        "name" : "里仁",
+        "address" : "台東縣台東市中興路一段128號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.15064599999999,
+          22.759575000000002
+        ]
+      },
+      "properties" : {
+        "name" : "即享 簡餐 咖啡",
+        "address" : "台東縣台東市博愛路226號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.155517,
+          22.755337000000001
+        ]
+      },
+      "properties" : {
+        "name" : "蘇天助素食麵",
+        "address" : "台東縣台東市寶桑路195號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.144457,
+          22.767724999999999
+        ]
+      },
+      "properties" : {
+        "name" : "夏安居草食堂",
+        "address" : "台東縣台東市中興路一段147號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.155732,
+          22.754079000000001
+        ]
+      },
+      "properties" : {
+        "name" : "丹寧象咖啡館",
+        "address" : "台東縣台東市中正路158號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.152171,
+          22.755953999999999
+        ]
+      },
+      "properties" : {
+        "name" : "十方素食餐廳",
+        "address" : "台東縣台東市光明路108號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.14993699999999,
+          22.754932
+        ]
+      },
+      "properties" : {
+        "name" : "一心健康早點",
+        "address" : "台東縣台東市中山路296巷3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.137456,
+          22.758721999999999
+        ]
+      },
+      "properties" : {
+        "name" : "大千蛋糕麵包店",
+        "address" : "台東縣台東市開封街755號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.4697125,
+          22.667520199999998
+        ]
+      },
+      "properties" : {
+        "name" : "綠島南海民宿",
+        "address" : "台東縣綠島鄉公館村柴口168-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.12434,
+          22.769030000000001
+        ]
+      },
+      "properties" : {
+        "name" : "梧桐素廚",
+        "address" : "台東縣台東市新成街1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.142048,
+          22.757739999999998
+        ]
+      },
+      "properties" : {
+        "name" : "香雅鹹素雞滷味",
+        "address" : "台東縣台東市新生路317-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.156622,
+          22.752071000000001
+        ]
+      },
+      "properties" : {
+        "name" : "天之御草食",
+        "address" : "台東縣台東市平等街35號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.152742,
+          22.755590999999999
+        ]
+      },
+      "properties" : {
+        "name" : "三方行",
+        "address" : "台東縣台東市光明路101號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.135717,
+          22.760323
+        ]
+      },
+      "properties" : {
+        "name" : "歐拉蔬食館",
+        "address" : "台東縣台東市漢中街245號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.08910899999999,
+          22.814468000000002
+        ]
+      },
+      "properties" : {
+        "name" : "源緣園自然農場",
+        "address" : "台東縣卑南鄉賓朗路28鄰625號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.14003099999999,
+          22.760724
+        ]
+      },
+      "properties" : {
+        "name" : "素食小站",
+        "address" : "台東縣台東市開封街615號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.161708,
+          23.051746000000001
+        ]
+      },
+      "properties" : {
+        "name" : "舒食男孩",
+        "address" : "台東縣關山鎮八德路6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.15315099999999,
+          22.756798
+        ]
+      },
+      "properties" : {
+        "name" : "鄉林素菜館",
+        "address" : "台東縣台東市光明路72號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.148984,
+          22.755098
+        ]
+      },
+      "properties" : {
+        "name" : "酥蔬園",
+        "address" : "台東縣台東市正氣路298巷3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.149517,
+          22.75825
+        ]
+      },
+      "properties" : {
+        "name" : "蔬食找餐店",
+        "address" : "台東縣台東市博愛路302號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.1624168,
+          23.051192
+        ]
+      },
+      "properties" : {
+        "name" : "晉慈素食",
+        "address" : "台東縣關山鎮中正路77號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.12090910000001,
+          22.782072100000001
+        ]
+      },
+      "properties" : {
+        "name" : "卑南素食自助餐",
+        "address" : "台東縣台東市更生北路277號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.21613499999999,
+          23.122702
+        ]
+      },
+      "properties" : {
+        "name" : "保庇素食",
+        "address" : "台東縣池上鄉中山路152號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.146252,
+          22.756827000000001
+        ]
+      },
+      "properties" : {
+        "name" : "雅筑素食滷味鹹酥G",
+        "address" : "台東縣台東市正氣路389號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.08287900000001,
+          22.773698
+        ]
+      },
+      "properties" : {
+        "name" : "抓餅",
+        "address" : "台東縣台東市中興路五段77號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.151231,
+          22.754415000000002
+        ]
+      },
+      "properties" : {
+        "name" : "溫馨小館",
+        "address" : "台東縣台東市光明路157號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.4697125,
+          22.667520199999998
+        ]
+      },
+      "properties" : {
+        "name" : "南海蔬食館",
+        "address" : "台東縣綠島鄉公館村柴口168之1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.209278,
+          23.12848
+        ]
+      },
+      "properties" : {
+        "name" : "福吉園民宿",
+        "address" : "台東縣池上鄉福吉二街111號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.149919,
+          22.754960000000001
+        ]
+      },
+      "properties" : {
+        "name" : "潘媽媽素食",
+        "address" : "台東縣台東市中山路296巷5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.157071,
+          22.757607
+        ]
+      },
+      "properties" : {
+        "name" : "四維路素食壽司",
+        "address" : "台東縣台東市四維路一段490號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.22181999999999,
+          23.125591
+        ]
+      },
+      "properties" : {
+        "name" : "巫露派派 Ｗu Lou Pie Pie",
+        "address" : "台東縣池上鄉慶福路53號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.154617,
+          22.755399000000001
+        ]
+      },
+      "properties" : {
+        "name" : "宏心村素食自助餐",
+        "address" : "台東縣台東市中華路一段289號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.018642,
+          22.692575000000001
+        ]
+      },
+      "properties" : {
+        "name" : "龍泉鄉茶藝館",
+        "address" : "台東縣卑南鄉龍泉路113巷35號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.150629,
+          22.752718999999999
+        ]
+      },
+      "properties" : {
+        "name" : "新生素菜館",
+        "address" : "台東縣台東市安慶街64號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.12003900000001,
+          22.735357
+        ]
+      },
+      "properties" : {
+        "name" : "小妹素食早點",
+        "address" : "台東縣台東市中華路三段225號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.159204,
+          23.046379999999999
+        ]
+      },
+      "properties" : {
+        "name" : "台東關山好運道民宿",
+        "address" : "台東縣關山鎮溪埔路124-5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.148951,
+          22.755337000000001
+        ]
+      },
+      "properties" : {
+        "name" : "蔬念 Vegine",
+        "address" : "台東縣台東市正氣路312巷12號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.146711,
+          22.760811
+        ]
+      },
+      "properties" : {
+        "name" : "真一成素食館",
+        "address" : "台東縣台東市杭州街134號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.126463,
+          22.777702000000001
+        ]
+      },
+      "properties" : {
+        "name" : "香郁素食",
+        "address" : "台東縣台東市更生北路36號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.50933120000001,
+          22.0579365
+        ]
+      },
+      "properties" : {
+        "name" : "蘭嶼海洋冰品小站",
+        "address" : "台東縣蘭嶼鄉椰油村9號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.219888,
+          23.125741999999999
+        ]
+      },
+      "properties" : {
+        "name" : "吉祥軒健康素食",
+        "address" : "台東縣池上鄉中正路6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.0940245,
+          22.802629599999999
+        ]
+      },
+      "properties" : {
+        "name" : "台東原生應用植物園",
+        "address" : "台東縣卑南鄉明峰村試驗場8號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.144334,
+          22.756983999999999
+        ]
+      },
+      "properties" : {
+        "name" : "明隆春捲專賣店",
+        "address" : "台東縣台東市正氣路489號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.148989,
+          22.752835999999999
+        ]
+      },
+      "properties" : {
+        "name" : "新德素食園",
+        "address" : "台東縣台東市信義路187號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.136871,
+          22.762464000000001
+        ]
+      },
+      "properties" : {
+        "name" : "普光齋素食坊",
+        "address" : "台東縣台東市新生路623號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.15790699999999,
+          22.955217999999999
+        ]
+      },
+      "properties" : {
+        "name" : "舒食男孩三號店",
+        "address" : "台東縣鹿野鄉瑞隆村同興路20號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.204472,
+          23.154019999999999
+        ]
+      },
+      "properties" : {
+        "name" : "秋月養生素食",
+        "address" : "台東縣池上鄉大埔35-16號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.30673299999999,
+          22.971889000000001
+        ]
+      },
+      "properties" : {
+        "name" : "海天一舍",
+        "address" : "台東縣東河鄉隆昌村2鄰10-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.2188,
+          23.124023999999999
+        ]
+      },
+      "properties" : {
+        "name" : "巧本味蔬食人文料理 Qiao Ben Wei Vegetarian",
+        "address" : "台東縣池上鄉靜修路102號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.122557,
+          22.780905000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素緣堂素食",
+        "address" : "台東縣台東市更生北路路228號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.148349,
+          22.749279999999999
+        ]
+      },
+      "properties" : {
+        "name" : "大自然休閒坊",
+        "address" : "台東縣台東市中華路一段651號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.146412,
+          22.762418
+        ]
+      },
+      "properties" : {
+        "name" : "衛爾淨生活館",
+        "address" : "台東縣台東市杭州街217號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.21072580000001,
+          23.143474699999999
+        ]
+      },
+      "properties" : {
+        "name" : "大池豆皮店",
+        "address" : "台東縣池上鄉大埔路39-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.153514,
+          22.752749999999999
+        ]
+      },
+      "properties" : {
+        "name" : "楊記家傳素地瓜片",
+        "address" : "台東縣台東市大同路149-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.142048,
+          22.757739999999998
+        ]
+      },
+      "properties" : {
+        "name" : "鬆餅先生",
+        "address" : "台東縣台東市新生路317號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.148556,
+          22.751639000000001
+        ]
+      },
+      "properties" : {
+        "name" : "慈泰行",
+        "address" : "台東縣台東市光明路283號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.136246,
+          22.768378999999999
+        ]
+      },
+      "properties" : {
+        "name" : "玉芳珍傳統素食早餐店",
+        "address" : "台東縣台東市更生路770號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.13739080000001,
+          22.757849400000001
+        ]
+      },
+      "properties" : {
+        "name" : "觀鳳素食坊",
+        "address" : "台東縣台東市漢中街103號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.1467505,
+          22.755403999999999
+        ]
+      },
+      "properties" : {
+        "name" : "蔬念",
+        "address" : "台東縣台東市正氣路312巷12號"
+      }
+    }
+  ]
+}

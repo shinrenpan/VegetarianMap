@@ -1,0 +1,7831 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.27378,
+          23.030159999999999
+        ]
+      },
+      "properties" : {
+        "name" : "花貓廚房",
+        "address" : "台南市永康區中山北路639號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.46275199999999,
+          23.120446999999999
+        ]
+      },
+      "properties" : {
+        "name" : "長壽屋素食",
+        "address" : "台南市玉井區中山路23號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.248525,
+          23.184436999999999
+        ]
+      },
+      "properties" : {
+        "name" : "性元素食",
+        "address" : "台南市麻豆區中正路29號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.218412,
+          22.975283000000001
+        ]
+      },
+      "properties" : {
+        "name" : "方圓蔬食",
+        "address" : "台南市東區榮譽街119號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29682200000001,
+          23.129397000000001
+        ]
+      },
+      "properties" : {
+        "name" : "禾佳素食餐館",
+        "address" : "台南市善化區大成路351號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.198292,
+          22.996608999999999
+        ]
+      },
+      "properties" : {
+        "name" : "廟後素食",
+        "address" : "台南市中西區民權路三段52號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20890199999999,
+          22.988828999999999
+        ]
+      },
+      "properties" : {
+        "name" : "純古味素食",
+        "address" : "台南市中西區府前路一段105號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.228729,
+          23.016373999999999
+        ]
+      },
+      "properties" : {
+        "name" : "緣園素食館",
+        "address" : "台南市永康區中華路691號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.31033100000001,
+          23.300621
+        ]
+      },
+      "properties" : {
+        "name" : "禪味健康素食館",
+        "address" : "台南市新營區新進路二段112號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.259523,
+          23.028455000000001
+        ]
+      },
+      "properties" : {
+        "name" : "希素巴里蔬食坊",
+        "address" : "台南市永康區埔聖街160號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.1687391,
+          22.989274500000001
+        ]
+      },
+      "properties" : {
+        "name" : "京典酵素臭豆腐",
+        "address" : "台南市安平區健康三街190號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23530700000001,
+          23.040002999999999
+        ]
+      },
+      "properties" : {
+        "name" : "紫竹林素食軒",
+        "address" : "台南市永康區中正南路749號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.225742,
+          22.982178999999999
+        ]
+      },
+      "properties" : {
+        "name" : "自然概念",
+        "address" : "台南市東區崇學路202號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20147299999999,
+          23.120512999999999
+        ]
+      },
+      "properties" : {
+        "name" : "觀心素食",
+        "address" : "台南市西港區新興街14號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22410600000001,
+          22.97326
+        ]
+      },
+      "properties" : {
+        "name" : "滴探健康蔬食餐廳",
+        "address" : "台南市東區崇明路528號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25309,
+          22.952480000000001
+        ]
+      },
+      "properties" : {
+        "name" : "光德素食",
+        "address" : "台南市仁德區德安路3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22774800000001,
+          22.986418
+        ]
+      },
+      "properties" : {
+        "name" : "米豆麥義式蔬食",
+        "address" : "台南市東區裕農路123號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19890100000001,
+          22.998249999999999
+        ]
+      },
+      "properties" : {
+        "name" : "糙米碗粿",
+        "address" : "台南市中西區國華街三段199號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.228573,
+          22.997873999999999
+        ]
+      },
+      "properties" : {
+        "name" : "東森蔬食咖啡館",
+        "address" : "台南市東區光明街147-8號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25500099999999,
+          23.033463000000001
+        ]
+      },
+      "properties" : {
+        "name" : "季昀健康素食",
+        "address" : "台南市永康區中山路255號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23102799999999,
+          22.987528999999999
+        ]
+      },
+      "properties" : {
+        "name" : "聖心素食",
+        "address" : "台南市東區裕農路392號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.176669,
+          23.164197999999999
+        ]
+      },
+      "properties" : {
+        "name" : "隨緣居素食",
+        "address" : "台南市佳里區進學路224號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.191357,
+          23.024522000000001
+        ]
+      },
+      "properties" : {
+        "name" : "園品素食燒烤",
+        "address" : "台南市安南區海佃路一段201號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19433600000001,
+          23.009568000000002
+        ]
+      },
+      "properties" : {
+        "name" : "香雲素界",
+        "address" : "台南市北區和緯路三段393號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.199934,
+          23.000297
+        ]
+      },
+      "properties" : {
+        "name" : "G．burger ",
+        "address" : "台南市北區成功路384號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29270200000001,
+          23.076809000000001
+        ]
+      },
+      "properties" : {
+        "name" : "惜一素食",
+        "address" : "台南市新市區華興街91號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.24683899999999,
+          23.011633
+        ]
+      },
+      "properties" : {
+        "name" : "方圓自在",
+        "address" : "台南市永康區復國一路362巷6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.227653,
+          22.986387000000001
+        ]
+      },
+      "properties" : {
+        "name" : "廣結緣素食休閒小鋪",
+        "address" : "台南市東區裕農路117號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19334000000001,
+          23.037644
+        ]
+      },
+      "properties" : {
+        "name" : "素食水煎包",
+        "address" : "台南市安南區大安街415巷12號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21429500000001,
+          22.977684
+        ]
+      },
+      "properties" : {
+        "name" : "佳美素食自助餐",
+        "address" : "台南市東區立德十路14號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.269211,
+          23.011243
+        ]
+      },
+      "properties" : {
+        "name" : "永味素食清粥小菜",
+        "address" : "台南市永康區大灣七街68號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.245852,
+          23.184774999999998
+        ]
+      },
+      "properties" : {
+        "name" : "13號素食",
+        "address" : "台南市麻豆區興民街8-10號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.194811,
+          22.989149999999999
+        ]
+      },
+      "properties" : {
+        "name" : "福全素食館",
+        "address" : "台南市中西區海安路一段61號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.30286,
+          23.305202999999999
+        ]
+      },
+      "properties" : {
+        "name" : "唯品素食",
+        "address" : "台南市新營區民治路380號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.295512,
+          23.131975000000001
+        ]
+      },
+      "properties" : {
+        "name" : "聯興素齋店",
+        "address" : "台南市善化區中山路285-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.398642,
+          23.293412
+        ]
+      },
+      "properties" : {
+        "name" : "花田耕咖啡",
+        "address" : "台南市東山區枋子林22-6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23333100000001,
+          22.98546
+        ]
+      },
+      "properties" : {
+        "name" : "BH蔬食早餐",
+        "address" : "台南市東區中華東路2段131-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.200295,
+          22.990628999999998
+        ]
+      },
+      "properties" : {
+        "name" : "二姊雞蛋糕",
+        "address" : "台南市中西區永福路二段17號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.459789,
+          23.123062999999998
+        ]
+      },
+      "properties" : {
+        "name" : "觀音素食",
+        "address" : "台南市玉井區中正路21巷16號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.194035,
+          22.989837000000001
+        ]
+      },
+      "properties" : {
+        "name" : "甘圃齋素食館",
+        "address" : "台南市中西區大勇街42號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.239582,
+          23.039746000000001
+        ]
+      },
+      "properties" : {
+        "name" : "尚堤素食自助餐聽",
+        "address" : "台南市永康區中正七街11號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.1972269,
+          23.000855600000001
+        ]
+      },
+      "properties" : {
+        "name" : "香師傅素水煎包",
+        "address" : "台南市中西區成功路415號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.236683,
+          22.988852000000001
+        ]
+      },
+      "properties" : {
+        "name" : "阿慧素食",
+        "address" : "台南市東區裕農路665-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.222537,
+          23.008825000000002
+        ]
+      },
+      "properties" : {
+        "name" : "長春健康素食餐飲連鎖",
+        "address" : "台南市北區開元路355-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.352254,
+          23.2271
+        ]
+      },
+      "properties" : {
+        "name" : "慈湘素食館",
+        "address" : "台南市六甲區民生街6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.218936,
+          23.004586
+        ]
+      },
+      "properties" : {
+        "name" : "靜欣園平價素食館",
+        "address" : "台南市北區勝利路218號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2379804,
+          23.008189399999999
+        ]
+      },
+      "properties" : {
+        "name" : "香積房蔬食鍋燒意麵",
+        "address" : "台南市永康區中山東路307號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23239,
+          22.972961999999999
+        ]
+      },
+      "properties" : {
+        "name" : "融合欣素食",
+        "address" : "台南市東區仁和路91號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.252622,
+          23.025874999999999
+        ]
+      },
+      "properties" : {
+        "name" : "家德 素食麵包坊",
+        "address" : "台南市永康區民族路273巷2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20215,
+          23.009060999999999
+        ]
+      },
+      "properties" : {
+        "name" : "遇見萊茵河",
+        "address" : "台南市北區海安路三段338巷89號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.267337,
+          23.005382000000001
+        ]
+      },
+      "properties" : {
+        "name" : "阿龍素食",
+        "address" : "台南市永康區大灣路283號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.208534,
+          22.994609000000001
+        ]
+      },
+      "properties" : {
+        "name" : "時蔬異理義大利麵",
+        "address" : "台南市中西區民族路二段115號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.236543,
+          22.999345999999999
+        ]
+      },
+      "properties" : {
+        "name" : "環遊素界",
+        "address" : "台南市永康區忠義街28號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23569500000001,
+          22.999745000000001
+        ]
+      },
+      "properties" : {
+        "name" : "志謙永保安康蔬食",
+        "address" : "台南市永康區中華路10巷14號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2969306,
+          23.308423600000001
+        ]
+      },
+      "properties" : {
+        "name" : "南瓜養生素",
+        "address" : "台南市新營區隋唐街330號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.212998,
+          22.991795
+        ]
+      },
+      "properties" : {
+        "name" : "京阪素食",
+        "address" : "台南市東區前鋒路60巷1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21411500000001,
+          22.967514000000001
+        ]
+      },
+      "properties" : {
+        "name" : "古今食坊",
+        "address" : "台南市南區國民路62號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.191591,
+          22.975000999999999
+        ]
+      },
+      "properties" : {
+        "name" : "維宣素食",
+        "address" : "台南市南區大成路二段238號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19920399999999,
+          23.0124
+        ]
+      },
+      "properties" : {
+        "name" : "正軒咖啡",
+        "address" : "台南市北區文成路603號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.250451,
+          23.029060000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素食－蚵仔煎／香椿抓餅",
+        "address" : "台南市永康區正強街215巷78號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.192604,
+          23.000159
+        ]
+      },
+      "properties" : {
+        "name" : "長春健康素食餐飲連鎖民族店",
+        "address" : "台南市中西區民族路三段274號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.295108,
+          23.077214000000001
+        ]
+      },
+      "properties" : {
+        "name" : "憲忠師中西式素食早餐",
+        "address" : "台南市新市區華興街20號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.221633,
+          22.973113999999999
+        ]
+      },
+      "properties" : {
+        "name" : "慈香庭素食港式飲茶",
+        "address" : "台南市東區中華東路三段377巷10號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.1930692,
+          23.000100799999998
+        ]
+      },
+      "properties" : {
+        "name" : "巷子內素食小吃店",
+        "address" : "台南市中西區武聖路36巷59號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.251469,
+          22.947859999999999
+        ]
+      },
+      "properties" : {
+        "name" : "圓璞素食館",
+        "address" : "台南市仁德區中正路二段186號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.223888,
+          22.9802462
+        ]
+      },
+      "properties" : {
+        "name" : "樸石蔬食烘焙",
+        "address" : "台南市東區崇德18街121號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25729200000001,
+          23.002417999999999
+        ]
+      },
+      "properties" : {
+        "name" : "館安生素食",
+        "address" : "台南市永康區國光二街74號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18055,
+          23.153372000000001
+        ]
+      },
+      "properties" : {
+        "name" : "楊老師素食炒臭豆腐 港式蘿蔔糕",
+        "address" : "台南市佳里區仁愛路270號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2299,
+          23.000947
+        ]
+      },
+      "properties" : {
+        "name" : "自在健康素食自助坊",
+        "address" : "台南市北區小東路307巷109號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.251135,
+          23.182549000000002
+        ]
+      },
+      "properties" : {
+        "name" : "禾合素食餐坊",
+        "address" : "台南市麻豆區信義路12-15號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.228543,
+          22.999506
+        ]
+      },
+      "properties" : {
+        "name" : "莘咖哩 Swarakchit",
+        "address" : "台南市東區小東路236號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.229404,
+          22.986796999999999
+        ]
+      },
+      "properties" : {
+        "name" : "好滋味素食",
+        "address" : "台南市東區裕農路346號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2733344,
+          22.9097723
+        ]
+      },
+      "properties" : {
+        "name" : "甜檸檬",
+        "address" : "台南市歸仁區長榮路一段396號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.233503,
+          22.990714000000001
+        ]
+      },
+      "properties" : {
+        "name" : "漢來蔬食",
+        "address" : "台南市東區中華東路一段366號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29501399999999,
+          23.130744
+        ]
+      },
+      "properties" : {
+        "name" : "愛樂活輕食小舖",
+        "address" : "台南市善化區光明路57號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.228573,
+          22.997873999999999
+        ]
+      },
+      "properties" : {
+        "name" : "小樹苗蔬食早午餐",
+        "address" : "台南市東區光明街147-10號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2880141,
+          22.966452799999999
+        ]
+      },
+      "properties" : {
+        "name" : "健樂行生活館",
+        "address" : "台南市歸仁區民權南路一段47號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.172425,
+          23.167895000000001
+        ]
+      },
+      "properties" : {
+        "name" : "快樂素食",
+        "address" : "台南市佳里區忠孝路213號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.251589,
+          23.028742000000001
+        ]
+      },
+      "properties" : {
+        "name" : "純良素食",
+        "address" : "台南市永康區正強街197號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.227307,
+          22.971867
+        ]
+      },
+      "properties" : {
+        "name" : "獨臭之家",
+        "address" : "台南市東區崇德路580號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.329261,
+          23.139503000000001
+        ]
+      },
+      "properties" : {
+        "name" : "林媽媽奶蛋素食早點",
+        "address" : "台南市善化區茄拔嘉南里51號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22815900000001,
+          22.986585000000002
+        ]
+      },
+      "properties" : {
+        "name" : "七味薯條",
+        "address" : "台南市東區裕農路145號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17518699999999,
+          23.163319999999999
+        ]
+      },
+      "properties" : {
+        "name" : "崇仁素食館",
+        "address" : "台南市佳里區文化路286號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17693300000001,
+          23.161169999999998
+        ]
+      },
+      "properties" : {
+        "name" : "道心素食",
+        "address" : "台南市佳里區中山路300號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20480999999999,
+          23.002255999999999
+        ]
+      },
+      "properties" : {
+        "name" : "老外新纖蔬食 ",
+        "address" : "台南市北區公園南路258號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.233307,
+          23.010148000000001
+        ]
+      },
+      "properties" : {
+        "name" : "情定阿婆麵",
+        "address" : "台南市永康區中華路408巷1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.173784,
+          23.159960999999999
+        ]
+      },
+      "properties" : {
+        "name" : "晶好吃@館",
+        "address" : "台南市佳里區新生路366號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.27566,
+          23.021090999999998
+        ]
+      },
+      "properties" : {
+        "name" : "福香棠養生美食",
+        "address" : "台南市永康區西勢路228巷1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21135099999999,
+          23.026142
+        ]
+      },
+      "properties" : {
+        "name" : "晨緣素食",
+        "address" : "台南市安南區府安路四段91巷22弄15號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.198739,
+          22.997150999999999
+        ]
+      },
+      "properties" : {
+        "name" : "修安素食",
+        "address" : "台南市中西區國華街三段155號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22385199999999,
+          22.988727000000001
+        ]
+      },
+      "properties" : {
+        "name" : "極地之光",
+        "address" : "台南市東區林森路二段156號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.253523,
+          22.968056000000001
+        ]
+      },
+      "properties" : {
+        "name" : "好食光健康蔬食早餐",
+        "address" : "台南市仁德區仁義路26號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.216167,
+          23.029485999999999
+        ]
+      },
+      "properties" : {
+        "name" : "三發素食菜包專賣店",
+        "address" : "台南市安南區安和路一段96巷81號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.205685,
+          22.984162999999999
+        ]
+      },
+      "properties" : {
+        "name" : "Loving Hut",
+        "address" : "台南市中西區慶中街180號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.3967303,
+          23.180237699999999
+        ]
+      },
+      "properties" : {
+        "name" : "安順素食",
+        "address" : "台南市大內區大內里276-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.200947,
+          22.998099
+        ]
+      },
+      "properties" : {
+        "name" : "赤崁璽樓",
+        "address" : "台南市中西區西門路二段372巷10號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.241901,
+          23.03689
+        ]
+      },
+      "properties" : {
+        "name" : "米客思 米布丁 糙米天下",
+        "address" : "台南市永康區中正路435號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19252,
+          23.000178999999999
+        ]
+      },
+      "properties" : {
+        "name" : "果然是好咖",
+        "address" : "台南市中西區民族路三段278號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.180842,
+          23.231905000000001
+        ]
+      },
+      "properties" : {
+        "name" : "潤德素食自助餐",
+        "address" : "台南市學甲區成功路12號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.270248,
+          23.322050999999998
+        ]
+      },
+      "properties" : {
+        "name" : "大愛素食園",
+        "address" : "台南市鹽水區朝琴路123-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.232443,
+          22.967507999999999
+        ]
+      },
+      "properties" : {
+        "name" : "鄉園素食",
+        "address" : "台南市東區崇善東路9號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.205243,
+          22.987772
+        ]
+      },
+      "properties" : {
+        "name" : "梅子蔬食",
+        "address" : "台南市中西區建業街39-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.41277599999999,
+          23.347413
+        ]
+      },
+      "properties" : {
+        "name" : "白河素食之家",
+        "address" : "台南市白河區白河市場內58號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2368955,
+          22.9643382
+        ]
+      },
+      "properties" : {
+        "name" : "夏蜜綠 輕食咖啡館",
+        "address" : "台南市東區仁和路366號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.235653,
+          22.987807
+        ]
+      },
+      "properties" : {
+        "name" : "素食早餐",
+        "address" : "台南市東區富農街二段128號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.30089169999999,
+          23.132544599999999
+        ]
+      },
+      "properties" : {
+        "name" : "中藥臭豆腐",
+        "address" : "台南市善化區中山路188號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.235829,
+          22.923549999999999
+        ]
+      },
+      "properties" : {
+        "name" : "保安素食",
+        "address" : "台南市仁德區文賢路一段837號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.226045,
+          22.978798000000001
+        ]
+      },
+      "properties" : {
+        "name" : "國香園素食",
+        "address" : "台南市東區崇善路249號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.232703,
+          23.022012
+        ]
+      },
+      "properties" : {
+        "name" : "菇morning蔬食餐飲連鎖-東橋總店",
+        "address" : "台南市永康區東橋十街80號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20926900000001,
+          22.992097000000001
+        ]
+      },
+      "properties" : {
+        "name" : "清祺素食點心店",
+        "address" : "台南市中西區青年路135號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23069700000001,
+          22.988883000000001
+        ]
+      },
+      "properties" : {
+        "name" : "歐里歐健康廚房",
+        "address" : "台南市東區東寧路512巷2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.215648,
+          22.967665
+        ]
+      },
+      "properties" : {
+        "name" : "味珍素食麵包坊",
+        "address" : "台南市南區大同路二段690號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18862970000001,
+          22.961141699999999
+        ]
+      },
+      "properties" : {
+        "name" : "興毅素食館",
+        "address" : "台南市南區海安路445號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20229399999999,
+          22.992100000000001
+        ]
+      },
+      "properties" : {
+        "name" : "村吉蔬素食創意料理",
+        "address" : "台南市中西區中正路40號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.255461,
+          23.033080999999999
+        ]
+      },
+      "properties" : {
+        "name" : "慈恩素食批發超市",
+        "address" : "台南市永康區中山路308號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22656000000001,
+          22.992321
+        ]
+      },
+      "properties" : {
+        "name" : "八方緣素食自助餐坊",
+        "address" : "台南市東區東安路58號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.191151,
+          22.967092999999998
+        ]
+      },
+      "properties" : {
+        "name" : "品香園",
+        "address" : "台南市南區新都路523號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.226913,
+          22.983371999999999
+        ]
+      },
+      "properties" : {
+        "name" : "榕樹下素食",
+        "address" : "台南市東區東門路二段321號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.231229,
+          23.004086999999998
+        ]
+      },
+      "properties" : {
+        "name" : "金門素粿王-台南永康素食",
+        "address" : "台南市永康區勝利街107巷70號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.217113,
+          23.067710000000002
+        ]
+      },
+      "properties" : {
+        "name" : "鳳慈素食",
+        "address" : "台南市安南區安和路五段254號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25985799999999,
+          23.008192000000001
+        ]
+      },
+      "properties" : {
+        "name" : "普圓素食坊",
+        "address" : "台南市永康區永華路176號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.271565,
+          22.969476
+        ]
+      },
+      "properties" : {
+        "name" : "新品素食漢堡",
+        "address" : "台南市歸仁區中山路318號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.191531,
+          22.984935
+        ]
+      },
+      "properties" : {
+        "name" : "品味蔬食",
+        "address" : "台南市南區金華路二段309號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29192,
+          23.131913999999998
+        ]
+      },
+      "properties" : {
+        "name" : "年成素料行",
+        "address" : "台南市善化區大信路7號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.256877,
+          23.001819000000001
+        ]
+      },
+      "properties" : {
+        "name" : "福慧口味-素食",
+        "address" : "台南市永康區大仁街52號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20564299999999,
+          22.982431999999999
+        ]
+      },
+      "properties" : {
+        "name" : "心心手捲．孝親糕",
+        "address" : "台南市中西區慶中街26號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.177655,
+          22.993473000000002
+        ]
+      },
+      "properties" : {
+        "name" : "皆大喜素食店",
+        "address" : "台南市安平區怡平路368號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.31111900000001,
+          23.281276999999999
+        ]
+      },
+      "properties" : {
+        "name" : "流泉齋蔬食館",
+        "address" : "台南市柳營區果毅里4-18號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2340904,
+          23.0087118
+        ]
+      },
+      "properties" : {
+        "name" : "慈濟園素食",
+        "address" : "台南市永康區中華路346-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.200176,
+          23.000723000000001
+        ]
+      },
+      "properties" : {
+        "name" : "憨吉胖 無蛋無奶全素烘培",
+        "address" : "台南市北區國華街四段11號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18987300000001,
+          23.022593000000001
+        ]
+      },
+      "properties" : {
+        "name" : "大阪章魚燒",
+        "address" : "台南市安南區國安街70號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.30135799999999,
+          23.035878
+        ]
+      },
+      "properties" : {
+        "name" : "泳卉素食",
+        "address" : "台南市新化區大智路1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.16295599999999,
+          22.989455
+        ]
+      },
+      "properties" : {
+        "name" : "食蔬茶齋 · 蔬果料理",
+        "address" : "台南市安平區郡平路335號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.16148099999999,
+          22.989578999999999
+        ]
+      },
+      "properties" : {
+        "name" : "百合蔬食",
+        "address" : "台南市安平區郡平路388號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.235079,
+          22.920645
+        ]
+      },
+      "properties" : {
+        "name" : "佛珍素食養生館",
+        "address" : "台南市仁德區中正路一段162號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.233695,
+          22.987558
+        ]
+      },
+      "properties" : {
+        "name" : "柏林蛋糕",
+        "address" : "台南市東區中華東路二段33號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.1992159,
+          23.040063
+        ]
+      },
+      "properties" : {
+        "name" : "南亨素食",
+        "address" : "台南市安南區安中路一段557巷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.24904100000001,
+          23.021989999999999
+        ]
+      },
+      "properties" : {
+        "name" : "蔬食坊",
+        "address" : "台南市永康區中山南路487號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.31192299999999,
+          23.303099
+        ]
+      },
+      "properties" : {
+        "name" : "香淳臭豆腐",
+        "address" : "台南市新營區復興路55號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.3059157,
+          23.109232299999999
+        ]
+      },
+      "properties" : {
+        "name" : "養生素食",
+        "address" : "台南市新市區龍目井路409號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2367486,
+          23.011152899999999
+        ]
+      },
+      "properties" : {
+        "name" : "可口美複合式素食餐飲屋",
+        "address" : "台南市永康區中山東路218巷23弄41號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.226614,
+          22.985659999999999
+        ]
+      },
+      "properties" : {
+        "name" : "台南土地公臭豆腐",
+        "address" : "台南市東區裕農路94號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23595,
+          23.004366000000001
+        ]
+      },
+      "properties" : {
+        "name" : "晶緻素食館",
+        "address" : "台南市永康區中華一路150號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2553195,
+          23.029199599999998
+        ]
+      },
+      "properties" : {
+        "name" : "寶養素食",
+        "address" : "台南市永康區中正路23號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.199988,
+          22.984369999999998
+        ]
+      },
+      "properties" : {
+        "name" : "Flavor of India 品·印度",
+        "address" : "台南市中西區永福路一段115號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.216784,
+          22.986920999999999
+        ]
+      },
+      "properties" : {
+        "name" : "觀世音素食生鮮超級市場",
+        "address" : "台南市東區東門路一段318號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.30470800000001,
+          23.303485999999999
+        ]
+      },
+      "properties" : {
+        "name" : "御素養生蔬食",
+        "address" : "台南市新營區復興路223號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.225221,
+          23.017204
+        ]
+      },
+      "properties" : {
+        "name" : "妙音素食館",
+        "address" : "台南市永康區大橋一街31巷47號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29941700000001,
+          23.036733000000002
+        ]
+      },
+      "properties" : {
+        "name" : "宏恩素食火鍋城",
+        "address" : "台南市新化區中山路636號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.201981,
+          23.120812999999998
+        ]
+      },
+      "properties" : {
+        "name" : "品臻素食",
+        "address" : "台南市西港區慶安路61號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.186835,
+          23.039221000000001
+        ]
+      },
+      "properties" : {
+        "name" : "老爹蔬食．papavegetarian",
+        "address" : "台南市安南區海環街34號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.460925,
+          23.312048999999998
+        ]
+      },
+      "properties" : {
+        "name" : "千霞園溫泉養生軒",
+        "address" : "台南市白河區六重溪123號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.189773,
+          23.024266000000001
+        ]
+      },
+      "properties" : {
+        "name" : "蓮心素食坊",
+        "address" : "台南市安南區國安街56巷63號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.313138,
+          23.307334999999998
+        ]
+      },
+      "properties" : {
+        "name" : "臻園素食拉麵專賣店",
+        "address" : "台南市新營區仁愛街107號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.223602,
+          22.975066999999999
+        ]
+      },
+      "properties" : {
+        "name" : "慈濟園素食自助餐",
+        "address" : "台南市東區中華東路三段308-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18979899999999,
+          22.976468000000001
+        ]
+      },
+      "properties" : {
+        "name" : "十三番地蔬食壽司",
+        "address" : "台南市南區金華路二段21巷27號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21256200000001,
+          23.013458
+        ]
+      },
+      "properties" : {
+        "name" : "芸椿素食",
+        "address" : "台南市北區長榮路五段480號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.315996,
+          23.304341999999998
+        ]
+      },
+      "properties" : {
+        "name" : "博愛素食",
+        "address" : "台南市新營區博愛街3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.249483,
+          23.185141999999999
+        ]
+      },
+      "properties" : {
+        "name" : "麻豆素食章魚燒",
+        "address" : "台南市麻豆區忠孝路8-12號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.226173,
+          22.972218999999999
+        ]
+      },
+      "properties" : {
+        "name" : "普耕寶荳素食小館 ",
+        "address" : "台南市東區崇道路27, 29號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.632294,
+          24.273394
+        ]
+      },
+      "properties" : {
+        "name" : "十方源咖啡館",
+        "address" : "台南市東山區高原村74號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.217551,
+          23.045990400000001
+        ]
+      },
+      "properties" : {
+        "name" : "樂樂活力蔬食",
+        "address" : "台南市安南區安和路三段47號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.16407599999999,
+          22.999590000000001
+        ]
+      },
+      "properties" : {
+        "name" : "阿香古早味豆漿",
+        "address" : "台南市安平區安平路107號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.287814,
+          22.965945999999999
+        ]
+      },
+      "properties" : {
+        "name" : "圓璞素食館",
+        "address" : "台南市歸仁區民權南路62號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.210047,
+          23.007166000000002
+        ]
+      },
+      "properties" : {
+        "name" : "圓妹蔬食小館",
+        "address" : "台南市北區公園路558號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22786600000001,
+          22.979642999999999
+        ]
+      },
+      "properties" : {
+        "name" : "如意蔬食拉麵館",
+        "address" : "台南市東區崇信街133號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.266901,
+          23.322281
+        ]
+      },
+      "properties" : {
+        "name" : "福慧素食自助餐",
+        "address" : "台南市鹽水區後厝4號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.41277599999999,
+          23.347413
+        ]
+      },
+      "properties" : {
+        "name" : "蓮花公園 香水連花園 陳吉川",
+        "address" : "台南市白河區頂山腳46號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.303915,
+          23.035952000000002
+        ]
+      },
+      "properties" : {
+        "name" : "心心素食",
+        "address" : "台南市新化區中山路466號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19734,
+          23.000813999999998
+        ]
+      },
+      "properties" : {
+        "name" : "佛世緣",
+        "address" : "台南市中西區成功路421號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.244181,
+          23.161868999999999
+        ]
+      },
+      "properties" : {
+        "name" : "天然素食外燴",
+        "address" : "台南市佳里區安西里128-70號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.222105,
+          23.023461000000001
+        ]
+      },
+      "properties" : {
+        "name" : "阿嬤ㄟ素食店",
+        "address" : "台南市永康區南台街54巷41弄15號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.464521,
+          23.120740999999999
+        ]
+      },
+      "properties" : {
+        "name" : "玉井好所在",
+        "address" : "台南市玉井區中山路75號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.215666,
+          23.097688999999999
+        ]
+      },
+      "properties" : {
+        "name" : "淨心緣蔬食",
+        "address" : "台南市安定區海寮村7~20號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.217551,
+          23.045990400000001
+        ]
+      },
+      "properties" : {
+        "name" : "泓緣素食館",
+        "address" : "台南市安南區安和路三段89號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.328192,
+          22.960766
+        ]
+      },
+      "properties" : {
+        "name" : "地瓜田傳統炭烤地瓜攤",
+        "address" : "台南市關廟區中央路229號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.252622,
+          23.025874999999999
+        ]
+      },
+      "properties" : {
+        "name" : "品香素食店",
+        "address" : "台南市永康區民族路273巷18號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20388199999999,
+          23.123014000000001
+        ]
+      },
+      "properties" : {
+        "name" : "丁媽媽包子",
+        "address" : "台南市西港區文化路3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.415323,
+          23.350681999999999
+        ]
+      },
+      "properties" : {
+        "name" : "阿妙素食",
+        "address" : "台南市白河區中山路97號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18191400000001,
+          23.159264
+        ]
+      },
+      "properties" : {
+        "name" : "自然點",
+        "address" : "台南市佳里區六安里六安103號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.246464,
+          22.998424
+        ]
+      },
+      "properties" : {
+        "name" : "彩虹園健康蔬食站",
+        "address" : "台南市永康區復興路135號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.291601,
+          23.130991000000002
+        ]
+      },
+      "properties" : {
+        "name" : "善化素食館",
+        "address" : "台南市善化區中和街9號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22091399999999,
+          23.008489999999998
+        ]
+      },
+      "properties" : {
+        "name" : "蓮香坊天然養生簡餐",
+        "address" : "台南市北區長榮路五段12-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.228554,
+          22.998023
+        ]
+      },
+      "properties" : {
+        "name" : "意境素食茶藝",
+        "address" : "台南市東區光明街141號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.213539,
+          23.015070000000001
+        ]
+      },
+      "properties" : {
+        "name" : "勝曼咖啡",
+        "address" : "台南市北區公園路916號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.256553,
+          22.970725999999999
+        ]
+      },
+      "properties" : {
+        "name" : "劉媽媽健康素食",
+        "address" : "台南市仁德區仁愛村37號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20942700000001,
+          23.016926000000002
+        ]
+      },
+      "properties" : {
+        "name" : "黃日香",
+        "address" : "台南市北區北安路一段133號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.486057,
+          23.179984000000001
+        ]
+      },
+      "properties" : {
+        "name" : "妙元素食坊",
+        "address" : "台南市楠西區梅嶺30號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.195077,
+          23.044602000000001
+        ]
+      },
+      "properties" : {
+        "name" : "金榮素食複合式餐飲",
+        "address" : "台南市安南區怡安路二段559號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.227177,
+          22.987928
+        ]
+      },
+      "properties" : {
+        "name" : "素心養生坊",
+        "address" : "台南市東區裕豐街169號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.228385,
+          22.999502
+        ]
+      },
+      "properties" : {
+        "name" : "果園素食漢堡屋",
+        "address" : "台南市東區光明街9號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18055200000001,
+          23.233222000000001
+        ]
+      },
+      "properties" : {
+        "name" : "菜根香素食餐館",
+        "address" : "台南市學甲區濟生路146號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21248249999999,
+          22.9928591
+        ]
+      },
+      "properties" : {
+        "name" : "平光素食館",
+        "address" : "台南市東區衛民街2-11號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.226107,
+          22.974879000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素の麵館",
+        "address" : "台南市東區崇德路438號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23317900000001,
+          23.010096000000001
+        ]
+      },
+      "properties" : {
+        "name" : "豆苗蔬食早餐",
+        "address" : "台南市永康區中華路410號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.236521,
+          22.999048999999999
+        ]
+      },
+      "properties" : {
+        "name" : "2241複合式素食",
+        "address" : "台南市永康區忠義街12-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.187962,
+          22.979029000000001
+        ]
+      },
+      "properties" : {
+        "name" : "古留香狀元粿\/素食香菇麵線",
+        "address" : "台南市南區惠南街57號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.3169718,
+          23.301607799999999
+        ]
+      },
+      "properties" : {
+        "name" : "蓮花素食館",
+        "address" : "台南市新營區新進路201-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.41277599999999,
+          23.347413
+        ]
+      },
+      "properties" : {
+        "name" : "老街 山產美食景觀餐廳",
+        "address" : "台南市白河區關嶺里31-11號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.249556,
+          23.182953000000001
+        ]
+      },
+      "properties" : {
+        "name" : "竈君素食碗粿",
+        "address" : "台南市麻豆區民族路6-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.245712,
+          23.014002999999999
+        ]
+      },
+      "properties" : {
+        "name" : "優一鮮",
+        "address" : "台南市永康區復國一路425號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23054209999999,
+          22.968295399999999
+        ]
+      },
+      "properties" : {
+        "name" : "阿香早餐部",
+        "address" : "台南市東區崇德十九街口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.205493,
+          22.984739000000001
+        ]
+      },
+      "properties" : {
+        "name" : "左右咖啡蔬食館【さゆう】",
+        "address" : "台南市中西區南門路209巷22號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.251673,
+          23.183513999999999
+        ]
+      },
+      "properties" : {
+        "name" : "三兆客",
+        "address" : "台南市麻豆區興中路114號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2452184,
+          23.183523600000001
+        ]
+      },
+      "properties" : {
+        "name" : "宏恩素食火鍋城",
+        "address" : "台南市麻豆區中山路117-9號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.256342,
+          22.973352999999999
+        ]
+      },
+      "properties" : {
+        "name" : "果心素食",
+        "address" : "台南市仁德區中清路176-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.28969720000001,
+          23.078945099999999
+        ]
+      },
+      "properties" : {
+        "name" : "一派胡塩纯素臭豆腐",
+        "address" : "台南市新市區信義街138號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.30320500000001,
+          23.308067999999999
+        ]
+      },
+      "properties" : {
+        "name" : "同德素食",
+        "address" : "台南市新營區民治路300巷18號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.161871,
+          22.998978000000001
+        ]
+      },
+      "properties" : {
+        "name" : "菩緣素食蔬果屋",
+        "address" : "台南市安平區運河路26號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.1995762,
+          22.992999900000001
+        ]
+      },
+      "properties" : {
+        "name" : "老鄭的菜粽",
+        "address" : "台南市中西區西門路二段116巷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.223992,
+          22.973768
+        ]
+      },
+      "properties" : {
+        "name" : "月光咖啡館 Moon Light Coffee",
+        "address" : "台南市東區崇明路405號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.233718,
+          23.009736
+        ]
+      },
+      "properties" : {
+        "name" : "成功素食點心",
+        "address" : "台南市永康區成功路93號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.469019,
+          23.124321999999999
+        ]
+      },
+      "properties" : {
+        "name" : "妙如意素食\/江大姐素食點心舖",
+        "address" : "台南市玉井區民族路231巷8號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19012499999999,
+          23.024529000000001
+        ]
+      },
+      "properties" : {
+        "name" : "御素界平價素食餐館",
+        "address" : "台南市安南區海佃路一段213巷45號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.209492,
+          22.986882000000001
+        ]
+      },
+      "properties" : {
+        "name" : "阿烏咖啡",
+        "address" : "台南市中西區開山路201號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.228573,
+          22.997873999999999
+        ]
+      },
+      "properties" : {
+        "name" : "歡喜地素食",
+        "address" : "台南市東區光明街147-15號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.263229,
+          23.016984999999998
+        ]
+      },
+      "properties" : {
+        "name" : "素的麵館",
+        "address" : "台南市永康區永大路二段982號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18985000000001,
+          22.976613
+        ]
+      },
+      "properties" : {
+        "name" : "普陀素食滷味",
+        "address" : "台南市南區金華路二段21巷28號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.221351,
+          22.991457
+        ]
+      },
+      "properties" : {
+        "name" : "維宣素食",
+        "address" : "台南市東區長榮路二段157號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.190257,
+          22.997776999999999
+        ]
+      },
+      "properties" : {
+        "name" : "Bonjour輕食早午餐",
+        "address" : "台南市中西區西寧街102號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17892399999999,
+          23.153926999999999
+        ]
+      },
+      "properties" : {
+        "name" : "如意坊",
+        "address" : "台南市佳里區仁愛路314號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.201854,
+          23.000308
+        ]
+      },
+      "properties" : {
+        "name" : "蔓漫素喜",
+        "address" : "台南市北區西門路三段26-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.46267899999999,
+          23.124784999999999
+        ]
+      },
+      "properties" : {
+        "name" : "愛文鄉冰島",
+        "address" : "台南市玉井區豐里村60-19號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.223153,
+          22.976704999999999
+        ]
+      },
+      "properties" : {
+        "name" : "歡喜緣",
+        "address" : "台南市東區崇德路316號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17305399999999,
+          22.996583000000001
+        ]
+      },
+      "properties" : {
+        "name" : "古密蔬食",
+        "address" : "台南市安平區國平路552巷57號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21119400000001,
+          22.987606
+        ]
+      },
+      "properties" : {
+        "name" : "耕園7293",
+        "address" : "台南市中西區大同路一段42號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2952341,
+          22.970305499999998
+        ]
+      },
+      "properties" : {
+        "name" : "慈心素食",
+        "address" : "台南市歸仁區中正北路一段81號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2034238,
+          23.009847499999999
+        ]
+      },
+      "properties" : {
+        "name" : "郁園養生蔬食",
+        "address" : "台南市北區立賢路一段543號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.466193,
+          23.121323
+        ]
+      },
+      "properties" : {
+        "name" : "自然味素食小吃",
+        "address" : "台南市玉井區中山路264號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2925647,
+          23.131801599999999
+        ]
+      },
+      "properties" : {
+        "name" : "儒禾素食",
+        "address" : "台南市善化區保安街"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.252229,
+          22.971388000000001
+        ]
+      },
+      "properties" : {
+        "name" : "弘昌素食麵包店",
+        "address" : "台南市仁德區中山路605號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.235497,
+          22.985491
+        ]
+      },
+      "properties" : {
+        "name" : "慈音素食",
+        "address" : "台南市東區富農街二段15-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21974400000001,
+          22.979779000000001
+        ]
+      },
+      "properties" : {
+        "name" : "舊識紅豆餅",
+        "address" : "台南市東區崇德路177號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21082699999999,
+          22.967704000000001
+        ]
+      },
+      "properties" : {
+        "name" : "隨緣素食",
+        "address" : "台南市南區國民路215號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.214237,
+          22.987110000000001
+        ]
+      },
+      "properties" : {
+        "name" : "苙宏養生蔬食館",
+        "address" : "台南市東區府東街201號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.223888,
+          22.9802462
+        ]
+      },
+      "properties" : {
+        "name" : "菩心園素食",
+        "address" : "台南市東區西門路一段497號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20997699999999,
+          22.991007
+        ]
+      },
+      "properties" : {
+        "name" : "惠美素食",
+        "address" : "台南市中西區青年路164巷39弄1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.287654,
+          22.970987999999998
+        ]
+      },
+      "properties" : {
+        "name" : "福爾摩莎",
+        "address" : "台南市歸仁區文化街三段16號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.203323,
+          23.122814999999999
+        ]
+      },
+      "properties" : {
+        "name" : "西港菜粽-蓮華素食",
+        "address" : "台南市西港區文化路1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25704690000001,
+          23.018348799999998
+        ]
+      },
+      "properties" : {
+        "name" : "好食齋 素食",
+        "address" : "台南市永康區永和街10號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.24639999999999,
+          23.013045000000002
+        ]
+      },
+      "properties" : {
+        "name" : "好粥對麵 素食廣東粥 ",
+        "address" : "台南市永康區復國一路385號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.292895,
+          23.131489999999999
+        ]
+      },
+      "properties" : {
+        "name" : "春之素",
+        "address" : "台南市善化區中興路38號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.16837099999999,
+          23.066880999999999
+        ]
+      },
+      "properties" : {
+        "name" : "一畝田園生活美食",
+        "address" : "台南市安南區佃西一街38號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.304665,
+          23.035530999999999
+        ]
+      },
+      "properties" : {
+        "name" : "妙心素食館",
+        "address" : "台南市新化區中山路425號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.173019,
+          22.993482
+        ]
+      },
+      "properties" : {
+        "name" : "幸屋蔬食早餐",
+        "address" : "台南市安平區平通路476號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.303674,
+          23.304017999999999
+        ]
+      },
+      "properties" : {
+        "name" : "安和素食餐館",
+        "address" : "台南市新營區復興路268號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.178746,
+          22.992158
+        ]
+      },
+      "properties" : {
+        "name" : "桂源蔬食館",
+        "address" : "台南市安平區文平路394號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22096000000001,
+          22.985785
+        ]
+      },
+      "properties" : {
+        "name" : "素巧香酥積",
+        "address" : "台南市東區東門路二段140號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29409699999999,
+          22.966263000000001
+        ]
+      },
+      "properties" : {
+        "name" : "鼎富酵素臭豆腐",
+        "address" : "台南市歸仁區中正南路一段8號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19122299999999,
+          22.981863000000001
+        ]
+      },
+      "properties" : {
+        "name" : "明德素食軒",
+        "address" : "台南市南區健康路二段228號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29424,
+          23.127485
+        ]
+      },
+      "properties" : {
+        "name" : "田園花.果.茶 素食餐飲坊",
+        "address" : "台南市善化區中正路338號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.294568,
+          23.076328
+        ]
+      },
+      "properties" : {
+        "name" : "小華素食館",
+        "address" : "台南市新市區忠孝街225號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.204911,
+          22.990310999999998
+        ]
+      },
+      "properties" : {
+        "name" : "七逃藝術",
+        "address" : "台南市中西區南門路43號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19123,
+          22.979649999999999
+        ]
+      },
+      "properties" : {
+        "name" : "長春健康素食",
+        "address" : "台南市南區金華路二段101號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.252448,
+          23.183543
+        ]
+      },
+      "properties" : {
+        "name" : "雅庭素食館",
+        "address" : "台南市麻豆區興中路152-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.194045,
+          22.979458000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素心齋健康素食",
+        "address" : "台南市南區三官路81號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.258343,
+          22.998557600000002
+        ]
+      },
+      "properties" : {
+        "name" : "一嘉健康蔬食餐屋",
+        "address" : "台南市永康區永大路一段273-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.130225,
+          23.062650000000001
+        ]
+      },
+      "properties" : {
+        "name" : "土城素食",
+        "address" : "台南市安南區城北路16號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.245923,
+          22.970998000000002
+        ]
+      },
+      "properties" : {
+        "name" : "吉祥圓蔬食早午餐",
+        "address" : "台南市仁德區文華路三段428巷136號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23483,
+          23.017130000000002
+        ]
+      },
+      "properties" : {
+        "name" : "仁竹素食軒",
+        "address" : "台南市永康區中山南路195巷24弄33號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20491,
+          22.989716999999999
+        ]
+      },
+      "properties" : {
+        "name" : "福欣素食坊",
+        "address" : "台南市中西區南門路67號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.266997,
+          23.006577
+        ]
+      },
+      "properties" : {
+        "name" : "慧竹素食",
+        "address" : "台南市永康區大灣五街8號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21184,
+          23.019089999999998
+        ]
+      },
+      "properties" : {
+        "name" : "鳳娥手工素食水餃",
+        "address" : "台南市北區北成路20巷17號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.245282,
+          23.014526
+        ]
+      },
+      "properties" : {
+        "name" : "烘貝拉全素養生麵包",
+        "address" : "台南市永康區復國一路455號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.257852,
+          22.991166
+        ]
+      },
+      "properties" : {
+        "name" : "太子素食坊",
+        "address" : "台南市仁德區太子村太子路547號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.308222,
+          23.304209
+        ]
+      },
+      "properties" : {
+        "name" : "鎂素廚房",
+        "address" : "台南市新營區中華路93號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.292345,
+          23.076889000000001
+        ]
+      },
+      "properties" : {
+        "name" : "真味素食",
+        "address" : "台南市新市區華興街118號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.191249,
+          23.006081999999999
+        ]
+      },
+      "properties" : {
+        "name" : "養聖齋 養生素食",
+        "address" : "台南市中西區武聖路98號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.263411,
+          23.011579999999999
+        ]
+      },
+      "properties" : {
+        "name" : "凱凱健康蔬食館",
+        "address" : "台南市永康區永大路二段712號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29371,
+          23.077058000000001
+        ]
+      },
+      "properties" : {
+        "name" : "寶養素食館",
+        "address" : "台南市新市區仁愛街277號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.234193,
+          23.008839999999999
+        ]
+      },
+      "properties" : {
+        "name" : "雙生園素食養生坊",
+        "address" : "台南市永康區成功路41號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.313334,
+          23.300850000000001
+        ]
+      },
+      "properties" : {
+        "name" : "天然蔬食",
+        "address" : "台南市新營區延平路62號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29611199999999,
+          23.129612999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食早餐",
+        "address" : "台南市善化區大成路370號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.314419,
+          23.303079
+        ]
+      },
+      "properties" : {
+        "name" : "滋養軒",
+        "address" : "台南市新營區中山路254號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.317789,
+          23.195803999999999
+        ]
+      },
+      "properties" : {
+        "name" : "隆元素食自助餐",
+        "address" : "台南市官田區勝利路147號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.230293,
+          22.971428
+        ]
+      },
+      "properties" : {
+        "name" : "普蔬軒蔬食麻辣燙",
+        "address" : "台南市東區崇善路613號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.232618,
+          22.972180000000002
+        ]
+      },
+      "properties" : {
+        "name" : "真素食",
+        "address" : "台南市東區仁和路95-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23713499999999,
+          22.922934999999999
+        ]
+      },
+      "properties" : {
+        "name" : "心葉素食小館",
+        "address" : "台南市仁德區中正路一段229-8號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22283299999999,
+          23.010624
+        ]
+      },
+      "properties" : {
+        "name" : "開元寺福利素食餐廳",
+        "address" : "台南市北區北園街89號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.190046,
+          23.013176000000001
+        ]
+      },
+      "properties" : {
+        "name" : "一修素食麵",
+        "address" : "台南市北區大和路246號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.34815140000001,
+          23.233412300000001
+        ]
+      },
+      "properties" : {
+        "name" : "采褔咖啡餐坊",
+        "address" : "台南市六甲區林森街56號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.226331,
+          22.975083000000001
+        ]
+      },
+      "properties" : {
+        "name" : "呂香素食",
+        "address" : "台南市東區崇德路471-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21813899999999,
+          22.946995000000001
+        ]
+      },
+      "properties" : {
+        "name" : "活佛歐式素食餐廳",
+        "address" : "台南市仁德區大同路三段858號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.401194,
+          23.324542999999998
+        ]
+      },
+      "properties" : {
+        "name" : "華恩素食",
+        "address" : "台南市東山區仿子林74-6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22211799999999,
+          23.005544
+        ]
+      },
+      "properties" : {
+        "name" : "素食路邊攤",
+        "address" : "台南市北區長榮路四段117號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23581799999999,
+          22.985526
+        ]
+      },
+      "properties" : {
+        "name" : "富農健康素食",
+        "address" : "台南市東區富農街二段16號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.26775499999999,
+          23.007570999999999
+        ]
+      },
+      "properties" : {
+        "name" : "卍素食自助餐",
+        "address" : "台南市永康區大灣路280號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.24818449999999,
+          23.021268599999999
+        ]
+      },
+      "properties" : {
+        "name" : "明軒素食自助餐",
+        "address" : "台南市永康區中山南路859號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.256738,
+          23.027180000000001
+        ]
+      },
+      "properties" : {
+        "name" : "蕃茄村Brunch & Cafe輕食咖啡",
+        "address" : "台南市永康區中山路29號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.179153,
+          23.233277000000001
+        ]
+      },
+      "properties" : {
+        "name" : "滋心素食館",
+        "address" : "台南市學甲區濟生路208號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.351752,
+          23.231168
+        ]
+      },
+      "properties" : {
+        "name" : "綠蔬食",
+        "address" : "台南市六甲區中正路562號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.177826,
+          23.154859999999999
+        ]
+      },
+      "properties" : {
+        "name" : "香靜素食館",
+        "address" : "台南市佳里區中山路29號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.195318,
+          23.000126999999999
+        ]
+      },
+      "properties" : {
+        "name" : "仁川素食",
+        "address" : "台南市中西區金華路四段111號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.30952600000001,
+          23.304855
+        ]
+      },
+      "properties" : {
+        "name" : "香草蔬坊",
+        "address" : "台南市新營區民生路22-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.183682,
+          22.982856000000002
+        ]
+      },
+      "properties" : {
+        "name" : "健康素食",
+        "address" : "台南市南區健康路二段550號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.190135,
+          22.984397999999999
+        ]
+      },
+      "properties" : {
+        "name" : "心月素食",
+        "address" : "台南市南區文南路100號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21741919999999,
+          22.995614100000001
+        ]
+      },
+      "properties" : {
+        "name" : "蓮芳創意素食館",
+        "address" : "台南市東區育樂街39號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.204643,
+          22.985675000000001
+        ]
+      },
+      "properties" : {
+        "name" : "小潘潘手工全麥麵包",
+        "address" : "台南市中西區樹林街二段95號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23090449999999,
+          22.9950121
+        ]
+      },
+      "properties" : {
+        "name" : "品德發素齋軒",
+        "address" : "台南市東區東平路99號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29198599999999,
+          22.967112
+        ]
+      },
+      "properties" : {
+        "name" : "天心鮮炸蔬食",
+        "address" : "台南市歸仁區中山路二段70號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.1979,
+          22.99915
+        ]
+      },
+      "properties" : {
+        "name" : "興毅素食館",
+        "address" : "台南市中西區海安路二段309號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25394,
+          23.183551999999999
+        ]
+      },
+      "properties" : {
+        "name" : "麻豆素食",
+        "address" : "台南市麻豆區興中路180號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20176360000001,
+          23.043045800000002
+        ]
+      },
+      "properties" : {
+        "name" : "園緣園素宴",
+        "address" : "台南市安南區怡安路二段79-12號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.215175,
+          22.987997
+        ]
+      },
+      "properties" : {
+        "name" : "巧緣素食",
+        "address" : "台南市東區東榮街149號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.227019,
+          22.994544999999999
+        ]
+      },
+      "properties" : {
+        "name" : "時蔬異理早午餐蔬食館",
+        "address" : "台南市東區東安路154號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.189938,
+          22.991826
+        ]
+      },
+      "properties" : {
+        "name" : "穀粒自然風味",
+        "address" : "台南市中西區永華一街148巷15號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.247218,
+          23.178919
+        ]
+      },
+      "properties" : {
+        "name" : "千家香素食館",
+        "address" : "台南市麻豆區和平路5-29號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.178927,
+          23.157502999999998
+        ]
+      },
+      "properties" : {
+        "name" : "菇morning蔬食早午餐-",
+        "address" : "台南市佳里區延平路166號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2383325,
+          23.043112499999999
+        ]
+      },
+      "properties" : {
+        "name" : "䊆是蔬食",
+        "address" : "台南市永康區三村一街123號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29460400000001,
+          22.968554000000001
+        ]
+      },
+      "properties" : {
+        "name" : "維根素食餐廳",
+        "address" : "台南市歸仁區中正北路一段49號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.484807,
+          23.177265999999999
+        ]
+      },
+      "properties" : {
+        "name" : "樹屋蔬食",
+        "address" : "台南市楠西區中正路90號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.24034,
+          23.040900000000001
+        ]
+      },
+      "properties" : {
+        "name" : "霖園素食",
+        "address" : "台南市永康區中正七街65號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.189508,
+          23.024618
+        ]
+      },
+      "properties" : {
+        "name" : "枋杬木作咖啡坊",
+        "address" : "台南市安南區國安街56巷77弄1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.290389,
+          23.131914999999999
+        ]
+      },
+      "properties" : {
+        "name" : "天璽 淨心園 健康蔬食自助餐",
+        "address" : "台南市善化區大同路389號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2561877,
+          22.971369299999999
+        ]
+      },
+      "properties" : {
+        "name" : "麒珍素食",
+        "address" : "台南市仁德區中清路90號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25995260000001,
+          23.033034000000001
+        ]
+      },
+      "properties" : {
+        "name" : "淞子坊健康素食",
+        "address" : "台南市永康區永大路三段328號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19516900000001,
+          22.987090999999999
+        ]
+      },
+      "properties" : {
+        "name" : "大覺素食館",
+        "address" : "台南市南區夏林路1-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23038099999999,
+          22.977298999999999
+        ]
+      },
+      "properties" : {
+        "name" : "阿香素食",
+        "address" : "台南市東區仁和路45-30號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.200011,
+          22.994325
+        ]
+      },
+      "properties" : {
+        "name" : "純素中華そば",
+        "address" : "台南市中西區新美街2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.466972,
+          23.119817999999999
+        ]
+      },
+      "properties" : {
+        "name" : "普陀素食自助餐",
+        "address" : "台南市玉井區中華路297號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.213863,
+          23.011009000000001
+        ]
+      },
+      "properties" : {
+        "name" : "王家麵店",
+        "address" : "台南市北區旭日街165號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.209332,
+          23.012765000000002
+        ]
+      },
+      "properties" : {
+        "name" : "紫蓮素食塩酥齏",
+        "address" : "台南市北區西門路四段298號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.153113,
+          23.000031
+        ]
+      },
+      "properties" : {
+        "name" : "綠竹素食館",
+        "address" : "台南市安平區安北路404號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.125615,
+          23.271469
+        ]
+      },
+      "properties" : {
+        "name" : "好滋味脆皮豆腐",
+        "address" : "台南市北門區成功路408號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.292739,
+          23.072541000000001
+        ]
+      },
+      "properties" : {
+        "name" : "恆心素食坊",
+        "address" : "台南市新市區仁愛街89-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18961,
+          22.983041
+        ]
+      },
+      "properties" : {
+        "name" : "林家素食",
+        "address" : "台南市南區長南街52號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22978999999999,
+          22.965406000000002
+        ]
+      },
+      "properties" : {
+        "name" : "健康素食",
+        "address" : "台南市東區生產路309號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19107200000001,
+          22.979804999999999
+        ]
+      },
+      "properties" : {
+        "name" : "國香園素食",
+        "address" : "台南市南區金華路二段109號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.249897,
+          23.184709999999999
+        ]
+      },
+      "properties" : {
+        "name" : "宮賓素食館",
+        "address" : "台南市麻豆區興中路55巷28號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25242299999999,
+          23.189146000000001
+        ]
+      },
+      "properties" : {
+        "name" : "綠莉姆農場 禾園葉舍餐廳",
+        "address" : "台南市麻豆區中正路251號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.221874,
+          22.993651
+        ]
+      },
+      "properties" : {
+        "name" : "天然素食樂園",
+        "address" : "台南市東區長榮路三段58號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22775900000001,
+          22.966949
+        ]
+      },
+      "properties" : {
+        "name" : "厝邊早餐",
+        "address" : "台南市東區崇德路779號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.24669,
+          23.183202999999999
+        ]
+      },
+      "properties" : {
+        "name" : "柚緣健康素食",
+        "address" : "台南市麻豆區仁愛路8號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2689848,
+          23.0094596
+        ]
+      },
+      "properties" : {
+        "name" : "明心園素食",
+        "address" : "台南市永康區大同街108號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.320212,
+          23.311684
+        ]
+      },
+      "properties" : {
+        "name" : "菩提素養生素食館",
+        "address" : "台南市新營區民治路8-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.290689,
+          23.078599000000001
+        ]
+      },
+      "properties" : {
+        "name" : "新市土地公臭豆腐",
+        "address" : "台南市新市區民生路33號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.3165544,
+          23.3165157
+        ]
+      },
+      "properties" : {
+        "name" : "松香素食早餐",
+        "address" : "台南市新營區中正路122-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25928999999999,
+          23.025455000000001
+        ]
+      },
+      "properties" : {
+        "name" : "永康素食自助餐聽",
+        "address" : "台南市永康區永明街52-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.456917,
+          23.356660000000002
+        ]
+      },
+      "properties" : {
+        "name" : "如是齋小館",
+        "address" : "台南市白河區木屐寮37號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.30220300000001,
+          23.131741000000002
+        ]
+      },
+      "properties" : {
+        "name" : "真味素食",
+        "address" : "台南市善化區民權路93號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.307102,
+          23.036843999999999
+        ]
+      },
+      "properties" : {
+        "name" : "新化黃媽媽早餐店",
+        "address" : "台南市新化區全興里326號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.27733499999999,
+          23.218917999999999
+        ]
+      },
+      "properties" : {
+        "name" : "一貫素食",
+        "address" : "台南市下營區中營村1274號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17596,
+          22.996276999999999
+        ]
+      },
+      "properties" : {
+        "name" : "合和蔬食料理",
+        "address" : "台南市安平區華平路676號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21122,
+          22.980989999999998
+        ]
+      },
+      "properties" : {
+        "name" : "藝術轉角 東東蔬食鍋",
+        "address" : "台南市南區健康路一段77號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.189438,
+          22.965430999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食古早味煎鹹粿",
+        "address" : "台南市南區鹽埕路23號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.222678,
+          22.973913
+        ]
+      },
+      "properties" : {
+        "name" : "晴天包子",
+        "address" : "台南市東區中華東路三段349號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.294464,
+          22.962886999999998
+        ]
+      },
+      "properties" : {
+        "name" : "晨蜜蔬食早餐",
+        "address" : "台南市歸仁區大成路82號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.318448,
+          23.305999
+        ]
+      },
+      "properties" : {
+        "name" : "全民素食",
+        "address" : "台南市新營區民族路7-11號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19064299999999,
+          22.988523000000001
+        ]
+      },
+      "properties" : {
+        "name" : "菇菇薯薯全素炸物",
+        "address" : "台南市中西區永華路一段244號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25967300000001,
+          23.001909999999999
+        ]
+      },
+      "properties" : {
+        "name" : "淨湘園",
+        "address" : "台南市永康區永大路二段23號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.207195,
+          22.992512999999999
+        ]
+      },
+      "properties" : {
+        "name" : "三元齋素食",
+        "address" : "台南市中西區民權路一段227號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.262066,
+          23.235779000000001
+        ]
+      },
+      "properties" : {
+        "name" : "愛祥素食",
+        "address" : "台南市下營區茅港村667號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.222655,
+          23.019869
+        ]
+      },
+      "properties" : {
+        "name" : "妙音健康素食",
+        "address" : "台南市永康區大武街30號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.213373,
+          23.030328000000001
+        ]
+      },
+      "properties" : {
+        "name" : "慧光素食",
+        "address" : "台南市安南區安和路一段194號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.1696489,
+          22.989073000000001
+        ]
+      },
+      "properties" : {
+        "name" : "老城門洞-重慶麻辣鍋",
+        "address" : "台南市安平區郡平路108號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.4871969,
+          23.1778181
+        ]
+      },
+      "properties" : {
+        "name" : "素食",
+        "address" : "台南市楠西區東勢路120號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29137299999999,
+          23.073903000000001
+        ]
+      },
+      "properties" : {
+        "name" : "蓁虹素食",
+        "address" : "台南市新市區中正路146號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.216382,
+          23.013100000000001
+        ]
+      },
+      "properties" : {
+        "name" : "慧音素食",
+        "address" : "台南市北區長榮路五段328號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.403339,
+          23.324390000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素食小吃",
+        "address" : "台南市東山區中興路136號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.219014,
+          22.979365999999999
+        ]
+      },
+      "properties" : {
+        "name" : "名湘園蔬食燒烤",
+        "address" : "台南市東區崇明七街78號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17119099999999,
+          23.158348
+        ]
+      },
+      "properties" : {
+        "name" : "常啼鹽蔬g",
+        "address" : "台南市佳里區安南路578號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.30696,
+          23.038824000000002
+        ]
+      },
+      "properties" : {
+        "name" : "暉宏素食館",
+        "address" : "台南市新化區中正路579號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18913499999999,
+          22.978818
+        ]
+      },
+      "properties" : {
+        "name" : "妙心健康蔬食坊",
+        "address" : "台南市南區尊南街202號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19105500000001,
+          23.022804000000001
+        ]
+      },
+      "properties" : {
+        "name" : "建德素食養生坊",
+        "address" : "台南市安南區國安街22號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.233187,
+          22.995035999999999
+        ]
+      },
+      "properties" : {
+        "name" : "阿君蔬食坊",
+        "address" : "台南市東區東平路38號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.289716,
+          23.127749999999999
+        ]
+      },
+      "properties" : {
+        "name" : "湯師父美味鍋",
+        "address" : "台南市善化區光復路202號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20565000000001,
+          22.983432000000001
+        ]
+      },
+      "properties" : {
+        "name" : "伊莉的店",
+        "address" : "台南市中西區慶中街108號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.239198,
+          23.118970000000001
+        ]
+      },
+      "properties" : {
+        "name" : "雲山坊",
+        "address" : "台南市安定區蘇林里112-37號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18012299999999,
+          23.003857
+        ]
+      },
+      "properties" : {
+        "name" : "齋堂",
+        "address" : "台南市中西區湖美街110號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.26643,
+          23.008035
+        ]
+      },
+      "properties" : {
+        "name" : "田園素食餐飲坊",
+        "address" : "台南市永康區民族路382號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.246133,
+          23.008084
+        ]
+      },
+      "properties" : {
+        "name" : "明德素食",
+        "address" : "台南市永康區復國一路221號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.224434,
+          22.975992000000002
+        ]
+      },
+      "properties" : {
+        "name" : "健康素食",
+        "address" : "台南市東區崇德路374號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.177832,
+          23.161625999999998
+        ]
+      },
+      "properties" : {
+        "name" : "心園素食館",
+        "address" : "台南市佳里區義民街123號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.294213,
+          23.078226000000001
+        ]
+      },
+      "properties" : {
+        "name" : "妙音素食",
+        "address" : "台南市新市區中興街49號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.180516,
+          22.999302
+        ]
+      },
+      "properties" : {
+        "name" : "瑞比冰淇淋",
+        "address" : "台南市中西區民權路四段208號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23238000000001,
+          23.150279000000001
+        ]
+      },
+      "properties" : {
+        "name" : "圓沱素齋",
+        "address" : "台南市西港區金砂村下宅子50號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.198998,
+          22.997304
+        ]
+      },
+      "properties" : {
+        "name" : "大家好素食",
+        "address" : "台南市中西區國華街三段123號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2328186,
+          22.9988514
+        ]
+      },
+      "properties" : {
+        "name" : "天心素食",
+        "address" : "台南市北區小東路563號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.214699,
+          22.987655
+        ]
+      },
+      "properties" : {
+        "name" : "三葉素食早午餐",
+        "address" : "台南市東區東門路一段142號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25290699999999,
+          23.024065
+        ]
+      },
+      "properties" : {
+        "name" : "翰恩素食館",
+        "address" : "台南市永康區中山南路547號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19467299999999,
+          22.980667
+        ]
+      },
+      "properties" : {
+        "name" : "黃日香素食餐坊",
+        "address" : "台南市南區夏林路162號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.127049,
+          23.061209999999999
+        ]
+      },
+      "properties" : {
+        "name" : "東東素食坊",
+        "address" : "台南市安南區城西街一段158號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.225426,
+          23.016386000000001
+        ]
+      },
+      "properties" : {
+        "name" : "忘思咖啡 Once Once Coffee",
+        "address" : "台南市永康區中華西街183號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.303923,
+          23.036443999999999
+        ]
+      },
+      "properties" : {
+        "name" : "梅子の店",
+        "address" : "台南市新化區長青街68號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.225576,
+          22.967055999999999
+        ]
+      },
+      "properties" : {
+        "name" : "健樂行生活館",
+        "address" : "台南市東區崇明路996號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.30716099999999,
+          23.033882999999999
+        ]
+      },
+      "properties" : {
+        "name" : "親一素食館",
+        "address" : "台南市新化區大同街61號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29498100000001,
+          23.132152999999999
+        ]
+      },
+      "properties" : {
+        "name" : "麒珍素食",
+        "address" : "台南市善化區中山路304-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.165795,
+          22.996001
+        ]
+      },
+      "properties" : {
+        "name" : "宏恩素食火鍋城",
+        "address" : "台南市安平區育平九街372巷141弄43號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.199564,
+          22.99718
+        ]
+      },
+      "properties" : {
+        "name" : "大方饅頭",
+        "address" : "台南市中西區西門路二段321號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.196527,
+          22.998956
+        ]
+      },
+      "properties" : {
+        "name" : "小來刈包",
+        "address" : "台南市中西區康樂街341號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21296599999999,
+          22.978948800000001
+        ]
+      },
+      "properties" : {
+        "name" : "蔬食者小館",
+        "address" : "台南市南區大同路二段117號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23193999999999,
+          22.970348000000001
+        ]
+      },
+      "properties" : {
+        "name" : "郭媽媽原味素食店",
+        "address" : "台南市東區崇善十一街36號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21007299999999,
+          23.008061999999999
+        ]
+      },
+      "properties" : {
+        "name" : "馨圓素食",
+        "address" : "台南市北區公園路666號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21717339999999,
+          22.9823232
+        ]
+      },
+      "properties" : {
+        "name" : "崇義黃昏市場林家臭豆腐",
+        "address" : "台南市東區崇德路508巷口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.220151,
+          23.011451000000001
+        ]
+      },
+      "properties" : {
+        "name" : "天慈素食",
+        "address" : "台南市北區長榮路五段167號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19626700000001,
+          22.983747999999999
+        ]
+      },
+      "properties" : {
+        "name" : "芥子素食坊",
+        "address" : "台南市南區府緯街95號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.193912,
+          23.040668
+        ]
+      },
+      "properties" : {
+        "name" : "嘉友蔬食早餐店",
+        "address" : "台南市安南區安中路一段701巷77號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.459846,
+          23.123491000000001
+        ]
+      },
+      "properties" : {
+        "name" : "玉光食館",
+        "address" : "台南市玉井區中正路21巷36號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.223111,
+          22.976939000000002
+        ]
+      },
+      "properties" : {
+        "name" : "唇芳素食",
+        "address" : "台南市東區崇德路310號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.358161,
+          22.964917
+        ]
+      },
+      "properties" : {
+        "name" : "心念農法【淨食館】",
+        "address" : "台南市龍崎區土崎村觀音山5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.32054100000001,
+          23.304789
+        ]
+      },
+      "properties" : {
+        "name" : "里仁新營店",
+        "address" : "台南市新營區同濟街7號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.182132,
+          23.164512999999999
+        ]
+      },
+      "properties" : {
+        "name" : "羽儂新素界",
+        "address" : "台南市佳里區佳東路457號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21013000000001,
+          22.994005000000001
+        ]
+      },
+      "properties" : {
+        "name" : "自然熟 義式蔬食",
+        "address" : "台南市中西區民族路二段57巷1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.26607799999999,
+          23.033587000000001
+        ]
+      },
+      "properties" : {
+        "name" : "菜根香素食早餐店",
+        "address" : "台南市永康區龍埔街37號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.198143,
+          22.987138999999999
+        ]
+      },
+      "properties" : {
+        "name" : "MiaCucina",
+        "address" : "台南市中西區西門路一段658號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.246146,
+          23.008272000000002
+        ]
+      },
+      "properties" : {
+        "name" : "品茗黑砂冰館",
+        "address" : "台南市永康區復國一路231號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.205467,
+          23.007933999999999
+        ]
+      },
+      "properties" : {
+        "name" : "夏夫小農蔬食舖",
+        "address" : "台南市北區西門路四段65巷59號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22781000000001,
+          22.970459999999999
+        ]
+      },
+      "properties" : {
+        "name" : "天津早餐及下午抓餅店",
+        "address" : "台南市東區崇德路659-5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22245700000001,
+          23.004574000000002
+        ]
+      },
+      "properties" : {
+        "name" : "同慈素食坊",
+        "address" : "台南市北區長榮路四段77號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18647799999999,
+          22.983803999999999
+        ]
+      },
+      "properties" : {
+        "name" : "天心岩蔬食餐廳",
+        "address" : "台南市南區中華西路一段312號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.222668,
+          23.003505000000001
+        ]
+      },
+      "properties" : {
+        "name" : "林家素食",
+        "address" : "台南市北區長榮路四段34號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.27882870000001,
+          23.2947463
+        ]
+      },
+      "properties" : {
+        "name" : "藝素燴館",
+        "address" : "台南市新營區太子路12號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.179,
+          22.994274999999998
+        ]
+      },
+      "properties" : {
+        "name" : "香椿抓餅",
+        "address" : "台南市安平區文平路468號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29585,
+          22.973127000000002
+        ]
+      },
+      "properties" : {
+        "name" : "田園素食餐飲坊",
+        "address" : "台南市歸仁區中正北路一段168-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.1954004,
+          22.976320999999999
+        ]
+      },
+      "properties" : {
+        "name" : "蘇媽媽健康素食",
+        "address" : "台南市南區夏林路381號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.31496559999999,
+          23.301385700000001
+        ]
+      },
+      "properties" : {
+        "name" : "一品素食園",
+        "address" : "台南市新營區新進路318巷2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.185399,
+          22.988983000000001
+        ]
+      },
+      "properties" : {
+        "name" : "寬心園",
+        "address" : "台南市安平區永華路二段41-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.199558,
+          22.995193
+        ]
+      },
+      "properties" : {
+        "name" : "金龍彩 ",
+        "address" : "台南市中西區西門路二段230號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.233035,
+          23.022209
+        ]
+      },
+      "properties" : {
+        "name" : "笨鳥慢飛早午餐",
+        "address" : "台南市永康區東橋十街100號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18999100000001,
+          23.025589
+        ]
+      },
+      "properties" : {
+        "name" : "隨緣素食館",
+        "address" : "台南市安南區海佃路一段243巷38號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.193271,
+          23.033106
+        ]
+      },
+      "properties" : {
+        "name" : "理想素粽碗粿",
+        "address" : "台南市安南區大安街146號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18924800000001,
+          22.962320999999999
+        ]
+      },
+      "properties" : {
+        "name" : "台南素食鹹酥雞",
+        "address" : "台南市南區金華路一段41號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18736,
+          23.021754999999999
+        ]
+      },
+      "properties" : {
+        "name" : "新民素食",
+        "address" : "台南市安南區國安街173巷6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17857100000001,
+          23.234821
+        ]
+      },
+      "properties" : {
+        "name" : "福德素食",
+        "address" : "台南市學甲區中山路159-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.211208,
+          22.987673000000001
+        ]
+      },
+      "properties" : {
+        "name" : "一派胡塩酵素臭豆腐",
+        "address" : "台南市中西區大同路一段38號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.210943,
+          22.985348999999999
+        ]
+      },
+      "properties" : {
+        "name" : "悅來健康快餐",
+        "address" : "台南市中西區開山路307號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.459305,
+          23.123553999999999
+        ]
+      },
+      "properties" : {
+        "name" : "玉井素食齋",
+        "address" : "台南市玉井區中正路21巷62號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.249927,
+          23.185009999999998
+        ]
+      },
+      "properties" : {
+        "name" : "華德素食館",
+        "address" : "台南市麻豆區忠孝路10號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2623098,
+          23.138820899999999
+        ]
+      },
+      "properties" : {
+        "name" : "理善蔬食",
+        "address" : "台南市善化區烏橋中路108號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.214046,
+          23.028654
+        ]
+      },
+      "properties" : {
+        "name" : "香師傅素水煎包",
+        "address" : "台南市安南區安和路一段129號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2207283,
+          22.9836615
+        ]
+      },
+      "properties" : {
+        "name" : "轉角蔬食早餐",
+        "address" : "台南市東區林森路一段1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.233133,
+          23.010175
+        ]
+      },
+      "properties" : {
+        "name" : "同慈素食坊",
+        "address" : "台南市永康區中華路412號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.220966,
+          22.975871000000001
+        ]
+      },
+      "properties" : {
+        "name" : "緣心園",
+        "address" : "台南市東區崇明十街61號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.202859,
+          22.985173
+        ]
+      },
+      "properties" : {
+        "name" : "日月禪食",
+        "address" : "台南市中西區南寧街68號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.190713,
+          22.997422
+        ]
+      },
+      "properties" : {
+        "name" : "菘苗素食館",
+        "address" : "台南市中西區民生路二段312號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.177429,
+          23.156131999999999
+        ]
+      },
+      "properties" : {
+        "name" : "全家素食館",
+        "address" : "台南市佳里區中山路83號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18236400000001,
+          22.997128
+        ]
+      },
+      "properties" : {
+        "name" : "凱瑞美式蔬食餐廳",
+        "address" : "台南市安平區永華三街308號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.296944,
+          22.965161999999999
+        ]
+      },
+      "properties" : {
+        "name" : "華園潘媽媽素食",
+        "address" : "台南市歸仁區復興路39號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19153300000001,
+          22.977239999999998
+        ]
+      },
+      "properties" : {
+        "name" : "行慈素食",
+        "address" : "台南市南區三官路230號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.196799,
+          22.998843000000001
+        ]
+      },
+      "properties" : {
+        "name" : "水仙宮廟後素食",
+        "address" : "台南市中西區民族路三段122號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.270662,
+          23.003820999999999
+        ]
+      },
+      "properties" : {
+        "name" : "喜樂多蔬食水果冰淇淋餐廳",
+        "address" : "台南市永康區民族路195號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21887599999999,
+          23.062552
+        ]
+      },
+      "properties" : {
+        "name" : "妙音素食館",
+        "address" : "台南市安南區安和路四段582號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25133460000001,
+          22.951483799999998
+        ]
+      },
+      "properties" : {
+        "name" : "日珍素食",
+        "address" : "台南市仁德區中正路二段301巷11弄2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.313191,
+          23.310739999999999
+        ]
+      },
+      "properties" : {
+        "name" : "紫妙素食",
+        "address" : "台南市新營區民治路58號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22941400000001,
+          23.015986999999999
+        ]
+      },
+      "properties" : {
+        "name" : "一心園素食",
+        "address" : "台南市永康區中華路694號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17498399999999,
+          23.159890999999998
+        ]
+      },
+      "properties" : {
+        "name" : "菩提園素食館",
+        "address" : "台南市佳里區新生路331號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.224675,
+          22.972805999999999
+        ]
+      },
+      "properties" : {
+        "name" : "御蔬坊",
+        "address" : "台南市東區崇明路586號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.177302,
+          23.160533999999998
+        ]
+      },
+      "properties" : {
+        "name" : "小菊素食麵",
+        "address" : "台南市佳里區新生路160號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.462971,
+          23.120521
+        ]
+      },
+      "properties" : {
+        "name" : "心寶林素食坊",
+        "address" : "台南市玉井區中山路33號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.211879,
+          23.013456999999999
+        ]
+      },
+      "properties" : {
+        "name" : "進發西點麵包",
+        "address" : "台南市北區公園路595-14號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17962,
+          23.051939999999998
+        ]
+      },
+      "properties" : {
+        "name" : "素齋軒素食早餐",
+        "address" : "台南市安南區海佃路三段245號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.210781,
+          22.98883
+        ]
+      },
+      "properties" : {
+        "name" : "旺味 香椿素食烙餅",
+        "address" : "台南市中西區府前路一段31號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.195267,
+          22.998276000000001
+        ]
+      },
+      "properties" : {
+        "name" : "南方安逸 Harbour Fantasy",
+        "address" : "台南市中西區神農街144號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.206034,
+          23.019912000000001
+        ]
+      },
+      "properties" : {
+        "name" : "廣緣香天然養生素食坊",
+        "address" : "台南市北區北安路一段177-30號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.207493,
+          23.018257999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素軒",
+        "address" : "台南市北區北安路一段203號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.28797900000001,
+          22.966217
+        ]
+      },
+      "properties" : {
+        "name" : "健樂行",
+        "address" : "台南市歸仁區民權南路131號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18862970000001,
+          22.961141699999999
+        ]
+      },
+      "properties" : {
+        "name" : "普筵素食",
+        "address" : "台南市南區仁東街61號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22775799999999,
+          22.966909999999999
+        ]
+      },
+      "properties" : {
+        "name" : "長春健康素食餐飲連鎖崇德店",
+        "address" : "台南市東區崇德路781號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.6794555,
+          24.126708600000001
+        ]
+      },
+      "properties" : {
+        "name" : "淨心園素食",
+        "address" : "台南市永康區國光路53號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.208444,
+          22.989180999999999
+        ]
+      },
+      "properties" : {
+        "name" : "惠江素食擔仔麵",
+        "address" : "台南市中西區府前路一段106號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2431577,
+          23.183966000000002
+        ]
+      },
+      "properties" : {
+        "name" : "健康素食坊",
+        "address" : "台南市麻豆區中山路167-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23565000000001,
+          22.988012000000001
+        ]
+      },
+      "properties" : {
+        "name" : "觀音素食館",
+        "address" : "台南市東區富農街二段134號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.35154300000001,
+          23.230236000000001
+        ]
+      },
+      "properties" : {
+        "name" : "慈雲素食",
+        "address" : "台南市六甲區中正路522號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.273034,
+          23.323789000000001
+        ]
+      },
+      "properties" : {
+        "name" : "芳津素食自助餐",
+        "address" : "台南市鹽水區朝琴路182號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.35875609999999,
+          25.056840999999999
+        ]
+      },
+      "properties" : {
+        "name" : "仁德食堂",
+        "address" : "台南市仁德區中正路396巷33號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17859,
+          23.162621000000001
+        ]
+      },
+      "properties" : {
+        "name" : "也甜蔬食咖啡",
+        "address" : "台南市佳里區和平街80號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21289899999999,
+          22.979907000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素食飽食堂",
+        "address" : "台南市東區大同路二段51-1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20342599999999,
+          23.002393999999999
+        ]
+      },
+      "properties" : {
+        "name" : "老外新纖蔬食 ",
+        "address" : "台南市北區公園南路283號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.187263,
+          23.019838
+        ]
+      },
+      "properties" : {
+        "name" : "三祿茶莊",
+        "address" : "台南市安南區府安路六段103巷80號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.16440299999999,
+          23.001379
+        ]
+      },
+      "properties" : {
+        "name" : "鄉仁素食",
+        "address" : "台南市安平區平生路75號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19827100000001,
+          22.996570999999999
+        ]
+      },
+      "properties" : {
+        "name" : "郭家大溪現滷豆干",
+        "address" : "台南市中西區民權路三段56號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.252695,
+          22.999234000000001
+        ]
+      },
+      "properties" : {
+        "name" : "呷啾吧蔬食",
+        "address" : "台南市永康區大灣路1036號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.199448,
+          23.001373000000001
+        ]
+      },
+      "properties" : {
+        "name" : "慧音茶莊",
+        "address" : "台南市北區海成街42號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22931800000001,
+          23.001873
+        ]
+      },
+      "properties" : {
+        "name" : "德樺商行",
+        "address" : "台南市永康區勝利街1巷57號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25663400000001,
+          22.970898999999999
+        ]
+      },
+      "properties" : {
+        "name" : "崇林素食小館",
+        "address" : "台南市仁德區中山路425號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.226544,
+          22.992214000000001
+        ]
+      },
+      "properties" : {
+        "name" : "蛋蛋的幸福",
+        "address" : "台南市東區東安路54號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17444,
+          23.166021000000001
+        ]
+      },
+      "properties" : {
+        "name" : "馨滿藝竹素食坊",
+        "address" : "台南市佳里區忠孝路95號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.193568,
+          23.007425999999999
+        ]
+      },
+      "properties" : {
+        "name" : "膳園素食",
+        "address" : "台南市北區文賢路349號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.30592799999999,
+          23.035992
+        ]
+      },
+      "properties" : {
+        "name" : "慧謙素食自助餐",
+        "address" : "台南市新化區竹林路2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17593599999999,
+          23.154990999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食蛋包飯",
+        "address" : "台南市佳里區仁愛路420號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.196805,
+          22.997883000000002
+        ]
+      },
+      "properties" : {
+        "name" : "慢慢鳩",
+        "address" : "台南市中西區神農街76號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.245538,
+          23.009808
+        ]
+      },
+      "properties" : {
+        "name" : "菇morning蔬食連鎖店",
+        "address" : "台南市永康區復華三街76巷1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.184665,
+          22.961514999999999
+        ]
+      },
+      "properties" : {
+        "name" : "來福生活蔬食",
+        "address" : "台南市南區中華南路二段345號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.256086,
+          23.023401
+        ]
+      },
+      "properties" : {
+        "name" : "永二街素食早餐",
+        "address" : "台南市永康區永二街38號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.193568,
+          22.980947
+        ]
+      },
+      "properties" : {
+        "name" : "竹涵素食苑",
+        "address" : "台南市南區三官路12號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.252437,
+          22.973593000000001
+        ]
+      },
+      "properties" : {
+        "name" : "仁德素食館",
+        "address" : "台南市仁德區中正路三段63號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.210409,
+          22.986032999999999
+        ]
+      },
+      "properties" : {
+        "name" : "Season Cafe",
+        "address" : "台南市中西區開山路257號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.229996,
+          23.015037
+        ]
+      },
+      "properties" : {
+        "name" : "素味鮮養生蔬食坊",
+        "address" : "台南市永康區中華路666號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.193808,
+          23.04392
+        ]
+      },
+      "properties" : {
+        "name" : "清馨素食館",
+        "address" : "台南市安南區安中路一段779號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22664,
+          22.992142000000001
+        ]
+      },
+      "properties" : {
+        "name" : "小碟子可麗餅",
+        "address" : "台南市東區東安路48巷3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.318151,
+          23.139844
+        ]
+      },
+      "properties" : {
+        "name" : "天昇素食",
+        "address" : "台南市善化區牛庄里27-32號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21732,
+          22.996310999999999
+        ]
+      },
+      "properties" : {
+        "name" : "名人坣茶格町",
+        "address" : "台南市東區大學路西段39號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.205822,
+          22.984514000000001
+        ]
+      },
+      "properties" : {
+        "name" : "Eva泡芙專賣店",
+        "address" : "台南市中西區慶中街198號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21453,
+          23.048835
+        ]
+      },
+      "properties" : {
+        "name" : "御菓屋手工冰專賣店",
+        "address" : "台南市安南區安豐三街77號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23755199999999,
+          22.983135999999998
+        ]
+      },
+      "properties" : {
+        "name" : "得來素蔬食早午餐",
+        "address" : "台南市東區裕文路15號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.24852300000001,
+          22.971499000000001
+        ]
+      },
+      "properties" : {
+        "name" : "有緣素食琥珀餐廳",
+        "address" : "台南市仁德區中山路687巷31號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.477208,
+          23.681073999999999
+        ]
+      },
+      "properties" : {
+        "name" : "妙恩素食館",
+        "address" : "台南市下營區中山路202號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25746100000001,
+          23.032330000000002
+        ]
+      },
+      "properties" : {
+        "name" : "澎澎蔬食養生餐飲",
+        "address" : "台南市永康區自強路526-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.214427,
+          23.028001
+        ]
+      },
+      "properties" : {
+        "name" : "安和路素食飯團",
+        "address" : "台南市安南區安和路一段93號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.3517125,
+          23.2254428
+        ]
+      },
+      "properties" : {
+        "name" : "豆豆的家",
+        "address" : "台南市六甲區珊瑚路20巷5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.1880627,
+          23.009224499999998
+        ]
+      },
+      "properties" : {
+        "name" : "胖喵香椿餅",
+        "address" : "台南市北區大興街233巷46弄56號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2148004,
+          22.994746500000002
+        ]
+      },
+      "properties" : {
+        "name" : "蔬香熟食",
+        "address" : "台南市東區育樂街149號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.308222,
+          23.304209
+        ]
+      },
+      "properties" : {
+        "name" : "佛光素食餐館",
+        "address" : "台南市新營區中華路93號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.25297399999999,
+          22.959903600000001
+        ]
+      },
+      "properties" : {
+        "name" : "旺來助素食麵飯",
+        "address" : "台南市仁德區中正路二段667號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.173862,
+          23.049206999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食店",
+        "address" : "台南市安南區本淵路26號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.290038,
+          23.074256999999999
+        ]
+      },
+      "properties" : {
+        "name" : "天惠蒟蒻特調",
+        "address" : "台南市新市區銘傳街112號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.215352,
+          23.008209000000001
+        ]
+      },
+      "properties" : {
+        "name" : "陳家素食",
+        "address" : "台南市北區北門路二段289號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2428,
+          23.044138
+        ]
+      },
+      "properties" : {
+        "name" : "桂田蔬食",
+        "address" : "台南市永康區永安一街99號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.168352,
+          22.989006
+        ]
+      },
+      "properties" : {
+        "name" : "紅蕃茄素食館",
+        "address" : "台南市安平區郡平路153號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.24868600000001,
+          23.184971000000001
+        ]
+      },
+      "properties" : {
+        "name" : "茶豆屋 古早味素嗲 鹹粿",
+        "address" : "台南市麻豆區中正路47號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.196749,
+          22.99006
+        ]
+      },
+      "properties" : {
+        "name" : "妙味素食",
+        "address" : "台南市中西區國華街二段108號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.24086,
+          23.186153000000001
+        ]
+      },
+      "properties" : {
+        "name" : "里仁",
+        "address" : "台南市麻豆區新生北路1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.318997,
+          23.305582000000001
+        ]
+      },
+      "properties" : {
+        "name" : "上品素食",
+        "address" : "台南市新營區中山路104號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.164164,
+          23.000004000000001
+        ]
+      },
+      "properties" : {
+        "name" : "有緣素食快炒",
+        "address" : "台南市安平區平生路22號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.235134,
+          22.987361
+        ]
+      },
+      "properties" : {
+        "name" : "慈慧素食美食坊",
+        "address" : "台南市東區中華東路二段41巷56號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.230856,
+          23.006730999999998
+        ]
+      },
+      "properties" : {
+        "name" : "憲忠師素食養生美食館",
+        "address" : "台南市永康區勝學路231號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22723000000001,
+          22.973766000000001
+        ]
+      },
+      "properties" : {
+        "name" : "銀筑章魚燒",
+        "address" : "台南市東區崇德路482號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.189972,
+          22.983644000000002
+        ]
+      },
+      "properties" : {
+        "name" : "豪香素食蔥油餅",
+        "address" : "台南市南區文南路76-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19036699999999,
+          22.977879000000001
+        ]
+      },
+      "properties" : {
+        "name" : "大家來素食自助餐",
+        "address" : "台南市南區新孝路28號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.216291,
+          23.042109
+        ]
+      },
+      "properties" : {
+        "name" : "素食園",
+        "address" : "台南市安南區安和路二段284號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17997,
+          22.990220000000001
+        ]
+      },
+      "properties" : {
+        "name" : "光之輝養身會館",
+        "address" : "台南市安平區永華路二段248號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.24522399999999,
+          22.985288000000001
+        ]
+      },
+      "properties" : {
+        "name" : "淨泉健康蔬食",
+        "address" : "台南市東區裕信路171號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19307999999999,
+          22.984719999999999
+        ]
+      },
+      "properties" : {
+        "name" : "懷德咖啡蔬食坊",
+        "address" : "台南市南區建南路71號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.22801800000001,
+          23.000188000000001
+        ]
+      },
+      "properties" : {
+        "name" : "綠菩提素食",
+        "address" : "台南市北區東豐路554號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.211309,
+          22.983920000000001
+        ]
+      },
+      "properties" : {
+        "name" : "長春健康素食餐飲連鎖大同店",
+        "address" : "台南市東區大同路一段201號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29371500000001,
+          23.077134000000001
+        ]
+      },
+      "properties" : {
+        "name" : "無名早餐攤",
+        "address" : "台南市新市區仁愛街275號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.41532100000001,
+          23.348877999999999
+        ]
+      },
+      "properties" : {
+        "name" : "如是我聞海苔飯捲白河店",
+        "address" : "台南市白河區文明街70號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.153211,
+          22.999839000000001
+        ]
+      },
+      "properties" : {
+        "name" : "茂記安平黑豆花",
+        "address" : "台南市安平區安北路443號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.256109,
+          22.97156
+        ]
+      },
+      "properties" : {
+        "name" : "健康素食",
+        "address" : "台南市仁德區中清路98號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.257459,
+          23.004435000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素品香蔬坊",
+        "address" : "台南市永康區大仁街167號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.226495,
+          22.994018000000001
+        ]
+      },
+      "properties" : {
+        "name" : "栗味齋健康蔬食",
+        "address" : "台南市東區東安路137號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.415486,
+          23.348258000000001
+        ]
+      },
+      "properties" : {
+        "name" : "菩提綠食素食餐飲",
+        "address" : "台南市白河區康樂路30巷6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2270209,
+          23.0308955
+        ]
+      },
+      "properties" : {
+        "name" : "素香庭 Sweet Veggie",
+        "address" : "台南市永康區尚頂路192號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.228668,
+          22.990310000000001
+        ]
+      },
+      "properties" : {
+        "name" : "文心圓手作蔬素食",
+        "address" : "台南市東區東興路10號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.244263,
+          23.016043
+        ]
+      },
+      "properties" : {
+        "name" : "健康素食自助餐",
+        "address" : "台南市永康區復國一路542號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.23206,
+          22.994903000000001
+        ]
+      },
+      "properties" : {
+        "name" : "蔬食樂",
+        "address" : "台南市東區東平路61號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.292806,
+          23.072362999999999
+        ]
+      },
+      "properties" : {
+        "name" : "蓮馨素食餐飲",
+        "address" : "台南市新市區仁愛街96號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2500709,
+          23.185702599999999
+        ]
+      },
+      "properties" : {
+        "name" : "楓糖可頌",
+        "address" : "台南市麻豆區中正路80-23號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.3222363,
+          23.278932000000001
+        ]
+      },
+      "properties" : {
+        "name" : "群康素食",
+        "address" : "台南市柳營區中山西路一段103號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.255923,
+          23.030328000000001
+        ]
+      },
+      "properties" : {
+        "name" : "廣軒素食",
+        "address" : "台南市永康區中山路109號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19635599999999,
+          22.981266000000002
+        ]
+      },
+      "properties" : {
+        "name" : "香積坊素食",
+        "address" : "台南市南區健康路二段45號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.220281,
+          23.020727000000001
+        ]
+      },
+      "properties" : {
+        "name" : "願景素食館",
+        "address" : "台南市永康區中正南路52巷80號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.290857,
+          23.132165000000001
+        ]
+      },
+      "properties" : {
+        "name" : "蔬食小棧",
+        "address" : "台南市善化區中山路405號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.16851699999999,
+          22.99004
+        ]
+      },
+      "properties" : {
+        "name" : "源之美仕女養生館附素食卡拉OK",
+        "address" : "台南市安平區建平七街689號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.46230799999999,
+          23.123390000000001
+        ]
+      },
+      "properties" : {
+        "name" : "呷好寶素食",
+        "address" : "台南市玉井區民主街56號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.17542,
+          23.162375999999998
+        ]
+      },
+      "properties" : {
+        "name" : "林家素食早點",
+        "address" : "台南市佳里區和平街176號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.18028099999999,
+          23.233896999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食",
+        "address" : "台南市學甲區中正路266號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.19826190000001,
+          23.016057700000001
+        ]
+      },
+      "properties" : {
+        "name" : "天籟藝文市集",
+        "address" : "台南市北區文成三路736號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.1866033,
+          22.998378299999999
+        ]
+      },
+      "properties" : {
+        "name" : "弗思特素食涮涮鍋",
+        "address" : "台南市安平區中華西路二段71號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.187732,
+          23.039034000000001
+        ]
+      },
+      "properties" : {
+        "name" : "家恩素食館",
+        "address" : "台南市安南區海佃路二段345-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.20640299999999,
+          23.006603999999999
+        ]
+      },
+      "properties" : {
+        "name" : "菜香素食",
+        "address" : "台南市北區西門路四段32號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.259947,
+          23.007656999999998
+        ]
+      },
+      "properties" : {
+        "name" : "蓮華素食館",
+        "address" : "台南市永康區國光六街78號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.2880656,
+          23.127481400000001
+        ]
+      },
+      "properties" : {
+        "name" : "禾米蔬食",
+        "address" : "台南市善化區光復路342號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29603419999999,
+          22.975097399999999
+        ]
+      },
+      "properties" : {
+        "name" : "愛力素食",
+        "address" : "台南市歸仁區中正北路一段220巷巷口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.217276,
+          23.069592
+        ]
+      },
+      "properties" : {
+        "name" : "董媽媽素食坊",
+        "address" : "台南市安南區安和路五段276巷76號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.195548,
+          22.985039
+        ]
+      },
+      "properties" : {
+        "name" : "旭光速食蓒",
+        "address" : "台南市南區大德街177巷18號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.21560700000001,
+          23.045922000000001
+        ]
+      },
+      "properties" : {
+        "name" : "黃氏素食",
+        "address" : "台南市安南區育安街19號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.230463,
+          23.013169999999999
+        ]
+      },
+      "properties" : {
+        "name" : "菩桔素食",
+        "address" : "台南市永康區中山南路134號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.215824,
+          23.041920000000001
+        ]
+      },
+      "properties" : {
+        "name" : "靜心園素食",
+        "address" : "台南市安南區安和路二段249-2號"
+      }
+    }
+  ]
+}

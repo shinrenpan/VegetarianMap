@@ -1,0 +1,397 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.56774,
+          23.565947999999999
+        ]
+      },
+      "properties" : {
+        "name" : "澎湖煎餅",
+        "address" : "澎湖縣馬公市民權路70-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.568139,
+          23.567401
+        ]
+      },
+      "properties" : {
+        "name" : "津旺素食店",
+        "address" : "澎湖縣馬公市三民路46號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.572778,
+          23.576955000000002
+        ]
+      },
+      "properties" : {
+        "name" : "巧儷素食坊",
+        "address" : "澎湖縣馬公市三多路353號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.56774,
+          23.565947999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食炸春卷炸米糕",
+        "address" : "澎湖縣馬公市民權路70號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.59402300000001,
+          23.648323999999999
+        ]
+      },
+      "properties" : {
+        "name" : "遇見‧秘境",
+        "address" : "澎湖縣白沙鄉港子村1-6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.567302,
+          23.567879000000001
+        ]
+      },
+      "properties" : {
+        "name" : "香廚素食",
+        "address" : "澎湖縣馬公市文化路11號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.56868900000001,
+          23.568090999999999
+        ]
+      },
+      "properties" : {
+        "name" : "永達素食館",
+        "address" : "澎湖縣馬公市新生路27號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.565124,
+          23.566306999999998
+        ]
+      },
+      "properties" : {
+        "name" : "蔬脆蛋餅",
+        "address" : "澎湖縣馬公市光明路45號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.569244,
+          23.568557999999999
+        ]
+      },
+      "properties" : {
+        "name" : "澎湖海冰冰",
+        "address" : "澎湖縣馬公市樹德路3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.571979,
+          23.571217999999998
+        ]
+      },
+      "properties" : {
+        "name" : "春天素食",
+        "address" : "澎湖縣馬公市大仁街13號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.569557,
+          23.569344000000001
+        ]
+      },
+      "properties" : {
+        "name" : "喜結緣素食",
+        "address" : "澎湖縣馬公市中華路49-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.5666737,
+          23.569914799999999
+        ]
+      },
+      "properties" : {
+        "name" : "明月堂麵包店",
+        "address" : "澎湖縣馬公市縣府新村25號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.57156999999999,
+          23.572627000000001
+        ]
+      },
+      "properties" : {
+        "name" : "菜菜仔丸子燒",
+        "address" : "澎湖縣馬公市光復路110號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.564869,
+          23.565132999999999
+        ]
+      },
+      "properties" : {
+        "name" : "乾益堂藥膳蛋",
+        "address" : "澎湖縣馬公市中央街42號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.56449499999999,
+          23.564826
+        ]
+      },
+      "properties" : {
+        "name" : "夏至23.5攝影文創咖啡",
+        "address" : "澎湖縣馬公市惠民路71號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.57082800000001,
+          23.571232999999999
+        ]
+      },
+      "properties" : {
+        "name" : "美英素食",
+        "address" : "澎湖縣馬公市大智街30號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.57225,
+          23.573315999999998
+        ]
+      },
+      "properties" : {
+        "name" : "興德素食",
+        "address" : "澎湖縣馬公市陽明路62號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.58051399999999,
+          23.574079000000001
+        ]
+      },
+      "properties" : {
+        "name" : "長壽齋養生蔬食",
+        "address" : "澎湖縣馬公市六合路41巷6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.576464,
+          23.573471000000001
+        ]
+      },
+      "properties" : {
+        "name" : "覺乙 蔬食坊",
+        "address" : "澎湖縣馬公市朝陽路113號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.574117,
+          23.575192000000001
+        ]
+      },
+      "properties" : {
+        "name" : "和慶光明企業社",
+        "address" : "澎湖縣馬公市光復路273-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.578952,
+          23.573616000000001
+        ]
+      },
+      "properties" : {
+        "name" : "蔡記饡蔬食坊",
+        "address" : "澎湖縣馬公市文昌街11號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.56524,
+          23.566153
+        ]
+      },
+      "properties" : {
+        "name" : "家味健康素食",
+        "address" : "澎湖縣馬公市中正路7巷2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.571966,
+          23.570865999999999
+        ]
+      },
+      "properties" : {
+        "name" : "永興素食館",
+        "address" : "澎湖縣馬公市大智街18巷20弄20號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.568798,
+          23.568560999999999
+        ]
+      },
+      "properties" : {
+        "name" : "萌 師傅 蔬食料理",
+        "address" : "澎湖縣馬公市中華路29-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.57791400000001,
+          23.573340999999999
+        ]
+      },
+      "properties" : {
+        "name" : "張太太素食饅頭店",
+        "address" : "澎湖縣馬公市朝陽路62號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.57205039999999,
+          23.568524199999999
+        ]
+      },
+      "properties" : {
+        "name" : "水巷茶弄",
+        "address" : "澎湖縣馬公市海埔路28號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.6210073,
+          23.581078600000001
+        ]
+      },
+      "properties" : {
+        "name" : "愛家天堂島純素民宿",
+        "address" : "澎湖縣湖西鄉成功村港底125號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.572232,
+          23.577309
+        ]
+      },
+      "properties" : {
+        "name" : "Loving Hut",
+        "address" : "澎湖縣馬公市三多路320號"
+      }
+    }
+  ]
+}

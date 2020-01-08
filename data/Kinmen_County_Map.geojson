@@ -1,0 +1,201 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.31891,
+          24.431370000000001
+        ]
+      },
+      "properties" : {
+        "name" : "八德饅頭",
+        "address" : "金門縣金城鎮菜市場路20號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.31762000000001,
+          24.43141
+        ]
+      },
+      "properties" : {
+        "name" : "可可亞手作廚房",
+        "address" : "金門縣金城鎮民族路180巷18號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.32053999999999,
+          24.430689999999998
+        ]
+      },
+      "properties" : {
+        "name" : "天恩素食",
+        "address" : "金門縣金城鎮民族路33號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.31631,
+          24.435099999999998
+        ]
+      },
+      "properties" : {
+        "name" : "天蓮蔬食",
+        "address" : "金門縣金城鎮民權路98號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.4162381,
+          24.440581000000002
+        ]
+      },
+      "properties" : {
+        "name" : "金青安齋素食",
+        "address" : "金門縣金湖鎮中正路5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.317964,
+          24.436861
+        ]
+      },
+      "properties" : {
+        "name" : "祥富素食館",
+        "address" : "金門縣金城鎮環島北路23號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.3186594,
+          24.4299538
+        ]
+      },
+      "properties" : {
+        "name" : "德音素食",
+        "address" : "金門縣金城鎮民族路115巷27-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.31767670000001,
+          24.4321527
+        ]
+      },
+      "properties" : {
+        "name" : "查歐",
+        "address" : "金門縣金城鎮莒光路145號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.32012,
+          24.43056
+        ]
+      },
+      "properties" : {
+        "name" : "清源素麵線",
+        "address" : "金門縣金城鎮民族路55號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.31574999999999,
+          24.430199999999999
+        ]
+      },
+      "properties" : {
+        "name" : "仁化素食燒餅店",
+        "address" : "金門縣金城鎮民族路253-5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.4282298,
+          24.477045499999999
+        ]
+      },
+      "properties" : {
+        "name" : "慈恩素料行",
+        "address" : "金門縣金沙鎮太武社區85號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.41621000000001,
+          24.441120000000002
+        ]
+      },
+      "properties" : {
+        "name" : "好媽媽健康素食屋",
+        "address" : "金門縣金湖鎮復興路45號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.31832,
+          24.43365
+        ]
+      },
+      "properties" : {
+        "name" : "甜Q坊Thank you all",
+        "address" : "金門縣金城鎮中興路127號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          118.41624899999999,
+          24.440422999999999
+        ]
+      },
+      "properties" : {
+        "name" : "喜鄉園蔬食養生料理",
+        "address" : "金門縣金湖鎮中正路11號"
+      }
+    }
+  ]
+}

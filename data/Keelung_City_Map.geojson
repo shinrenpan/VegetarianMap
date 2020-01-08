@@ -1,0 +1,873 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74741899999999,
+          25.133925000000001
+        ]
+      },
+      "properties" : {
+        "name" : "陶林豆漿\/歡喜素食",
+        "address" : "基隆市中正區義二路166號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.69571000000001,
+          25.157015999999999
+        ]
+      },
+      "properties" : {
+        "name" : "喜悅健康廚房",
+        "address" : "基隆市安樂區基金三路82號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.742773,
+          25.128893000000001
+        ]
+      },
+      "properties" : {
+        "name" : "天上素願",
+        "address" : "基隆市仁愛區愛三路65號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74188150000001,
+          25.127657299999999
+        ]
+      },
+      "properties" : {
+        "name" : "美鳳素食",
+        "address" : "基隆市仁愛區仁愛市場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.750625,
+          25.137048
+        ]
+      },
+      "properties" : {
+        "name" : "善茀素食小吃",
+        "address" : "基隆市中正區中船路46號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.7133735,
+          25.0991593
+        ]
+      },
+      "properties" : {
+        "name" : "善哉善齋",
+        "address" : "基隆市七堵區永富路158號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.745819,
+          25.132998000000001
+        ]
+      },
+      "properties" : {
+        "name" : "鄉野健康素食館",
+        "address" : "基隆市中正區義一路56號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.747398,
+          25.134267000000001
+        ]
+      },
+      "properties" : {
+        "name" : "佛緣居素食料理",
+        "address" : "基隆市仁愛區義二路161號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.739818,
+          25.130689700000001
+        ]
+      },
+      "properties" : {
+        "name" : "素慈健康自助餐",
+        "address" : "基隆市仁愛區孝三路78號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.737504,
+          25.127420999999998
+        ]
+      },
+      "properties" : {
+        "name" : "馥口棠素食",
+        "address" : "基隆市仁愛區成功一路88號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.7366488,
+          25.125145499999999
+        ]
+      },
+      "properties" : {
+        "name" : "佛心素食館",
+        "address" : "基隆市仁愛區31號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.72789899999999,
+          25.132642000000001
+        ]
+      },
+      "properties" : {
+        "name" : "威克兄弟素食早午餐",
+        "address" : "基隆市安樂區安一路318號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.733441,
+          25.135308999999999
+        ]
+      },
+      "properties" : {
+        "name" : "六福齋",
+        "address" : "基隆市中山區西定路205號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74741899999999,
+          25.133925000000001
+        ]
+      },
+      "properties" : {
+        "name" : "慈善緣素食坊",
+        "address" : "基隆市中正區義二路166號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.750094,
+          25.129822999999998
+        ]
+      },
+      "properties" : {
+        "name" : "三六九包子饅頭",
+        "address" : "基隆市信義區信二路258號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.752921,
+          25.128487
+        ]
+      },
+      "properties" : {
+        "name" : "優吉食品行",
+        "address" : "基隆市信義區信一路62號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74351900000001,
+          25.128487
+        ]
+      },
+      "properties" : {
+        "name" : "基隆廟口八寶素食",
+        "address" : "基隆市仁愛區愛四路7號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.724405,
+          25.121479000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素心齋",
+        "address" : "基隆市安樂區安樂路二段139號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.76521099999999,
+          25.150188
+        ]
+      },
+      "properties" : {
+        "name" : "墨客維根蔬食養生餐園",
+        "address" : "基隆市中正區中正路572號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.724227,
+          25.121929000000002
+        ]
+      },
+      "properties" : {
+        "name" : "田園健康素食",
+        "address" : "基隆市安樂區安和一街2巷10號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.7413597,
+          25.126244499999999
+        ]
+      },
+      "properties" : {
+        "name" : "七堵素食串烤",
+        "address" : "基隆市仁愛區精一路21號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74564220000001,
+          25.128439199999999
+        ]
+      },
+      "properties" : {
+        "name" : "日月素食",
+        "address" : "基隆市仁愛區愛五路24-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.7885534,
+          25.1370486
+        ]
+      },
+      "properties" : {
+        "name" : "人人素食麵館",
+        "address" : "基隆市中正區新豐街217號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.7418414,
+          25.128272899999999
+        ]
+      },
+      "properties" : {
+        "name" : "林家素食麵疙瘩",
+        "address" : "基隆市仁愛區愛三路49巷36號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.714741,
+          25.093015999999999
+        ]
+      },
+      "properties" : {
+        "name" : "活力蔬食早餐",
+        "address" : "基隆市七堵區東新街10號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.71402999999999,
+          25.096503999999999
+        ]
+      },
+      "properties" : {
+        "name" : "三六九素食點心",
+        "address" : "基隆市七堵區開元路64號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.739687,
+          25.130928000000001
+        ]
+      },
+      "properties" : {
+        "name" : "品辰健康素食",
+        "address" : "基隆市仁愛區孝三路101號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.69819,
+          25.081695
+        ]
+      },
+      "properties" : {
+        "name" : "鳳蓮素食自助餐廳",
+        "address" : "基隆市七堵區百三街122號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74306900000001,
+          25.129372
+        ]
+      },
+      "properties" : {
+        "name" : "池中蓮茶藝坊",
+        "address" : "基隆市仁愛區愛三路87號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.744372,
+          25.132401999999999
+        ]
+      },
+      "properties" : {
+        "name" : "金玉食堂 蔬食創意料理",
+        "address" : "基隆市中正區中正路12-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.76936430000001,
+          25.127815999999999
+        ]
+      },
+      "properties" : {
+        "name" : "胡記臭豆腐專賣店",
+        "address" : "基隆市信義區培德路12巷52-13號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74668699999999,
+          25.132881000000001
+        ]
+      },
+      "properties" : {
+        "name" : "巧家素食自助餐",
+        "address" : "基隆市中正區義二路120號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.745795,
+          25.131807999999999
+        ]
+      },
+      "properties" : {
+        "name" : "深耕圓素食餐廳",
+        "address" : "基隆市中正區義二路61號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74728399999999,
+          25.130845999999998
+        ]
+      },
+      "properties" : {
+        "name" : "極樂寺滴水坊",
+        "address" : "基隆市信義區信二路270號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.741964,
+          25.127642999999999
+        ]
+      },
+      "properties" : {
+        "name" : "吉祥素料商店",
+        "address" : "基隆市仁愛區愛三路19號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.741281,
+          25.1275212
+        ]
+      },
+      "properties" : {
+        "name" : "佛友素料商店",
+        "address" : "基隆市仁愛區愛二路2-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.737504,
+          25.127420999999998
+        ]
+      },
+      "properties" : {
+        "name" : "福氣阿婆",
+        "address" : "基隆市仁愛區成功一路88號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.7358224,
+          25.0928945
+        ]
+      },
+      "properties" : {
+        "name" : "超素複合式蔬食",
+        "address" : "基隆市暖暖區暖暖街133-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.742727,
+          25.129211999999999
+        ]
+      },
+      "properties" : {
+        "name" : "艸木川蔬食滷味",
+        "address" : "基隆市仁愛區愛二路54巷11號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.69634600000001,
+          25.082789999999999
+        ]
+      },
+      "properties" : {
+        "name" : "和美素食",
+        "address" : "基隆市七堵區福二街160號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.78506400000001,
+          25.135269999999998
+        ]
+      },
+      "properties" : {
+        "name" : "家家素食健康麵疙瘩",
+        "address" : "基隆市中正區新豐街401號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74139099999999,
+          25.128322000000001
+        ]
+      },
+      "properties" : {
+        "name" : "京餤糕點",
+        "address" : "基隆市仁愛區仁四路48號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.7472604,
+          25.130317900000001
+        ]
+      },
+      "properties" : {
+        "name" : "緣園素食自助餐",
+        "address" : "基隆市信義區信二路275號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74319199999999,
+          25.127585
+        ]
+      },
+      "properties" : {
+        "name" : "好康南洋風味素食館",
+        "address" : "基隆市仁愛區愛四路2-6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.75554099999999,
+          25.129079000000001
+        ]
+      },
+      "properties" : {
+        "name" : "林蔥酥烤蔥油餅",
+        "address" : "基隆市信義區信二路65號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.766769,
+          25.150893
+        ]
+      },
+      "properties" : {
+        "name" : "齋福",
+        "address" : "基隆市中正區中正路630號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.739,
+          25.129895000000001
+        ]
+      },
+      "properties" : {
+        "name" : "江姐料理",
+        "address" : "基隆市仁愛區孝三路59號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.771517,
+          25.1494
+        ]
+      },
+      "properties" : {
+        "name" : "香米湯湯",
+        "address" : "基隆市中正區祥豐街767號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.709485,
+          25.142251999999999
+        ]
+      },
+      "properties" : {
+        "name" : "北京素食館",
+        "address" : "基隆市安樂區基金一路214-6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74998720000001,
+          25.129605099999999
+        ]
+      },
+      "properties" : {
+        "name" : "里仁",
+        "address" : "基隆市信義區信二路289號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74557,
+          25.128152
+        ]
+      },
+      "properties" : {
+        "name" : "龍記手工素食麵疙瘩",
+        "address" : "基隆市仁愛區仁二路159號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.757457,
+          25.100642000000001
+        ]
+      },
+      "properties" : {
+        "name" : "鄰家素食",
+        "address" : "基隆市暖暖區源遠路325巷119號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.723647,
+          25.121957999999999
+        ]
+      },
+      "properties" : {
+        "name" : "安樂健康素食坊",
+        "address" : "基隆市安樂區安和一街4巷4號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.74259600000001,
+          25.127724000000001
+        ]
+      },
+      "properties" : {
+        "name" : "詹家素食",
+        "address" : "基隆市仁愛區仁四路20號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.73831800000001,
+          25.128242
+        ]
+      },
+      "properties" : {
+        "name" : "火燒饅頭",
+        "address" : "基隆市仁愛區自來街38號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.747283,
+          25.134101999999999
+        ]
+      },
+      "properties" : {
+        "name" : "花媽素食坊",
+        "address" : "基隆市中正區義二路159號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.740966,
+          25.127604000000002
+        ]
+      },
+      "properties" : {
+        "name" : "四海一家",
+        "address" : "基隆市仁愛區愛二路1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.752882,
+          25.133806
+        ]
+      },
+      "properties" : {
+        "name" : "群賢閣蔬食精緻料理",
+        "address" : "基隆市信義區壽山路21-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.734933,
+          25.097760999999998
+        ]
+      },
+      "properties" : {
+        "name" : "啟德素食坊",
+        "address" : "基隆市暖暖區暖暖街243號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.751216,
+          25.127427999999998
+        ]
+      },
+      "properties" : {
+        "name" : "黃媽媽養生素食",
+        "address" : "基隆市仁愛區劉銘傳路11巷6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.747443,
+          25.129673
+        ]
+      },
+      "properties" : {
+        "name" : "幸福10號店",
+        "address" : "基隆市信義區信一路141巷10號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.7513111,
+          25.129534899999999
+        ]
+      },
+      "properties" : {
+        "name" : "隨緣素食",
+        "address" : "基隆市信義區義二路 "
+      }
+    }
+  ]
+}

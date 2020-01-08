@@ -1,0 +1,2119 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.91958099999999,
+          24.776695
+        ]
+      },
+      "properties" : {
+        "name" : "乾泰豐蔬食",
+        "address" : "新竹市香山區中華路五段331巷1-58號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96982850000001,
+          24.7986629
+        ]
+      },
+      "properties" : {
+        "name" : "食蔬創藝料理",
+        "address" : "新竹市東區竹蓮街101巷2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96438000000001,
+          24.807324000000001
+        ]
+      },
+      "properties" : {
+        "name" : "淨心美",
+        "address" : "新竹市北區北大路243號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.958669,
+          24.810246800000002
+        ]
+      },
+      "properties" : {
+        "name" : "素抓餅",
+        "address" : "新竹市北區西大路756號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96281500000001,
+          24.793966999999999
+        ]
+      },
+      "properties" : {
+        "name" : "佛濟食堂",
+        "address" : "新竹市東區振興路13號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96973300000001,
+          24.796208
+        ]
+      },
+      "properties" : {
+        "name" : "心柔素的水餃",
+        "address" : "新竹市東區西大路135巷17弄9號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.970995,
+          24.802509000000001
+        ]
+      },
+      "properties" : {
+        "name" : "天然素食",
+        "address" : "新竹市東區大同路7-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.965878,
+          24.799199000000002
+        ]
+      },
+      "properties" : {
+        "name" : "江山藝改所",
+        "address" : "新竹市東區興達街1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.97334170000001,
+          24.812917599999999
+        ]
+      },
+      "properties" : {
+        "name" : "荷風素食屋",
+        "address" : "新竹市東區北大路29-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9697146,
+          24.809071100000001
+        ]
+      },
+      "properties" : {
+        "name" : "蔬覓",
+        "address" : "新竹市東區世界街92號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.6822408,
+          24.166121700000001
+        ]
+      },
+      "properties" : {
+        "name" : "中央市場素麵店",
+        "address" : "新竹市北區中央市場內"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.971912,
+          24.797073999999999
+        ]
+      },
+      "properties" : {
+        "name" : "善妙素食店",
+        "address" : "新竹市東區竹蓮街15號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.971609,
+          24.798935
+        ]
+      },
+      "properties" : {
+        "name" : "阿文藥膳滷味小吃",
+        "address" : "新竹市東區南大路308號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.97783699999999,
+          24.817440999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食早餐",
+        "address" : "新竹市北區鐵道路二段107號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9833476,
+          24.7963588
+        ]
+      },
+      "properties" : {
+        "name" : "晨之香",
+        "address" : "新竹市東區學府路56號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96562280000001,
+          24.802674799999998
+        ]
+      },
+      "properties" : {
+        "name" : "甲味素食",
+        "address" : "新竹市東區南門街111巷6弄3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.965267,
+          24.803887
+        ]
+      },
+      "properties" : {
+        "name" : "佳珍素食店",
+        "address" : "新竹市北區西安街38-5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9834834,
+          24.7964062
+        ]
+      },
+      "properties" : {
+        "name" : "學府素食小吃",
+        "address" : "新竹市東區學府路68號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96695099999999,
+          24.799952000000001
+        ]
+      },
+      "properties" : {
+        "name" : "非常好吃素刈包",
+        "address" : "新竹市東區西大路263號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.970859,
+          24.823070000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素有緣西點麵包店",
+        "address" : "新竹市北區武陵路282號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96992400000001,
+          24.794097000000001
+        ]
+      },
+      "properties" : {
+        "name" : "妙香素食",
+        "address" : "新竹市東區食品路346號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.966207,
+          24.802102999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食林餐廳",
+        "address" : "新竹市東區文昌街116號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.93568399999999,
+          24.838667999999998
+        ]
+      },
+      "properties" : {
+        "name" : "佛緣素食",
+        "address" : "新竹市北區天府路一段408號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.955467,
+          24.805406999999999
+        ]
+      },
+      "properties" : {
+        "name" : "營養素食早餐店",
+        "address" : "新竹市北區經國路二段486號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9732363,
+          24.816374799999998
+        ]
+      },
+      "properties" : {
+        "name" : "喜福蔬香",
+        "address" : "新竹市北區光華一街35號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.97608769999999,
+          24.794810500000001
+        ]
+      },
+      "properties" : {
+        "name" : "健康素食館",
+        "address" : "新竹市東區東南街212號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9748707,
+          24.817822499999998
+        ]
+      },
+      "properties" : {
+        "name" : "悅予精緻料理",
+        "address" : "新竹市北區光華東街96號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.964023,
+          24.811992
+        ]
+      },
+      "properties" : {
+        "name" : "佳恩素食",
+        "address" : "新竹市北區經國路二段112號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.958944,
+          24.806391999999999
+        ]
+      },
+      "properties" : {
+        "name" : "米豆義式蔬食．咖啡",
+        "address" : "新竹市北區民富街199號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.014734,
+          24.785547000000001
+        ]
+      },
+      "properties" : {
+        "name" : "莎蘿特之安琪拉的魔法屋",
+        "address" : "新竹市東區長春街40巷10號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9595664,
+          24.8219402
+        ]
+      },
+      "properties" : {
+        "name" : "好口味",
+        "address" : "新竹市北區東大路二段562號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.949849,
+          24.795852
+        ]
+      },
+      "properties" : {
+        "name" : "舒醒熊愛餃局",
+        "address" : "新竹市中華路四段176號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.974688,
+          24.803858999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素華園烘培店",
+        "address" : "新竹市東區中華路二段323號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.02368800000001,
+          24.777166000000001
+        ]
+      },
+      "properties" : {
+        "name" : "雅素齋自然人文蔬食館",
+        "address" : "新竹市東區金山街117號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9932768,
+          24.802420000000001
+        ]
+      },
+      "properties" : {
+        "name" : "井町",
+        "address" : "新竹市東區新源街136號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.966076,
+          24.794212999999999
+        ]
+      },
+      "properties" : {
+        "name" : "北大湯圓",
+        "address" : "新竹市東區食品路480號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.970218,
+          24.798376999999999
+        ]
+      },
+      "properties" : {
+        "name" : "福德發素食",
+        "address" : "新竹市東區竹蓮街85號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9717,
+          24.799091000000001
+        ]
+      },
+      "properties" : {
+        "name" : "宜卉素食坊",
+        "address" : "新竹市東區南大路302號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.98779620000001,
+          24.786085499999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食臭豆腐麵線",
+        "address" : "新竹市東區寶山路380巷口對面"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9906484,
+          24.783549399999998
+        ]
+      },
+      "properties" : {
+        "name" : "9弄7號素食早午餐",
+        "address" : "新竹市東區寶山路452巷9弄7號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9648574,
+          24.8026236
+        ]
+      },
+      "properties" : {
+        "name" : "慧光素食館",
+        "address" : "新竹市東區西門街51號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96906250000001,
+          24.816455699999999
+        ]
+      },
+      "properties" : {
+        "name" : "家園素食漢堡",
+        "address" : "新竹市北區水田街212-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.146702,
+          24.793301
+        ]
+      },
+      "properties" : {
+        "name" : "玉書香麵",
+        "address" : "新竹市東區東門市場1076號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9903912,
+          24.798729300000002
+        ]
+      },
+      "properties" : {
+        "name" : "虹喜素食店",
+        "address" : "新竹市東區水源街26號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9718235,
+          24.803470300000001
+        ]
+      },
+      "properties" : {
+        "name" : "逢甲黃金薯",
+        "address" : "新竹市東區民族路21號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96744700000001,
+          24.805035
+        ]
+      },
+      "properties" : {
+        "name" : "十方蔬食",
+        "address" : "新竹市北區中央路49號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.95993009999999,
+          24.801874399999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食",
+        "address" : "新竹市北區北大路464號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.98104600000001,
+          24.810725999999999
+        ]
+      },
+      "properties" : {
+        "name" : "滴水坊",
+        "address" : "新竹市東區民族路241巷1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.97376920000001,
+          24.797108900000001
+        ]
+      },
+      "properties" : {
+        "name" : "玉園美食店",
+        "address" : "新竹市東區東南街142巷16號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96728179999999,
+          24.815199400000001
+        ]
+      },
+      "properties" : {
+        "name" : "雅素淨",
+        "address" : "新竹市北區水田街63號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96520630000001,
+          24.806083600000001
+        ]
+      },
+      "properties" : {
+        "name" : "紫竹林素料",
+        "address" : "新竹市北區長安街57號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.968645,
+          24.804866000000001
+        ]
+      },
+      "properties" : {
+        "name" : "蔬適圈 Comfort Zone",
+        "address" : "新竹市東區大同路86號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.971733,
+          24.806909000000001
+        ]
+      },
+      "properties" : {
+        "name" : "植然養生舒食",
+        "address" : "新竹市東區仁愛街20號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.6822408,
+          24.166121700000001
+        ]
+      },
+      "properties" : {
+        "name" : "秀鳳素食料店",
+        "address" : "新竹市北區中央市場內100號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.971735,
+          24.798781000000002
+        ]
+      },
+      "properties" : {
+        "name" : "薏仁粥~~",
+        "address" : "新竹市東區南大路249號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.965174,
+          24.804248000000001
+        ]
+      },
+      "properties" : {
+        "name" : "滋味齋素食",
+        "address" : "新竹市北區西安街68號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.997319,
+          24.796721999999999
+        ]
+      },
+      "properties" : {
+        "name" : "安姆士茶舖&輕食",
+        "address" : "新竹市東區光復路二段376-14號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.95696100000001,
+          24.804524000000001
+        ]
+      },
+      "properties" : {
+        "name" : "三廠南媽媽涼麵",
+        "address" : "新竹市北區延平路一段142號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.009812,
+          24.786313
+        ]
+      },
+      "properties" : {
+        "name" : "如意素食",
+        "address" : "新竹市東區科學園路24號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96971000000001,
+          24.793768
+        ]
+      },
+      "properties" : {
+        "name" : "芸香蔬食坊",
+        "address" : "新竹市東區食品路367號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.97256299999999,
+          24.804386999999998
+        ]
+      },
+      "properties" : {
+        "name" : "阿諾可麗餅",
+        "address" : "新竹市東區東門街62號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.968878,
+          24.805557
+        ]
+      },
+      "properties" : {
+        "name" : "YA姐蔬食抓餅",
+        "address" : "新竹市東區中央路98號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9556973,
+          24.805782799999999
+        ]
+      },
+      "properties" : {
+        "name" : "棗子樹健康素食料理",
+        "address" : "新竹市北區經國路二段466號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.94940800000001,
+          24.800122999999999
+        ]
+      },
+      "properties" : {
+        "name" : "蔡師伯菓子工坊",
+        "address" : "新竹市香山區牛埔路205號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.01638199999999,
+          24.783604
+        ]
+      },
+      "properties" : {
+        "name" : "百菇新素食主義",
+        "address" : "新竹市東區光復路一段395-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9626489,
+          24.793040099999999
+        ]
+      },
+      "properties" : {
+        "name" : "健康素食園",
+        "address" : "新竹市東區南大路645號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.95314399999999,
+          24.799395000000001
+        ]
+      },
+      "properties" : {
+        "name" : "家蓁素食自助餐",
+        "address" : "新竹市香山區牛埔路106號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96445,
+          24.804126
+        ]
+      },
+      "properties" : {
+        "name" : "蔡氏餅屋",
+        "address" : "新竹市北區中山路146號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96270869999999,
+          24.804350299999999
+        ]
+      },
+      "properties" : {
+        "name" : "蔬宴食堂",
+        "address" : "新竹市北區和福街48號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.972157,
+          24.818059000000002
+        ]
+      },
+      "properties" : {
+        "name" : "丹尼廚房-無國界 蔬食小館",
+        "address" : "新竹市北區光華街102-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96498099999999,
+          24.799861
+        ]
+      },
+      "properties" : {
+        "name" : "姑姑の蘋果樹",
+        "address" : "新竹市東區德高街20號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.018171,
+          24.782615
+        ]
+      },
+      "properties" : {
+        "name" : "圓明蔬食館",
+        "address" : "新竹市東區光復路一段329巷6號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.966207,
+          24.802102999999999
+        ]
+      },
+      "properties" : {
+        "name" : "菩提素食商店",
+        "address" : "新竹市東區文昌街116號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96636100000001,
+          24.795324999999998
+        ]
+      },
+      "properties" : {
+        "name" : "妙蓮素食",
+        "address" : "新竹市東區南大路481號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.961558,
+          24.807604000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素食早餐",
+        "address" : "新竹市北區西大路626號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.95876,
+          24.810219
+        ]
+      },
+      "properties" : {
+        "name" : "紅燈籠",
+        "address" : "新竹市北區西大路754號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.025627,
+          24.775773000000001
+        ]
+      },
+      "properties" : {
+        "name" : "十里香手工蔬食捲餅",
+        "address" : "新竹市東區金山二十一街8號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.989783,
+          24.800742
+        ]
+      },
+      "properties" : {
+        "name" : "蔬喜創意素食料理",
+        "address" : "新竹市東區忠孝路9號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.965183,
+          24.808461000000001
+        ]
+      },
+      "properties" : {
+        "name" : "香積食堂",
+        "address" : "新竹市北區北門街164號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.93789,
+          24.840541000000002
+        ]
+      },
+      "properties" : {
+        "name" : "如是我聞",
+        "address" : "新竹市北區東大路三段696號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29664,
+          23.075773000000002
+        ]
+      },
+      "properties" : {
+        "name" : "綠芳園咖啡庭園餐廳",
+        "address" : "新竹市香山區景觀大道201號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9674677,
+          24.807621600000001
+        ]
+      },
+      "properties" : {
+        "name" : "湘穡 草本拉麵 V-Ramen",
+        "address" : "新竹市北區世界街114號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96364199999999,
+          24.805031
+        ]
+      },
+      "properties" : {
+        "name" : "維珍特VeGeter",
+        "address" : "新竹市北區西大路388號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.963616,
+          24.806825
+        ]
+      },
+      "properties" : {
+        "name" : "北大素食早點",
+        "address" : "新竹市北區北大路273號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.993071,
+          24.800909999999998
+        ]
+      },
+      "properties" : {
+        "name" : "新竹里仁竹科店",
+        "address" : "新竹市東區建中一路31號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96912,
+          24.799520999999999
+        ]
+      },
+      "properties" : {
+        "name" : "妙竹林素饍館",
+        "address" : "新竹市東區竹蓮街138號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.020115,
+          24.776935999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食園",
+        "address" : "新竹市東區金山七街77號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.975357,
+          24.815915
+        ]
+      },
+      "properties" : {
+        "name" : "松泉有機園地",
+        "address" : "新竹市北區光華南街20號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.974936,
+          24.817758000000001
+        ]
+      },
+      "properties" : {
+        "name" : "好口味蔬食館",
+        "address" : "新竹市北區光華東街92號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96359649999999,
+          24.802127299999999
+        ]
+      },
+      "properties" : {
+        "name" : "WHERE GOAT's 三羊所在",
+        "address" : "新竹市北區勝利路223號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.97644,
+          24.806069999999998
+        ]
+      },
+      "properties" : {
+        "name" : "蓮華素食餐廳",
+        "address" : "新竹市東區民權路31號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.972522,
+          24.819324999999999
+        ]
+      },
+      "properties" : {
+        "name" : "黃薯薯 甘梅薯條",
+        "address" : "新竹市北區湳雅街94號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.99097,
+          24.799554000000001
+        ]
+      },
+      "properties" : {
+        "name" : "新竹素食小吃",
+        "address" : "新竹市東區光復路二段235號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.99385700000001,
+          24.800431
+        ]
+      },
+      "properties" : {
+        "name" : "一鮮素素食小館",
+        "address" : "新竹市東區建中一路11號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.968025,
+          24.805394
+        ]
+      },
+      "properties" : {
+        "name" : "素香亭",
+        "address" : "新竹市北區大同路89號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9840176,
+          24.796826899999999
+        ]
+      },
+      "properties" : {
+        "name" : "保善齋素食",
+        "address" : "新竹市東區學府路309號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9750756,
+          24.821419800000001
+        ]
+      },
+      "properties" : {
+        "name" : "素食早點",
+        "address" : "新竹市北區湳雅街188-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.967203,
+          24.806550999999999
+        ]
+      },
+      "properties" : {
+        "name" : "井町",
+        "address" : "新竹市北區大同路135號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9807254,
+          24.807939600000001
+        ]
+      },
+      "properties" : {
+        "name" : "明德素食園",
+        "address" : "新竹市東區中華路二段82號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.94808500000001,
+          24.799709
+        ]
+      },
+      "properties" : {
+        "name" : "良心有機小品",
+        "address" : "新竹市香山區牛埔路235號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.961213,
+          24.814945000000002
+        ]
+      },
+      "properties" : {
+        "name" : "福緣素食",
+        "address" : "新竹市北區竹光路22號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.99436609999999,
+          24.812900599999999
+        ]
+      },
+      "properties" : {
+        "name" : "蔬食vs素食",
+        "address" : "新竹市東區太原路245號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.964974,
+          24.811102999999999
+        ]
+      },
+      "properties" : {
+        "name" : "首竹素塹",
+        "address" : "新竹市北區中正路211號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.963306,
+          24.816068999999999
+        ]
+      },
+      "properties" : {
+        "name" : "綠舍奇蹟健康蔬食",
+        "address" : "新竹市北區武陵路30號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.0102488,
+          24.786665599999999
+        ]
+      },
+      "properties" : {
+        "name" : "地瓜園科園店",
+        "address" : "新竹市東區科學園路147號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.29664,
+          23.075773000000002
+        ]
+      },
+      "properties" : {
+        "name" : "寶光素食",
+        "address" : "新竹市北區東大路21巷4號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9565406,
+          24.7986586
+        ]
+      },
+      "properties" : {
+        "name" : "臭豆腐陳",
+        "address" : "新竹市北區中山路530號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.958901,
+          24.811743
+        ]
+      },
+      "properties" : {
+        "name" : "伸雅食品行",
+        "address" : "新竹市北區西大路780巷13弄45號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.964049,
+          24.797467000000001
+        ]
+      },
+      "properties" : {
+        "name" : "茶禪真味養生素食餐館",
+        "address" : "新竹市東區中華路二段734號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.003575,
+          24.799247000000001
+        ]
+      },
+      "properties" : {
+        "name" : "好咖啡手工窯烤披薩",
+        "address" : "新竹市東區建功二路64號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.020281,
+          24.777118999999999
+        ]
+      },
+      "properties" : {
+        "name" : "生活禪精緻素食",
+        "address" : "新竹市東區金山八街78號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9994925,
+          24.7891431
+        ]
+      },
+      "properties" : {
+        "name" : "交通大學第二餐廳",
+        "address" : "新竹市東區大學路1001號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9662106,
+          24.795238399999999
+        ]
+      },
+      "properties" : {
+        "name" : "宏仁素食",
+        "address" : "新竹市東區南大路495號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.961065,
+          24.807618999999999
+        ]
+      },
+      "properties" : {
+        "name" : "鳳興素食早點",
+        "address" : "新竹市北區西大路559號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96565,
+          24.804946999999999
+        ]
+      },
+      "properties" : {
+        "name" : "萬升素料超市",
+        "address" : "新竹市北區長安街2-5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96597800000001,
+          24.805177400000002
+        ]
+      },
+      "properties" : {
+        "name" : "百菇新蔬食主義",
+        "address" : "新竹市北區北門街9號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9678555,
+          24.786799899999998
+        ]
+      },
+      "properties" : {
+        "name" : "早餐店",
+        "address" : "新竹市東區明湖路1211號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.97985,
+          24.780809000000001
+        ]
+      },
+      "properties" : {
+        "name" : "香濃齋 精緻素食料理",
+        "address" : "新竹市東區高峰路324巷22號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.95948799999999,
+          24.821497000000001
+        ]
+      },
+      "properties" : {
+        "name" : "搗蛋菇滷味",
+        "address" : "新竹市北區境福街253號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.973446,
+          24.815850999999999
+        ]
+      },
+      "properties" : {
+        "name" : "忠義素食",
+        "address" : "新竹市北區光華一街21號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.95899900000001,
+          24.800929
+        ]
+      },
+      "properties" : {
+        "name" : "慧心素食",
+        "address" : "新竹市北區中山路370號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.973619,
+          24.793582000000001
+        ]
+      },
+      "properties" : {
+        "name" : "如是我聞韓式海苔飯捲",
+        "address" : "新竹市東區寶山路40號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.978375,
+          24.794788199999999
+        ]
+      },
+      "properties" : {
+        "name" : "御華堂",
+        "address" : "新竹市東區學府路81號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.01688590000001,
+          24.787008499999999
+        ]
+      },
+      "properties" : {
+        "name" : "有修素食自助餐",
+        "address" : "新竹市東區新莊街125號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.990983,
+          24.799598
+        ]
+      },
+      "properties" : {
+        "name" : "幸福小站 素食鹽水G\/ 炸物",
+        "address" : "新竹市東區光復路二段233號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.969818,
+          24.804048999999999
+        ]
+      },
+      "properties" : {
+        "name" : "田園莊素食",
+        "address" : "新竹市東區文昌街2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96012229999999,
+          24.802157000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素食水煎包.餡餅",
+        "address" : "新竹市北區北大路453號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.94729700000001,
+          24.797649
+        ]
+      },
+      "properties" : {
+        "name" : "如祥結緣素食",
+        "address" : "新竹市香山區牛埔東路170號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9358927,
+          24.733929
+        ]
+      },
+      "properties" : {
+        "name" : "古今車用中餐廳",
+        "address" : "新竹市香山區南湖路215巷255弄115號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.95415800000001,
+          24.8018
+        ]
+      },
+      "properties" : {
+        "name" : "素食水煎包．餡餅．粽子．油飯",
+        "address" : "新竹市北區經國路二段612號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96753750000001,
+          24.810710700000001
+        ]
+      },
+      "properties" : {
+        "name" : "魏媽媽素食",
+        "address" : "新竹市北區演藝路21號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9941097,
+          24.8158189
+        ]
+      },
+      "properties" : {
+        "name" : "菩提香醬園",
+        "address" : "新竹市東區中華路一段105巷2弄5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96496,
+          24.804161000000001
+        ]
+      },
+      "properties" : {
+        "name" : "大盈行",
+        "address" : "新竹市北區中山路99號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96269479999999,
+          24.8065316
+        ]
+      },
+      "properties" : {
+        "name" : "聖德素食館",
+        "address" : "新竹市北區北大路318號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9708284,
+          24.807139800000002
+        ]
+      },
+      "properties" : {
+        "name" : "井家ベジタリアン料理",
+        "address" : "新竹市東區文化街82號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9781091,
+          24.8128505
+        ]
+      },
+      "properties" : {
+        "name" : "福德素食行",
+        "address" : "新竹市東區民主路170號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.946669,
+          24.804973
+        ]
+      },
+      "properties" : {
+        "name" : "茶棧素食早餐",
+        "address" : "新竹市北區延平路一段451號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96398790000001,
+          24.811476899999999
+        ]
+      },
+      "properties" : {
+        "name" : "新竹里仁",
+        "address" : "新竹市北區經國路二段147號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96980499999999,
+          24.808966999999999
+        ]
+      },
+      "properties" : {
+        "name" : "籽田 野菜屋",
+        "address" : "新竹市東區世界街93號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96894,
+          24.803982999999999
+        ]
+      },
+      "properties" : {
+        "name" : "隨禾米豆咖啡蔬食鬆餅",
+        "address" : "新竹市東區東門街109號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.94215800000001,
+          24.788329999999998
+        ]
+      },
+      "properties" : {
+        "name" : "Lovy Veggie健康飲食",
+        "address" : "新竹市香山區中華路四段411巷5弄2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.982232,
+          24.796147999999999
+        ]
+      },
+      "properties" : {
+        "name" : "菜根香",
+        "address" : "新竹市東區學府路219號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.960296,
+          24.801081
+        ]
+      },
+      "properties" : {
+        "name" : "慈心能量素食",
+        "address" : "新竹市北區中山路285號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.019498,
+          24.777312999999999
+        ]
+      },
+      "properties" : {
+        "name" : "清淨母語",
+        "address" : "新竹市東區金山六街8巷2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96634640000001,
+          24.803180699999999
+        ]
+      },
+      "properties" : {
+        "name" : "豪吃蔬食",
+        "address" : "新竹市東區西門街25號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.93003229999999,
+          24.788661300000001
+        ]
+      },
+      "properties" : {
+        "name" : "彌勒素食",
+        "address" : "新竹市香山區中華路四段691號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.96855960000001,
+          24.816248000000002
+        ]
+      },
+      "properties" : {
+        "name" : "圓心素食快餐燉品屋",
+        "address" : "新竹市北區水田街133號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.05233800000001,
+          24.803422999999999
+        ]
+      },
+      "properties" : {
+        "name" : "竹科也果蔬食",
+        "address" : "新竹市東區科學園區竹村七路7號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.969133,
+          24.803872999999999
+        ]
+      },
+      "properties" : {
+        "name" : "阿諾可麗餅",
+        "address" : "新竹市東區大同路47號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.98639799999999,
+          24.806363999999999
+        ]
+      },
+      "properties" : {
+        "name" : "梅門客棧",
+        "address" : "新竹市東區東光路192號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.965642,
+          24.804479000000001
+        ]
+      },
+      "properties" : {
+        "name" : "天香清素食",
+        "address" : "新竹市北區中山路75號"
+      }
+    }
+  ]
+}

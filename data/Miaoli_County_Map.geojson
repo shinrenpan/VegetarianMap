@@ -1,0 +1,1335 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.81613400000001,
+          24.555349
+        ]
+      },
+      "properties" : {
+        "name" : "活力素食早餐",
+        "address" : "苗栗縣苗栗市中山路778號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9124896,
+          24.694059299999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食緣",
+        "address" : "苗栗縣頭份鎮建國路81號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.6531662,
+          24.4439131
+        ]
+      },
+      "properties" : {
+        "name" : "素の素食館",
+        "address" : "苗栗縣苑裡鎮天下路115號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.653915,
+          24.442623999999999
+        ]
+      },
+      "properties" : {
+        "name" : "隨緣素食",
+        "address" : "苗栗縣苑裡鎮山柑裡4鄰50-5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.78751,
+          24.486139999999999
+        ]
+      },
+      "properties" : {
+        "name" : "慈蓮蔬食坊",
+        "address" : "苗栗縣銅鑼鄉新興路9號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.655627,
+          24.440345000000001
+        ]
+      },
+      "properties" : {
+        "name" : "美如香餅行",
+        "address" : "苗栗縣苑裡鎮和平路39號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.8679984,
+          24.579196700000001
+        ]
+      },
+      "properties" : {
+        "name" : "禪廚新蔬食料理",
+        "address" : "苗栗縣頭屋鄉象山路188號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.934876,
+          24.539013000000001
+        ]
+      },
+      "properties" : {
+        "name" : "仙山靈洞宮美食廣場 天然素食",
+        "address" : "苗栗縣獅潭鄉新店村小東勢24號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.879169,
+          24.695346000000001
+        ]
+      },
+      "properties" : {
+        "name" : "喜樂廚房 - 竹南優質早餐",
+        "address" : "苗栗縣竹南鎮照南路16號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.87693,
+          24.683691
+        ]
+      },
+      "properties" : {
+        "name" : "素食好鹽酥基滷味",
+        "address" : "苗栗縣竹南鎮中正路97號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.65237500000001,
+          24.441647
+        ]
+      },
+      "properties" : {
+        "name" : "十方香素食館",
+        "address" : "苗栗縣苑裡鎮和平路171號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.912277,
+          24.689253000000001
+        ]
+      },
+      "properties" : {
+        "name" : "百合素食",
+        "address" : "苗栗縣頭份鎮中華路1110號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.923574,
+          24.711065000000001
+        ]
+      },
+      "properties" : {
+        "name" : "宏仁素食坊",
+        "address" : "苗栗縣竹南鎮中華路194號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.95891,
+          24.655930000000001
+        ]
+      },
+      "properties" : {
+        "name" : "淨慧素食廚房",
+        "address" : "苗栗縣三灣鄉博愛路114號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.82164299999999,
+          24.561038
+        ]
+      },
+      "properties" : {
+        "name" : "好蒔蔬養生料理",
+        "address" : "苗栗縣苗栗市中山路398號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.998885,
+          24.599188999999999
+        ]
+      },
+      "properties" : {
+        "name" : "午棧",
+        "address" : "苗栗縣南庄鄉中正路38號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.923982,
+          24.710464000000002
+        ]
+      },
+      "properties" : {
+        "name" : "阿雪早餐店",
+        "address" : "苗栗縣竹南鎮中華路174號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9133413,
+          24.693844599999998
+        ]
+      },
+      "properties" : {
+        "name" : "迴善園",
+        "address" : "苗栗縣頭份鎮建國路42-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.883347,
+          24.691309
+        ]
+      },
+      "properties" : {
+        "name" : "香村養生早餐",
+        "address" : "苗栗縣竹南鎮崁頂街86號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.876367,
+          24.457345
+        ]
+      },
+      "properties" : {
+        "name" : "古早味純手工米食",
+        "address" : "苗栗縣獅潭鄉汶水老街47號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.822439,
+          24.550840000000001
+        ]
+      },
+      "properties" : {
+        "name" : "Mia 彌而蔬食人文館",
+        "address" : "苗栗縣苗栗市新東街197號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9138425,
+          24.6935501
+        ]
+      },
+      "properties" : {
+        "name" : "鄉根素食養生早點",
+        "address" : "苗栗縣頭份鎮建國路26號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.912154,
+          24.685967000000002
+        ]
+      },
+      "properties" : {
+        "name" : "安村蔬食",
+        "address" : "苗栗縣頭份鎮信東路14號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.87731599999999,
+          24.683195999999999
+        ]
+      },
+      "properties" : {
+        "name" : "感恩素食",
+        "address" : "苗栗縣竹南鎮和平街3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.6548939,
+          24.4423818
+        ]
+      },
+      "properties" : {
+        "name" : "心素越式素食",
+        "address" : "苗栗縣苑裡鎮信義路56號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.68082750000001,
+          24.488428299999999
+        ]
+      },
+      "properties" : {
+        "name" : "隨心齋素食小吃",
+        "address" : "苗栗縣通霄鎮仁愛路21-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.90731599999999,
+          24.688984999999999
+        ]
+      },
+      "properties" : {
+        "name" : "原味樸食-素食好味廚房",
+        "address" : "苗栗縣頭份鎮仁愛路173號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.6530394,
+          24.4417996
+        ]
+      },
+      "properties" : {
+        "name" : "良源素食坊",
+        "address" : "苗栗縣苑裡鎮大同路30號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.90863400000001,
+          24.689875000000001
+        ]
+      },
+      "properties" : {
+        "name" : "歡喜素蔬食焗烤坊",
+        "address" : "苗栗縣頭份鎮忠孝一路102號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.87988,
+          24.684572500000002
+        ]
+      },
+      "properties" : {
+        "name" : "森蔬食",
+        "address" : "苗栗縣竹南鎮中山路64號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.82805,
+          24.310566999999999
+        ]
+      },
+      "properties" : {
+        "name" : "阿斌蔬食料理",
+        "address" : "苗栗縣卓蘭鎮中山路43號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.798177,
+          24.518646
+        ]
+      },
+      "properties" : {
+        "name" : "詹媽媽素食點心",
+        "address" : "苗栗縣銅鑼鄉中平村12鄰158-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.824094,
+          24.569772
+        ]
+      },
+      "properties" : {
+        "name" : "純素 水煎包煎餃蒸餃",
+        "address" : "苗栗縣苗栗市為公路60號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.87454,
+          24.688751
+        ]
+      },
+      "properties" : {
+        "name" : "喜素齋素食專賣店",
+        "address" : "苗栗縣竹南鎮忠義街20號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.6806926,
+          24.488243499999999
+        ]
+      },
+      "properties" : {
+        "name" : "豪北素食水煎包",
+        "address" : "苗栗縣通霄鎮仁愛路15號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.827263,
+          24.312788999999999
+        ]
+      },
+      "properties" : {
+        "name" : "黃健康素食",
+        "address" : "苗栗縣卓蘭鎮民族路53號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.911208,
+          24.686879999999999
+        ]
+      },
+      "properties" : {
+        "name" : "信東素食館",
+        "address" : "苗栗縣頭份鎮信東路8鄰65號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.8791939,
+          24.692722799999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食水煎包",
+        "address" : "苗栗縣竹南鎮光復路295號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.816351,
+          24.548300999999999
+        ]
+      },
+      "properties" : {
+        "name" : "Loving Hut",
+        "address" : "苗栗縣苗栗市中正路1051號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.815218,
+          24.561062
+        ]
+      },
+      "properties" : {
+        "name" : "苗栗里仁",
+        "address" : "苗栗縣苗栗市北安街17號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.8791939,
+          24.692722799999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食小吃",
+        "address" : "苗栗縣竹南鎮光復路295號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.8247731,
+          24.5769789
+        ]
+      },
+      "properties" : {
+        "name" : "異奇素食蛋糕麵包專賣店",
+        "address" : "苗栗縣苗栗市中華路232號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.82729399999999,
+          24.502479000000001
+        ]
+      },
+      "properties" : {
+        "name" : "健康素食",
+        "address" : "苗栗縣公館鄉近光路75-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.8175758,
+          24.561840799999999
+        ]
+      },
+      "properties" : {
+        "name" : "法心素煮藝",
+        "address" : "苗栗縣苗栗市大埔街57號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.83076699999999,
+          24.502970999999999
+        ]
+      },
+      "properties" : {
+        "name" : "如聞心齋素食餐廳",
+        "address" : "苗栗縣公館鄉玉谷村115-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.876367,
+          24.457345
+        ]
+      },
+      "properties" : {
+        "name" : "瑞記糖葫蘆",
+        "address" : "苗栗縣獅潭鄉汶水老街20-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9076013,
+          24.686381999999998
+        ]
+      },
+      "properties" : {
+        "name" : "豆腐殿",
+        "address" : "苗栗縣頭份鎮信義路108號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.89313,
+          24.692820000000001
+        ]
+      },
+      "properties" : {
+        "name" : "祺人益世坊",
+        "address" : "苗栗縣頭份鎮八德一路216號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.8791939,
+          24.692722799999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食材料行",
+        "address" : "苗栗縣竹南鎮光復路295號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.86604199999999,
+          24.690954000000001
+        ]
+      },
+      "properties" : {
+        "name" : "天然蔬食",
+        "address" : "苗栗縣竹南鎮龍山路一段127號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.6791518,
+          24.491668000000001
+        ]
+      },
+      "properties" : {
+        "name" : "通霄一心素食",
+        "address" : "苗栗縣通霄鎮中山路328號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.787212,
+          24.615099000000001
+        ]
+      },
+      "properties" : {
+        "name" : "後龍包餡蛋餅",
+        "address" : "苗栗縣後龍鎮中華路154-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.77828599999999,
+          24.390711
+        ]
+      },
+      "properties" : {
+        "name" : "大時代素食",
+        "address" : "苗栗縣三義鄉勝興村20份237-4號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.86729,
+          24.693439999999999
+        ]
+      },
+      "properties" : {
+        "name" : "素食",
+        "address" : "苗栗縣竹南鎮龍山路一段220號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.879762,
+          24.686865000000001
+        ]
+      },
+      "properties" : {
+        "name" : "黃薯薯 甘梅薯條",
+        "address" : "苗栗縣竹南鎮博愛街2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.90668100000001,
+          24.715565000000002
+        ]
+      },
+      "properties" : {
+        "name" : "老周素食",
+        "address" : "苗栗縣竹南鎮中埔街16號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.912437,
+          24.524501999999998
+        ]
+      },
+      "properties" : {
+        "name" : "柿子紅了",
+        "address" : "苗栗縣公館鄉福德村21號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.788134,
+          24.489965000000002
+        ]
+      },
+      "properties" : {
+        "name" : "佛心緣素食",
+        "address" : "苗栗縣銅鑼鄉中正路228-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.876367,
+          24.457345
+        ]
+      },
+      "properties" : {
+        "name" : "草食食堂",
+        "address" : "苗栗縣獅潭鄉汶水老街51-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.80998099999999,
+          24.567260000000001
+        ]
+      },
+      "properties" : {
+        "name" : "佛光素食館",
+        "address" : "苗栗縣苗栗市至公路598-15號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.819068,
+          24.561299000000002
+        ]
+      },
+      "properties" : {
+        "name" : "百圓蔬食",
+        "address" : "苗栗縣苗栗市金像園2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.818403,
+          24.560782
+        ]
+      },
+      "properties" : {
+        "name" : "廣緣素食",
+        "address" : "苗栗縣苗栗市府前路106號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.81859,
+          24.558820000000001
+        ]
+      },
+      "properties" : {
+        "name" : "正德愛心廚房苗栗分院附設愛心廚房",
+        "address" : "苗栗縣苗栗市新都街27號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.867155,
+          24.685738000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素食早點",
+        "address" : "苗栗縣竹南鎮新生路248號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.727673,
+          24.487148999999999
+        ]
+      },
+      "properties" : {
+        "name" : "廻鄉有機驛站",
+        "address" : "苗栗縣通霄鎮楓樹窩92-2號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.8740877,
+          24.6823342
+        ]
+      },
+      "properties" : {
+        "name" : "菇素齋",
+        "address" : "苗栗縣竹南鎮環市路一段144-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.878202,
+          24.685748
+        ]
+      },
+      "properties" : {
+        "name" : "漂pure",
+        "address" : "苗栗縣竹南鎮民權街49號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.91101999999999,
+          24.695257000000002
+        ]
+      },
+      "properties" : {
+        "name" : "金色蓮花素食餐館",
+        "address" : "苗栗縣頭份鎮建國路94-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.87835800000001,
+          24.683744000000001
+        ]
+      },
+      "properties" : {
+        "name" : "素食の家",
+        "address" : "苗栗縣竹南鎮民族街30號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.790644,
+          24.351718999999999
+        ]
+      },
+      "properties" : {
+        "name" : "三義野百合開心花園蔬食咖啡FormosaLily Café",
+        "address" : "苗栗縣三義鄉廣盛村廣盛38-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.87478900000001,
+          24.688105
+        ]
+      },
+      "properties" : {
+        "name" : "脆皮車輪餅",
+        "address" : "苗栗縣竹南鎮利達街13號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.77828599999999,
+          24.390711
+        ]
+      },
+      "properties" : {
+        "name" : "甲店養生坊",
+        "address" : "苗栗縣三義鄉勝興70號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.807331,
+          24.382156999999999
+        ]
+      },
+      "properties" : {
+        "name" : "三義卓也小屋度假園區",
+        "address" : "苗栗縣三義鄉雙潭村13鄰崩山下1-5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.87850400000001,
+          24.687716999999999
+        ]
+      },
+      "properties" : {
+        "name" : "天仁素食",
+        "address" : "苗栗縣竹南鎮自由街44-3號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.99758199999999,
+          24.600351
+        ]
+      },
+      "properties" : {
+        "name" : "獅頭山勸化堂",
+        "address" : "苗栗縣南庄鄉獅山村17鄰242號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.9125919,
+          24.690267899999998
+        ]
+      },
+      "properties" : {
+        "name" : "禾喬素食",
+        "address" : "苗栗縣頭份鎮自強路"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.68924199999999,
+          24.494789999999998
+        ]
+      },
+      "properties" : {
+        "name" : "莠齋坊",
+        "address" : "苗栗縣通霄鎮中正路267號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.873801,
+          24.691279999999999
+        ]
+      },
+      "properties" : {
+        "name" : "愛心蔬食坊",
+        "address" : "苗栗縣竹南鎮三泰街228號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.879212,
+          24.68891
+        ]
+      },
+      "properties" : {
+        "name" : "我炸你吃",
+        "address" : "苗栗縣竹南鎮光復路209號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.87728300000001,
+          24.683669999999999
+        ]
+      },
+      "properties" : {
+        "name" : "慈心素食廚房",
+        "address" : "苗栗縣竹南鎮中正路79號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.91328900000001,
+          24.69059
+        ]
+      },
+      "properties" : {
+        "name" : "首竹素塹",
+        "address" : "苗栗縣頭份鎮中華路1172號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.907774,
+          24.691849999999999
+        ]
+      },
+      "properties" : {
+        "name" : "悅客驛站",
+        "address" : "苗栗縣頭份鎮忠孝二路27號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.82665900000001,
+          24.332840000000001
+        ]
+      },
+      "properties" : {
+        "name" : "17號草堂",
+        "address" : "苗栗縣卓蘭鎮西坪里109號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.819068,
+          24.561299000000002
+        ]
+      },
+      "properties" : {
+        "name" : "草食堂人文藝術素食館",
+        "address" : "苗栗縣苗栗市縣府路88號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.873538,
+          24.689523999999999
+        ]
+      },
+      "properties" : {
+        "name" : "益素佳",
+        "address" : "苗栗縣竹南鎮建智街62號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.817463,
+          24.562484000000001
+        ]
+      },
+      "properties" : {
+        "name" : "臭多多 - 現蒸臭豆腐",
+        "address" : "苗栗縣苗栗市和平路101號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.87495,
+          24.688610000000001
+        ]
+      },
+      "properties" : {
+        "name" : "竹北素食自助餐",
+        "address" : "苗栗縣竹南鎮忠義街31-1號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.871594,
+          24.424878
+        ]
+      },
+      "properties" : {
+        "name" : "天空之城 鳥v.s人 森林餐飲",
+        "address" : "苗栗縣大湖鄉新開村十分33號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.76549300000001,
+          24.434286
+        ]
+      },
+      "properties" : {
+        "name" : "E-ma 柴燒窯烤歐式麵包",
+        "address" : "苗栗縣三義鄉雙潭村石崀58號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.876035,
+          24.689194000000001
+        ]
+      },
+      "properties" : {
+        "name" : "誠心越南素食",
+        "address" : "苗栗縣竹南鎮延平路168-5號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.968284,
+          24.804939000000001
+        ]
+      },
+      "properties" : {
+        "name" : "歡喜心素食早點",
+        "address" : "苗栗縣竹南鎮大同路71號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.99575,
+          24.633357
+        ]
+      },
+      "properties" : {
+        "name" : "Sud Vista 蘇維拉莊園 民宿",
+        "address" : "苗栗縣南庄鄉田美村16鄰四灣92號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.906826,
+          24.689983999999999
+        ]
+      },
+      "properties" : {
+        "name" : "樹巢 Tree Nest",
+        "address" : "苗栗縣頭份鎮餐車地點未固定，請詳見粉絲團"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.78792900000001,
+          24.485617000000001
+        ]
+      },
+      "properties" : {
+        "name" : "梅英素食",
+        "address" : "苗栗縣銅鑼鄉永樂路2-51號"
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.87321,
+          24.68121
+        ]
+      },
+      "properties" : {
+        "name" : "I-su 艾蔬食",
+        "address" : "苗栗縣竹南鎮大營路1號"
+      }
+    }
+  ]
+}
