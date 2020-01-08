@@ -9,7 +9,7 @@
 | ----------- | ----------- |
 | [全台灣](data/All_City_Map.geojson) |6980|
 | [彰化縣](data/Changhua_County_Map.geojson) |396|
-| [嘉義市](data/Chiayi_City_Map..geojson) |81|
+| [嘉義市](data/Chiayi_City_Map.geojson) |81|
 | [嘉義縣](data/Chiayi_County_Map.geojson) |59|
 | [新竹市](data/Hsinchu_City_Map.geojson) |151|
 | [新竹縣](data/Hsinchu_County_Map.geojson) |113|
