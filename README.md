@@ -9,7 +9,7 @@
 | ----------- | ----------- |
 | [全台灣](data/All_City_Map.geojson) |6980|
 | [彰化縣](data/Changhua_County_Map.geojson) |396|
-| [嘉義市](data/Chiayi_City_Map..geojson) |81|
+| [嘉義市](data/Chiayi_City_Map.geojson) |81|
 | [嘉義縣](data/Chiayi_County_Map.geojson) |59|
 | [新竹市](data/Hsinchu_City_Map.geojson) |151|
 | [新竹縣](data/Hsinchu_County_Map.geojson) |113|
@@ -35,7 +35,7 @@
 請依照 [GeoJSON](https://geojson.org) format 新增一個 **type = Feature**, **geometry.type = Point** 的 Object  
 例如:
 
-```json
+```javascript
 {
   "type": "Feature", // 必填 Feature
   "geometry": {
@@ -44,8 +44,8 @@
   },
   "properties": {
     "name": "我的餐廳", // name 必填
- 		"address": "台北市內湖區 111 號" // address 必填
- 		// 可新增其他 Property, 例如 tel
+    "address": "台北市內湖區 111 號" // address 必填
+    // 可新增其他 Property, 例如 tel
   }
 }
 ```
