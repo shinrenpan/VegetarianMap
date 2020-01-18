@@ -1,7 +1,13 @@
 {
   "type" : "FeatureCollection",
+  "areaCode" : 970,
   "features" : [
     {
+      "id" : "6DA764E0-6B0A-4EFB-A1FA-A2BFD703FBEB",
+      "properties" : {
+        "name" : "長健麵素店",
+        "address" : "花蓮縣花蓮市建國路二段432號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -9,13 +15,14 @@
           121.56452,
           23.997421899999999
         ]
-      },
-      "properties" : {
-        "name" : "長健麵素店",
-        "address" : "花蓮縣花蓮市建國路二段432號"
       }
     },
     {
+      "id" : "E657373E-5685-49B3-BF6A-A493493FB95B",
+      "properties" : {
+        "name" : "星塵蔬食",
+        "address" : "花蓮縣花蓮市中華路144號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -23,13 +30,14 @@
           121.60471,
           23.976009999999999
         ]
-      },
-      "properties" : {
-        "name" : "星塵蔬食",
-        "address" : "花蓮縣花蓮市中華路144號"
       }
     },
     {
+      "id" : "767A11E3-594F-4747-841C-070D3D562B75",
+      "properties" : {
+        "name" : "來我們的店",
+        "address" : "花蓮縣花蓮市和平路352號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -37,13 +45,14 @@
           121.603655,
           23.973955
         ]
-      },
-      "properties" : {
-        "name" : "來我們的店",
-        "address" : "花蓮縣花蓮市和平路352號"
       }
     },
     {
+      "id" : "7E7E88DF-CCA8-445E-B980-BC78831A85BA",
+      "properties" : {
+        "name" : "有間屋素食",
+        "address" : "花蓮縣壽豐鄉中正路95號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -51,13 +60,14 @@
           121.53221000000001,
           23.906320000000001
         ]
-      },
-      "properties" : {
-        "name" : "有間屋素食",
-        "address" : "花蓮縣壽豐鄉中正路95號"
       }
     },
     {
+      "id" : "B643E605-2C02-4AFF-B451-8531E38239B5",
+      "properties" : {
+        "name" : "光的世界．水果蛋",
+        "address" : "花蓮縣吉安鄉明義七街129號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -65,13 +75,14 @@
           121.555201,
           23.990257
         ]
-      },
-      "properties" : {
-        "name" : "光的世界．水果蛋",
-        "address" : "花蓮縣吉安鄉明義七街129號"
       }
     },
     {
+      "id" : "D05E77B5-10B4-48F1-ABC6-800817DB56E3",
+      "properties" : {
+        "name" : "真好味素食",
+        "address" : "花蓮縣瑞穗鄉國光北路2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -79,13 +90,14 @@
           121.379121,
           23.497229999999998
         ]
-      },
-      "properties" : {
-        "name" : "真好味素食",
-        "address" : "花蓮縣瑞穗鄉國光北路2號"
       }
     },
     {
+      "id" : "E0EA0C1C-B9EE-4854-A39B-3FE5E50493B7",
+      "properties" : {
+        "name" : "台灣咖啡",
+        "address" : "花蓮縣花蓮市中央路三段707號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -93,13 +105,14 @@
           121.59304969999999,
           23.994815299999999
         ]
-      },
-      "properties" : {
-        "name" : "台灣咖啡",
-        "address" : "花蓮縣花蓮市中央路三段707號"
       }
     },
     {
+      "id" : "3575CA66-187E-4058-9F09-554319B58E48",
+      "properties" : {
+        "name" : "玉里素食飯糰",
+        "address" : "花蓮縣玉里鎮中山路二段91號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -107,13 +120,14 @@
           121.314516,
           23.334296999999999
         ]
-      },
-      "properties" : {
-        "name" : "玉里素食飯糰",
-        "address" : "花蓮縣玉里鎮中山路二段91號"
       }
     },
     {
+      "id" : "F64B1C76-E2D4-4EB3-A6AD-C5BD4C4D066E",
+      "properties" : {
+        "name" : "文茶悟語",
+        "address" : "花蓮縣花蓮市建國路二段275-5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -121,13 +135,14 @@
           121.5648257,
           23.996033300000001
         ]
-      },
-      "properties" : {
-        "name" : "文茶悟語",
-        "address" : "花蓮縣花蓮市建國路二段275-5號"
       }
     },
     {
+      "id" : "470C56A7-A5CF-4540-B5F8-899F105CCC1D",
+      "properties" : {
+        "name" : "應食來素食麵店",
+        "address" : "花蓮縣花蓮市富祥街85號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -135,13 +150,14 @@
           121.59399500000001,
           23.99314
         ]
-      },
-      "properties" : {
-        "name" : "應食來素食麵店",
-        "address" : "花蓮縣花蓮市富祥街85號"
       }
     },
     {
+      "id" : "BF1FD436-173B-447D-A24F-07D6BCCAEA15",
+      "properties" : {
+        "name" : "綠園有機食品推廣中心",
+        "address" : "花蓮縣花蓮市民國路139-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -149,13 +165,14 @@
           121.60656299999999,
           23.979664
         ]
-      },
-      "properties" : {
-        "name" : "綠園有機食品推廣中心",
-        "address" : "花蓮縣花蓮市民國路139-1號"
       }
     },
     {
+      "id" : "A77EAE7C-FDEE-4165-B121-3F95ECD94378",
+      "properties" : {
+        "name" : "威尼斯花園咖啡會館",
+        "address" : "花蓮縣壽豐鄉池南路一段27-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -163,13 +180,14 @@
           121.506895,
           23.932448999999998
         ]
-      },
-      "properties" : {
-        "name" : "威尼斯花園咖啡會館",
-        "address" : "花蓮縣壽豐鄉池南路一段27-2號"
       }
     },
     {
+      "id" : "7F8A1442-1C99-49BC-AF88-C39F4D292B82",
+      "properties" : {
+        "name" : "菩提園素食材料商行",
+        "address" : "花蓮縣花蓮市新港街76-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -177,13 +195,14 @@
           121.60597,
           23.980229000000001
         ]
-      },
-      "properties" : {
-        "name" : "菩提園素食材料商行",
-        "address" : "花蓮縣花蓮市新港街76-3號"
       }
     },
     {
+      "id" : "AEFF3A63-78DB-4D56-B60C-5CEA6A4CE613",
+      "properties" : {
+        "name" : "海王子咖啡 ‧ 蔬食 ‧ 甜點",
+        "address" : "花蓮縣花蓮市中美路49號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -191,13 +210,14 @@
           121.621112,
           23.986077000000002
         ]
-      },
-      "properties" : {
-        "name" : "海王子咖啡 ‧ 蔬食 ‧ 甜點",
-        "address" : "花蓮縣花蓮市中美路49號"
       }
     },
     {
+      "id" : "0E9B80D8-0C51-494E-AB31-D812C9E0236B",
+      "properties" : {
+        "name" : "鳳林新陽明照相館素食",
+        "address" : "花蓮縣鳳林鎮中山路14號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -205,13 +225,14 @@
           121.448266,
           23.746016999999998
         ]
-      },
-      "properties" : {
-        "name" : "鳳林新陽明照相館素食",
-        "address" : "花蓮縣鳳林鎮中山路14號"
       }
     },
     {
+      "id" : "C9CF64CF-2791-42F9-9462-AB36D8A4E6B6",
+      "properties" : {
+        "name" : "沐軒素食餐廳",
+        "address" : "花蓮縣花蓮市博愛街235號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -219,13 +240,14 @@
           121.604185,
           23.980022999999999
         ]
-      },
-      "properties" : {
-        "name" : "沐軒素食餐廳",
-        "address" : "花蓮縣花蓮市博愛街235號"
       }
     },
     {
+      "id" : "F8E2A1F4-79AD-4711-8DE8-F2272F9A5F86",
+      "properties" : {
+        "name" : "豐興餅舖",
+        "address" : "花蓮縣花蓮市中華路296-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -233,13 +255,14 @@
           121.59901000000001,
           23.975259999999999
         ]
-      },
-      "properties" : {
-        "name" : "豐興餅舖",
-        "address" : "花蓮縣花蓮市中華路296-2號"
       }
     },
     {
+      "id" : "2CA390CD-DD93-4403-9E64-32CFCFAA24F6",
+      "properties" : {
+        "name" : "素食之家",
+        "address" : "花蓮縣花蓮市三民街64號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -247,13 +270,14 @@
           121.60901800000001,
           23.980281000000002
         ]
-      },
-      "properties" : {
-        "name" : "素食之家",
-        "address" : "花蓮縣花蓮市三民街64號"
       }
     },
     {
+      "id" : "73E2DCB9-3018-497F-B54E-5690B9B6271B",
+      "properties" : {
+        "name" : "詹媽媽十穀粥",
+        "address" : "花蓮縣花蓮市光復街118號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -261,13 +285,14 @@
           121.605401,
           23.979752999999999
         ]
-      },
-      "properties" : {
-        "name" : "詹媽媽十穀粥",
-        "address" : "花蓮縣花蓮市光復街118號"
       }
     },
     {
+      "id" : "9BF5CB11-0A65-4E1A-989B-3026530702F2",
+      "properties" : {
+        "name" : "品味素食",
+        "address" : "花蓮縣瑞穗鄉富源路15號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -275,13 +300,14 @@
           121.379699,
           23.580431999999998
         ]
-      },
-      "properties" : {
-        "name" : "品味素食",
-        "address" : "花蓮縣瑞穗鄉富源路15號"
       }
     },
     {
+      "id" : "5DD4EF72-87DE-4DE6-B322-C5033DCF1413",
+      "properties" : {
+        "name" : "夏太熱 pizza",
+        "address" : "花蓮縣花蓮市中美路1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -289,13 +315,14 @@
           121.61796099999999,
           23.982347000000001
         ]
-      },
-      "properties" : {
-        "name" : "夏太熱 pizza",
-        "address" : "花蓮縣花蓮市中美路1號"
       }
     },
     {
+      "id" : "FAA2993B-CAE9-4F74-B712-BE6BF71BE8D8",
+      "properties" : {
+        "name" : "來吃素養生小舖",
+        "address" : "花蓮縣花蓮市府前路586號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -303,13 +330,14 @@
           121.61946,
           24.003298000000001
         ]
-      },
-      "properties" : {
-        "name" : "來吃素養生小舖",
-        "address" : "花蓮縣花蓮市府前路586號"
       }
     },
     {
+      "id" : "0ED257EF-F884-477E-B74B-E12D0D3B4DDA",
+      "properties" : {
+        "name" : "MONDAY曼地異國蔬食料理",
+        "address" : "花蓮縣花蓮市介智街35巷2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -317,13 +345,14 @@
           121.5717429,
           23.996648100000002
         ]
-      },
-      "properties" : {
-        "name" : "MONDAY曼地異國蔬食料理",
-        "address" : "花蓮縣花蓮市介智街35巷2號"
       }
     },
     {
+      "id" : "BEB8DAB5-66E8-4EFB-B94D-AE01C33BAD72",
+      "properties" : {
+        "name" : "茹薰素食",
+        "address" : "花蓮縣吉安鄉自立路16號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -331,13 +360,14 @@
           121.595602,
           23.985603999999999
         ]
-      },
-      "properties" : {
-        "name" : "茹薰素食",
-        "address" : "花蓮縣吉安鄉自立路16號"
       }
     },
     {
+      "id" : "326FCDA5-2469-40D2-ACB0-90C1C5C01EA3",
+      "properties" : {
+        "name" : "五福素海",
+        "address" : "花蓮縣花蓮市中正路34號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -345,13 +375,14 @@
           121.59540800000001,
           23.969059000000001
         ]
-      },
-      "properties" : {
-        "name" : "五福素海",
-        "address" : "花蓮縣花蓮市中正路34號"
       }
     },
     {
+      "id" : "27AFBAA7-A466-489C-AA60-6850E2DAE398",
+      "properties" : {
+        "name" : "玉梅素食店",
+        "address" : "花蓮縣花蓮市中正路389號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -359,13 +390,14 @@
           121.60324799999999,
           23.974627000000002
         ]
-      },
-      "properties" : {
-        "name" : "玉梅素食店",
-        "address" : "花蓮縣花蓮市中正路389號"
       }
     },
     {
+      "id" : "5DC05E89-27C2-4F87-BD8C-521D3448B76F",
+      "properties" : {
+        "name" : "行深咖啡館",
+        "address" : "花蓮縣花蓮市中正路50號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -373,13 +405,14 @@
           121.59567,
           23.969200000000001
         ]
-      },
-      "properties" : {
-        "name" : "行深咖啡館",
-        "address" : "花蓮縣花蓮市中正路50號"
       }
     },
     {
+      "id" : "02BD50A0-8FC2-4595-819D-DEDD3F0070FB",
+      "properties" : {
+        "name" : "慈益素食店",
+        "address" : "花蓮縣花蓮市商校街139號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -387,13 +420,14 @@
           121.60005,
           23.986732
         ]
-      },
-      "properties" : {
-        "name" : "慈益素食店",
-        "address" : "花蓮縣花蓮市商校街139號"
       }
     },
     {
+      "id" : "E93F66BB-A067-4CC9-BAE0-3A796A8347ED",
+      "properties" : {
+        "name" : "瑞穗佳德素食",
+        "address" : "花蓮縣瑞穗鄉忠孝路35-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -401,13 +435,14 @@
           121.38685,
           23.494589999999999
         ]
-      },
-      "properties" : {
-        "name" : "瑞穗佳德素食",
-        "address" : "花蓮縣瑞穗鄉忠孝路35-1號"
       }
     },
     {
+      "id" : "CB269559-E2AE-4E7D-9404-C11026B085FB",
+      "properties" : {
+        "name" : "家畇素食鍋燒專賣店",
+        "address" : "花蓮縣花蓮市自由街90號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -415,13 +450,14 @@
           121.60640100000001,
           23.976025
         ]
-      },
-      "properties" : {
-        "name" : "家畇素食鍋燒專賣店",
-        "address" : "花蓮縣花蓮市自由街90號"
       }
     },
     {
+      "id" : "17052F69-B3DC-462E-93EF-ABC98B13D174",
+      "properties" : {
+        "name" : "吉美味創意風味素食",
+        "address" : "花蓮縣花蓮市中山路50號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -429,13 +465,14 @@
           121.611724,
           23.97419
         ]
-      },
-      "properties" : {
-        "name" : "吉美味創意風味素食",
-        "address" : "花蓮縣花蓮市中山路50號"
       }
     },
     {
+      "id" : "4F00D3BA-224A-4E13-9592-718CEE464A5B",
+      "properties" : {
+        "name" : "雲山水民宿逸翠軒會館",
+        "address" : "花蓮縣壽豐鄉豐坪路二段2巷201弄12號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -443,13 +480,14 @@
           121.5073778,
           23.8311463
         ]
-      },
-      "properties" : {
-        "name" : "雲山水民宿逸翠軒會館",
-        "address" : "花蓮縣壽豐鄉豐坪路二段2巷201弄12號"
       }
     },
     {
+      "id" : "265CDCDD-EB84-4995-97A5-3ABCF235BBF3",
+      "properties" : {
+        "name" : "養心樓素食懷石料理",
+        "address" : "花蓮縣花蓮市莊敬路88號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -457,13 +495,14 @@
           121.59609,
           23.988462999999999
         ]
-      },
-      "properties" : {
-        "name" : "養心樓素食懷石料理",
-        "address" : "花蓮縣花蓮市莊敬路88號"
       }
     },
     {
+      "id" : "DC3DAD34-3C16-4A61-A3DB-8B9FA569729C",
+      "properties" : {
+        "name" : "阿宏素食臭豆腐",
+        "address" : "花蓮縣壽豐鄉志學村中山路二段245號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -471,13 +510,14 @@
           121.52924,
           23.905176000000001
         ]
-      },
-      "properties" : {
-        "name" : "阿宏素食臭豆腐",
-        "address" : "花蓮縣壽豐鄉志學村中山路二段245號"
       }
     },
     {
+      "id" : "BACB5B0F-8207-45DE-B1DD-2E1740375BED",
+      "properties" : {
+        "name" : "一道健康素食",
+        "address" : "花蓮縣吉安鄉自強路646號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -485,13 +525,14 @@
           121.5939,
           23.988916
         ]
-      },
-      "properties" : {
-        "name" : "一道健康素食",
-        "address" : "花蓮縣吉安鄉自強路646號"
       }
     },
     {
+      "id" : "551A2EC6-698B-4734-A60A-DEC18DC4F6B7",
+      "properties" : {
+        "name" : "八方緣素食館",
+        "address" : "花蓮縣花蓮市中原路578號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -499,13 +540,14 @@
           121.595736,
           23.973210999999999
         ]
-      },
-      "properties" : {
-        "name" : "八方緣素食館",
-        "address" : "花蓮縣花蓮市中原路578號"
       }
     },
     {
+      "id" : "9B52729F-DC49-4717-8DBF-9D34B089074E",
+      "properties" : {
+        "name" : "大不同養生私廚",
+        "address" : "花蓮縣花蓮市大同街102號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -513,13 +555,14 @@
           121.608537,
           23.981992999999999
         ]
-      },
-      "properties" : {
-        "name" : "大不同養生私廚",
-        "address" : "花蓮縣花蓮市大同街102號"
       }
     },
     {
+      "id" : "036B0791-DF3F-4E58-94E4-784A6A8DB3A1",
+      "properties" : {
+        "name" : "天心茶園附設養生素食餐廳",
+        "address" : "花蓮縣玉里鎮觀音里高寮14鄰280-5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -527,13 +570,14 @@
           121.35755899999999,
           23.382204999999999
         ]
-      },
-      "properties" : {
-        "name" : "天心茶園附設養生素食餐廳",
-        "address" : "花蓮縣玉里鎮觀音里高寮14鄰280-5號"
       }
     },
     {
+      "id" : "179AEFF9-48C4-4DE4-9921-9E77519F6CD1",
+      "properties" : {
+        "name" : "芳香林素食自助餐",
+        "address" : "花蓮縣花蓮市德安一街58號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -541,13 +585,14 @@
           121.5951,
           23.973572999999998
         ]
-      },
-      "properties" : {
-        "name" : "芳香林素食自助餐",
-        "address" : "花蓮縣花蓮市德安一街58號"
       }
     },
     {
+      "id" : "56DDF55D-574D-4343-8F7B-A391C5054854",
+      "properties" : {
+        "name" : "路人家",
+        "address" : "花蓮縣鳳林鎮信義路277號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -555,13 +600,14 @@
           121.45360599999999,
           23.748090000000001
         ]
-      },
-      "properties" : {
-        "name" : "路人家",
-        "address" : "花蓮縣鳳林鎮信義路277號"
       }
     },
     {
+      "id" : "529CE532-0676-4276-A2D6-F57B67AFCF29",
+      "properties" : {
+        "name" : "素食豆腐小吃店",
+        "address" : "花蓮縣花蓮市中山路513號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -569,13 +615,14 @@
           121.602571,
           23.985555000000002
         ]
-      },
-      "properties" : {
-        "name" : "素食豆腐小吃店",
-        "address" : "花蓮縣花蓮市中山路513號"
       }
     },
     {
+      "id" : "1271FD26-5516-4ACD-B35A-9EF9334B5E07",
+      "properties" : {
+        "name" : "五街麵館",
+        "address" : "花蓮縣花蓮市介林五街259號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -583,13 +630,14 @@
           121.570978,
           23.995667999999998
         ]
-      },
-      "properties" : {
-        "name" : "五街麵館",
-        "address" : "花蓮縣花蓮市介林五街259號"
       }
     },
     {
+      "id" : "C018C1F1-C696-4852-A645-62CDFE315694",
+      "properties" : {
+        "name" : "森發素食批發商行",
+        "address" : "花蓮縣吉安鄉中央路三段430號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -597,13 +645,14 @@
           121.58748,
           23.985928000000001
         ]
-      },
-      "properties" : {
-        "name" : "森發素食批發商行",
-        "address" : "花蓮縣吉安鄉中央路三段430號"
       }
     },
     {
+      "id" : "35FDB82C-4ED7-4946-8215-D81B838DF19D",
+      "properties" : {
+        "name" : "鄉蔬原味素菜",
+        "address" : "花蓮縣花蓮市府前路366號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -611,13 +660,14 @@
           121.621387,
           23.997409000000001
         ]
-      },
-      "properties" : {
-        "name" : "鄉蔬原味素菜",
-        "address" : "花蓮縣花蓮市府前路366號"
       }
     },
     {
+      "id" : "91AD6C62-6D2F-4AE1-8064-657E32A4E408",
+      "properties" : {
+        "name" : "如來素食麵包店",
+        "address" : "花蓮縣吉安鄉中原路一段135號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -625,13 +675,14 @@
           121.58806199999999,
           23.978750000000002
         ]
-      },
-      "properties" : {
-        "name" : "如來素食麵包店",
-        "address" : "花蓮縣吉安鄉中原路一段135號"
       }
     },
     {
+      "id" : "821C68D7-514C-4413-88D8-8C1D04324C81",
+      "properties" : {
+        "name" : "天善素食",
+        "address" : "花蓮縣花蓮市國富十街187號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -639,13 +690,14 @@
           121.59495699999999,
           23.993196000000001
         ]
-      },
-      "properties" : {
-        "name" : "天善素食",
-        "address" : "花蓮縣花蓮市國富十街187號"
       }
     },
     {
+      "id" : "AC60B80C-0352-462B-B273-66E01FFDACDE",
+      "properties" : {
+        "name" : "素食",
+        "address" : "花蓮縣吉安鄉建國路二段207號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -653,13 +705,14 @@
           121.576877,
           23.992163000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "花蓮縣吉安鄉建國路二段207號"
       }
     },
     {
+      "id" : "654B9673-AA0A-49B1-9A6E-CAC2329A4227",
+      "properties" : {
+        "name" : "廟口臭豆腐、麵線羹",
+        "address" : "花蓮縣吉安鄉自強路36-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -667,13 +720,14 @@
           121.58528800000001,
           23.976913
         ]
-      },
-      "properties" : {
-        "name" : "廟口臭豆腐、麵線羹",
-        "address" : "花蓮縣吉安鄉自強路36-1號"
       }
     },
     {
+      "id" : "3E7B2065-89B7-4447-B815-BB41A1554DD0",
+      "properties" : {
+        "name" : "有氧素食早餐店",
+        "address" : "花蓮縣吉安鄉建昌路68號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -681,13 +735,14 @@
           121.594955,
           23.987545999999998
         ]
-      },
-      "properties" : {
-        "name" : "有氧素食早餐店",
-        "address" : "花蓮縣吉安鄉建昌路68號"
       }
     },
     {
+      "id" : "B7530402-DA17-48AA-9DFE-3F85D55CD662",
+      "properties" : {
+        "name" : "瑞穗忘憂湖庭園蔬食",
+        "address" : "花蓮縣瑞穗鄉瑞北村20-7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -695,13 +750,14 @@
           121.376257,
           23.528302
         ]
-      },
-      "properties" : {
-        "name" : "瑞穗忘憂湖庭園蔬食",
-        "address" : "花蓮縣瑞穗鄉瑞北村20-7號"
       }
     },
     {
+      "id" : "83ABDFF3-5052-4527-8EF0-12F759E0832A",
+      "properties" : {
+        "name" : "玉興素食",
+        "address" : "花蓮縣玉里鎮大同路262號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -709,13 +765,14 @@
           121.31301499999999,
           23.334924000000001
         ]
-      },
-      "properties" : {
-        "name" : "玉興素食",
-        "address" : "花蓮縣玉里鎮大同路262號"
       }
     },
     {
+      "id" : "68DD3AF2-377D-4B13-87FA-0A54EADAE7E3",
+      "properties" : {
+        "name" : "常春藤素食餐廳",
+        "address" : "花蓮縣花蓮市富安路22號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -723,13 +780,14 @@
           121.59841299999999,
           23.992704
         ]
-      },
-      "properties" : {
-        "name" : "常春藤素食餐廳",
-        "address" : "花蓮縣花蓮市富安路22號"
       }
     },
     {
+      "id" : "94CCF146-0529-4807-8981-F6EEFC07AAF0",
+      "properties" : {
+        "name" : "如來素食館",
+        "address" : "花蓮縣花蓮市中福路93號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -737,13 +795,14 @@
           121.602543,
           23.971243000000001
         ]
-      },
-      "properties" : {
-        "name" : "如來素食館",
-        "address" : "花蓮縣花蓮市中福路93號"
       }
     },
     {
+      "id" : "47C1C26D-6217-412E-B97C-2530408C5ECE",
+      "properties" : {
+        "name" : "常青健康素食早餐店",
+        "address" : "花蓮縣玉里鎮中山路97號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -751,13 +810,14 @@
           121.610883,
           23.974941000000001
         ]
-      },
-      "properties" : {
-        "name" : "常青健康素食早餐店",
-        "address" : "花蓮縣玉里鎮中山路97號"
       }
     },
     {
+      "id" : "053171FF-A230-4CCE-A631-8C0A1FE50935",
+      "properties" : {
+        "name" : "花草空間主題咖啡",
+        "address" : "花蓮縣花蓮市博愛街140號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -765,13 +825,14 @@
           121.60646699999999,
           23.977405999999998
         ]
-      },
-      "properties" : {
-        "name" : "花草空間主題咖啡",
-        "address" : "花蓮縣花蓮市博愛街140號"
       }
     },
     {
+      "id" : "FB4A2CA4-28C3-4AC0-8B40-AFA8BA95D0FD",
+      "properties" : {
+        "name" : "亞米蔬食",
+        "address" : "花蓮縣吉安鄉自強路652號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -779,13 +840,14 @@
           121.593969,
           23.989014999999998
         ]
-      },
-      "properties" : {
-        "name" : "亞米蔬食",
-        "address" : "花蓮縣吉安鄉自強路652號"
       }
     },
     {
+      "id" : "CFB11477-CAD7-4D01-BD51-F9955C8AE3E2",
+      "properties" : {
+        "name" : "明廉素食早餐\/香椿抓餅",
+        "address" : "花蓮縣花蓮市中山路722-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -793,13 +855,14 @@
           121.595381,
           23.995191999999999
         ]
-      },
-      "properties" : {
-        "name" : "明廉素食早餐\/香椿抓餅",
-        "address" : "花蓮縣花蓮市中山路722-1號"
       }
     },
     {
+      "id" : "F7901C88-8579-432C-A6C0-E432F5A62824",
+      "properties" : {
+        "name" : "素食",
+        "address" : "花蓮縣瑞穗鄉中正南路二段105-7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -807,13 +870,14 @@
           121.3573062,
           23.470711999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "花蓮縣瑞穗鄉中正南路二段105-7號"
       }
     },
     {
+      "id" : "B13E3069-68FB-4EAB-BA02-B985738E0B52",
+      "properties" : {
+        "name" : "柚子蔬食",
+        "address" : "花蓮縣吉安鄉建國路二段201巷27號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -821,13 +885,14 @@
           121.583393,
           23.989405999999999
         ]
-      },
-      "properties" : {
-        "name" : "柚子蔬食",
-        "address" : "花蓮縣吉安鄉建國路二段201巷27號"
       }
     },
     {
+      "id" : "47B19221-4CC3-4DE0-952B-4FB554C79DBC",
+      "properties" : {
+        "name" : "七巷九號健康蔬食館",
+        "address" : "花蓮縣花蓮市建德街7巷9號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -835,13 +900,14 @@
           121.570064,
           23.995692999999999
         ]
-      },
-      "properties" : {
-        "name" : "七巷九號健康蔬食館",
-        "address" : "花蓮縣花蓮市建德街7巷9號"
       }
     },
     {
+      "id" : "E3B4C087-37FB-408F-B802-8EFC803798C2",
+      "properties" : {
+        "name" : "宏興素食自助餐",
+        "address" : "花蓮縣玉里鎮光明街63號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -849,13 +915,14 @@
           121.31349299999999,
           23.333922000000001
         ]
-      },
-      "properties" : {
-        "name" : "宏興素食自助餐",
-        "address" : "花蓮縣玉里鎮光明街63號"
       }
     },
     {
+      "id" : "6EA5F863-F9DA-49F1-A209-7C90502106C9",
+      "properties" : {
+        "name" : "里仁",
+        "address" : "花蓮縣花蓮市中華路243號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -863,13 +930,14 @@
           121.60175,
           23.974910000000001
         ]
-      },
-      "properties" : {
-        "name" : "里仁",
-        "address" : "花蓮縣花蓮市中華路243號"
       }
     },
     {
+      "id" : "FF225046-AC61-42F5-A5F3-C18D1BC93E44",
+      "properties" : {
+        "name" : "吉美素館",
+        "address" : "花蓮縣吉安鄉建昌路172-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -877,13 +945,14 @@
           121.59200300000001,
           23.989298999999999
         ]
-      },
-      "properties" : {
-        "name" : "吉美素館",
-        "address" : "花蓮縣吉安鄉建昌路172-1號"
       }
     },
     {
+      "id" : "B303A9BF-9DF4-4EE2-A350-23556F38926E",
+      "properties" : {
+        "name" : "蓮慈蔬軒",
+        "address" : "花蓮縣花蓮市建國路290號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -891,13 +960,14 @@
           121.59896000000001,
           23.984483000000001
         ]
-      },
-      "properties" : {
-        "name" : "蓮慈蔬軒",
-        "address" : "花蓮縣花蓮市建國路290號"
       }
     },
     {
+      "id" : "17B1AD86-FDE5-4C0A-875C-0C708D0DE0FD",
+      "properties" : {
+        "name" : "慈昕素食館",
+        "address" : "花蓮縣花蓮市中華路287號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -905,13 +975,14 @@
           121.5994956,
           23.974954100000001
         ]
-      },
-      "properties" : {
-        "name" : "慈昕素食館",
-        "address" : "花蓮縣花蓮市中華路287號"
       }
     },
     {
+      "id" : "BFE615E3-D545-4FFC-A42C-8EF766DE6D17",
+      "properties" : {
+        "name" : "活力素食早餐吧",
+        "address" : "花蓮縣花蓮市中央路三段822號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -919,13 +990,14 @@
           121.59205799999999,
           23.992918
         ]
-      },
-      "properties" : {
-        "name" : "活力素食早餐吧",
-        "address" : "花蓮縣花蓮市中央路三段822號"
       }
     },
     {
+      "id" : "BB1F69DB-F75B-4DF7-A4E1-CE1539CD1D79",
+      "properties" : {
+        "name" : "Loving Hut",
+        "address" : "花蓮縣吉安鄉自強路503號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -933,13 +1005,14 @@
           121.591346,
           23.986305000000002
         ]
-      },
-      "properties" : {
-        "name" : "Loving Hut",
-        "address" : "花蓮縣吉安鄉自強路503號"
       }
     },
     {
+      "id" : "BD59AE3C-BC6D-406D-9FE3-B068F73A4B84",
+      "properties" : {
+        "name" : "花蓮素食章魚燒",
+        "address" : "花蓮縣吉安鄉中山路二段63號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -947,13 +1020,14 @@
           121.58384,
           23.970556999999999
         ]
-      },
-      "properties" : {
-        "name" : "花蓮素食章魚燒",
-        "address" : "花蓮縣吉安鄉中山路二段63號"
       }
     },
     {
+      "id" : "01ECB83B-1676-4529-9904-E56B69565227",
+      "properties" : {
+        "name" : "Farmers' Kitchen",
+        "address" : "花蓮縣花蓮市中山路407號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -961,13 +1035,14 @@
           121.604984,
           23.982291
         ]
-      },
-      "properties" : {
-        "name" : "Farmers' Kitchen",
-        "address" : "花蓮縣花蓮市中山路407號"
       }
     },
     {
+      "id" : "515905C2-AE3E-481C-9B1A-16BB051FBCC9",
+      "properties" : {
+        "name" : "潤 素食小吃 滷味 炸物",
+        "address" : "花蓮縣花蓮市建國路二段368號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -975,13 +1050,14 @@
           121.56452,
           23.997421899999999
         ]
-      },
-      "properties" : {
-        "name" : "潤 素食小吃 滷味 炸物",
-        "address" : "花蓮縣花蓮市建國路二段368號"
       }
     },
     {
+      "id" : "A063AE0C-9F64-44F9-96DA-C973EB6E8179",
+      "properties" : {
+        "name" : "美欣素食餐廳",
+        "address" : "花蓮縣花蓮市民國路75號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -989,13 +1065,14 @@
           121.603486,
           23.977568000000002
         ]
-      },
-      "properties" : {
-        "name" : "美欣素食餐廳",
-        "address" : "花蓮縣花蓮市民國路75號"
       }
     },
     {
+      "id" : "42F6BD65-DFBA-4D0B-8235-1538FC4535D2",
+      "properties" : {
+        "name" : "素食麵店水餃",
+        "address" : "花蓮縣花蓮市德安一街81號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1003,13 +1080,14 @@
           121.59517,
           23.973316000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食麵店水餃",
-        "address" : "花蓮縣花蓮市德安一街81號"
       }
     },
     {
+      "id" : "402EF689-F11A-4CBB-BFA3-C918CC4F055C",
+      "properties" : {
+        "name" : "一心素食早點",
+        "address" : "花蓮縣吉安鄉中央路三段403號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1017,13 +1095,14 @@
           121.585993,
           23.984224999999999
         ]
-      },
-      "properties" : {
-        "name" : "一心素食早點",
-        "address" : "花蓮縣吉安鄉中央路三段403號"
       }
     },
     {
+      "id" : "6D8A8FCB-EDA3-4B4D-8E5F-E547D2545F15",
+      "properties" : {
+        "name" : "中一豆花",
+        "address" : "花蓮縣花蓮市民權五街2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1031,13 +1110,14 @@
           121.62210399999999,
           23.984850000000002
         ]
-      },
-      "properties" : {
-        "name" : "中一豆花",
-        "address" : "花蓮縣花蓮市民權五街2號"
       }
     },
     {
+      "id" : "05F37F43-5673-49F4-8300-0FC486C9566B",
+      "properties" : {
+        "name" : "素食早餐",
+        "address" : "花蓮縣花蓮市南京街50號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1045,13 +1125,14 @@
           121.602109,
           23.971682000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食早餐",
-        "address" : "花蓮縣花蓮市南京街50號"
       }
     },
     {
+      "id" : "89234F8D-2B3A-4402-A2D3-63F8B24F504F",
+      "properties" : {
+        "name" : "圓美蛋糕麵包店",
+        "address" : "花蓮縣吉安鄉南山五街40號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1059,13 +1140,14 @@
           121.579269,
           23.974962999999999
         ]
-      },
-      "properties" : {
-        "name" : "圓美蛋糕麵包店",
-        "address" : "花蓮縣吉安鄉南山五街40號"
       }
     },
     {
+      "id" : "21EF0BEF-5FC5-43B3-8C5A-6A4D096DE4F4",
+      "properties" : {
+        "name" : "美滿蔬房",
+        "address" : "花蓮縣吉安鄉明仁二街177巷8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1073,13 +1155,14 @@
           121.575048,
           23.989225999999999
         ]
-      },
-      "properties" : {
-        "name" : "美滿蔬房",
-        "address" : "花蓮縣吉安鄉明仁二街177巷8號"
       }
     },
     {
+      "id" : "B5E88CC5-C147-4B8B-98A2-EBE4FE11A003",
+      "properties" : {
+        "name" : "花蓮自強全素食",
+        "address" : "花蓮縣吉安鄉自強路63-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1087,13 +1170,14 @@
           121.58537200000001,
           23.977678999999998
         ]
-      },
-      "properties" : {
-        "name" : "花蓮自強全素食",
-        "address" : "花蓮縣吉安鄉自強路63-3號"
       }
     },
     {
+      "id" : "A6A74405-E36B-4F56-9CE7-7FFE312CBFA8",
+      "properties" : {
+        "name" : "玉里素食",
+        "address" : "花蓮縣玉里鎮大同路59號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1101,13 +1185,14 @@
           121.31399999999999,
           23.326685000000001
         ]
-      },
-      "properties" : {
-        "name" : "玉里素食",
-        "address" : "花蓮縣玉里鎮大同路59號"
       }
     },
     {
+      "id" : "AB044BCA-1832-4B57-87BB-383B513AA92E",
+      "properties" : {
+        "name" : "蛋奶樹蔬食私人廚房",
+        "address" : "花蓮縣吉安鄉吉祥十二街10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1115,13 +1200,14 @@
           121.584227,
           23.975717
         ]
-      },
-      "properties" : {
-        "name" : "蛋奶樹蔬食私人廚房",
-        "address" : "花蓮縣吉安鄉吉祥十二街10號"
       }
     },
     {
+      "id" : "6CF38436-C38B-448A-B4A9-EB5F59D5D67E",
+      "properties" : {
+        "name" : "今元素食早點",
+        "address" : "花蓮縣花蓮市中福路41號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1129,13 +1215,14 @@
           121.60326499999999,
           23.970324999999999
         ]
-      },
-      "properties" : {
-        "name" : "今元素食早點",
-        "address" : "花蓮縣花蓮市中福路41號"
       }
     },
     {
+      "id" : "F44288A2-6F44-4F7C-BA60-F1B19A48BF8A",
+      "properties" : {
+        "name" : "得來素蔬食早午餐",
+        "address" : "花蓮縣花蓮市富國路82-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1143,13 +1230,14 @@
           121.594824,
           23.990387999999999
         ]
-      },
-      "properties" : {
-        "name" : "得來素蔬食早午餐",
-        "address" : "花蓮縣花蓮市富國路82-2號"
       }
     },
     {
+      "id" : "29C80642-4D61-4B1F-B51C-61C2C506F6D0",
+      "properties" : {
+        "name" : "悅香素食館",
+        "address" : "花蓮縣吉安鄉建國路一段148號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1157,13 +1245,14 @@
           121.590936,
           23.986236000000002
         ]
-      },
-      "properties" : {
-        "name" : "悅香素食館",
-        "address" : "花蓮縣吉安鄉建國路一段148號"
       }
     },
     {
+      "id" : "43F0FBE3-1C41-497A-8B85-3AC02B7BBF74",
+      "properties" : {
+        "name" : "義蓮山莊 素食養生民宿",
+        "address" : "花蓮縣花蓮市國福街289巷155號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1171,13 +1260,14 @@
           121.578642,
           24.01558
         ]
-      },
-      "properties" : {
-        "name" : "義蓮山莊 素食養生民宿",
-        "address" : "花蓮縣花蓮市國福街289巷155號"
       }
     },
     {
+      "id" : "C4022451-0B76-434A-B6E5-B0C33C32731C",
+      "properties" : {
+        "name" : "時光1939",
+        "address" : "花蓮縣花蓮市民國路80巷16號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1185,13 +1275,14 @@
           121.60925400000001,
           23.980422000000001
         ]
-      },
-      "properties" : {
-        "name" : "時光1939",
-        "address" : "花蓮縣花蓮市民國路80巷16號"
       }
     },
     {
+      "id" : "92B2A7A7-ED83-4C68-9DC6-4041EF9868C3",
+      "properties" : {
+        "name" : "日曬果咖啡蔬食",
+        "address" : "花蓮縣花蓮市延平街101號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1199,13 +1290,14 @@
           121.601303,
           23.984777000000001
         ]
-      },
-      "properties" : {
-        "name" : "日曬果咖啡蔬食",
-        "address" : "花蓮縣花蓮市延平街101號"
       }
     },
     {
+      "id" : "ED4CF857-F7C3-4C52-95C2-EEB457F06BBB",
+      "properties" : {
+        "name" : "青田蔬食 咖啡、簡餐、下午茶",
+        "address" : "花蓮縣花蓮市建國路258號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1213,13 +1305,14 @@
           121.59961199999999,
           23.984362999999998
         ]
-      },
-      "properties" : {
-        "name" : "青田蔬食 咖啡、簡餐、下午茶",
-        "address" : "花蓮縣花蓮市建國路258號"
       }
     },
     {
+      "id" : "BBF38344-FD9B-4932-9833-71B10534AEF5",
+      "properties" : {
+        "name" : "明園素食坊",
+        "address" : "花蓮縣花蓮市國富十街8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1227,13 +1320,14 @@
           121.59675,
           23.98827
         ]
-      },
-      "properties" : {
-        "name" : "明園素食坊",
-        "address" : "花蓮縣花蓮市國富十街8號"
       }
     },
     {
+      "id" : "09754995-F864-4BCE-AE20-CD4B9B657653",
+      "properties" : {
+        "name" : "嘉里素食",
+        "address" : "花蓮縣新城鄉嘉里三街115-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1241,13 +1335,14 @@
           121.605868,
           24.018896000000002
         ]
-      },
-      "properties" : {
-        "name" : "嘉里素食",
-        "address" : "花蓮縣新城鄉嘉里三街115-3號"
       }
     },
     {
+      "id" : "0C6F44CB-F985-4381-9E3E-E47642FD9AF9",
+      "properties" : {
+        "name" : "众蔬食咖啡店",
+        "address" : "花蓮縣花蓮市中山路624號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1255,13 +1350,14 @@
           121.596908,
           23.993366999999999
         ]
-      },
-      "properties" : {
-        "name" : "众蔬食咖啡店",
-        "address" : "花蓮縣花蓮市中山路624號"
       }
     },
     {
+      "id" : "22B3F9CE-F1C8-41BA-8C24-094A535D6AF9",
+      "properties" : {
+        "name" : "一粒米坊",
+        "address" : "花蓮縣吉安鄉建國路二段389號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1269,13 +1365,14 @@
           121.5693303,
           23.994524200000001
         ]
-      },
-      "properties" : {
-        "name" : "一粒米坊",
-        "address" : "花蓮縣吉安鄉建國路二段389號"
       }
     },
     {
+      "id" : "14B0A652-613A-4218-8C07-07F126E4D6D3",
+      "properties" : {
+        "name" : "綠色大地養生素食坊",
+        "address" : "花蓮縣花蓮市建國路142號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1283,13 +1380,14 @@
           121.602187,
           23.983858999999999
         ]
-      },
-      "properties" : {
-        "name" : "綠色大地養生素食坊",
-        "address" : "花蓮縣花蓮市建國路142號"
       }
     },
     {
+      "id" : "45AD0060-4CC0-4F7D-9848-8CA3346A1F25",
+      "properties" : {
+        "name" : "Fortunate Coffee",
+        "address" : "花蓮縣玉里鎮忠智路5-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1297,13 +1395,14 @@
           121.32084500000001,
           23.32489
         ]
-      },
-      "properties" : {
-        "name" : "Fortunate Coffee",
-        "address" : "花蓮縣玉里鎮忠智路5-1號"
       }
     },
     {
+      "id" : "48D7CE0F-9132-41F6-9513-05D3E02B3E55",
+      "properties" : {
+        "name" : "慧萊素食",
+        "address" : "花蓮縣花蓮市中山路883號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1311,13 +1410,14 @@
           121.595584,
           23.994254999999999
         ]
-      },
-      "properties" : {
-        "name" : "慧萊素食",
-        "address" : "花蓮縣花蓮市中山路883號"
       }
     },
     {
+      "id" : "BE1F7402-C0D4-4F27-8FDD-E00A87714F77",
+      "properties" : {
+        "name" : "欣然素食餐館",
+        "address" : "花蓮縣吉安鄉睦和街41巷5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1325,13 +1425,14 @@
           121.591325,
           23.975379
         ]
-      },
-      "properties" : {
-        "name" : "欣然素食餐館",
-        "address" : "花蓮縣吉安鄉睦和街41巷5號"
       }
     },
     {
+      "id" : "03B8F8B1-611C-4A20-8C0B-E497DFE53174",
+      "properties" : {
+        "name" : "素食",
+        "address" : "花蓮縣新城鄉復興路262號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1339,13 +1440,14 @@
           121.60295979999999,
           24.0325883
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "花蓮縣新城鄉復興路262號"
       }
     },
     {
+      "id" : "F49DD6E0-5C57-46D4-A5F2-24E58EA2BDC7",
+      "properties" : {
+        "name" : "曼舒蔬食民宿-市區館",
+        "address" : "花蓮縣吉安鄉明仁一街107巷7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1353,13 +1455,14 @@
           121.57713699999999,
           23.990780000000001
         ]
-      },
-      "properties" : {
-        "name" : "曼舒蔬食民宿-市區館",
-        "address" : "花蓮縣吉安鄉明仁一街107巷7號"
       }
     },
     {
+      "id" : "EDE38EFE-F3F0-44B1-A069-CAC401A17EAD",
+      "properties" : {
+        "name" : "曼舒新城 。花蓮太魯閣海岸蔬食民宿",
+        "address" : "花蓮縣新城鄉中山路2-15號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1367,13 +1470,14 @@
           121.650701,
           24.123971999999998
         ]
-      },
-      "properties" : {
-        "name" : "曼舒新城 。花蓮太魯閣海岸蔬食民宿",
-        "address" : "花蓮縣新城鄉中山路2-15號"
       }
     },
     {
+      "id" : "2A35E970-47BA-46C9-9E40-30355A66C6D4",
+      "properties" : {
+        "name" : "慈光素食",
+        "address" : "花蓮縣玉里鎮中山路二段126號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1381,13 +1485,14 @@
           121.314531,
           23.334819
         ]
-      },
-      "properties" : {
-        "name" : "慈光素食",
-        "address" : "花蓮縣玉里鎮中山路二段126號"
       }
     },
     {
+      "id" : "89ECCC7F-A78E-491D-8A99-03C8A7600D6C",
+      "properties" : {
+        "name" : "Piatto+菜",
+        "address" : "花蓮縣花蓮市仁愛街28號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1395,13 +1500,14 @@
           121.606427,
           23.972926000000001
         ]
-      },
-      "properties" : {
-        "name" : "Piatto+菜",
-        "address" : "花蓮縣花蓮市仁愛街28號"
       }
     },
     {
+      "id" : "0437842F-1BBD-402F-A78A-4D0FEDDC614C",
+      "properties" : {
+        "name" : "感覺廚房 Feeling Kitchen",
+        "address" : "花蓮縣花蓮市仁愛街71-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1409,13 +1515,14 @@
           121.60347,
           23.976472999999999
         ]
-      },
-      "properties" : {
-        "name" : "感覺廚房 Feeling Kitchen",
-        "address" : "花蓮縣花蓮市仁愛街71-1號"
       }
     },
     {
+      "id" : "1B64990B-004E-4A7B-A81D-D8CDFCB6D2B0",
+      "properties" : {
+        "name" : "曬太陽小館",
+        "address" : "花蓮縣吉安鄉明義二街102號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1423,13 +1530,14 @@
           121.56828899999999,
           23.986245
         ]
-      },
-      "properties" : {
-        "name" : "曬太陽小館",
-        "address" : "花蓮縣吉安鄉明義二街102號"
       }
     },
     {
+      "id" : "7F49667F-5132-46B1-937F-07DE49459CF3",
+      "properties" : {
+        "name" : "瑞穗驛站",
+        "address" : "花蓮縣瑞穗鄉中山路一段6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1437,13 +1545,14 @@
           121.37708600000001,
           23.497588
         ]
-      },
-      "properties" : {
-        "name" : "瑞穗驛站",
-        "address" : "花蓮縣瑞穗鄉中山路一段6號"
       }
     },
     {
+      "id" : "E092B799-D0B8-4DF1-9383-062C8AAEDEA0",
+      "properties" : {
+        "name" : "蓮心素食館",
+        "address" : "花蓮縣花蓮市和平路457號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1451,13 +1560,14 @@
           121.601866,
           23.975794
         ]
-      },
-      "properties" : {
-        "name" : "蓮心素食館",
-        "address" : "花蓮縣花蓮市和平路457號"
       }
     },
     {
+      "id" : "F125BF33-768A-49F8-BD4C-08D54AD5DCCE",
+      "properties" : {
+        "name" : "茱諾素食烘焙",
+        "address" : "花蓮縣花蓮市五權街28號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1465,13 +1575,14 @@
           121.61389699999999,
           23.973882
         ]
-      },
-      "properties" : {
-        "name" : "茱諾素食烘焙",
-        "address" : "花蓮縣花蓮市五權街28號"
       }
     },
     {
+      "id" : "2E8998D1-E5FE-411B-9076-4215CE55ECCD",
+      "properties" : {
+        "name" : "國香園素食",
+        "address" : "花蓮縣花蓮市民國路139-5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1479,13 +1590,14 @@
           121.60656299999999,
           23.979664
         ]
-      },
-      "properties" : {
-        "name" : "國香園素食",
-        "address" : "花蓮縣花蓮市民國路139-5號"
       }
     },
     {
+      "id" : "9D23A189-D8A3-4D17-9F11-78E44CAF84AF",
+      "properties" : {
+        "name" : "妙蟬味蔬食百匯",
+        "address" : "花蓮縣花蓮市中山路一段23號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1493,13 +1605,14 @@
           121.59352,
           23.996680000000001
         ]
-      },
-      "properties" : {
-        "name" : "妙蟬味蔬食百匯",
-        "address" : "花蓮縣花蓮市中山路一段23號"
       }
     },
     {
+      "id" : "D941A511-C7D9-45EE-B882-402F6CD654C6",
+      "properties" : {
+        "name" : "石壁行歌",
+        "address" : "花蓮縣花蓮市石壁街171號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1507,10 +1620,6 @@
           121.56130400000001,
           24.003917000000001
         ]
-      },
-      "properties" : {
-        "name" : "石壁行歌",
-        "address" : "花蓮縣花蓮市石壁街171號"
       }
     }
   ]

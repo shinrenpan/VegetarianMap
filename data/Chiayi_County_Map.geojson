@@ -1,7 +1,13 @@
 {
   "type" : "FeatureCollection",
+  "areaCode" : 602,
   "features" : [
     {
+      "id" : "40AAE02C-D8D0-46AA-8589-5E477572C717",
+      "properties" : {
+        "name" : "南華館滴水坊",
+        "address" : "嘉義縣大林鎮中興路二段163號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -9,13 +15,14 @@
           120.469314,
           23.603438000000001
         ]
-      },
-      "properties" : {
-        "name" : "南華館滴水坊",
-        "address" : "嘉義縣大林鎮中興路二段163號"
       }
     },
     {
+      "id" : "80BFC65A-2B9C-46FC-88D3-E6740523080A",
+      "properties" : {
+        "name" : "天心蔬食坊",
+        "address" : "嘉義縣大林鎮平林里新興街104巷26號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -23,13 +30,14 @@
           120.4586604,
           23.602910300000001
         ]
-      },
-      "properties" : {
-        "name" : "天心蔬食坊",
-        "address" : "嘉義縣大林鎮平林里新興街104巷26號"
       }
     },
     {
+      "id" : "2C71B52D-766F-4E50-99C5-BFF688817374",
+      "properties" : {
+        "name" : "波尼塔香草花園",
+        "address" : "嘉義縣中埔鄉興化路46-9號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -37,13 +45,14 @@
           120.52370500000001,
           23.426138000000002
         ]
-      },
-      "properties" : {
-        "name" : "波尼塔香草花園",
-        "address" : "嘉義縣中埔鄉興化路46-9號"
       }
     },
     {
+      "id" : "04B643AF-AC4D-47ED-B450-E204284FA4C5",
+      "properties" : {
+        "name" : "彥美素食小館",
+        "address" : "嘉義縣朴子市中正路128號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -51,13 +60,14 @@
           120.24579,
           23.467088
         ]
-      },
-      "properties" : {
-        "name" : "彥美素食小館",
-        "address" : "嘉義縣朴子市中正路128號"
       }
     },
     {
+      "id" : "6A3BCB81-F5AA-4771-85D0-32ACD452B569",
+      "properties" : {
+        "name" : "PC’s 蔬房",
+        "address" : "嘉義縣民雄鄉文化路26-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -65,13 +75,14 @@
           120.428196,
           23.550484000000001
         ]
-      },
-      "properties" : {
-        "name" : "PC’s 蔬房",
-        "address" : "嘉義縣民雄鄉文化路26-3號"
       }
     },
     {
+      "id" : "7519BFE0-C75E-472E-B264-66816BCB3FFD",
+      "properties" : {
+        "name" : "鴻哥冰滷味",
+        "address" : "嘉義縣水上鄉中興路59號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -79,13 +90,14 @@
           120.40642099999999,
           23.428795999999998
         ]
-      },
-      "properties" : {
-        "name" : "鴻哥冰滷味",
-        "address" : "嘉義縣水上鄉中興路59號"
       }
     },
     {
+      "id" : "A35D4C32-5BE3-41FF-BCC6-4537E4B7CA63",
+      "properties" : {
+        "name" : "明心園禪靜渡假茶莊",
+        "address" : "嘉義縣番路鄉公田村龍頭18-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -93,13 +105,14 @@
           120.550526,
           23.464867000000002
         ]
-      },
-      "properties" : {
-        "name" : "明心園禪靜渡假茶莊",
-        "address" : "嘉義縣番路鄉公田村龍頭18-1號"
       }
     },
     {
+      "id" : "89AA7FDB-DD7A-4420-BD3C-AF92C9EC219C",
+      "properties" : {
+        "name" : "小蓮素食鹽酥G",
+        "address" : "嘉義縣朴子市海通路21-8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -107,13 +120,14 @@
           120.24499900000001,
           23.463768000000002
         ]
-      },
-      "properties" : {
-        "name" : "小蓮素食鹽酥G",
-        "address" : "嘉義縣朴子市海通路21-8號"
       }
     },
     {
+      "id" : "3F8CDD99-3609-4C6E-A9D3-BF6EC3EC7444",
+      "properties" : {
+        "name" : "喜樂蔬食會館",
+        "address" : "嘉義縣番路鄉下坑村55-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -121,13 +135,14 @@
           120.543216,
           23.471067000000001
         ]
-      },
-      "properties" : {
-        "name" : "喜樂蔬食會館",
-        "address" : "嘉義縣番路鄉下坑村55-1號"
       }
     },
     {
+      "id" : "AD161FE4-C8F0-402A-8D5B-F4BB13BDB0AF",
+      "properties" : {
+        "name" : "南華大學滴水坊",
+        "address" : "嘉義縣大林鎮中坑32號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -135,13 +150,14 @@
           120.493253,
           23.579934999999999
         ]
-      },
-      "properties" : {
-        "name" : "南華大學滴水坊",
-        "address" : "嘉義縣大林鎮中坑32號"
       }
     },
     {
+      "id" : "C0C1479B-70A7-466F-B0E0-BE8C3AA201F8",
+      "properties" : {
+        "name" : "嘉義素食麵",
+        "address" : "嘉義縣中埔鄉中山路五段876號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -149,13 +165,14 @@
           120.46054460000001,
           23.452013699999998
         ]
-      },
-      "properties" : {
-        "name" : "嘉義素食麵",
-        "address" : "嘉義縣中埔鄉中山路五段876號"
       }
     },
     {
+      "id" : "BEC4047C-BD47-495E-A38D-6D171783AA13",
+      "properties" : {
+        "name" : "瑞美珍食品",
+        "address" : "嘉義縣新港鄉共和村頂菜園2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -163,13 +180,14 @@
           120.367116,
           23.576343000000001
         ]
-      },
-      "properties" : {
-        "name" : "瑞美珍食品",
-        "address" : "嘉義縣新港鄉共和村頂菜園2號"
       }
     },
     {
+      "id" : "BBFAAF9D-36F3-49C7-9E46-38DC9F776E13",
+      "properties" : {
+        "name" : "天恩素食筵席中心",
+        "address" : "嘉義縣中埔鄉中華路700號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -177,13 +195,14 @@
           120.458135,
           23.446321999999999
         ]
-      },
-      "properties" : {
-        "name" : "天恩素食筵席中心",
-        "address" : "嘉義縣中埔鄉中華路700號"
       }
     },
     {
+      "id" : "B64580E8-253D-4040-9247-114BCAAD9BA0",
+      "properties" : {
+        "name" : "康師傅御膳",
+        "address" : "嘉義縣朴子市南通路三段739號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -191,13 +210,14 @@
           120.242907,
           23.463141
         ]
-      },
-      "properties" : {
-        "name" : "康師傅御膳",
-        "address" : "嘉義縣朴子市南通路三段739號"
       }
     },
     {
+      "id" : "5A8499F2-5856-49B9-95E2-DF50B1D06411",
+      "properties" : {
+        "name" : "朴子素食",
+        "address" : "嘉義縣朴子市海通路41號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -205,13 +225,14 @@
           120.241748,
           23.463697
         ]
-      },
-      "properties" : {
-        "name" : "朴子素食",
-        "address" : "嘉義縣朴子市海通路41號"
       }
     },
     {
+      "id" : "1766437E-A583-4455-BD93-1CF8B2B2A190",
+      "properties" : {
+        "name" : "樸素齋坊",
+        "address" : "嘉義縣朴子市市西路7-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -219,13 +240,14 @@
           120.24336,
           23.470576000000001
         ]
-      },
-      "properties" : {
-        "name" : "樸素齋坊",
-        "address" : "嘉義縣朴子市市西路7-2號"
       }
     },
     {
+      "id" : "8A4B793D-0FAF-4FCF-B9A8-B517B56944D9",
+      "properties" : {
+        "name" : "同心素食",
+        "address" : "嘉義縣新港鄉登雲路11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -233,13 +255,14 @@
           120.34939300000001,
           23.555465999999999
         ]
-      },
-      "properties" : {
-        "name" : "同心素食",
-        "address" : "嘉義縣新港鄉登雲路11號"
       }
     },
     {
+      "id" : "5D5850E0-6DD8-4368-8D6F-6503809B8F91",
+      "properties" : {
+        "name" : "德心素食之家",
+        "address" : "嘉義縣新港鄉中正路136號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -247,13 +270,14 @@
           120.34715,
           23.559183000000001
         ]
-      },
-      "properties" : {
-        "name" : "德心素食之家",
-        "address" : "嘉義縣新港鄉中正路136號"
       }
     },
     {
+      "id" : "E8C6F579-F990-4512-A2CA-C0C741161E82",
+      "properties" : {
+        "name" : "素根菩提館",
+        "address" : "嘉義縣梅山鄉中山路313號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -261,13 +285,14 @@
           120.55631099999999,
           23.584499999999998
         ]
-      },
-      "properties" : {
-        "name" : "素根菩提館",
-        "address" : "嘉義縣梅山鄉中山路313號"
       }
     },
     {
+      "id" : "301F796C-4C48-4F78-B98D-29848F8C4993",
+      "properties" : {
+        "name" : "GIGOGI",
+        "address" : "嘉義縣太保市祥和三路東段85巷12號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -275,13 +300,14 @@
           120.295573,
           23.454975000000001
         ]
-      },
-      "properties" : {
-        "name" : "GIGOGI",
-        "address" : "嘉義縣太保市祥和三路東段85巷12號"
       }
     },
     {
+      "id" : "DAA74BEC-FE01-401A-BA5B-898422FDAB06",
+      "properties" : {
+        "name" : "味川素食館",
+        "address" : "嘉義縣民雄鄉文化路33-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -289,13 +315,14 @@
           120.42992219999999,
           23.552791899999999
         ]
-      },
-      "properties" : {
-        "name" : "味川素食館",
-        "address" : "嘉義縣民雄鄉文化路33-2號"
       }
     },
     {
+      "id" : "48F975F7-282A-432C-A504-5AD0453D974A",
+      "properties" : {
+        "name" : "光禾素食材料",
+        "address" : "嘉義縣新港鄉中正路140巷37號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -303,13 +330,14 @@
           120.34827679999999,
           23.559053500000001
         ]
-      },
-      "properties" : {
-        "name" : "光禾素食材料",
-        "address" : "嘉義縣新港鄉中正路140巷37號"
       }
     },
     {
+      "id" : "E263AFA5-13CB-4A60-BBDE-70815747F8BC",
+      "properties" : {
+        "name" : "一心素食自助餐",
+        "address" : "嘉義縣水上鄉水頭村正義路21號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -317,13 +345,14 @@
           120.40008400000001,
           23.430606000000001
         ]
-      },
-      "properties" : {
-        "name" : "一心素食自助餐",
-        "address" : "嘉義縣水上鄉水頭村正義路21號"
       }
     },
     {
+      "id" : "AA9FEDA9-A274-4D71-889F-9D60FF8C111E",
+      "properties" : {
+        "name" : "臭仙臭豆腐",
+        "address" : "嘉義縣民雄鄉復興路49號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -331,13 +360,14 @@
           120.42959399999999,
           23.557321999999999
         ]
-      },
-      "properties" : {
-        "name" : "臭仙臭豆腐",
-        "address" : "嘉義縣民雄鄉復興路49號"
       }
     },
     {
+      "id" : "2AD9FBC2-2F20-4F6A-9CEF-8FD6CB759BDC",
+      "properties" : {
+        "name" : "心緣素料專賣店",
+        "address" : "嘉義縣朴子市市西路37號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -345,13 +375,14 @@
           120.24336,
           23.470576000000001
         ]
-      },
-      "properties" : {
-        "name" : "心緣素料專賣店",
-        "address" : "嘉義縣朴子市市西路37號"
       }
     },
     {
+      "id" : "459469F0-62D8-4488-858F-55C7AE9B6676",
+      "properties" : {
+        "name" : "素食麵線、碗粿",
+        "address" : "嘉義縣新港鄉中正路140巷31號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -359,13 +390,14 @@
           120.348749,
           23.559072
         ]
-      },
-      "properties" : {
-        "name" : "素食麵線、碗粿",
-        "address" : "嘉義縣新港鄉中正路140巷31號"
       }
     },
     {
+      "id" : "D38D874B-248A-4452-929E-CB910BED02F7",
+      "properties" : {
+        "name" : "元氣素食",
+        "address" : "嘉義縣民雄鄉文化路3-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -373,13 +405,14 @@
           120.42816000000001,
           23.550719999999998
         ]
-      },
-      "properties" : {
-        "name" : "元氣素食",
-        "address" : "嘉義縣民雄鄉文化路3-3號"
       }
     },
     {
+      "id" : "ADCD5D8D-5F38-482E-A396-0B34E2C7F507",
+      "properties" : {
+        "name" : "維康素食簡餐",
+        "address" : "嘉義縣大林鎮民生路2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -387,13 +420,14 @@
           120.457571,
           23.596361999999999
         ]
-      },
-      "properties" : {
-        "name" : "維康素食簡餐",
-        "address" : "嘉義縣大林鎮民生路2號"
       }
     },
     {
+      "id" : "FD39E089-8712-4CBA-9BC7-C86AF1862B19",
+      "properties" : {
+        "name" : "樂野仙蹤\/福山食堂",
+        "address" : "嘉義縣阿里山鄉樂野村2鄰70附2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -401,13 +435,14 @@
           120.504147,
           23.463401999999999
         ]
-      },
-      "properties" : {
-        "name" : "樂野仙蹤\/福山食堂",
-        "address" : "嘉義縣阿里山鄉樂野村2鄰70附2號"
       }
     },
     {
+      "id" : "5C6C3155-716D-4205-BDF1-173E5CF11833",
+      "properties" : {
+        "name" : "蔬食早餐",
+        "address" : "嘉義縣民雄鄉福樂村埤角88號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -415,13 +450,14 @@
           120.443399,
           23.527166000000001
         ]
-      },
-      "properties" : {
-        "name" : "蔬食早餐",
-        "address" : "嘉義縣民雄鄉福樂村埤角88號"
       }
     },
     {
+      "id" : "03A2A865-D6E2-4AFD-AE63-45864AC26BE9",
+      "properties" : {
+        "name" : "十方素食",
+        "address" : "嘉義縣新港鄉中山路2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -429,13 +465,14 @@
           120.347714,
           23.556322999999999
         ]
-      },
-      "properties" : {
-        "name" : "十方素食",
-        "address" : "嘉義縣新港鄉中山路2號"
       }
     },
     {
+      "id" : "8559931D-6A2C-4AAE-8885-ED92914EBD96",
+      "properties" : {
+        "name" : "雙福素食",
+        "address" : "嘉義縣民雄鄉建國路二段126號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -443,13 +480,14 @@
           120.436626,
           23.535962000000001
         ]
-      },
-      "properties" : {
-        "name" : "雙福素食",
-        "address" : "嘉義縣民雄鄉建國路二段126號"
       }
     },
     {
+      "id" : "F60D5A7E-43C5-4BEC-811F-C8818A5528B4",
+      "properties" : {
+        "name" : "百年檜木甜甜圈",
+        "address" : "嘉義縣竹崎鄉中和村奮起湖50-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -457,13 +495,14 @@
           120.55128999999999,
           23.522803
         ]
-      },
-      "properties" : {
-        "name" : "百年檜木甜甜圈",
-        "address" : "嘉義縣竹崎鄉中和村奮起湖50-2號"
       }
     },
     {
+      "id" : "9B19BBB9-6F47-4B7E-9452-CA632E5725BC",
+      "properties" : {
+        "name" : "菘園素食",
+        "address" : "嘉義縣太保市太保里2-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -471,13 +510,14 @@
           120.29276609999999,
           23.4587915
         ]
-      },
-      "properties" : {
-        "name" : "菘園素食",
-        "address" : "嘉義縣太保市太保里2-6號"
       }
     },
     {
+      "id" : "A8A13569-141B-4C28-88AD-97966E921C82",
+      "properties" : {
+        "name" : "素食自助餐",
+        "address" : "嘉義縣民雄鄉埤角90號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -485,13 +525,14 @@
           120.443399,
           23.527166000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食自助餐",
-        "address" : "嘉義縣民雄鄉埤角90號"
       }
     },
     {
+      "id" : "7CFB8538-BF82-49A5-A4E2-A9AE52D8CA53",
+      "properties" : {
+        "name" : "阿桂素食鹽酥積",
+        "address" : "嘉義縣民雄鄉建國路三段85號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -499,13 +540,14 @@
           120.439752,
           23.521894
         ]
-      },
-      "properties" : {
-        "name" : "阿桂素食鹽酥積",
-        "address" : "嘉義縣民雄鄉建國路三段85號"
       }
     },
     {
+      "id" : "30D02A4A-B5BA-4099-A084-E36CF80F59CF",
+      "properties" : {
+        "name" : "東方素食",
+        "address" : "嘉義縣布袋鎮後寮路20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -513,13 +555,14 @@
           120.1588813,
           23.378150099999999
         ]
-      },
-      "properties" : {
-        "name" : "東方素食",
-        "address" : "嘉義縣布袋鎮後寮路20號"
       }
     },
     {
+      "id" : "E4EAEDCA-4EA6-43D0-8D0D-18A61C151296",
+      "properties" : {
+        "name" : "心喜樂創意蔬食料理",
+        "address" : "嘉義縣水上鄉中興路318號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -527,13 +570,14 @@
           120.40206499999999,
           23.430499999999999
         ]
-      },
-      "properties" : {
-        "name" : "心喜樂創意蔬食料理",
-        "address" : "嘉義縣水上鄉中興路318號"
       }
     },
     {
+      "id" : "B88B07C8-3D09-4EF5-8C5A-1E66D701178F",
+      "properties" : {
+        "name" : "素食",
+        "address" : "嘉義縣新港鄉新民路28號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -541,13 +585,14 @@
           120.34711,
           23.556511
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "嘉義縣新港鄉新民路28號"
       }
     },
     {
+      "id" : "F50F77EF-B3A0-405D-8C2F-61DD111DF8FC",
+      "properties" : {
+        "name" : "健康素食早餐",
+        "address" : "嘉義縣新港鄉登雲路59號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -555,13 +600,14 @@
           120.34816499999999,
           23.55556
         ]
-      },
-      "properties" : {
-        "name" : "健康素食早餐",
-        "address" : "嘉義縣新港鄉登雲路59號"
       }
     },
     {
+      "id" : "C14752EB-9B39-4CD4-90F0-14ED253B2392",
+      "properties" : {
+        "name" : "祥賀屋素食餐館",
+        "address" : "嘉義縣朴子市祥和三路西段151號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -569,13 +615,14 @@
           120.286991,
           23.455469999999998
         ]
-      },
-      "properties" : {
-        "name" : "祥賀屋素食餐館",
-        "address" : "嘉義縣朴子市祥和三路西段151號"
       }
     },
     {
+      "id" : "3D2C024A-577C-4700-A21A-849027781D78",
+      "properties" : {
+        "name" : "天慈素食館",
+        "address" : "嘉義縣朴子市海通路52號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -583,13 +630,14 @@
           120.24380600000001,
           23.463854999999999
         ]
-      },
-      "properties" : {
-        "name" : "天慈素食館",
-        "address" : "嘉義縣朴子市海通路52號"
       }
     },
     {
+      "id" : "4F5BB958-0B97-4F80-863D-C8709CC66323",
+      "properties" : {
+        "name" : "素味珍",
+        "address" : "嘉義縣水上鄉新厝仔1-7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -597,13 +645,14 @@
           120.40234,
           23.458051000000001
         ]
-      },
-      "properties" : {
-        "name" : "素味珍",
-        "address" : "嘉義縣水上鄉新厝仔1-7號"
       }
     },
     {
+      "id" : "E8D44641-8702-495C-BB16-79DB178A841E",
+      "properties" : {
+        "name" : "麻糬棟",
+        "address" : "嘉義縣朴子市第一市場中央區72號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -611,13 +660,14 @@
           120.24336,
           23.470576000000001
         ]
-      },
-      "properties" : {
-        "name" : "麻糬棟",
-        "address" : "嘉義縣朴子市第一市場中央區72號"
       }
     },
     {
+      "id" : "5EF2F187-F90B-4244-8EF6-2D1563218AEB",
+      "properties" : {
+        "name" : "善進素食",
+        "address" : "嘉義縣水上鄉水上村中和路247號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -625,13 +675,14 @@
           120.39862100000001,
           23.430496000000002
         ]
-      },
-      "properties" : {
-        "name" : "善進素食",
-        "address" : "嘉義縣水上鄉水上村中和路247號"
       }
     },
     {
+      "id" : "849DA9B6-F124-401C-A449-7DD06BC68DEF",
+      "properties" : {
+        "name" : "慈源素麵坊",
+        "address" : "嘉義縣太保市太保二路45號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -639,13 +690,14 @@
           120.295846,
           23.458546999999999
         ]
-      },
-      "properties" : {
-        "name" : "慈源素麵坊",
-        "address" : "嘉義縣太保市太保二路45號"
       }
     },
     {
+      "id" : "B654B793-3931-42C3-BC2E-4D100ABD9349",
+      "properties" : {
+        "name" : "Zlk蔬食章魚丸子燒連鎖加盟",
+        "address" : "嘉義縣民雄鄉三興村神農路129-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -653,13 +705,14 @@
           120.471462,
           23.556826000000001
         ]
-      },
-      "properties" : {
-        "name" : "Zlk蔬食章魚丸子燒連鎖加盟",
-        "address" : "嘉義縣民雄鄉三興村神農路129-1號"
       }
     },
     {
+      "id" : "93215805-3206-4D15-8B53-461CE63CCFA5",
+      "properties" : {
+        "name" : "天地能量樂活村",
+        "address" : "嘉義縣民雄鄉北斗村北勢子82-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -667,13 +720,14 @@
           120.45765900000001,
           23.531302
         ]
-      },
-      "properties" : {
-        "name" : "天地能量樂活村",
-        "address" : "嘉義縣民雄鄉北斗村北勢子82-2號"
       }
     },
     {
+      "id" : "F473D6FC-E084-48CD-9F5B-8D819ED7A8C5",
+      "properties" : {
+        "name" : "品道素食優質館",
+        "address" : "嘉義縣朴子市南通路三段701號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -681,13 +735,14 @@
           120.242679,
           23.462416999999999
         ]
-      },
-      "properties" : {
-        "name" : "品道素食優質館",
-        "address" : "嘉義縣朴子市南通路三段701號"
       }
     },
     {
+      "id" : "6359DCD1-C0BF-45BD-B918-73AB514F5358",
+      "properties" : {
+        "name" : "聖慧齋素食店",
+        "address" : "嘉義縣大林鎮中山路84-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -695,13 +750,14 @@
           120.455125,
           23.602613999999999
         ]
-      },
-      "properties" : {
-        "name" : "聖慧齋素食店",
-        "address" : "嘉義縣大林鎮中山路84-2號"
       }
     },
     {
+      "id" : "527FFBF3-A806-4086-B525-F2BBBF1A04B2",
+      "properties" : {
+        "name" : "養生素齋",
+        "address" : "嘉義縣番路鄉龍美6-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -709,13 +765,14 @@
           120.58265299999999,
           23.4477191
         ]
-      },
-      "properties" : {
-        "name" : "養生素齋",
-        "address" : "嘉義縣番路鄉龍美6-1號"
       }
     },
     {
+      "id" : "4AE73BB2-2851-40C2-B438-938C6C30D4AF",
+      "properties" : {
+        "name" : "如意素食店",
+        "address" : "嘉義縣水上鄉中正路175-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -723,13 +780,14 @@
           120.39774199999999,
           23.427579000000001
         ]
-      },
-      "properties" : {
-        "name" : "如意素食店",
-        "address" : "嘉義縣水上鄉中正路175-1號"
       }
     },
     {
+      "id" : "41B6AA1D-890E-439D-9AAD-BFF59C1EA513",
+      "properties" : {
+        "name" : "修幸齋",
+        "address" : "嘉義縣義竹鄉六桂村172-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -737,13 +795,14 @@
           120.243588,
           23.338075
         ]
-      },
-      "properties" : {
-        "name" : "修幸齋",
-        "address" : "嘉義縣義竹鄉六桂村172-2號"
       }
     },
     {
+      "id" : "3751306A-E08B-49A4-B25A-74BCBCD03A22",
+      "properties" : {
+        "name" : "小媽蔬房",
+        "address" : "嘉義縣大林鎮中興路二段64-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -751,13 +810,14 @@
           120.468107,
           23.602726000000001
         ]
-      },
-      "properties" : {
-        "name" : "小媽蔬房",
-        "address" : "嘉義縣大林鎮中興路二段64-1號"
       }
     },
     {
+      "id" : "DD54399D-A314-4991-A17B-158499C5B233",
+      "properties" : {
+        "name" : "素食小吃",
+        "address" : "嘉義縣鹿草鄉西井村362號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -765,13 +825,14 @@
           120.307006,
           23.415737
         ]
-      },
-      "properties" : {
-        "name" : "素食小吃",
-        "address" : "嘉義縣鹿草鄉西井村362號"
       }
     },
     {
+      "id" : "BF05E0E9-6B04-40CB-A728-E55502225814",
+      "properties" : {
+        "name" : "長青素食農產食品材料批發零售",
+        "address" : "嘉義縣大林鎮中山路72號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -779,13 +840,14 @@
           120.455409,
           23.602433999999999
         ]
-      },
-      "properties" : {
-        "name" : "長青素食農產食品材料批發零售",
-        "address" : "嘉義縣大林鎮中山路72號"
       }
     },
     {
+      "id" : "E4DCDB97-DD5D-4AB1-AD6B-B32027140AF1",
+      "properties" : {
+        "name" : "樸園有機餐飲",
+        "address" : "嘉義縣朴子市嘉朴路西段61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -793,27 +855,14 @@
           120.28749000000001,
           23.460951000000001
         ]
-      },
-      "properties" : {
-        "name" : "樸園有機餐飲",
-        "address" : "嘉義縣朴子市嘉朴路西段61號"
       }
     },
     {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          120.52370500000001,
-          23.426138000000002
-        ]
-      },
+      "id" : "20213DE2-1B59-4D18-ADCE-59517EED0C9A",
       "properties" : {
         "name" : "口留香素食",
         "address" : "嘉義縣中埔鄉富牧村庄內1-24號"
-      }
-    },
-    {
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -821,10 +870,21 @@
           120.52370500000001,
           23.426138000000002
         ]
-      },
+      }
+    },
+    {
+      "id" : "16431B06-4352-402C-B9AF-397727CFAFF8",
       "properties" : {
         "name" : "淨心齋養生素食",
         "address" : "嘉義縣中埔鄉富牧村庄內1-4號"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.52370500000001,
+          23.426138000000002
+        ]
       }
     }
   ]

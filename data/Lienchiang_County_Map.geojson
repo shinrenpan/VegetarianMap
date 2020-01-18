@@ -1,7 +1,13 @@
 {
   "type" : "FeatureCollection",
+  "areaCode" : 209,
   "features" : [
     {
+      "id" : "C7B23960-D3BF-4D85-9EAE-71666651BDFB",
+      "properties" : {
+        "name" : "楊師姐素食",
+        "address" : "連江縣南竿鄉復興村159號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -9,13 +15,14 @@
           119.95191199999999,
           26.158234
         ]
-      },
-      "properties" : {
-        "name" : "楊師姐素食",
-        "address" : "連江縣南竿鄉復興村159號"
       }
     },
     {
+      "id" : "03C19A81-CC5E-4B75-BBFE-B58F7046D879",
+      "properties" : {
+        "name" : "消遣小說出租",
+        "address" : "連江縣北竿鄉塘岐村202號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -23,13 +30,14 @@
           119.990336,
           26.223645999999999
         ]
-      },
-      "properties" : {
-        "name" : "消遣小說出租",
-        "address" : "連江縣北竿鄉塘岐村202號"
       }
     },
     {
+      "id" : "2EB93CB5-9826-4866-916A-F8B6DFAB2A87",
+      "properties" : {
+        "name" : "日光海岸",
+        "address" : "連江縣南竿鄉仁愛村1-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -37,13 +45,14 @@
           119.922352,
           26.145804999999999
         ]
-      },
-      "properties" : {
-        "name" : "日光海岸",
-        "address" : "連江縣南竿鄉仁愛村1-1號"
       }
     },
     {
+      "id" : "F2D0DD96-39DA-44D8-9AB1-07B68EF0DEC2",
+      "properties" : {
+        "name" : "素食園",
+        "address" : "連江縣南竿鄉福沃村80號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -51,10 +60,6 @@
           119.944585,
           26.162685
         ]
-      },
-      "properties" : {
-        "name" : "素食園",
-        "address" : "連江縣南竿鄉福沃村80號"
       }
     }
   ]

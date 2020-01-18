@@ -1,7 +1,13 @@
 {
   "type" : "FeatureCollection",
+  "areaCode" : 320,
   "features" : [
     {
+      "id" : "B6B9A2CB-4973-40B8-ABAB-74DDB4D76E41",
+      "properties" : {
+        "name" : "滴探蔬食x草食世代",
+        "address" : "桃園市桃園區莊敬路二段49號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -9,13 +15,14 @@
           121.2934649,
           25.022558
         ]
-      },
-      "properties" : {
-        "name" : "滴探蔬食x草食世代",
-        "address" : "桃園市桃園區莊敬路二段49號"
       }
     },
     {
+      "id" : "A43F1143-ACB9-4B71-9FB0-95B7AAD5B7BF",
+      "properties" : {
+        "name" : "大家健康素食",
+        "address" : "桃園市桃園區中正五街237號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -23,13 +30,14 @@
           121.301914,
           25.003236999999999
         ]
-      },
-      "properties" : {
-        "name" : "大家健康素食",
-        "address" : "桃園市桃園區中正五街237號"
       }
     },
     {
+      "id" : "AC9D89F9-5859-4793-A141-2AC955DB5E06",
+      "properties" : {
+        "name" : "南榮素食",
+        "address" : "桃園市蘆竹區仁和街3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -37,13 +45,14 @@
           121.25704,
           25.02617
         ]
-      },
-      "properties" : {
-        "name" : "南榮素食",
-        "address" : "桃園市蘆竹區仁和街3號"
       }
     },
     {
+      "id" : "C1E12A1D-75CD-4688-89D5-FE62E232A46C",
+      "properties" : {
+        "name" : "夢春風素食",
+        "address" : "桃園市八德區永福街76號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -51,13 +60,14 @@
           121.302029,
           24.962330999999999
         ]
-      },
-      "properties" : {
-        "name" : "夢春風素食",
-        "address" : "桃園市八德區永福街76號"
       }
     },
     {
+      "id" : "84F8E1D6-D9B1-4F70-94A2-9E2363399AE1",
+      "properties" : {
+        "name" : "健康素食",
+        "address" : "桃園市八德區和平路1152號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -65,13 +75,14 @@
           121.3225679,
           24.964107599999998
         ]
-      },
-      "properties" : {
-        "name" : "健康素食",
-        "address" : "桃園市八德區和平路1152號"
       }
     },
     {
+      "id" : "98B559E5-90AE-4BA2-8DB8-07A9629C3C5E",
+      "properties" : {
+        "name" : "蓮花瓣素食館",
+        "address" : "桃園市桃園區力行路212號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -79,13 +90,14 @@
           121.3001869,
           25.0007649
         ]
-      },
-      "properties" : {
-        "name" : "蓮花瓣素食館",
-        "address" : "桃園市桃園區力行路212號"
       }
     },
     {
+      "id" : "6B6AD6F8-2D02-42FB-BA1B-B6627B11AAA3",
+      "properties" : {
+        "name" : "招牌紅燒麵",
+        "address" : "桃園市八德區四維路58號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -93,13 +105,14 @@
           121.2963063,
           24.9604766
         ]
-      },
-      "properties" : {
-        "name" : "招牌紅燒麵",
-        "address" : "桃園市八德區四維路58號"
       }
     },
     {
+      "id" : "CCD84D3D-BAB0-48AB-A760-557BD45E07EF",
+      "properties" : {
+        "name" : "健康樹",
+        "address" : "桃園市平鎮區營德路20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -107,13 +120,14 @@
           121.2423908,
           24.924289099999999
         ]
-      },
-      "properties" : {
-        "name" : "健康樹",
-        "address" : "桃園市平鎮區營德路20號"
       }
     },
     {
+      "id" : "62310854-510F-4009-971D-DC6D676C8C72",
+      "properties" : {
+        "name" : "美馨蔬食",
+        "address" : "桃園市龜山區新樂街1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -121,13 +135,14 @@
           121.335258,
           24.994111
         ]
-      },
-      "properties" : {
-        "name" : "美馨蔬食",
-        "address" : "桃園市龜山區新樂街1號"
       }
     },
     {
+      "id" : "960ED41B-5FF2-440E-A9A0-89D594F542F2",
+      "properties" : {
+        "name" : "熊蔬食堂 素食餐車",
+        "address" : "桃園市中壢區大同路176號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -135,13 +150,14 @@
           121.2211065,
           24.956005900000001
         ]
-      },
-      "properties" : {
-        "name" : "熊蔬食堂 素食餐車",
-        "address" : "桃園市中壢區大同路176號"
       }
     },
     {
+      "id" : "7F34E633-5FE6-48B9-8635-7A5E35159F8E",
+      "properties" : {
+        "name" : "素食小吃",
+        "address" : "桃園市桃園區壽昌街20巷50號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -149,13 +165,14 @@
           121.292633,
           24.989979999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食小吃",
-        "address" : "桃園市桃園區壽昌街20巷50號"
       }
     },
     {
+      "id" : "944ABFF3-61B3-489A-9920-9A5A5B63A85F",
+      "properties" : {
+        "name" : "素食煎包",
+        "address" : "桃園市平鎮區平東路168號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -163,13 +180,14 @@
           121.249509,
           24.916433999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食煎包",
-        "address" : "桃園市平鎮區平東路168號"
       }
     },
     {
+      "id" : "1B3A1961-3BE4-4AEA-9590-90348CE2ED38",
+      "properties" : {
+        "name" : "元月齋素食比薩專賣店",
+        "address" : "桃園市大溪區康莊路157號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -177,13 +195,14 @@
           121.288757,
           24.880312
         ]
-      },
-      "properties" : {
-        "name" : "元月齋素食比薩專賣店",
-        "address" : "桃園市大溪區康莊路157號"
       }
     },
     {
+      "id" : "2D6420B1-B6F6-4338-A410-A7F7632AA72E",
+      "properties" : {
+        "name" : "聖富素食",
+        "address" : "桃園市中壢區義民路一段57號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -191,13 +210,14 @@
           121.2178443,
           24.956980900000001
         ]
-      },
-      "properties" : {
-        "name" : "聖富素食",
-        "address" : "桃園市中壢區義民路一段57號"
       }
     },
     {
+      "id" : "B8871D1D-2895-4B78-81DF-B0D5DE9CE6F6",
+      "properties" : {
+        "name" : "王牌健康素",
+        "address" : "桃園市八德區介壽路一段446號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -205,13 +225,14 @@
           121.301316,
           24.969508999999999
         ]
-      },
-      "properties" : {
-        "name" : "王牌健康素",
-        "address" : "桃園市八德區介壽路一段446號"
       }
     },
     {
+      "id" : "A1D54BFD-FEC5-46A3-A2A8-DA86624747F2",
+      "properties" : {
+        "name" : "薰香園素食坊",
+        "address" : "桃園市中壢區龍慈路245號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -219,13 +240,14 @@
           121.244552,
           24.940598999999999
         ]
-      },
-      "properties" : {
-        "name" : "薰香園素食坊",
-        "address" : "桃園市中壢區龍慈路245號"
       }
     },
     {
+      "id" : "02438367-C5FA-43ED-81B2-8D378229196D",
+      "properties" : {
+        "name" : "漱芳齋",
+        "address" : "桃園市桃園區樹仁二街138號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -233,13 +255,14 @@
           121.318968,
           24.978293000000001
         ]
-      },
-      "properties" : {
-        "name" : "漱芳齋",
-        "address" : "桃園市桃園區樹仁二街138號"
       }
     },
     {
+      "id" : "8B25C885-0397-4BCD-A7A7-5AA3628017B5",
+      "properties" : {
+        "name" : "隨緣素食館",
+        "address" : "桃園市蘆竹區上興路139號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -247,13 +270,14 @@
           121.262304,
           25.018595999999999
         ]
-      },
-      "properties" : {
-        "name" : "隨緣素食館",
-        "address" : "桃園市蘆竹區上興路139號"
       }
     },
     {
+      "id" : "2A5D4B8B-5B8B-4AC9-801B-8741DB31E231",
+      "properties" : {
+        "name" : "養生素羹麵飯",
+        "address" : "桃園市八德區四維路11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -261,13 +285,14 @@
           121.29730859999999,
           24.959710300000001
         ]
-      },
-      "properties" : {
-        "name" : "養生素羹麵飯",
-        "address" : "桃園市八德區四維路11號"
       }
     },
     {
+      "id" : "35F5A660-7EE0-4422-9074-006B3F18BC7C",
+      "properties" : {
+        "name" : "福慧素食早午餐",
+        "address" : "桃園市桃園區文中路759號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -275,13 +300,14 @@
           121.27456100000001,
           24.992719999999998
         ]
-      },
-      "properties" : {
-        "name" : "福慧素食早午餐",
-        "address" : "桃園市桃園區文中路759號"
       }
     },
     {
+      "id" : "08C95C0B-4842-4A5A-AF93-A18FA3949F48",
+      "properties" : {
+        "name" : "Firefly",
+        "address" : "桃園市中壢區中豐北路一段710號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -289,13 +315,14 @@
           121.21737899999999,
           24.978912999999999
         ]
-      },
-      "properties" : {
-        "name" : "Firefly",
-        "address" : "桃園市中壢區中豐北路一段710號"
       }
     },
     {
+      "id" : "D0E91498-80B9-4F9F-9126-AEE6474ADACF",
+      "properties" : {
+        "name" : "素心麵線",
+        "address" : "桃園市中壢區和平街8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -303,13 +330,14 @@
           121.22605299999999,
           24.954682999999999
         ]
-      },
-      "properties" : {
-        "name" : "素心麵線",
-        "address" : "桃園市中壢區和平街8號"
       }
     },
     {
+      "id" : "CAD1F446-E160-49C4-BB59-12E902FC4469",
+      "properties" : {
+        "name" : "芭舞巷花園咖啡",
+        "address" : "桃園市蘆竹區六福一路85巷21號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -317,13 +345,14 @@
           121.30149,
           25.063220000000001
         ]
-      },
-      "properties" : {
-        "name" : "芭舞巷花園咖啡",
-        "address" : "桃園市蘆竹區六福一路85巷21號"
       }
     },
     {
+      "id" : "D0E832E7-5990-4783-BD83-AF1F81AA7EFA",
+      "properties" : {
+        "name" : "游媽媽蔬食滷味",
+        "address" : "桃園市蘆竹區仁愛路一路494號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -331,13 +360,14 @@
           121.29633200000001,
           25.051803
         ]
-      },
-      "properties" : {
-        "name" : "游媽媽蔬食滷味",
-        "address" : "桃園市蘆竹區仁愛路一路494號"
       }
     },
     {
+      "id" : "88B7212A-C6C4-4D4E-8339-0224F64F9F9D",
+      "properties" : {
+        "name" : "非薯不可 - 黃金薯+杏鮑菇專營本舖",
+        "address" : "桃園市龍潭區東龍路200巷7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -345,13 +375,14 @@
           121.21520599999999,
           24.864547999999999
         ]
-      },
-      "properties" : {
-        "name" : "非薯不可 - 黃金薯+杏鮑菇專營本舖",
-        "address" : "桃園市龍潭區東龍路200巷7號"
       }
     },
     {
+      "id" : "E783DB2E-784F-422E-90F3-866D08A1C91B",
+      "properties" : {
+        "name" : "素食芋香鹹粥麵線羹",
+        "address" : "桃園市桃園區建國路137號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -359,13 +390,14 @@
           121.31014,
           24.985109000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食芋香鹹粥麵線羹",
-        "address" : "桃園市桃園區建國路137號"
       }
     },
     {
+      "id" : "1901E7EC-9952-41B5-B7FA-934D7FFCCBF7",
+      "properties" : {
+        "name" : "陳氏素食包子饅頭",
+        "address" : "桃園市桃園區延平路55號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -373,13 +405,14 @@
           121.31452229999999,
           24.9860559
         ]
-      },
-      "properties" : {
-        "name" : "陳氏素食包子饅頭",
-        "address" : "桃園市桃園區延平路55號"
       }
     },
     {
+      "id" : "8D185B57-CE38-4930-B6F4-B6B7B46B1045",
+      "properties" : {
+        "name" : "幸福素食",
+        "address" : "桃園市八德區介壽路一段72號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -387,13 +420,14 @@
           121.2997683,
           24.9595725
         ]
-      },
-      "properties" : {
-        "name" : "幸福素食",
-        "address" : "桃園市八德區介壽路一段72號"
       }
     },
     {
+      "id" : "FF6F0F59-0B64-46EC-9769-9A327B8A1AE5",
+      "properties" : {
+        "name" : "阿鴻素食",
+        "address" : "桃園市龜山區文化二路10-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -401,13 +435,14 @@
           121.3756581,
           25.0480339
         ]
-      },
-      "properties" : {
-        "name" : "阿鴻素食",
-        "address" : "桃園市龜山區文化二路10-3號"
       }
     },
     {
+      "id" : "1F58E7BC-63F6-4C19-AA4A-1DEFAE213A41",
+      "properties" : {
+        "name" : "ㄚ南素食",
+        "address" : "桃園市八德區廣福路20巷35弄44號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -415,13 +450,14 @@
           121.297783,
           24.960152999999998
         ]
-      },
-      "properties" : {
-        "name" : "ㄚ南素食",
-        "address" : "桃園市八德區廣福路20巷35弄44號"
       }
     },
     {
+      "id" : "07BB5F3D-0004-4F9D-9A43-38060A684BB2",
+      "properties" : {
+        "name" : "素寶齋",
+        "address" : "桃園市中壢區中美路一段3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -429,13 +465,14 @@
           121.224172,
           24.959123000000002
         ]
-      },
-      "properties" : {
-        "name" : "素寶齋",
-        "address" : "桃園市中壢區中美路一段3號"
       }
     },
     {
+      "id" : "DC727EA4-A2D8-46E7-B1A8-1E260E52439F",
+      "properties" : {
+        "name" : "正好素食喜餅蛋糕",
+        "address" : "桃園市桃園區中正路688號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -443,13 +480,14 @@
           121.30381199999999,
           25.006488000000001
         ]
-      },
-      "properties" : {
-        "name" : "正好素食喜餅蛋糕",
-        "address" : "桃園市桃園區中正路688號"
       }
     },
     {
+      "id" : "70B1A45A-0930-41CE-A014-9063EFCA4E9A",
+      "properties" : {
+        "name" : "禾品屋",
+        "address" : "桃園市龍潭區東龍路200巷8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -457,13 +495,14 @@
           121.2154835,
           24.864463400000002
         ]
-      },
-      "properties" : {
-        "name" : "禾品屋",
-        "address" : "桃園市龍潭區東龍路200巷8號"
       }
     },
     {
+      "id" : "273E6C36-97CA-4B11-93C4-84119401FCCB",
+      "properties" : {
+        "name" : "泰興素食館",
+        "address" : "桃園市龜山區文化三路450號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -471,13 +510,14 @@
           121.3675417,
           25.053261299999999
         ]
-      },
-      "properties" : {
-        "name" : "泰興素食館",
-        "address" : "桃園市龜山區文化三路450號"
       }
     },
     {
+      "id" : "AB413310-6A26-47F1-A500-C94C83859A10",
+      "properties" : {
+        "name" : "健康素食",
+        "address" : "桃園市龜山區文化七路101號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -485,13 +525,14 @@
           121.36453400000001,
           25.051684000000002
         ]
-      },
-      "properties" : {
-        "name" : "健康素食",
-        "address" : "桃園市龜山區文化七路101號"
       }
     },
     {
+      "id" : "80DEB21B-BE0B-4D96-B84D-38A2A8F0E14E",
+      "properties" : {
+        "name" : "君仁素料行",
+        "address" : "桃園市龍潭區龍興路102巷13號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -499,13 +540,14 @@
           121.216461,
           24.865704999999998
         ]
-      },
-      "properties" : {
-        "name" : "君仁素料行",
-        "address" : "桃園市龍潭區龍興路102巷13號"
       }
     },
     {
+      "id" : "7D6A3CB0-F525-4FD3-A8A1-B40531383751",
+      "properties" : {
+        "name" : "茹素齋",
+        "address" : "桃園市龍潭區東龍路200巷3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -513,13 +555,14 @@
           121.2150534,
           24.864484300000001
         ]
-      },
-      "properties" : {
-        "name" : "茹素齋",
-        "address" : "桃園市龍潭區東龍路200巷3號"
       }
     },
     {
+      "id" : "9EEBBA55-61D0-4152-A8BC-9873FC94453B",
+      "properties" : {
+        "name" : "大眾點心世界",
+        "address" : "桃園市中壢區中山路527號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -527,13 +570,14 @@
           121.214111,
           24.957156999999999
         ]
-      },
-      "properties" : {
-        "name" : "大眾點心世界",
-        "address" : "桃園市中壢區中山路527號"
       }
     },
     {
+      "id" : "E0FF755E-D40D-4810-A064-DDA67703A21B",
+      "properties" : {
+        "name" : "仁愛健康素食",
+        "address" : "桃園市蘆竹區仁愛路一段465號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -541,13 +585,14 @@
           121.2950919,
           25.051357400000001
         ]
-      },
-      "properties" : {
-        "name" : "仁愛健康素食",
-        "address" : "桃園市蘆竹區仁愛路一段465號"
       }
     },
     {
+      "id" : "ACBD1C9B-74A4-4C6A-B1D4-CE582BAF91B7",
+      "properties" : {
+        "name" : "柳屋素食",
+        "address" : "桃園市桃園區中正路653號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -555,13 +600,14 @@
           121.303905,
           25.005758
         ]
-      },
-      "properties" : {
-        "name" : "柳屋素食",
-        "address" : "桃園市桃園區中正路653號"
       }
     },
     {
+      "id" : "77913C22-7B8B-478A-A11F-79B9A9B29C01",
+      "properties" : {
+        "name" : "松德素食材料",
+        "address" : "桃園市中壢區中山路458號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -569,13 +615,14 @@
           121.21660369999999,
           24.956936899999999
         ]
-      },
-      "properties" : {
-        "name" : "松德素食材料",
-        "address" : "桃園市中壢區中山路458號"
       }
     },
     {
+      "id" : "36E92901-258D-4B6F-82E0-D982C2D56126",
+      "properties" : {
+        "name" : "莫內的花園",
+        "address" : "桃園市觀音區文化路坑尾段267巷80號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -583,13 +630,14 @@
           121.0935655,
           25.0176877
         ]
-      },
-      "properties" : {
-        "name" : "莫內的花園",
-        "address" : "桃園市觀音區文化路坑尾段267巷80號"
       }
     },
     {
+      "id" : "7B57E634-EF4A-4E9A-AFF5-1847ED2BCFEA",
+      "properties" : {
+        "name" : "福園品味素食",
+        "address" : "桃園市觀音區五福三街40號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -597,13 +645,14 @@
           121.14125300000001,
           25.041723000000001
         ]
-      },
-      "properties" : {
-        "name" : "福園品味素食",
-        "address" : "桃園市觀音區五福三街40號"
       }
     },
     {
+      "id" : "F8C4C156-C971-41C5-A060-2FC95C4D592E",
+      "properties" : {
+        "name" : "珈伽紅豆紫米湯圓冷熱飲專賣店",
+        "address" : "桃園市大溪區中央路99號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -611,13 +660,14 @@
           121.287599,
           24.881381000000001
         ]
-      },
-      "properties" : {
-        "name" : "珈伽紅豆紫米湯圓冷熱飲專賣店",
-        "address" : "桃園市大溪區中央路99號"
       }
     },
     {
+      "id" : "5B6F4A8D-AD00-4D0C-9171-91D9DBD2DE93",
+      "properties" : {
+        "name" : "皇嘉蔬食",
+        "address" : "桃園市中壢區莊敬路811巷16號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -625,13 +675,14 @@
           121.25513599999999,
           24.963716999999999
         ]
-      },
-      "properties" : {
-        "name" : "皇嘉蔬食",
-        "address" : "桃園市中壢區莊敬路811巷16號"
       }
     },
     {
+      "id" : "46E2E52B-112A-42D6-B55B-6723FA72A1B5",
+      "properties" : {
+        "name" : "雲自在森林咖啡",
+        "address" : "桃園市大溪區康莊路三段827巷23弄96-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -639,13 +690,14 @@
           121.27452839999999,
           24.8407996
         ]
-      },
-      "properties" : {
-        "name" : "雲自在森林咖啡",
-        "address" : "桃園市大溪區康莊路三段827巷23弄96-1號"
       }
     },
     {
+      "id" : "FA065235-F2A2-44FB-8D93-FE59556E45D8",
+      "properties" : {
+        "name" : "漢來蔬食",
+        "address" : "桃園市蘆竹區南崁路一段112號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -653,13 +705,14 @@
           121.28774900000001,
           25.053000999999998
         ]
-      },
-      "properties" : {
-        "name" : "漢來蔬食",
-        "address" : "桃園市蘆竹區南崁路一段112號"
       }
     },
     {
+      "id" : "DC9EF6BD-A611-475F-AF60-2AA214D52E0C",
+      "properties" : {
+        "name" : "蔬香坊",
+        "address" : "桃園市觀音區中山路二段504號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -667,13 +720,14 @@
           121.1327434,
           25.014495499999999
         ]
-      },
-      "properties" : {
-        "name" : "蔬香坊",
-        "address" : "桃園市觀音區中山路二段504號"
       }
     },
     {
+      "id" : "976E4873-1FF4-4D4F-81E3-2A93F74A58D0",
+      "properties" : {
+        "name" : "養生園素食",
+        "address" : "桃園市龍潭區東龍路265號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -681,13 +735,14 @@
           121.21356299999999,
           24.865808999999999
         ]
-      },
-      "properties" : {
-        "name" : "養生園素食",
-        "address" : "桃園市龍潭區東龍路265號"
       }
     },
     {
+      "id" : "DFD04B3D-F80B-474C-B571-07163A8A2EB1",
+      "properties" : {
+        "name" : "長春素食",
+        "address" : "桃園市大溪區慈康路623號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -695,13 +750,14 @@
           121.28543000000001,
           24.85106
         ]
-      },
-      "properties" : {
-        "name" : "長春素食",
-        "address" : "桃園市大溪區慈康路623號"
       }
     },
     {
+      "id" : "CCCB0507-12BE-44BC-A4FC-4C9558975459",
+      "properties" : {
+        "name" : "艾維農 歐風素食 x 藝文畫廊 Avignon Restaurant x Art Gallery",
+        "address" : "桃園市桃園區大業路一段292號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -709,13 +765,14 @@
           121.314819,
           25.009316999999999
         ]
-      },
-      "properties" : {
-        "name" : "艾維農 歐風素食 x 藝文畫廊 Avignon Restaurant x Art Gallery",
-        "address" : "桃園市桃園區大業路一段292號"
       }
     },
     {
+      "id" : "DDD734F1-B72C-492A-91E2-96BD27CDAFB0",
+      "properties" : {
+        "name" : "美馨蔬食銘傳店",
+        "address" : "桃園市龜山區德明路29號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -723,13 +780,14 @@
           121.343628,
           24.988101
         ]
-      },
-      "properties" : {
-        "name" : "美馨蔬食銘傳店",
-        "address" : "桃園市龜山區德明路29號"
       }
     },
     {
+      "id" : "7CC78317-A8F6-4E48-9DC3-AE26F388227D",
+      "properties" : {
+        "name" : "祥允香健康素食",
+        "address" : "桃園市大園區和平東路42號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -737,13 +795,14 @@
           121.19992499999999,
           25.061287
         ]
-      },
-      "properties" : {
-        "name" : "祥允香健康素食",
-        "address" : "桃園市大園區和平東路42號"
       }
     },
     {
+      "id" : "009B2428-68C1-4A4D-B242-6ED8C9733B17",
+      "properties" : {
+        "name" : "真饗早餐屋",
+        "address" : "桃園市龍潭區聖亭路八德段40號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -751,13 +810,14 @@
           121.20237179999999,
           24.873620200000001
         ]
-      },
-      "properties" : {
-        "name" : "真饗早餐屋",
-        "address" : "桃園市龍潭區聖亭路八德段40號"
       }
     },
     {
+      "id" : "7EA52EA5-599E-4834-AAE4-7C7544FBA8BC",
+      "properties" : {
+        "name" : "歡喜素食",
+        "address" : "桃園市大園區中正西路37號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -765,13 +825,14 @@
           121.194445,
           25.063165000000001
         ]
-      },
-      "properties" : {
-        "name" : "歡喜素食",
-        "address" : "桃園市大園區中正西路37號"
       }
     },
     {
+      "id" : "A7A18D2D-05FA-4201-A3A6-57820071D20E",
+      "properties" : {
+        "name" : "靜點咖啡",
+        "address" : "桃園市中壢區南園二路296巷50號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -779,13 +840,14 @@
           121.23472700000001,
           24.971854
         ]
-      },
-      "properties" : {
-        "name" : "靜點咖啡",
-        "address" : "桃園市中壢區南園二路296巷50號"
       }
     },
     {
+      "id" : "01E4B698-175D-4630-ACB0-3ABC0F979FAE",
+      "properties" : {
+        "name" : "雅素齋自然人文生活館",
+        "address" : "桃園市桃園區中平路93號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -793,13 +855,14 @@
           121.292801,
           24.988033999999999
         ]
-      },
-      "properties" : {
-        "name" : "雅素齋自然人文生活館",
-        "address" : "桃園市桃園區中平路93號"
       }
     },
     {
+      "id" : "C96B35B5-5F72-4F27-B6C8-15AC32B5503C",
+      "properties" : {
+        "name" : "隨喜素食",
+        "address" : "桃園市八德區信義街19號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -807,13 +870,14 @@
           121.2972128,
           24.959426300000001
         ]
-      },
-      "properties" : {
-        "name" : "隨喜素食",
-        "address" : "桃園市八德區信義街19號"
       }
     },
     {
+      "id" : "1716F397-5328-4C37-969C-0F8B8A0A8229",
+      "properties" : {
+        "name" : "善小貝‧蔬院",
+        "address" : "桃園市中壢區新生路245號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -821,13 +885,14 @@
           121.2228617,
           24.9629732
         ]
-      },
-      "properties" : {
-        "name" : "善小貝‧蔬院",
-        "address" : "桃園市中壢區新生路245號"
       }
     },
     {
+      "id" : "9B291C34-F18C-429E-9260-1A1D731CF1D8",
+      "properties" : {
+        "name" : "波羅蜜素食自助餐",
+        "address" : "桃園市中壢區福安三街2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -835,13 +900,14 @@
           121.2313065,
           24.967644100000001
         ]
-      },
-      "properties" : {
-        "name" : "波羅蜜素食自助餐",
-        "address" : "桃園市中壢區福安三街2號"
       }
     },
     {
+      "id" : "91293E37-7099-4E16-8C26-52125389F840",
+      "properties" : {
+        "name" : "觀世音素食菜館",
+        "address" : "桃園市中壢區環西路42號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -849,13 +915,14 @@
           121.2071875,
           24.958740800000001
         ]
-      },
-      "properties" : {
-        "name" : "觀世音素食菜館",
-        "address" : "桃園市中壢區環西路42號"
       }
     },
     {
+      "id" : "D89B627B-51D5-44F9-A568-E7675F78AC82",
+      "properties" : {
+        "name" : "健康素食堂",
+        "address" : "桃園市桃園區縣府路126號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -863,13 +930,14 @@
           121.30179200000001,
           24.99531
         ]
-      },
-      "properties" : {
-        "name" : "健康素食堂",
-        "address" : "桃園市桃園區縣府路126號"
       }
     },
     {
+      "id" : "FB137632-7083-4375-9C60-D8C2C6274A26",
+      "properties" : {
+        "name" : "開心素食",
+        "address" : "桃園市桃園區中州街123號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -877,13 +945,14 @@
           121.292344,
           24.988122000000001
         ]
-      },
-      "properties" : {
-        "name" : "開心素食",
-        "address" : "桃園市桃園區中州街123號"
       }
     },
     {
+      "id" : "5E2AB1D3-8709-4B97-8811-62E413903B55",
+      "properties" : {
+        "name" : "素益多輕素食",
+        "address" : "桃園市蘆竹區南祥路67-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -891,13 +960,14 @@
           121.29832829999999,
           25.047028000000001
         ]
-      },
-      "properties" : {
-        "name" : "素益多輕素食",
-        "address" : "桃園市蘆竹區南祥路67-1號"
       }
     },
     {
+      "id" : "88E55D69-AF3E-4B21-9E1D-24494F5EED22",
+      "properties" : {
+        "name" : "如意素食美味粥品麵線",
+        "address" : "桃園市桃園區大同路37號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -905,13 +975,14 @@
           121.312842,
           24.989394999999998
         ]
-      },
-      "properties" : {
-        "name" : "如意素食美味粥品麵線",
-        "address" : "桃園市桃園區大同路37號"
       }
     },
     {
+      "id" : "C6EF4B32-724C-46F1-813E-48E74FB26E22",
+      "properties" : {
+        "name" : "Fortunate Coffee",
+        "address" : "桃園市桃園區南豐街185號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -919,13 +990,14 @@
           121.3055966,
           24.9832316
         ]
-      },
-      "properties" : {
-        "name" : "Fortunate Coffee",
-        "address" : "桃園市桃園區南豐街185號"
       }
     },
     {
+      "id" : "BDF27F68-3FBC-4763-9A69-8F44DF9295FF",
+      "properties" : {
+        "name" : "孬企臭豆腐",
+        "address" : "桃園市中壢區中央西路二段136號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -933,13 +1005,14 @@
           121.2147219,
           24.9593743
         ]
-      },
-      "properties" : {
-        "name" : "孬企臭豆腐",
-        "address" : "桃園市中壢區中央西路二段136號"
       }
     },
     {
+      "id" : "C11155D5-D61E-42BF-ADA8-2DE4085D464B",
+      "properties" : {
+        "name" : "功德林上海素食點心",
+        "address" : "桃園市蘆竹區南崁路一段166號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -947,13 +1020,14 @@
           121.2866982,
           25.0526701
         ]
-      },
-      "properties" : {
-        "name" : "功德林上海素食點心",
-        "address" : "桃園市蘆竹區南崁路一段166號"
       }
     },
     {
+      "id" : "49053409-C03A-4D15-B4D3-1A4BD961BB75",
+      "properties" : {
+        "name" : "烈日",
+        "address" : "桃園市八德區陸光街37號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -961,13 +1035,14 @@
           121.298536,
           24.961452000000001
         ]
-      },
-      "properties" : {
-        "name" : "烈日",
-        "address" : "桃園市八德區陸光街37號"
       }
     },
     {
+      "id" : "390DF78A-A4E5-430D-BCF0-60D58499C263",
+      "properties" : {
+        "name" : "真善美早餐店",
+        "address" : "桃園市中壢區榮安八街88號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -975,13 +1050,14 @@
           121.25906000000001,
           24.961651
         ]
-      },
-      "properties" : {
-        "name" : "真善美早餐店",
-        "address" : "桃園市中壢區榮安八街88號"
       }
     },
     {
+      "id" : "B6A451D1-F8F2-4C46-94F2-8BD0CC7DE6F2",
+      "properties" : {
+        "name" : "德祐素食",
+        "address" : "桃園市中壢區永福路930號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -989,13 +1065,14 @@
           121.25385799999999,
           24.962468000000001
         ]
-      },
-      "properties" : {
-        "name" : "德祐素食",
-        "address" : "桃園市中壢區永福路930號"
       }
     },
     {
+      "id" : "390A9B5F-1A65-46E4-A193-24DEB67B3110",
+      "properties" : {
+        "name" : "龍潭炸春捲雙胞胎",
+        "address" : "桃園市龍潭區中正路上的第一市場"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1003,13 +1080,14 @@
           121.312577,
           24.992494000000001
         ]
-      },
-      "properties" : {
-        "name" : "龍潭炸春捲雙胞胎",
-        "address" : "桃園市龍潭區中正路上的第一市場"
       }
     },
     {
+      "id" : "9AB7E27F-D001-46A1-B782-8838C91BA797",
+      "properties" : {
+        "name" : "永承素食",
+        "address" : "桃園市桃園區守法路8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1017,13 +1095,14 @@
           121.29684399999999,
           24.991489000000001
         ]
-      },
-      "properties" : {
-        "name" : "永承素食",
-        "address" : "桃園市桃園區守法路8號"
       }
     },
     {
+      "id" : "B26892E1-113B-47A1-A9FD-01068ED9463F",
+      "properties" : {
+        "name" : "辰品家素食",
+        "address" : "桃園市八德區桃鶯路51號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1031,13 +1110,14 @@
           121.3272458,
           24.971034800000002
         ]
-      },
-      "properties" : {
-        "name" : "辰品家素食",
-        "address" : "桃園市八德區桃鶯路51號"
       }
     },
     {
+      "id" : "805D78CA-5753-42E5-94DE-48B398F56264",
+      "properties" : {
+        "name" : "輕食煮藝健康素食全自助餐",
+        "address" : "桃園市中壢區中央東路61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1045,13 +1125,14 @@
           121.2254659,
           24.956740400000001
         ]
-      },
-      "properties" : {
-        "name" : "輕食煮藝健康素食全自助餐",
-        "address" : "桃園市中壢區中央東路61號"
       }
     },
     {
+      "id" : "98E88B10-75DB-4B87-B863-098CF861BFDC",
+      "properties" : {
+        "name" : "雙園素食",
+        "address" : "桃園市桃園區桃鶯路330號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1059,13 +1140,14 @@
           121.3177761,
           24.986445400000001
         ]
-      },
-      "properties" : {
-        "name" : "雙園素食",
-        "address" : "桃園市桃園區桃鶯路330號"
       }
     },
     {
+      "id" : "19D7186B-AA8C-4B3B-96F6-D615A58E209C",
+      "properties" : {
+        "name" : "廣緣韓式海苔飯捲 ",
+        "address" : "桃園市龜山區復興一路139號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1073,13 +1155,14 @@
           121.36664039999999,
           25.058967299999999
         ]
-      },
-      "properties" : {
-        "name" : "廣緣韓式海苔飯捲 ",
-        "address" : "桃園市龜山區復興一路139號"
       }
     },
     {
+      "id" : "4FFB61CE-1AA5-4C77-B743-F70CA74F91AE",
+      "properties" : {
+        "name" : "覓幽蘭蔬食‧咖啡",
+        "address" : "桃園市大溪區草店尾1巷11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1087,13 +1170,14 @@
           121.286856,
           24.881513000000002
         ]
-      },
-      "properties" : {
-        "name" : "覓幽蘭蔬食‧咖啡",
-        "address" : "桃園市大溪區草店尾1巷11號"
       }
     },
     {
+      "id" : "590AF483-1E0A-4830-A113-F6DE455368A6",
+      "properties" : {
+        "name" : "日常野菜食作",
+        "address" : "桃園市大溪區民權東路56號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1101,13 +1185,14 @@
           121.29081600000001,
           24.8826
         ]
-      },
-      "properties" : {
-        "name" : "日常野菜食作",
-        "address" : "桃園市大溪區民權東路56號"
       }
     },
     {
+      "id" : "7E5D4CE1-431F-4230-8EE8-DD9407C7A45B",
+      "properties" : {
+        "name" : "素食早點",
+        "address" : "桃園市蘆竹區光華街7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1115,13 +1200,14 @@
           121.2525005,
           25.036463600000001
         ]
-      },
-      "properties" : {
-        "name" : "素食早點",
-        "address" : "桃園市蘆竹區光華街7號"
       }
     },
     {
+      "id" : "790609EB-8AA2-4371-A90B-F76C92765C28",
+      "properties" : {
+        "name" : "唐德素菜",
+        "address" : "桃園市桃園區桃德路160號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1129,13 +1215,14 @@
           121.295434,
           24.969273999999999
         ]
-      },
-      "properties" : {
-        "name" : "唐德素菜",
-        "address" : "桃園市桃園區桃德路160號"
       }
     },
     {
+      "id" : "00AAB563-B348-4167-A9F8-A82543BFCD8B",
+      "properties" : {
+        "name" : "香亭素食",
+        "address" : "桃園市桃園區龍安街38號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1143,13 +1230,14 @@
           121.281398,
           24.987943999999999
         ]
-      },
-      "properties" : {
-        "name" : "香亭素食",
-        "address" : "桃園市桃園區龍安街38號"
       }
     },
     {
+      "id" : "B6AE5D62-FD88-48C3-8C30-D2CCF046248A",
+      "properties" : {
+        "name" : "緣養生自助餐",
+        "address" : "桃園市龜山區文化三路551-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1157,13 +1245,14 @@
           121.369501,
           25.051940999999999
         ]
-      },
-      "properties" : {
-        "name" : "緣養生自助餐",
-        "address" : "桃園市龜山區文化三路551-6號"
       }
     },
     {
+      "id" : "CF696400-FC84-4656-B683-F1D56787450F",
+      "properties" : {
+        "name" : "健康素食店",
+        "address" : "桃園市楊梅區中山路116號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1171,13 +1260,14 @@
           121.145183,
           24.907098999999999
         ]
-      },
-      "properties" : {
-        "name" : "健康素食店",
-        "address" : "桃園市楊梅區中山路116號"
       }
     },
     {
+      "id" : "D6460431-550A-45C7-971C-B98DBAB06B47",
+      "properties" : {
+        "name" : "開心山寨",
+        "address" : "桃園市蘆竹區南竹路一段43號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1185,13 +1275,14 @@
           121.291411,
           25.046852999999999
         ]
-      },
-      "properties" : {
-        "name" : "開心山寨",
-        "address" : "桃園市蘆竹區南竹路一段43號"
       }
     },
     {
+      "id" : "581F2E1E-9744-4CE4-9869-44F9E8269CE9",
+      "properties" : {
+        "name" : "行善蔬食館",
+        "address" : "桃園市桃園區新埔八街6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1199,13 +1290,14 @@
           121.299486,
           25.019005
         ]
-      },
-      "properties" : {
-        "name" : "行善蔬食館",
-        "address" : "桃園市桃園區新埔八街6號"
       }
     },
     {
+      "id" : "E1C1AF0C-E897-4227-97CB-81B2BFABCB84",
+      "properties" : {
+        "name" : "輕食淡飯",
+        "address" : "桃園市龍潭區神龍路40號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1213,13 +1305,14 @@
           121.2120685,
           24.862950300000001
         ]
-      },
-      "properties" : {
-        "name" : "輕食淡飯",
-        "address" : "桃園市龍潭區神龍路40號"
       }
     },
     {
+      "id" : "3B2E71BB-2BCF-4292-B168-0A3D8F459E97",
+      "properties" : {
+        "name" : "秈春坊素食",
+        "address" : "桃園市平鎮區中央路185號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1227,13 +1320,14 @@
           121.1908885,
           24.965487100000001
         ]
-      },
-      "properties" : {
-        "name" : "秈春坊素食",
-        "address" : "桃園市平鎮區中央路185號"
       }
     },
     {
+      "id" : "1FFA5A9C-57B0-4C70-9117-999EB517D2D1",
+      "properties" : {
+        "name" : "觀心素食自助養",
+        "address" : "桃園市蘆竹區南順一街6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1241,13 +1335,14 @@
           121.285841,
           25.040676000000001
         ]
-      },
-      "properties" : {
-        "name" : "觀心素食自助養",
-        "address" : "桃園市蘆竹區南順一街6號"
       }
     },
     {
+      "id" : "12F5998F-8357-4F5D-9F86-36C159AA0A57",
+      "properties" : {
+        "name" : "隨喜素食自助餐",
+        "address" : "桃園市平鎮區育英路46號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1255,13 +1350,14 @@
           121.212045,
           24.951174000000002
         ]
-      },
-      "properties" : {
-        "name" : "隨喜素食自助餐",
-        "address" : "桃園市平鎮區育英路46號"
       }
     },
     {
+      "id" : "9FBAB31F-3992-45A9-B739-FD5BEF3350D9",
+      "properties" : {
+        "name" : "樂農匯 Pretty Garden",
+        "address" : "桃園市龍潭區聖亭路121巷3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1269,13 +1365,14 @@
           121.2066753,
           24.866784500000001
         ]
-      },
-      "properties" : {
-        "name" : "樂農匯 Pretty Garden",
-        "address" : "桃園市龍潭區聖亭路121巷3號"
       }
     },
     {
+      "id" : "5BB20AF8-106A-4C68-9359-B16B5C3D0A41",
+      "properties" : {
+        "name" : "松園齋素菜館",
+        "address" : "桃園市蘆竹區南崁路一段170號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1283,13 +1380,14 @@
           121.2865857,
           25.052733199999999
         ]
-      },
-      "properties" : {
-        "name" : "松園齋素菜館",
-        "address" : "桃園市蘆竹區南崁路一段170號"
       }
     },
     {
+      "id" : "892C3E0F-B667-421A-8A7B-14C02DD34A1A",
+      "properties" : {
+        "name" : "義起趣蔬果廚房",
+        "address" : "桃園市龍潭區東龍路366巷2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1297,13 +1395,14 @@
           121.2140149,
           24.867961900000001
         ]
-      },
-      "properties" : {
-        "name" : "義起趣蔬果廚房",
-        "address" : "桃園市龍潭區東龍路366巷2號"
       }
     },
     {
+      "id" : "B6960152-E5A1-4462-9784-CF5707DD0067",
+      "properties" : {
+        "name" : "大愛素食",
+        "address" : "桃園市平鎮區和平路184號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1311,13 +1410,14 @@
           121.21969009999999,
           24.946383099999998
         ]
-      },
-      "properties" : {
-        "name" : "大愛素食",
-        "address" : "桃園市平鎮區和平路184號"
       }
     },
     {
+      "id" : "EB3907C2-7624-44A6-9272-503DC414C3C3",
+      "properties" : {
+        "name" : "入光明素食樂園",
+        "address" : "桃園市中壢區長江路46號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1325,13 +1425,14 @@
           121.22817980000001,
           24.956192099999999
         ]
-      },
-      "properties" : {
-        "name" : "入光明素食樂園",
-        "address" : "桃園市中壢區長江路46號"
       }
     },
     {
+      "id" : "8CA4C5F0-51FC-485D-84C6-93591EAE9390",
+      "properties" : {
+        "name" : "品富素食早餐店",
+        "address" : "桃園市平鎮區中豐路南勢二段276號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1339,13 +1440,14 @@
           121.21068099999999,
           24.911784000000001
         ]
-      },
-      "properties" : {
-        "name" : "品富素食早餐店",
-        "address" : "桃園市平鎮區中豐路南勢二段276號"
       }
     },
     {
+      "id" : "E0ACB731-14E0-4A68-8AC2-B1B8A9F2641C",
+      "properties" : {
+        "name" : "三好坊健康素蔬食館",
+        "address" : "桃園市龍潭區民族路271號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1353,13 +1455,14 @@
           121.2350582,
           24.8389503
         ]
-      },
-      "properties" : {
-        "name" : "三好坊健康素蔬食館",
-        "address" : "桃園市龍潭區民族路271號"
       }
     },
     {
+      "id" : "6780AA07-12A6-4449-BF77-E4C824262FFD",
+      "properties" : {
+        "name" : "海福素食自助餐",
+        "address" : "桃園市龍潭區中興路514號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1367,13 +1470,14 @@
           121.225988,
           24.871749000000001
         ]
-      },
-      "properties" : {
-        "name" : "海福素食自助餐",
-        "address" : "桃園市龍潭區中興路514號"
       }
     },
     {
+      "id" : "5199D442-4C6A-4C93-9849-21F319570693",
+      "properties" : {
+        "name" : "木盒子柴燒窯烤披薩",
+        "address" : "桃園市龍潭區中正路三坑段580號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1381,13 +1485,14 @@
           121.2440194,
           24.844593700000001
         ]
-      },
-      "properties" : {
-        "name" : "木盒子柴燒窯烤披薩",
-        "address" : "桃園市龍潭區中正路三坑段580號"
       }
     },
     {
+      "id" : "7F1C94B1-4F2D-476A-81EB-529835E0E26C",
+      "properties" : {
+        "name" : "熱浪島南洋蔬食茶堂",
+        "address" : "桃園市中壢區中央路216巷86弄58-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1395,13 +1500,14 @@
           121.19272650000001,
           24.964030399999999
         ]
-      },
-      "properties" : {
-        "name" : "熱浪島南洋蔬食茶堂",
-        "address" : "桃園市中壢區中央路216巷86弄58-1號"
       }
     },
     {
+      "id" : "A9F9818A-FF97-45A7-B257-C560B7ACA081",
+      "properties" : {
+        "name" : "我素我行",
+        "address" : "桃園市龜山區大同路150號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1409,13 +1515,14 @@
           121.343065,
           24.991848000000001
         ]
-      },
-      "properties" : {
-        "name" : "我素我行",
-        "address" : "桃園市龜山區大同路150號"
       }
     },
     {
+      "id" : "F626A1CB-E24C-4A09-B1EC-16029320E405",
+      "properties" : {
+        "name" : "O素渡",
+        "address" : "桃園市蘆竹區南順四街16號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1423,13 +1530,14 @@
           121.28780999999999,
           25.040694999999999
         ]
-      },
-      "properties" : {
-        "name" : "O素渡",
-        "address" : "桃園市蘆竹區南順四街16號"
       }
     },
     {
+      "id" : "AA3ED287-1F43-447B-8D3D-F27A504004FB",
+      "properties" : {
+        "name" : "柯拉素食",
+        "address" : "桃園市平鎮區龍南路33號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1437,13 +1545,14 @@
           121.245198,
           24.924705500000002
         ]
-      },
-      "properties" : {
-        "name" : "柯拉素食",
-        "address" : "桃園市平鎮區龍南路33號"
       }
     },
     {
+      "id" : "0252EA84-6E55-47A0-9526-1945FBB27759",
+      "properties" : {
+        "name" : "觀怡素食早餐",
+        "address" : "桃園市桃園區上海路93號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1451,13 +1560,14 @@
           121.282557,
           24.990855
         ]
-      },
-      "properties" : {
-        "name" : "觀怡素食早餐",
-        "address" : "桃園市桃園區上海路93號"
       }
     },
     {
+      "id" : "E7B4005D-72EC-4166-AA0C-F109A3E50BCF",
+      "properties" : {
+        "name" : "MOVE Kitchen 牧夫餐坊",
+        "address" : "桃園市桃園區坤成街92號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1465,13 +1575,14 @@
           121.31282400000001,
           25.013739999999999
         ]
-      },
-      "properties" : {
-        "name" : "MOVE Kitchen 牧夫餐坊",
-        "address" : "桃園市桃園區坤成街92號"
       }
     },
     {
+      "id" : "3E98C7CD-ADEB-48B0-AF68-5C3B194E8A12",
+      "properties" : {
+        "name" : "長春素食",
+        "address" : "桃園市中壢區長春路222號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1479,13 +1590,14 @@
           121.2457217,
           24.977361699999999
         ]
-      },
-      "properties" : {
-        "name" : "長春素食",
-        "address" : "桃園市中壢區長春路222號"
       }
     },
     {
+      "id" : "AFD895CD-DA23-4425-8A48-916AF14B8518",
+      "properties" : {
+        "name" : "海角八號素香園",
+        "address" : "桃園市平鎮區廣東路3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1493,13 +1605,14 @@
           121.211608,
           24.955608000000002
         ]
-      },
-      "properties" : {
-        "name" : "海角八號素香園",
-        "address" : "桃園市平鎮區廣東路3號"
       }
     },
     {
+      "id" : "DFFE1433-0852-4525-A01F-EA0CCF7990F4",
+      "properties" : {
+        "name" : "天竺葵 Geranium Vegetarian",
+        "address" : "桃園市新屋區中興路18號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1507,13 +1620,14 @@
           121.102977,
           24.972505000000002
         ]
-      },
-      "properties" : {
-        "name" : "天竺葵 Geranium Vegetarian",
-        "address" : "桃園市新屋區中興路18號"
       }
     },
     {
+      "id" : "870F20D0-F30F-407E-816F-1DE4312FA417",
+      "properties" : {
+        "name" : "九道茶蔬果滷味",
+        "address" : "桃園市桃園區秀山路115號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1521,13 +1635,14 @@
           121.3015267,
           24.988122700000002
         ]
-      },
-      "properties" : {
-        "name" : "九道茶蔬果滷味",
-        "address" : "桃園市桃園區秀山路115號"
       }
     },
     {
+      "id" : "400D5321-62EC-411A-966F-A093F6822E23",
+      "properties" : {
+        "name" : "Mewo義大利餐廳",
+        "address" : "桃園市大園區大成路二段36號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1535,13 +1650,14 @@
           121.219516,
           25.021692000000002
         ]
-      },
-      "properties" : {
-        "name" : "Mewo義大利餐廳",
-        "address" : "桃園市大園區大成路二段36號"
       }
     },
     {
+      "id" : "C669531A-3382-4FBE-B073-88B2E684FA75",
+      "properties" : {
+        "name" : "法愛蔬食餐廳",
+        "address" : "桃園市蘆竹區桃園街190號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1549,13 +1665,14 @@
           121.290515,
           25.048461
         ]
-      },
-      "properties" : {
-        "name" : "法愛蔬食餐廳",
-        "address" : "桃園市蘆竹區桃園街190號"
       }
     },
     {
+      "id" : "9350AC52-A1B2-4B4C-84B0-9CE9A4970804",
+      "properties" : {
+        "name" : "一心園素食自助餐",
+        "address" : "桃園市大溪區康莊路212號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1563,13 +1680,14 @@
           121.288399,
           24.879193000000001
         ]
-      },
-      "properties" : {
-        "name" : "一心園素食自助餐",
-        "address" : "桃園市大溪區康莊路212號"
       }
     },
     {
+      "id" : "0BFF2D42-237A-4192-9141-6273F4848B2B",
+      "properties" : {
+        "name" : "綠原品健康蔬食",
+        "address" : "桃園市龜山區復興北路5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1577,13 +1695,14 @@
           121.369086,
           25.059612999999999
         ]
-      },
-      "properties" : {
-        "name" : "綠原品健康蔬食",
-        "address" : "桃園市龜山區復興北路5號"
       }
     },
     {
+      "id" : "C0BA78E1-2019-4482-9BE8-1B0EAC9E06BA",
+      "properties" : {
+        "name" : "瓦房養生素食館",
+        "address" : "桃園市龍潭區永福路138巷31號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1591,13 +1710,14 @@
           121.247753,
           24.842289000000001
         ]
-      },
-      "properties" : {
-        "name" : "瓦房養生素食館",
-        "address" : "桃園市龍潭區永福路138巷31號"
       }
     },
     {
+      "id" : "26C346B6-9A4F-4D41-AE6E-F6B7DCF9BEB0",
+      "properties" : {
+        "name" : "素之家 食材百匯",
+        "address" : "桃園市八德區忠孝街63-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1605,13 +1725,14 @@
           121.297651,
           24.960744999999999
         ]
-      },
-      "properties" : {
-        "name" : "素之家 食材百匯",
-        "address" : "桃園市八德區忠孝街63-2號"
       }
     },
     {
+      "id" : "D506F0BC-A1A1-4583-9296-B7D3DB618CBB",
+      "properties" : {
+        "name" : "東明素餐飲店",
+        "address" : "桃園市新屋區東明村9鄰27-9號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1619,13 +1740,14 @@
           121.1054409,
           24.9727815
         ]
-      },
-      "properties" : {
-        "name" : "東明素餐飲店",
-        "address" : "桃園市新屋區東明村9鄰27-9號"
       }
     },
     {
+      "id" : "92ED5A54-AD1A-4B4B-A976-FAD6C082228E",
+      "properties" : {
+        "name" : "越南素食餐點",
+        "address" : "桃園市楊梅區永美路54號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1633,13 +1755,14 @@
           121.18622259999999,
           24.9218884
         ]
-      },
-      "properties" : {
-        "name" : "越南素食餐點",
-        "address" : "桃園市楊梅區永美路54號"
       }
     },
     {
+      "id" : "A9B929D7-83F4-47A0-894D-3EE133B2C93E",
+      "properties" : {
+        "name" : "得來素蔬食連鎖餐飲",
+        "address" : "桃園市桃園區自強路199號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1647,13 +1770,14 @@
           121.3171505,
           24.999891699999999
         ]
-      },
-      "properties" : {
-        "name" : "得來素蔬食連鎖餐飲",
-        "address" : "桃園市桃園區自強路199號"
       }
     },
     {
+      "id" : "8E6B0446-86FC-4EDC-9034-27EE8B28C021",
+      "properties" : {
+        "name" : "明德素食園Minder Vegetarian",
+        "address" : "桃園市桃園區復興路161號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1661,13 +1785,14 @@
           121.3108185,
           24.9896779
         ]
-      },
-      "properties" : {
-        "name" : "明德素食園Minder Vegetarian",
-        "address" : "桃園市桃園區復興路161號"
       }
     },
     {
+      "id" : "A12B366D-DDA8-4653-8C33-7CDC620F1B42",
+      "properties" : {
+        "name" : "甘露平價素食坊",
+        "address" : "桃園市桃園區中山路861號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1675,13 +1800,14 @@
           121.28692100000001,
           24.988862000000001
         ]
-      },
-      "properties" : {
-        "name" : "甘露平價素食坊",
-        "address" : "桃園市桃園區中山路861號"
       }
     },
     {
+      "id" : "790D9231-8958-4594-B680-C03DE9186467",
+      "properties" : {
+        "name" : "香城蔬食",
+        "address" : "桃園市中壢區大仁五街55號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1689,13 +1815,14 @@
           121.239908,
           24.956571
         ]
-      },
-      "properties" : {
-        "name" : "香城蔬食",
-        "address" : "桃園市中壢區大仁五街55號"
       }
     },
     {
+      "id" : "42ED1955-1FAE-40CA-A857-D4CC9D5B594E",
+      "properties" : {
+        "name" : "金山素食小吃店",
+        "address" : "桃園市八德區介壽路二段361巷20弄28號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1703,13 +1830,14 @@
           121.29772199999999,
           24.947113000000002
         ]
-      },
-      "properties" : {
-        "name" : "金山素食小吃店",
-        "address" : "桃園市八德區介壽路二段361巷20弄28號"
       }
     },
     {
+      "id" : "13B9DE88-546A-4849-9C49-D14E91BF8D33",
+      "properties" : {
+        "name" : "菩提健康素食自助餐",
+        "address" : "桃園市楊梅區中山北路二段248號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1717,13 +1845,14 @@
           121.172675,
           24.910239000000001
         ]
-      },
-      "properties" : {
-        "name" : "菩提健康素食自助餐",
-        "address" : "桃園市楊梅區中山北路二段248號"
       }
     },
     {
+      "id" : "65573FEA-DEA1-4A96-AA53-D8A156367736",
+      "properties" : {
+        "name" : "SOL WOW 蔬食早午餐",
+        "address" : "桃園市桃園區同德五街276號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1731,13 +1860,14 @@
           121.29485,
           25.012411
         ]
-      },
-      "properties" : {
-        "name" : "SOL WOW 蔬食早午餐",
-        "address" : "桃園市桃園區同德五街276號"
       }
     },
     {
+      "id" : "635FB415-E9E5-4A5D-82EB-FF1277A624EA",
+      "properties" : {
+        "name" : "里品蔬食咖啡",
+        "address" : "桃園市大園區航站南路9號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1745,13 +1875,14 @@
           121.23751,
           25.081387400000001
         ]
-      },
-      "properties" : {
-        "name" : "里品蔬食咖啡",
-        "address" : "桃園市大園區航站南路9號"
       }
     },
     {
+      "id" : "FD51E869-18EA-4CF2-93CB-117C27B52B43",
+      "properties" : {
+        "name" : "自然緣素養生蔬食專賣店",
+        "address" : "桃園市龍潭區民族路153號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1759,13 +1890,14 @@
           121.236186,
           24.841684000000001
         ]
-      },
-      "properties" : {
-        "name" : "自然緣素養生蔬食專賣店",
-        "address" : "桃園市龍潭區民族路153號"
       }
     },
     {
+      "id" : "97FE125D-B021-417B-9ABE-6E2939F25734",
+      "properties" : {
+        "name" : "素食碗糕藥膳湯早餐",
+        "address" : "桃園市桃園區上海路51號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1773,13 +1905,14 @@
           121.2832341,
           24.989521100000001
         ]
-      },
-      "properties" : {
-        "name" : "素食碗糕藥膳湯早餐",
-        "address" : "桃園市桃園區上海路51號"
       }
     },
     {
+      "id" : "9495D844-90E5-4D2C-AE7B-C9C23C42478A",
+      "properties" : {
+        "name" : "悟芳滷味",
+        "address" : "桃園市中壢區中山東路四段41號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1787,13 +1920,14 @@
           121.255791,
           24.936484
         ]
-      },
-      "properties" : {
-        "name" : "悟芳滷味",
-        "address" : "桃園市中壢區中山東路四段41號"
       }
     },
     {
+      "id" : "3B3D9F72-8494-416A-93E5-C63C8F4BCFB4",
+      "properties" : {
+        "name" : "璞方素食滷味",
+        "address" : "桃園市中壢區博愛路30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1801,13 +1935,14 @@
           121.21967600000001,
           24.953724000000001
         ]
-      },
-      "properties" : {
-        "name" : "璞方素食滷味",
-        "address" : "桃園市中壢區博愛路30號"
       }
     },
     {
+      "id" : "DE1C4CE3-8C61-425A-8D53-C0CBD35D3E5C",
+      "properties" : {
+        "name" : "聖儕素食館",
+        "address" : "桃園市中壢區中山東路三段231號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1815,13 +1950,14 @@
           121.250304,
           24.942279299999999
         ]
-      },
-      "properties" : {
-        "name" : "聖儕素食館",
-        "address" : "桃園市中壢區中山東路三段231號"
       }
     },
     {
+      "id" : "A0DA22E4-ACB0-494E-B2FD-C516E4BA86ED",
+      "properties" : {
+        "name" : "蓮心素食店",
+        "address" : "桃園市楊梅區文化街62號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1829,13 +1965,14 @@
           121.18445250000001,
           24.915438900000002
         ]
-      },
-      "properties" : {
-        "name" : "蓮心素食店",
-        "address" : "桃園市楊梅區文化街62號"
       }
     },
     {
+      "id" : "73B8073D-9D09-400D-9ACF-5A978419448F",
+      "properties" : {
+        "name" : "市集巷弄village kitchen蔬食料理",
+        "address" : "桃園市龍潭區大同路327號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1843,13 +1980,14 @@
           121.21862,
           24.864509999999999
         ]
-      },
-      "properties" : {
-        "name" : "市集巷弄village kitchen蔬食料理",
-        "address" : "桃園市龍潭區大同路327號"
       }
     },
     {
+      "id" : "5A97F5AE-776A-400A-90D1-2C7178FF2BAC",
+      "properties" : {
+        "name" : "光慈舒食堂",
+        "address" : "桃園市中壢區龍岡路一段270號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1857,13 +1995,14 @@
           121.2269984,
           24.947337900000001
         ]
-      },
-      "properties" : {
-        "name" : "光慈舒食堂",
-        "address" : "桃園市中壢區龍岡路一段270號"
       }
     },
     {
+      "id" : "85E00257-0609-4235-B5A9-FB37B4E39950",
+      "properties" : {
+        "name" : "麥菽ㄟ",
+        "address" : "桃園市蘆竹區五福一路10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1871,13 +2010,14 @@
           121.295022,
           25.058456
         ]
-      },
-      "properties" : {
-        "name" : "麥菽ㄟ",
-        "address" : "桃園市蘆竹區五福一路10號"
       }
     },
     {
+      "id" : "4BA0787C-F3E6-495D-AA61-F0870F737FAA",
+      "properties" : {
+        "name" : "阿宓家素食",
+        "address" : "桃園市龍潭區中興路223號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1885,13 +2025,14 @@
           121.235473,
           24.874337000000001
         ]
-      },
-      "properties" : {
-        "name" : "阿宓家素食",
-        "address" : "桃園市龍潭區中興路223號"
       }
     },
     {
+      "id" : "55182748-80FA-45A1-B26A-392ADB36CAEB",
+      "properties" : {
+        "name" : "宜修素食總匯",
+        "address" : "桃園市楊梅區紅梅里市場街1-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1899,13 +2040,14 @@
           121.14563769999999,
           24.907450399999998
         ]
-      },
-      "properties" : {
-        "name" : "宜修素食總匯",
-        "address" : "桃園市楊梅區紅梅里市場街1-2號"
       }
     },
     {
+      "id" : "EFB7DD96-6E64-4296-A082-33EC96DBD911",
+      "properties" : {
+        "name" : "Loving Hut",
+        "address" : "桃園市中壢區環北路381號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1913,13 +2055,14 @@
           121.2255025,
           24.966027
         ]
-      },
-      "properties" : {
-        "name" : "Loving Hut",
-        "address" : "桃園市中壢區環北路381號"
       }
     },
     {
+      "id" : "3E57F656-984C-4AF1-AB0E-83B4C2C88DDF",
+      "properties" : {
+        "name" : "素食早餐",
+        "address" : "桃園市龜山區山鶯路160號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1927,13 +2070,14 @@
           121.3253086,
           24.987752400000002
         ]
-      },
-      "properties" : {
-        "name" : "素食早餐",
-        "address" : "桃園市龜山區山鶯路160號"
       }
     },
     {
+      "id" : "8FACAE04-07D0-4D6D-AC6D-718E076D4515",
+      "properties" : {
+        "name" : "妙軒素食餐館",
+        "address" : "桃園市八德區介壽路一段897號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1941,13 +2085,14 @@
           121.2997814,
           24.960428
         ]
-      },
-      "properties" : {
-        "name" : "妙軒素食餐館",
-        "address" : "桃園市八德區介壽路一段897號"
       }
     },
     {
+      "id" : "5C58EE08-EFAA-4EBF-B6D8-19D0FE9EC6A4",
+      "properties" : {
+        "name" : "廣一素食館",
+        "address" : "桃園市中壢區嘉善街10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1955,13 +2100,14 @@
           121.233154,
           24.951091999999999
         ]
-      },
-      "properties" : {
-        "name" : "廣一素食館",
-        "address" : "桃園市中壢區嘉善街10號"
       }
     },
     {
+      "id" : "BC77CAD9-9703-4B07-9013-2A25DE10CC16",
+      "properties" : {
+        "name" : "艾玲素食飯館",
+        "address" : "桃園市大溪區民權東路1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1969,13 +2115,14 @@
           121.289485,
           24.883571
         ]
-      },
-      "properties" : {
-        "name" : "艾玲素食飯館",
-        "address" : "桃園市大溪區民權東路1號"
       }
     },
     {
+      "id" : "5470DDFB-CC3D-43D7-822D-A831B0305C85",
+      "properties" : {
+        "name" : "新坡素食",
+        "address" : "桃園市觀音區中山路二段516號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1983,13 +2130,14 @@
           121.1330578,
           25.014356100000001
         ]
-      },
-      "properties" : {
-        "name" : "新坡素食",
-        "address" : "桃園市觀音區中山路二段516號"
       }
     },
     {
+      "id" : "52229A13-5F4C-496A-BD9D-9ACB666D09B4",
+      "properties" : {
+        "name" : "永和素食行",
+        "address" : "桃園市中壢區中山路475號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1997,13 +2145,14 @@
           121.215577,
           24.956768
         ]
-      },
-      "properties" : {
-        "name" : "永和素食行",
-        "address" : "桃園市中壢區中山路475號"
       }
     },
     {
+      "id" : "F2C09C6A-9040-4BC4-AE64-9AEC7A5DB0F6",
+      "properties" : {
+        "name" : "淨意茶坊",
+        "address" : "桃園市桃園區民權路128號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2011,13 +2160,14 @@
           121.309307,
           24.995484999999999
         ]
-      },
-      "properties" : {
-        "name" : "淨意茶坊",
-        "address" : "桃園市桃園區民權路128號"
       }
     },
     {
+      "id" : "8D810982-81F1-48A0-BE2C-D0CEFC3BC2D2",
+      "properties" : {
+        "name" : "侑緣素食",
+        "address" : "桃園市桃園區新埔七街74號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2025,13 +2175,14 @@
           121.301581,
           25.019839000000001
         ]
-      },
-      "properties" : {
-        "name" : "侑緣素食",
-        "address" : "桃園市桃園區新埔七街74號"
       }
     },
     {
+      "id" : "CDA9E990-C9DC-4D7F-BEFA-8167364A6A21",
+      "properties" : {
+        "name" : "樹哥涼麵",
+        "address" : "桃園市平鎮區延平路二段23號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2039,13 +2190,14 @@
           121.213883,
           24.950106000000002
         ]
-      },
-      "properties" : {
-        "name" : "樹哥涼麵",
-        "address" : "桃園市平鎮區延平路二段23號"
       }
     },
     {
+      "id" : "8322093F-97AF-404B-A271-2EE29DE48A11",
+      "properties" : {
+        "name" : "凱麗素食館",
+        "address" : "桃園市桃園區國際路二段128號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2053,13 +2205,14 @@
           121.2883973,
           24.9931193
         ]
-      },
-      "properties" : {
-        "name" : "凱麗素食館",
-        "address" : "桃園市桃園區國際路二段128號"
       }
     },
     {
+      "id" : "1F9222F8-91E3-4AE1-92DB-FB7B9A41F670",
+      "properties" : {
+        "name" : "觀自齋素食餐廳",
+        "address" : "桃園市中壢區民族路190號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2067,13 +2220,14 @@
           121.2105875,
           24.956364000000001
         ]
-      },
-      "properties" : {
-        "name" : "觀自齋素食餐廳",
-        "address" : "桃園市中壢區民族路190號"
       }
     },
     {
+      "id" : "8987694E-00FC-498B-A2B4-78D61B996EAA",
+      "properties" : {
+        "name" : "萿莉養生早餐",
+        "address" : "桃園市桃園區宏昌六街145號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2081,13 +2235,14 @@
           121.29506600000001,
           24.987614000000001
         ]
-      },
-      "properties" : {
-        "name" : "萿莉養生早餐",
-        "address" : "桃園市桃園區宏昌六街145號"
       }
     },
     {
+      "id" : "B467F8AB-05E0-4DFA-8CEB-A20B71DBD36C",
+      "properties" : {
+        "name" : "鴻興素食",
+        "address" : "桃園市八德區廣福路138巷13號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2095,13 +2250,14 @@
           121.296179,
           24.959917999999998
         ]
-      },
-      "properties" : {
-        "name" : "鴻興素食",
-        "address" : "桃園市八德區廣福路138巷13號"
       }
     },
     {
+      "id" : "4B6129BF-D9E5-4CB4-B29F-F36918A2C1AD",
+      "properties" : {
+        "name" : "黎記素食",
+        "address" : "桃園市中壢區中正路405號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2109,13 +2265,14 @@
           121.215172,
           24.955919999999999
         ]
-      },
-      "properties" : {
-        "name" : "黎記素食",
-        "address" : "桃園市中壢區中正路405號"
       }
     },
     {
+      "id" : "ABEC57A1-0678-42A4-B5D3-86413088AA5D",
+      "properties" : {
+        "name" : "菩禾林蔬食餐廳",
+        "address" : "桃園市中壢區中豐路171號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2123,13 +2280,14 @@
           121.220102,
           24.961455999999998
         ]
-      },
-      "properties" : {
-        "name" : "菩禾林蔬食餐廳",
-        "address" : "桃園市中壢區中豐路171號"
       }
     },
     {
+      "id" : "D4FD193C-86F4-47CC-9DE8-AC84588D742B",
+      "properties" : {
+        "name" : "阿嬤の咖啡屋",
+        "address" : "桃園市桃園區自強路48號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2137,13 +2295,14 @@
           121.318325,
           24.998405000000002
         ]
-      },
-      "properties" : {
-        "name" : "阿嬤の咖啡屋",
-        "address" : "桃園市桃園區自強路48號"
       }
     },
     {
+      "id" : "324212D5-46D1-4D82-8525-0EEC89077776",
+      "properties" : {
+        "name" : "綠益",
+        "address" : "桃園市中壢區莒光路94號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2151,13 +2310,14 @@
           121.236532,
           24.951884
         ]
-      },
-      "properties" : {
-        "name" : "綠益",
-        "address" : "桃園市中壢區莒光路94號"
       }
     },
     {
+      "id" : "8DEB5449-DABD-4D92-8833-43772A451FDD",
+      "properties" : {
+        "name" : "觀音水來青舍",
+        "address" : "桃園市觀音區新華路二段453巷19號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2165,13 +2325,14 @@
           121.133729,
           25.009367999999998
         ]
-      },
-      "properties" : {
-        "name" : "觀音水來青舍",
-        "address" : "桃園市觀音區新華路二段453巷19號"
       }
     },
     {
+      "id" : "E917D42E-C3FD-4664-AB19-A1414EDF6A76",
+      "properties" : {
+        "name" : "福人素食盒餐",
+        "address" : "桃園市龜山區南上路155號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2179,13 +2340,14 @@
           121.2987959,
           25.047322699999999
         ]
-      },
-      "properties" : {
-        "name" : "福人素食盒餐",
-        "address" : "桃園市龜山區南上路155號"
       }
     },
     {
+      "id" : "4C09B4FE-BF0A-4589-9D88-839CCEBB43DE",
+      "properties" : {
+        "name" : "陳師兄素肉圓",
+        "address" : "桃園市大溪區慈湖路24-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2193,13 +2355,14 @@
           121.2890663,
           24.883802599999999
         ]
-      },
-      "properties" : {
-        "name" : "陳師兄素肉圓",
-        "address" : "桃園市大溪區慈湖路24-1號"
       }
     },
     {
+      "id" : "2F60EA5A-CBDF-4646-AB93-93534E04A4AB",
+      "properties" : {
+        "name" : "喜樂風蔬食",
+        "address" : "桃園市中壢區大仁五街31號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2207,13 +2370,14 @@
           121.240323,
           24.95618
         ]
-      },
-      "properties" : {
-        "name" : "喜樂風蔬食",
-        "address" : "桃園市中壢區大仁五街31號"
       }
     },
     {
+      "id" : "940B3C15-ADB7-4DF7-9E51-F63105BA828C",
+      "properties" : {
+        "name" : "愛化蔬食館",
+        "address" : "桃園市龜山區自強東路107號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2221,13 +2385,14 @@
           121.342291,
           24.994488
         ]
-      },
-      "properties" : {
-        "name" : "愛化蔬食館",
-        "address" : "桃園市龜山區自強東路107號"
       }
     },
     {
+      "id" : "3CC63A04-0CB9-42B5-9D39-A8F3E0351E27",
+      "properties" : {
+        "name" : "復興航棧",
+        "address" : "桃園市大園區航站南路9號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2235,13 +2400,14 @@
           121.23751,
           25.081387400000001
         ]
-      },
-      "properties" : {
-        "name" : "復興航棧",
-        "address" : "桃園市大園區航站南路9號"
       }
     },
     {
+      "id" : "769D22B8-DDE6-4DD5-B7DD-20F03C9DCF5D",
+      "properties" : {
+        "name" : "幾米馬麻蔬食廚房",
+        "address" : "桃園市中壢區永強街61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2249,13 +2415,14 @@
           121.258686,
           24.970206000000001
         ]
-      },
-      "properties" : {
-        "name" : "幾米馬麻蔬食廚房",
-        "address" : "桃園市中壢區永強街61號"
       }
     },
     {
+      "id" : "019FB602-1C38-4C6B-8334-8D0950B1EB34",
+      "properties" : {
+        "name" : "金運蛋糕麵包",
+        "address" : "桃園市桃園區建國路260號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2263,13 +2430,14 @@
           121.306264,
           24.985043000000001
         ]
-      },
-      "properties" : {
-        "name" : "金運蛋糕麵包",
-        "address" : "桃園市桃園區建國路260號"
       }
     },
     {
+      "id" : "42DE1015-4CAF-41B7-BDFA-5A3F2A6FAB27",
+      "properties" : {
+        "name" : "和平素食",
+        "address" : "桃園市中壢區義民路95號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2277,13 +2445,14 @@
           121.2159764,
           24.9532706
         ]
-      },
-      "properties" : {
-        "name" : "和平素食",
-        "address" : "桃園市中壢區義民路95號"
       }
     },
     {
+      "id" : "3CA48D6A-967F-4A37-929B-08A00102BA6A",
+      "properties" : {
+        "name" : "怡然蔬食",
+        "address" : "桃園市中壢區新中北路419號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2291,13 +2460,14 @@
           121.2439578,
           24.9587228
         ]
-      },
-      "properties" : {
-        "name" : "怡然蔬食",
-        "address" : "桃園市中壢區新中北路419號"
       }
     },
     {
+      "id" : "BF1954EE-24A3-43BE-BD92-B9B21CCC5EE9",
+      "properties" : {
+        "name" : "大溪老茶廠",
+        "address" : "桃園市大溪區復興路二段732巷80號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2305,13 +2475,14 @@
           121.32838,
           24.830646999999999
         ]
-      },
-      "properties" : {
-        "name" : "大溪老茶廠",
-        "address" : "桃園市大溪區復興路二段732巷80號"
       }
     },
     {
+      "id" : "7B76F8AA-E934-4504-A4B7-1158E840FE32",
+      "properties" : {
+        "name" : "全心素食店",
+        "address" : "桃園市平鎮區中豐路山頂段413號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2319,13 +2490,14 @@
           121.211557,
           24.895455999999999
         ]
-      },
-      "properties" : {
-        "name" : "全心素食店",
-        "address" : "桃園市平鎮區中豐路山頂段413號"
       }
     },
     {
+      "id" : "14CF8D05-D148-4533-BFC8-E71D0541F268",
+      "properties" : {
+        "name" : "浤家素食簡餐咖啡",
+        "address" : "桃園市龜山區萬壽路二段1010號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2333,13 +2505,14 @@
           121.33634069999999,
           24.994873999999999
         ]
-      },
-      "properties" : {
-        "name" : "浤家素食簡餐咖啡",
-        "address" : "桃園市龜山區萬壽路二段1010號"
       }
     },
     {
+      "id" : "1434F70A-CD5F-4CC4-857E-2D41DB06078E",
+      "properties" : {
+        "name" : "素食炸物、滷味",
+        "address" : "桃園市桃園區復興路347號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2347,13 +2520,14 @@
           121.30431729999999,
           24.989595699999999
         ]
-      },
-      "properties" : {
-        "name" : "素食炸物、滷味",
-        "address" : "桃園市桃園區復興路347號"
       }
     },
     {
+      "id" : "3C51E5B8-1101-467E-ADB0-047B8AFB7A39",
+      "properties" : {
+        "name" : "南無阿彌陀佛素食",
+        "address" : "桃園市桃園區國際路一段59號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2361,13 +2535,14 @@
           121.292517,
           24.963117
         ]
-      },
-      "properties" : {
-        "name" : "南無阿彌陀佛素食",
-        "address" : "桃園市桃園區國際路一段59號"
       }
     },
     {
+      "id" : "B6A0EDC9-0F35-4693-A33F-CACC7753EC3F",
+      "properties" : {
+        "name" : "悟芳素食滷味&義式料理",
+        "address" : "桃園市桃園區力行路210號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2375,13 +2550,14 @@
           121.30022460000001,
           25.000789000000001
         ]
-      },
-      "properties" : {
-        "name" : "悟芳素食滷味&義式料理",
-        "address" : "桃園市桃園區力行路210號"
       }
     },
     {
+      "id" : "EDD4096A-FB38-4972-B741-C091B9287F71",
+      "properties" : {
+        "name" : "入木三分無菜單舒食料理",
+        "address" : "桃園市龍潭區新龍路62號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2389,13 +2565,14 @@
           121.21645599999999,
           24.860475999999998
         ]
-      },
-      "properties" : {
-        "name" : "入木三分無菜單舒食料理",
-        "address" : "桃園市龍潭區新龍路62號"
       }
     },
     {
+      "id" : "1D8EF19D-65EB-4B91-ACA7-BFD0EC32400B",
+      "properties" : {
+        "name" : "楊老師素食",
+        "address" : "桃園市中壢區中北路二段343號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2403,13 +2580,14 @@
           121.230411,
           24.953713
         ]
-      },
-      "properties" : {
-        "name" : "楊老師素食",
-        "address" : "桃園市中壢區中北路二段343號"
       }
     },
     {
+      "id" : "B248C775-D9A9-4B2B-B5B2-5D35250A9328",
+      "properties" : {
+        "name" : "懿修素味",
+        "address" : "桃園市大園區中興街76號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2417,13 +2595,14 @@
           121.19841700000001,
           25.064391000000001
         ]
-      },
-      "properties" : {
-        "name" : "懿修素味",
-        "address" : "桃園市大園區中興街76號"
       }
     },
     {
+      "id" : "441A2104-2EA9-4BF3-BCD5-C5992049493D",
+      "properties" : {
+        "name" : "素緣雲泰素食料理",
+        "address" : "桃園市中壢區中北路二段112號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2431,13 +2610,14 @@
           121.226018,
           24.951273499999999
         ]
-      },
-      "properties" : {
-        "name" : "素緣雲泰素食料理",
-        "address" : "桃園市中壢區中北路二段112號"
       }
     },
     {
+      "id" : "9E9B522D-88FC-4B40-B7CE-FE2F459A89DA",
+      "properties" : {
+        "name" : "簡單吃素蔬食",
+        "address" : "桃園市中壢區信義路139號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2445,13 +2625,14 @@
           121.25779989999999,
           24.974529100000002
         ]
-      },
-      "properties" : {
-        "name" : "簡單吃素蔬食",
-        "address" : "桃園市中壢區信義路139號"
       }
     },
     {
+      "id" : "8CDE3F06-2FE6-46E5-8F19-E9F360FEC875",
+      "properties" : {
+        "name" : "SIDEWALK人行道健康蔬食飲食",
+        "address" : "桃園市中壢區中央路216巷39號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2459,13 +2640,14 @@
           121.19281119999999,
           24.964360500000002
         ]
-      },
-      "properties" : {
-        "name" : "SIDEWALK人行道健康蔬食飲食",
-        "address" : "桃園市中壢區中央路216巷39號"
       }
     },
     {
+      "id" : "6062CFF1-5F7C-4450-A2BE-C45078056FEE",
+      "properties" : {
+        "name" : "宏道素食",
+        "address" : "桃園市中壢區大仁街14號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2473,13 +2655,14 @@
           121.24057000000001,
           24.956855999999998
         ]
-      },
-      "properties" : {
-        "name" : "宏道素食",
-        "address" : "桃園市中壢區大仁街14號"
       }
     },
     {
+      "id" : "809C5DDB-787D-49FD-AD1D-71A00301BD58",
+      "properties" : {
+        "name" : "龍潭蔬食",
+        "address" : "桃園市龍潭區中正路77號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2487,13 +2670,14 @@
           121.2152334,
           24.8684729
         ]
-      },
-      "properties" : {
-        "name" : "龍潭蔬食",
-        "address" : "桃園市龍潭區中正路77號"
       }
     },
     {
+      "id" : "8B79619E-509F-400A-9062-810F370C8039",
+      "properties" : {
+        "name" : "天香石磨工坊-腸粉.米線.米干",
+        "address" : "桃園市龜山區復興一路212巷30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2501,13 +2685,14 @@
           121.367183,
           25.057998999999999
         ]
-      },
-      "properties" : {
-        "name" : "天香石磨工坊-腸粉.米線.米干",
-        "address" : "桃園市龜山區復興一路212巷30號"
       }
     },
     {
+      "id" : "C4F02738-96ED-4260-9456-9A40C6A50F02",
+      "properties" : {
+        "name" : "德育素食",
+        "address" : "桃園市平鎮區振興路41號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2515,13 +2700,14 @@
           121.2203703,
           24.945616900000001
         ]
-      },
-      "properties" : {
-        "name" : "德育素食",
-        "address" : "桃園市平鎮區振興路41號"
       }
     },
     {
+      "id" : "1035F55E-AC2C-4CCE-BA5A-5B503C29077E",
+      "properties" : {
+        "name" : "雅斯斯素食複合式餐飲",
+        "address" : "桃園市桃園區春日路230號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2529,13 +2715,14 @@
           121.3154097,
           24.9976737
         ]
-      },
-      "properties" : {
-        "name" : "雅斯斯素食複合式餐飲",
-        "address" : "桃園市桃園區春日路230號"
       }
     },
     {
+      "id" : "603C83FC-58B0-4A58-B78E-09F999AFF977",
+      "properties" : {
+        "name" : "六平Q道麵",
+        "address" : "桃園市桃園區中埔六街179號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2543,13 +2730,14 @@
           121.29470499999999,
           25.019037999999998
         ]
-      },
-      "properties" : {
-        "name" : "六平Q道麵",
-        "address" : "桃園市桃園區中埔六街179號"
       }
     },
     {
+      "id" : "39ACC8DE-EFAF-4A01-BBAB-FE1EFEC4C91E",
+      "properties" : {
+        "name" : "善心緣創意蔬食料理",
+        "address" : "桃園市大溪區公園路139號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2557,13 +2745,14 @@
           121.28063,
           24.905815
         ]
-      },
-      "properties" : {
-        "name" : "善心緣創意蔬食料理",
-        "address" : "桃園市大溪區公園路139號"
       }
     },
     {
+      "id" : "61A064D1-A3E6-4C01-82A1-41131B756EE0",
+      "properties" : {
+        "name" : "百香軒素食材料行",
+        "address" : "桃園市龍潭區中興路336巷31號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2571,13 +2760,14 @@
           121.232409,
           24.874454
         ]
-      },
-      "properties" : {
-        "name" : "百香軒素食材料行",
-        "address" : "桃園市龍潭區中興路336巷31號"
       }
     },
     {
+      "id" : "C1E4625A-B6FC-4187-BCDC-E27575F8FB81",
+      "properties" : {
+        "name" : "豆漿大王",
+        "address" : "桃園市中壢區中正路382號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2585,13 +2775,14 @@
           121.2160757,
           24.9556927
         ]
-      },
-      "properties" : {
-        "name" : "豆漿大王",
-        "address" : "桃園市中壢區中正路382號"
       }
     },
     {
+      "id" : "9399BC70-07BD-47C0-8318-D8CB3302D4AA",
+      "properties" : {
+        "name" : "樂活蔬食館",
+        "address" : "桃園市中壢區三光路135號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2599,13 +2790,14 @@
           121.21203,
           24.963034
         ]
-      },
-      "properties" : {
-        "name" : "樂活蔬食館",
-        "address" : "桃園市中壢區三光路135號"
       }
     },
     {
+      "id" : "E0226BE7-BFD9-4FD2-A051-FD5778A88538",
+      "properties" : {
+        "name" : "東興蔬食",
+        "address" : "桃園市中壢區中北路89號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2613,13 +2805,14 @@
           121.23786699999999,
           24.956493999999999
         ]
-      },
-      "properties" : {
-        "name" : "東興蔬食",
-        "address" : "桃園市中壢區中北路89號"
       }
     },
     {
+      "id" : "AD05E703-9FB4-4245-B861-460C4E9B970C",
+      "properties" : {
+        "name" : "大佳素食館",
+        "address" : "桃園市新屋區中華路243-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2627,13 +2820,14 @@
           121.107502,
           24.971916
         ]
-      },
-      "properties" : {
-        "name" : "大佳素食館",
-        "address" : "桃園市新屋區中華路243-6號"
       }
     },
     {
+      "id" : "29D08C25-B288-4620-97BE-BAC629FFF884",
+      "properties" : {
+        "name" : "仁愛素食",
+        "address" : "桃園市桃園區同安街446號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2641,13 +2835,14 @@
           121.30103699999999,
           25.019525999999999
         ]
-      },
-      "properties" : {
-        "name" : "仁愛素食",
-        "address" : "桃園市桃園區同安街446號"
       }
     },
     {
+      "id" : "38EA2978-558E-4392-AD82-126075E72E5E",
+      "properties" : {
+        "name" : "養生 烏龍麵",
+        "address" : "桃園市平鎮區文心路48號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2655,13 +2850,14 @@
           121.205735,
           24.914214000000001
         ]
-      },
-      "properties" : {
-        "name" : "養生 烏龍麵",
-        "address" : "桃園市平鎮區文心路48號"
       }
     },
     {
+      "id" : "EC5493FE-0CD6-46F3-8356-ABE9AD5295FC",
+      "properties" : {
+        "name" : "素の屋",
+        "address" : "桃園市中壢區中山路189號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2669,13 +2865,14 @@
           121.22295699999999,
           24.956396000000002
         ]
-      },
-      "properties" : {
-        "name" : "素の屋",
-        "address" : "桃園市中壢區中山路189號"
       }
     },
     {
+      "id" : "BED262BA-F454-4252-8B42-EFD3519DBAC1",
+      "properties" : {
+        "name" : "素健康",
+        "address" : "桃園市桃園區力行路60號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2683,13 +2880,14 @@
           121.3036146,
           25.002542999999999
         ]
-      },
-      "properties" : {
-        "name" : "素健康",
-        "address" : "桃園市桃園區力行路60號"
       }
     },
     {
+      "id" : "3A278470-D118-46FB-BEC2-4EA55637BF29",
+      "properties" : {
+        "name" : "蕃薯藤生機餐飲複合店",
+        "address" : "桃園市大溪區瑞安路一段175巷55號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2697,13 +2895,14 @@
           121.27809739999999,
           24.891652300000001
         ]
-      },
-      "properties" : {
-        "name" : "蕃薯藤生機餐飲複合店",
-        "address" : "桃園市大溪區瑞安路一段175巷55號"
       }
     },
     {
+      "id" : "660F58BE-56CC-474E-86AF-ABE13B285274",
+      "properties" : {
+        "name" : "药穀世家",
+        "address" : "桃園市蘆竹區南昌路259號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2711,13 +2910,14 @@
           121.291623,
           25.040258999999999
         ]
-      },
-      "properties" : {
-        "name" : "药穀世家",
-        "address" : "桃園市蘆竹區南昌路259號"
       }
     },
     {
+      "id" : "0C103925-7E30-48E1-B3DB-2CB4853909C1",
+      "properties" : {
+        "name" : "素林素食小館",
+        "address" : "桃園市新屋區中山西路二段125O號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2725,13 +2925,14 @@
           121.0773974,
           24.977936100000001
         ]
-      },
-      "properties" : {
-        "name" : "素林素食小館",
-        "address" : "桃園市新屋區中山西路二段125O號"
       }
     },
     {
+      "id" : "23714115-F553-401C-99B3-7DB6D9D6ED6F",
+      "properties" : {
+        "name" : "天然上好素食",
+        "address" : "桃園市蘆竹區南山路三段182號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2739,13 +2940,14 @@
           121.28606499999999,
           25.081378999999998
         ]
-      },
-      "properties" : {
-        "name" : "天然上好素食",
-        "address" : "桃園市蘆竹區南山路三段182號"
       }
     },
     {
+      "id" : "C23C943A-5AF8-4924-82B4-3EB74AEA31E0",
+      "properties" : {
+        "name" : "小蔡家の素香麵",
+        "address" : "桃園市平鎮區金陵路三段89號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2753,13 +2955,14 @@
           121.227543,
           24.928888000000001
         ]
-      },
-      "properties" : {
-        "name" : "小蔡家の素香麵",
-        "address" : "桃園市平鎮區金陵路三段89號"
       }
     },
     {
+      "id" : "02C83D30-681E-4906-A45A-0B13A73E4FEE",
+      "properties" : {
+        "name" : "鄉品素食",
+        "address" : "桃園市平鎮區民族路雙連三段1-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2767,13 +2970,14 @@
           121.179615,
           24.958449000000002
         ]
-      },
-      "properties" : {
-        "name" : "鄉品素食",
-        "address" : "桃園市平鎮區民族路雙連三段1-1號"
       }
     },
     {
+      "id" : "DC52551E-5F1A-4936-9227-580921B90BF7",
+      "properties" : {
+        "name" : "笙濟素食館",
+        "address" : "桃園市中壢區新中北路11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2781,13 +2985,14 @@
           121.2352121,
           24.956417200000001
         ]
-      },
-      "properties" : {
-        "name" : "笙濟素食館",
-        "address" : "桃園市中壢區新中北路11號"
       }
     },
     {
+      "id" : "7FD92E3D-51FF-4804-B5B8-102BE7EC373A",
+      "properties" : {
+        "name" : "幸福圓鬆餅屋",
+        "address" : "桃園市中壢區日新路69號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2795,13 +3000,14 @@
           121.239734,
           24.955065000000001
         ]
-      },
-      "properties" : {
-        "name" : "幸福圓鬆餅屋",
-        "address" : "桃園市中壢區日新路69號"
       }
     },
     {
+      "id" : "D3EF8ACF-0291-4DFE-98F5-3081D88F5252",
+      "properties" : {
+        "name" : "華風古早食堂",
+        "address" : "桃園市桃園區正康二街180號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2809,13 +3015,14 @@
           121.30721800000001,
           25.004698999999999
         ]
-      },
-      "properties" : {
-        "name" : "華風古早食堂",
-        "address" : "桃園市桃園區正康二街180號"
       }
     },
     {
+      "id" : "2C0EBE4C-EDCF-448E-9D7B-6947D23857B6",
+      "properties" : {
+        "name" : "乙元素食店",
+        "address" : "桃園市新屋區中華路243號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2823,13 +3030,14 @@
           121.107502,
           24.971916
         ]
-      },
-      "properties" : {
-        "name" : "乙元素食店",
-        "address" : "桃園市新屋區中華路243號"
       }
     },
     {
+      "id" : "48613632-F586-4C99-8152-C1FA7E5310C2",
+      "properties" : {
+        "name" : "丈瓦齋養生蔬食全素料理",
+        "address" : "桃園市楊梅區永美路239號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2837,13 +3045,14 @@
           121.1834722,
           24.918558399999998
         ]
-      },
-      "properties" : {
-        "name" : "丈瓦齋養生蔬食全素料理",
-        "address" : "桃園市楊梅區永美路239號"
       }
     },
     {
+      "id" : "C012FD62-BA46-45E1-B27B-EB94EEB94A22",
+      "properties" : {
+        "name" : "素讚素覺 —創意素食快炒",
+        "address" : "桃園市中壢區中豐路206號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2851,13 +3060,14 @@
           121.2193915,
           24.960598000000001
         ]
-      },
-      "properties" : {
-        "name" : "素讚素覺 —創意素食快炒",
-        "address" : "桃園市中壢區中豐路206號"
       }
     },
     {
+      "id" : "ED5D57D1-3BE2-4E61-9164-0B0AD15E67FA",
+      "properties" : {
+        "name" : "苗之林有機店",
+        "address" : "桃園市桃園區中山東路173號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2865,13 +3075,14 @@
           121.319035,
           24.99756
         ]
-      },
-      "properties" : {
-        "name" : "苗之林有機店",
-        "address" : "桃園市桃園區中山東路173號"
       }
     },
     {
+      "id" : "18245742-9B04-4BEF-8D11-A36F93DF3E8C",
+      "properties" : {
+        "name" : "就是這味",
+        "address" : "桃園市中壢區三和一街36巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2879,13 +3090,14 @@
           121.241562,
           24.954539
         ]
-      },
-      "properties" : {
-        "name" : "就是這味",
-        "address" : "桃園市中壢區三和一街36巷1號"
       }
     },
     {
+      "id" : "F19D9533-4C67-435F-8CBD-610D968186D5",
+      "properties" : {
+        "name" : "覺心蔬食",
+        "address" : "桃園市平鎮區義興街35號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2893,13 +3105,14 @@
           121.2097043,
           24.950465900000001
         ]
-      },
-      "properties" : {
-        "name" : "覺心蔬食",
-        "address" : "桃園市平鎮區義興街35號"
       }
     },
     {
+      "id" : "F0E9C4EA-22E4-4675-A226-AE2606BF8C1D",
+      "properties" : {
+        "name" : "典意碗素食坊",
+        "address" : "桃園市中壢區復華街54號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2907,13 +3120,14 @@
           121.24778809999999,
           24.9698925
         ]
-      },
-      "properties" : {
-        "name" : "典意碗素食坊",
-        "address" : "桃園市中壢區復華街54號"
       }
     },
     {
+      "id" : "762374B1-333E-4605-8EB6-6E54D948158C",
+      "properties" : {
+        "name" : "芊然五行麵疙瘩 - 健康蔬食",
+        "address" : "桃園市大溪區員林路三段2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2921,13 +3135,14 @@
           121.26533480000001,
           24.882255399999998
         ]
-      },
-      "properties" : {
-        "name" : "芊然五行麵疙瘩 - 健康蔬食",
-        "address" : "桃園市大溪區員林路三段2號"
       }
     },
     {
+      "id" : "DD719D8C-ED14-4F8F-91D6-832857B60727",
+      "properties" : {
+        "name" : "天昱素 蔬食",
+        "address" : "桃園市觀音區信義路104號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2935,13 +3150,14 @@
           121.07858779999999,
           25.0361391
         ]
-      },
-      "properties" : {
-        "name" : "天昱素 蔬食",
-        "address" : "桃園市觀音區信義路104號"
       }
     },
     {
+      "id" : "988C11FC-445F-4E34-ACBB-EC6EB620C874",
+      "properties" : {
+        "name" : "北方籠全素食概念館",
+        "address" : "桃園市蘆竹區大竹路592號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2949,13 +3165,14 @@
           121.25730609999999,
           25.025794699999999
         ]
-      },
-      "properties" : {
-        "name" : "北方籠全素食概念館",
-        "address" : "桃園市蘆竹區大竹路592號"
       }
     },
     {
+      "id" : "CAA306B9-729A-46AE-83A7-62672B4C3B49",
+      "properties" : {
+        "name" : "雅善圓蔬食館",
+        "address" : "桃園市桃園區鎮撫街46號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2963,13 +3180,14 @@
           121.31487199999999,
           24.998014000000001
         ]
-      },
-      "properties" : {
-        "name" : "雅善圓蔬食館",
-        "address" : "桃園市桃園區鎮撫街46號"
       }
     },
     {
+      "id" : "B00EB01C-242C-4D97-B204-77B92C7A35D0",
+      "properties" : {
+        "name" : "九蓮素食",
+        "address" : "桃園市中壢區中山東路二段513號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2977,13 +3195,14 @@
           121.245818,
           24.947189000000002
         ]
-      },
-      "properties" : {
-        "name" : "九蓮素食",
-        "address" : "桃園市中壢區中山東路二段513號"
       }
     },
     {
+      "id" : "68729CC3-84C6-43DD-A134-2B02C0324572",
+      "properties" : {
+        "name" : "十味健康素食 SIWEI ",
+        "address" : "桃園市中壢區環中東路96號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2991,13 +3210,14 @@
           121.258848,
           24.965603999999999
         ]
-      },
-      "properties" : {
-        "name" : "十味健康素食 SIWEI ",
-        "address" : "桃園市中壢區環中東路96號"
       }
     },
     {
+      "id" : "DC587A08-BA7F-499C-9471-928369EE6F87",
+      "properties" : {
+        "name" : "沅馨素食",
+        "address" : "桃園市桃園區建新街口跟介新街的轉角攤位"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3005,13 +3225,14 @@
           121.3129378,
           24.9845741
         ]
-      },
-      "properties" : {
-        "name" : "沅馨素食",
-        "address" : "桃園市桃園區建新街口跟介新街的轉角攤位"
       }
     },
     {
+      "id" : "A5A37904-87AA-4C7D-A805-F9B03413D593",
+      "properties" : {
+        "name" : "素早點",
+        "address" : "桃園市中壢區長春路33號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3019,13 +3240,14 @@
           121.24968800000001,
           24.9787192
         ]
-      },
-      "properties" : {
-        "name" : "素早點",
-        "address" : "桃園市中壢區長春路33號"
       }
     },
     {
+      "id" : "289B643A-A2A3-4B41-8487-E96E8D83DB4D",
+      "properties" : {
+        "name" : "來來冰城吉得堡早餐店",
+        "address" : "桃園市觀音區中興路40號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3033,13 +3255,14 @@
           121.08045300000001,
           25.038381999999999
         ]
-      },
-      "properties" : {
-        "name" : "來來冰城吉得堡早餐店",
-        "address" : "桃園市觀音區中興路40號"
       }
     },
     {
+      "id" : "06FF05F8-6E5E-4466-9DA8-70C9B79384A3",
+      "properties" : {
+        "name" : "慈心基金基金會輔導里仁直營店",
+        "address" : "桃園市桃園區和平路130號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3047,13 +3270,14 @@
           121.3082007,
           24.995260900000002
         ]
-      },
-      "properties" : {
-        "name" : "慈心基金基金會輔導里仁直營店",
-        "address" : "桃園市桃園區和平路130號"
       }
     },
     {
+      "id" : "33C90DAD-0FA6-4419-BB0C-71F87CB7B381",
+      "properties" : {
+        "name" : "悟芳蔬食",
+        "address" : "桃園市中壢區新中北路124號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3061,13 +3285,14 @@
           121.237562,
           24.957781000000001
         ]
-      },
-      "properties" : {
-        "name" : "悟芳蔬食",
-        "address" : "桃園市中壢區新中北路124號"
       }
     },
     {
+      "id" : "B827FD4A-9DAC-4958-ACB4-EADA6AA44B0F",
+      "properties" : {
+        "name" : "廣田素食",
+        "address" : "桃園市中壢區中央西路二段20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3075,13 +3300,14 @@
           121.217877,
           24.958127999999999
         ]
-      },
-      "properties" : {
-        "name" : "廣田素食",
-        "address" : "桃園市中壢區中央西路二段20號"
       }
     },
     {
+      "id" : "65FC4F0A-4EE9-4B22-B0D9-0626FB2841C8",
+      "properties" : {
+        "name" : "怡緣素食",
+        "address" : "桃園市桃園區廈門街10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3089,13 +3315,14 @@
           121.299752,
           24.994855999999999
         ]
-      },
-      "properties" : {
-        "name" : "怡緣素食",
-        "address" : "桃園市桃園區廈門街10號"
       }
     },
     {
+      "id" : "2082382B-93D5-4D13-81AD-7C6532D45E96",
+      "properties" : {
+        "name" : "上海廣豐有機素食",
+        "address" : "桃園市中壢區福州一街61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3103,13 +3330,14 @@
           121.229467,
           24.964504999999999
         ]
-      },
-      "properties" : {
-        "name" : "上海廣豐有機素食",
-        "address" : "桃園市中壢區福州一街61號"
       }
     },
     {
+      "id" : "36ED67B3-141E-4E97-A49B-0652B8A1B755",
+      "properties" : {
+        "name" : "大溪。小石藝術工作室",
+        "address" : "桃園市大溪區仁愛路33巷14號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3117,13 +3345,14 @@
           121.2855509,
           24.8853993
         ]
-      },
-      "properties" : {
-        "name" : "大溪。小石藝術工作室",
-        "address" : "桃園市大溪區仁愛路33巷14號"
       }
     },
     {
+      "id" : "48EF68D2-87EE-4695-BDFA-C4C7723081EC",
+      "properties" : {
+        "name" : "妙自在素食",
+        "address" : "桃園市桃園區力行路183-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3131,13 +3360,14 @@
           121.3010665,
           25.000906000000001
         ]
-      },
-      "properties" : {
-        "name" : "妙自在素食",
-        "address" : "桃園市桃園區力行路183-1號"
       }
     },
     {
+      "id" : "4880A430-2618-4872-A043-1C66E8F221D7",
+      "properties" : {
+        "name" : "夏綠蒂手作奶舖-奶酪",
+        "address" : "桃園市大溪區普濟路118號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3145,13 +3375,14 @@
           121.28579000000001,
           24.886095000000001
         ]
-      },
-      "properties" : {
-        "name" : "夏綠蒂手作奶舖-奶酪",
-        "address" : "桃園市大溪區普濟路118號"
       }
     },
     {
+      "id" : "B202A3F8-284C-45E5-96EC-49CD5EDA1FFE",
+      "properties" : {
+        "name" : "Matthew's Choice 馬修嚴選",
+        "address" : "桃園市桃園區南平路431號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3159,13 +3390,14 @@
           121.295569,
           25.016781000000002
         ]
-      },
-      "properties" : {
-        "name" : "Matthew's Choice 馬修嚴選",
-        "address" : "桃園市桃園區南平路431號"
       }
     },
     {
+      "id" : "27CA2323-33BF-47C1-AA55-EA40669A8FEE",
+      "properties" : {
+        "name" : "茹善健康素食",
+        "address" : "桃園市龍潭區中正路160巷11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3173,13 +3405,14 @@
           121.216595,
           24.865842000000001
         ]
-      },
-      "properties" : {
-        "name" : "茹善健康素食",
-        "address" : "桃園市龍潭區中正路160巷11號"
       }
     },
     {
+      "id" : "C61BCD3B-D2A6-4F23-B645-C775ABC41C7E",
+      "properties" : {
+        "name" : "天然素食",
+        "address" : "桃園市中壢區興仁路一段86號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3187,13 +3420,14 @@
           121.26054430000001,
           24.9709927
         ]
-      },
-      "properties" : {
-        "name" : "天然素食",
-        "address" : "桃園市中壢區興仁路一段86號"
       }
     },
     {
+      "id" : "4379F447-17FA-4933-90CF-281CC7F1B6A5",
+      "properties" : {
+        "name" : "素食養生館",
+        "address" : "桃園市平鎮區南京路38號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3201,13 +3435,14 @@
           121.209529,
           24.916557999999998
         ]
-      },
-      "properties" : {
-        "name" : "素食養生館",
-        "address" : "桃園市平鎮區南京路38號"
       }
     },
     {
+      "id" : "85A5C341-74FD-4CB4-838F-38CA584BB4F6",
+      "properties" : {
+        "name" : "兼善齋素食坊",
+        "address" : "桃園市平鎮區民族路三段151號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3215,13 +3450,14 @@
           121.19511129999999,
           24.956978800000002
         ]
-      },
-      "properties" : {
-        "name" : "兼善齋素食坊",
-        "address" : "桃園市平鎮區民族路三段151號"
       }
     },
     {
+      "id" : "64A62807-006C-497F-A86F-D69691EF9F0A",
+      "properties" : {
+        "name" : "普陀山觀音緣素食館",
+        "address" : "桃園市大溪區介壽路806號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3229,13 +3465,14 @@
           121.283844,
           24.902312999999999
         ]
-      },
-      "properties" : {
-        "name" : "普陀山觀音緣素食館",
-        "address" : "桃園市大溪區介壽路806號"
       }
     },
     {
+      "id" : "484FBA59-7E6E-4670-9C44-6448F76B11D6",
+      "properties" : {
+        "name" : "安東素食",
+        "address" : "桃園市桃園區安東街69號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3243,13 +3480,14 @@
           121.315787,
           24.992108999999999
         ]
-      },
-      "properties" : {
-        "name" : "安東素食",
-        "address" : "桃園市桃園區安東街69號"
       }
     },
     {
+      "id" : "8F32B18C-D481-4407-A5A5-E67EFEC9E46A",
+      "properties" : {
+        "name" : "阿新健康素食",
+        "address" : "桃園市楊梅區中山北路二段463號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3257,13 +3495,14 @@
           121.17692169999999,
           24.912832300000002
         ]
-      },
-      "properties" : {
-        "name" : "阿新健康素食",
-        "address" : "桃園市楊梅區中山北路二段463號"
       }
     },
     {
+      "id" : "395EE434-737E-437D-A2B1-3BC2306A710A",
+      "properties" : {
+        "name" : "陽光健康素食",
+        "address" : "桃園市大溪區埔頂路一段488號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3271,13 +3510,14 @@
           121.27747100000001,
           24.905622999999999
         ]
-      },
-      "properties" : {
-        "name" : "陽光健康素食",
-        "address" : "桃園市大溪區埔頂路一段488號"
       }
     },
     {
+      "id" : "F1CA94F7-1EA6-4CF1-827B-EA2ECDCF06F7",
+      "properties" : {
+        "name" : "果然匯",
+        "address" : "桃園市桃園區中正路61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3285,13 +3525,14 @@
           121.31254,
           24.991308
         ]
-      },
-      "properties" : {
-        "name" : "果然匯",
-        "address" : "桃園市桃園區中正路61號"
       }
     },
     {
+      "id" : "F0149333-7578-45A1-B595-E198DA917B75",
+      "properties" : {
+        "name" : "觀音素食",
+        "address" : "桃園市蘆竹區仁愛路一段41號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3299,13 +3540,14 @@
           121.29414,
           25.051020999999999
         ]
-      },
-      "properties" : {
-        "name" : "觀音素食",
-        "address" : "桃園市蘆竹區仁愛路一段41號"
       }
     },
     {
+      "id" : "E1342274-B5E7-47DF-83D1-74C9866C3F90",
+      "properties" : {
+        "name" : "康莊蓮園",
+        "address" : "桃園市觀音區大堀村4鄰184號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3313,13 +3555,14 @@
           121.083049,
           25.038506999999999
         ]
-      },
-      "properties" : {
-        "name" : "康莊蓮園",
-        "address" : "桃園市觀音區大堀村4鄰184號"
       }
     },
     {
+      "id" : "A270C7A0-5812-41FC-A548-35F324AC8872",
+      "properties" : {
+        "name" : "用心蔬食健康素食養生館",
+        "address" : "桃園市中壢區民族路260號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3327,13 +3570,14 @@
           121.209064,
           24.957141
         ]
-      },
-      "properties" : {
-        "name" : "用心蔬食健康素食養生館",
-        "address" : "桃園市中壢區民族路260號"
       }
     },
     {
+      "id" : "6DF2978E-5A8D-49E9-B65D-D60D126E120F",
+      "properties" : {
+        "name" : "陳記素食",
+        "address" : "桃園市桃園區宏昌六街177號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3341,13 +3585,14 @@
           121.29405800000001,
           24.987318999999999
         ]
-      },
-      "properties" : {
-        "name" : "陳記素食",
-        "address" : "桃園市桃園區宏昌六街177號"
       }
     },
     {
+      "id" : "8505C28C-3AF0-4563-8374-4052AA182974",
+      "properties" : {
+        "name" : "不老林蔬香麻辣",
+        "address" : "桃園市蘆竹區南崁路一段22號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3355,13 +3600,14 @@
           121.2898818,
           25.0509281
         ]
-      },
-      "properties" : {
-        "name" : "不老林蔬香麻辣",
-        "address" : "桃園市蘆竹區南崁路一段22號"
       }
     },
     {
+      "id" : "991B99B5-E3D6-4534-927A-366822950EE7",
+      "properties" : {
+        "name" : "源緣素食",
+        "address" : "桃園市大園區中正西路30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3369,13 +3615,14 @@
           121.1949166,
           25.063559099999999
         ]
-      },
-      "properties" : {
-        "name" : "源緣素食",
-        "address" : "桃園市大園區中正西路30號"
       }
     },
     {
+      "id" : "D10FE78C-DC88-4445-BE0F-0BED7AB24311",
+      "properties" : {
+        "name" : "聖儕素食館",
+        "address" : "桃園市桃園區中正路678號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3383,13 +3630,14 @@
           121.30392999999999,
           25.006297
         ]
-      },
-      "properties" : {
-        "name" : "聖儕素食館",
-        "address" : "桃園市桃園區中正路678號"
       }
     },
     {
+      "id" : "2E22587D-9DF1-4A37-9083-52AF78921D8D",
+      "properties" : {
+        "name" : "菩提蔬食",
+        "address" : "桃園市桃園區中平路23號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3397,13 +3645,14 @@
           121.29222900000001,
           24.989933000000001
         ]
-      },
-      "properties" : {
-        "name" : "菩提蔬食",
-        "address" : "桃園市桃園區中平路23號"
       }
     },
     {
+      "id" : "85BE63DB-5024-4E08-8546-89DB2056F45C",
+      "properties" : {
+        "name" : "民豐素食-素食點心館",
+        "address" : "桃園市桃園區新埔七街6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3411,13 +3660,14 @@
           121.302404,
           25.018495000000001
         ]
-      },
-      "properties" : {
-        "name" : "民豐素食-素食點心館",
-        "address" : "桃園市桃園區新埔七街6號"
       }
     },
     {
+      "id" : "06EB00B1-1796-429D-969D-29A0ABB4E473",
+      "properties" : {
+        "name" : "輕食煮藝健康素食",
+        "address" : "桃園市八德區廣福路136號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3425,13 +3675,14 @@
           121.2962541,
           24.959546799999998
         ]
-      },
-      "properties" : {
-        "name" : "輕食煮藝健康素食",
-        "address" : "桃園市八德區廣福路136號"
       }
     },
     {
+      "id" : "9BEFF177-CFF5-4B86-B09E-B24E1E3C62B7",
+      "properties" : {
+        "name" : "黃媽媽小吃店",
+        "address" : "桃園市楊梅區中興路166巷22號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3439,13 +3690,14 @@
           121.185193,
           24.915690999999999
         ]
-      },
-      "properties" : {
-        "name" : "黃媽媽小吃店",
-        "address" : "桃園市楊梅區中興路166巷22號"
       }
     },
     {
+      "id" : "761A08ED-E465-4503-8A36-87867ABA5BAC",
+      "properties" : {
+        "name" : "義式美味素食",
+        "address" : "桃園市中壢區中華路一段616號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3453,13 +3705,14 @@
           121.25061410000001,
           24.969542499999999
         ]
-      },
-      "properties" : {
-        "name" : "義式美味素食",
-        "address" : "桃園市中壢區中華路一段616號"
       }
     },
     {
+      "id" : "850353FB-2E40-4F64-8730-E247554B6280",
+      "properties" : {
+        "name" : "OF Coffee 原森咖啡",
+        "address" : "桃園市桃園區三民路三段305號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3467,13 +3720,14 @@
           121.3061491,
           24.9929086
         ]
-      },
-      "properties" : {
-        "name" : "OF Coffee 原森咖啡",
-        "address" : "桃園市桃園區三民路三段305號"
       }
     },
     {
+      "id" : "24EE16A9-BCFC-471C-8D96-90F8CE33786B",
+      "properties" : {
+        "name" : "慈恩素食",
+        "address" : "桃園市楊梅區永美路445巷205號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3481,13 +3735,14 @@
           121.18186799999999,
           24.909773999999999
         ]
-      },
-      "properties" : {
-        "name" : "慈恩素食",
-        "address" : "桃園市楊梅區永美路445巷205號"
       }
     },
     {
+      "id" : "853B4A18-AB41-426D-9F3A-E4AE00116D50",
+      "properties" : {
+        "name" : "仁心素食",
+        "address" : "桃園市中壢區實踐路214號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3495,13 +3750,14 @@
           121.23927399999999,
           24.957111999999999
         ]
-      },
-      "properties" : {
-        "name" : "仁心素食",
-        "address" : "桃園市中壢區實踐路214號"
       }
     },
     {
+      "id" : "3820EE9D-B961-4EE1-A6B4-963EAD8D4DBA",
+      "properties" : {
+        "name" : "一善齋素食坊",
+        "address" : "桃園市桃園區建國路12號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3509,13 +3765,14 @@
           121.3175146,
           24.986061899999999
         ]
-      },
-      "properties" : {
-        "name" : "一善齋素食坊",
-        "address" : "桃園市桃園區建國路12號"
       }
     },
     {
+      "id" : "57499C6D-484B-401E-8F49-DB8BF49F305F",
+      "properties" : {
+        "name" : "蓮花瓣素食館",
+        "address" : "桃園市桃園區春日路205號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3523,13 +3780,14 @@
           121.315597,
           24.996626800000001
         ]
-      },
-      "properties" : {
-        "name" : "蓮花瓣素食館",
-        "address" : "桃園市桃園區春日路205號"
       }
     },
     {
+      "id" : "909450C9-65B6-4370-B858-C082B5069792",
+      "properties" : {
+        "name" : "天然素食",
+        "address" : "桃園市桃園區中平路142號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3537,13 +3795,14 @@
           121.293234,
           24.986011000000001
         ]
-      },
-      "properties" : {
-        "name" : "天然素食",
-        "address" : "桃園市桃園區中平路142號"
       }
     },
     {
+      "id" : "4A906A48-E7C6-41C3-B3A8-5343286C74C2",
+      "properties" : {
+        "name" : "Wu～素真的",
+        "address" : "桃園市桃園區寶山街285-303號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3551,13 +3810,14 @@
           121.3117542,
           25.0109721
         ]
-      },
-      "properties" : {
-        "name" : "Wu～素真的",
-        "address" : "桃園市桃園區寶山街285-303號"
       }
     },
     {
+      "id" : "34E6EE69-02F2-44A4-9AC4-12F7929AD790",
+      "properties" : {
+        "name" : "易素館",
+        "address" : "桃園市桃園區國豐六街78號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3565,13 +3825,14 @@
           121.278082,
           24.989286
         ]
-      },
-      "properties" : {
-        "name" : "易素館",
-        "address" : "桃園市桃園區國豐六街78號"
       }
     },
     {
+      "id" : "43C8E762-B616-49D3-BAFA-1C0B94631B8A",
+      "properties" : {
+        "name" : "小禾豆蔬果廚房",
+        "address" : "桃園市八德區廣福路91號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3579,13 +3840,14 @@
           121.2970241,
           24.9590265
         ]
-      },
-      "properties" : {
-        "name" : "小禾豆蔬果廚房",
-        "address" : "桃園市八德區廣福路91號"
       }
     },
     {
+      "id" : "E13B0790-85A0-494C-8F97-90C4307284E3",
+      "properties" : {
+        "name" : "聖昌素食麵包蛋糕坊",
+        "address" : "桃園市龍潭區中興路479號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3593,13 +3855,14 @@
           121.22835600000001,
           24.872223000000002
         ]
-      },
-      "properties" : {
-        "name" : "聖昌素食麵包蛋糕坊",
-        "address" : "桃園市龍潭區中興路479號"
       }
     },
     {
+      "id" : "99E258CF-1D26-49DF-9680-5385DC3CF186",
+      "properties" : {
+        "name" : "大有健康素食館",
+        "address" : "桃園市桃園區大有路150號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3607,13 +3870,14 @@
           121.3212542,
           25.006793699999999
         ]
-      },
-      "properties" : {
-        "name" : "大有健康素食館",
-        "address" : "桃園市桃園區大有路150號"
       }
     },
     {
+      "id" : "8E42F4CD-90F2-455B-A9AE-D04FE3B83BDD",
+      "properties" : {
+        "name" : "超素複合式蔬食",
+        "address" : "桃園市中壢區領航北路四段360號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3621,13 +3885,14 @@
           121.221615,
           25.022780999999998
         ]
-      },
-      "properties" : {
-        "name" : "超素複合式蔬食",
-        "address" : "桃園市中壢區領航北路四段360號"
       }
     },
     {
+      "id" : "B0DD1198-30A8-4673-8DDC-4480BC0A833F",
+      "properties" : {
+        "name" : "經濟素食",
+        "address" : "桃園市楊梅區環東路441號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3635,13 +3900,14 @@
           121.15689399999999,
           24.909766999999999
         ]
-      },
-      "properties" : {
-        "name" : "經濟素食",
-        "address" : "桃園市楊梅區環東路441號"
       }
     },
     {
+      "id" : "E738551B-62DF-4C63-A13A-DC21A7116FA1",
+      "properties" : {
+        "name" : "文化饍",
+        "address" : "桃園市八德區大明街10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3649,13 +3915,14 @@
           121.295484,
           24.968799000000001
         ]
-      },
-      "properties" : {
-        "name" : "文化饍",
-        "address" : "桃園市八德區大明街10號"
       }
     },
     {
+      "id" : "D7112E8C-E7D0-41D6-8EAE-51837CB7CE8D",
+      "properties" : {
+        "name" : "中平素食餐廳",
+        "address" : "桃園市中壢區新興路210號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3663,13 +3930,14 @@
           121.2274163,
           24.953384499999999
         ]
-      },
-      "properties" : {
-        "name" : "中平素食餐廳",
-        "address" : "桃園市中壢區新興路210號"
       }
     },
     {
+      "id" : "7BEE545B-F740-4724-9936-E2D574F61952",
+      "properties" : {
+        "name" : "鄭師父素食小館",
+        "address" : "桃園市楊梅區中山路105號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3677,13 +3945,14 @@
           121.1468189,
           24.9071015
         ]
-      },
-      "properties" : {
-        "name" : "鄭師父素食小館",
-        "address" : "桃園市楊梅區中山路105號"
       }
     },
     {
+      "id" : "7F9BA235-76A6-4E81-8599-40B2DB9103F7",
+      "properties" : {
+        "name" : "白陽素食小館",
+        "address" : "桃園市龜山區南上路153號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3691,13 +3960,14 @@
           121.2987959,
           25.047322699999999
         ]
-      },
-      "properties" : {
-        "name" : "白陽素食小館",
-        "address" : "桃園市龜山區南上路153號"
       }
     },
     {
+      "id" : "DBC5158F-FDF9-4576-B6C6-2A9D935F845D",
+      "properties" : {
+        "name" : "明齋素食館",
+        "address" : "桃園市大溪區康莊路39號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3705,13 +3975,14 @@
           121.28882400000001,
           24.883669000000001
         ]
-      },
-      "properties" : {
-        "name" : "明齋素食館",
-        "address" : "桃園市大溪區康莊路39號"
       }
     },
     {
+      "id" : "AC084917-8E33-4F3C-AB44-699EFA7D9083",
+      "properties" : {
+        "name" : "滿滿樂蔬食",
+        "address" : "桃園市中壢區龍岡路三段158號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3719,13 +3990,14 @@
           121.233165,
           24.935901999999999
         ]
-      },
-      "properties" : {
-        "name" : "滿滿樂蔬食",
-        "address" : "桃園市中壢區龍岡路三段158號"
       }
     },
     {
+      "id" : "B51D6A13-556A-4A98-A75A-D3D93A8AB242",
+      "properties" : {
+        "name" : "初素蔬食",
+        "address" : "桃園市八德區興豐路580號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3733,13 +4005,14 @@
           121.293296,
           24.930475000000001
         ]
-      },
-      "properties" : {
-        "name" : "初素蔬食",
-        "address" : "桃園市八德區興豐路580號"
       }
     },
     {
+      "id" : "B2060960-EA4A-4357-9F3E-BB15D97B796B",
+      "properties" : {
+        "name" : "素讚 滷炸麻辣燙",
+        "address" : "桃園市中壢區中北路二段104-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3747,13 +4020,14 @@
           121.2266089,
           24.952081400000001
         ]
-      },
-      "properties" : {
-        "name" : "素讚 滷炸麻辣燙",
-        "address" : "桃園市中壢區中北路二段104-3號"
       }
     },
     {
+      "id" : "E5D9425B-7100-4569-AC80-FC2D170988CC",
+      "properties" : {
+        "name" : "妙法素食館",
+        "address" : "桃園市桃園區新埔六街202號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3761,13 +4035,14 @@
           121.300648,
           25.018554000000002
         ]
-      },
-      "properties" : {
-        "name" : "妙法素食館",
-        "address" : "桃園市桃園區新埔六街202號"
       }
     },
     {
+      "id" : "52F792DC-92C9-4F60-B4C0-E6B3B905AD89",
+      "properties" : {
+        "name" : "珍味養生素食",
+        "address" : "桃園市蘆竹區忠孝西路169巷10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3775,13 +4050,14 @@
           121.2897684,
           25.040194899999999
         ]
-      },
-      "properties" : {
-        "name" : "珍味養生素食",
-        "address" : "桃園市蘆竹區忠孝西路169巷10號"
       }
     },
     {
+      "id" : "6F64EA1D-E51D-40B1-9F99-D7C07D8247FB",
+      "properties" : {
+        "name" : "蕃薯藤有機專賣",
+        "address" : "桃園市桃園區縣府路130號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3789,13 +4065,14 @@
           121.30153199999999,
           24.994633
         ]
-      },
-      "properties" : {
-        "name" : "蕃薯藤有機專賣",
-        "address" : "桃園市桃園區縣府路130號"
       }
     },
     {
+      "id" : "F4CCDEEC-5081-4601-9633-9703B72B7206",
+      "properties" : {
+        "name" : "天廚一號",
+        "address" : "桃園市桃園區縣府路462號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3803,13 +4080,14 @@
           121.30173600000001,
           24.992321
         ]
-      },
-      "properties" : {
-        "name" : "天廚一號",
-        "address" : "桃園市桃園區縣府路462號"
       }
     },
     {
+      "id" : "577E6718-8676-4B88-A532-2B1B9B633E70",
+      "properties" : {
+        "name" : "輕食煮藝健康素食",
+        "address" : "桃園市中壢區忠孝路123號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3817,13 +4095,14 @@
           121.2552682,
           24.9754833
         ]
-      },
-      "properties" : {
-        "name" : "輕食煮藝健康素食",
-        "address" : "桃園市中壢區忠孝路123號"
       }
     },
     {
+      "id" : "D774EBED-C152-4743-89F2-C44253538452",
+      "properties" : {
+        "name" : "梅子素紅燒麵",
+        "address" : "桃園市桃園區新埔十街8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3831,13 +4110,14 @@
           121.299094,
           25.023232
         ]
-      },
-      "properties" : {
-        "name" : "梅子素紅燒麵",
-        "address" : "桃園市桃園區新埔十街8號"
       }
     },
     {
+      "id" : "91FB1162-F59B-467A-A73F-E9C542B46F8B",
+      "properties" : {
+        "name" : "普默提陀食坊",
+        "address" : "桃園市中壢區中大一路115號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3845,13 +4125,14 @@
           121.2045413,
           24.972834800000001
         ]
-      },
-      "properties" : {
-        "name" : "普默提陀食坊",
-        "address" : "桃園市中壢區中大一路115號"
       }
     },
     {
+      "id" : "C4D05C44-5C21-4CAE-84E6-2437A968CB43",
+      "properties" : {
+        "name" : "璦喫素",
+        "address" : "桃園市蘆竹區開南路1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3859,13 +4140,14 @@
           121.2715606,
           25.010781099999999
         ]
-      },
-      "properties" : {
-        "name" : "璦喫素",
-        "address" : "桃園市蘆竹區開南路1號"
       }
     },
     {
+      "id" : "750C71E8-C168-460E-9D84-D4D60795DBFC",
+      "properties" : {
+        "name" : "好家素食店",
+        "address" : "桃園市龜山區山鶯路41號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3873,13 +4155,14 @@
           121.323593,
           24.990770000000001
         ]
-      },
-      "properties" : {
-        "name" : "好家素食店",
-        "address" : "桃園市龜山區山鶯路41號"
       }
     },
     {
+      "id" : "1330ADE2-FB19-42A5-B8C3-CA3F4E400625",
+      "properties" : {
+        "name" : "晶生緣咖啡屋",
+        "address" : "桃園市蘆竹區仁愛路三段67號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3887,13 +4170,14 @@
           121.302581,
           25.053642
         ]
-      },
-      "properties" : {
-        "name" : "晶生緣咖啡屋",
-        "address" : "桃園市蘆竹區仁愛路三段67號"
       }
     },
     {
+      "id" : "1B56AA36-F62C-4CBC-9D2F-30EB5ED53E7F",
+      "properties" : {
+        "name" : "鴻展素食小館",
+        "address" : "桃園市桃園區大德一街91號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3901,13 +4185,14 @@
           121.313124,
           25.015501
         ]
-      },
-      "properties" : {
-        "name" : "鴻展素食小館",
-        "address" : "桃園市桃園區大德一街91號"
       }
     },
     {
+      "id" : "C2F8B1A2-8130-4EAA-9D8B-4E15DBF3D1AD",
+      "properties" : {
+        "name" : "臭一臭現蒸臭豆腐",
+        "address" : "桃園市中壢區三和三街30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3915,13 +4200,14 @@
           121.240542,
           24.954438
         ]
-      },
-      "properties" : {
-        "name" : "臭一臭現蒸臭豆腐",
-        "address" : "桃園市中壢區三和三街30號"
       }
     },
     {
+      "id" : "C137BDB9-12A9-4ABD-A1F0-D4DE6B4E7523",
+      "properties" : {
+        "name" : "野夫咖啡 ",
+        "address" : "桃園市龜山區復興一路8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3929,13 +4215,14 @@
           121.3694969,
           25.060215199999998
         ]
-      },
-      "properties" : {
-        "name" : "野夫咖啡 ",
-        "address" : "桃園市龜山區復興一路8號"
       }
     },
     {
+      "id" : "5B9DF5EE-E0EE-4818-9110-82CAB65E8656",
+      "properties" : {
+        "name" : "淨雲齋-健康蔬食",
+        "address" : "桃園市楊梅區新農街372號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3943,13 +4230,14 @@
           121.15678,
           24.911488200000001
         ]
-      },
-      "properties" : {
-        "name" : "淨雲齋-健康蔬食",
-        "address" : "桃園市楊梅區新農街372號"
       }
     },
     {
+      "id" : "A4DFE67E-76C4-4D7A-A115-360E13D24794",
+      "properties" : {
+        "name" : "林口正饌-素包子。饅頭專賣店",
+        "address" : "桃園市龜山區復興一路137號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3957,13 +4245,14 @@
           121.366714,
           25.059013400000001
         ]
-      },
-      "properties" : {
-        "name" : "林口正饌-素包子。饅頭專賣店",
-        "address" : "桃園市龜山區復興一路137號"
       }
     },
     {
+      "id" : "9E2BDEBC-148E-40E8-8494-F8A1B0673CEA",
+      "properties" : {
+        "name" : "歡喜吃素 越式素食",
+        "address" : "桃園市桃園區正康二街70號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3971,13 +4260,14 @@
           121.3085598,
           25.001912600000001
         ]
-      },
-      "properties" : {
-        "name" : "歡喜吃素 越式素食",
-        "address" : "桃園市桃園區正康二街70號"
       }
     },
     {
+      "id" : "3D2C0870-9280-4D99-8773-1FCBB9B3CAAA",
+      "properties" : {
+        "name" : "佛有緣素食自助餐",
+        "address" : "桃園市桃園區龍壽街40號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3985,13 +4275,14 @@
           121.2694935,
           24.978832300000001
         ]
-      },
-      "properties" : {
-        "name" : "佛有緣素食自助餐",
-        "address" : "桃園市桃園區龍壽街40號"
       }
     },
     {
+      "id" : "057BA282-773F-4ED3-84CE-D3F0E661F82D",
+      "properties" : {
+        "name" : "誠美的素食",
+        "address" : "桃園市中壢區元化路66號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3999,13 +4290,14 @@
           121.228191,
           24.959630000000001
         ]
-      },
-      "properties" : {
-        "name" : "誠美的素食",
-        "address" : "桃園市中壢區元化路66號"
       }
     },
     {
+      "id" : "39762CE7-060D-421A-80E2-7269EE0BC479",
+      "properties" : {
+        "name" : "上妙飲食",
+        "address" : "桃園市龍潭區自由街2巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4013,13 +4305,14 @@
           121.24102999999999,
           24.881682000000001
         ]
-      },
-      "properties" : {
-        "name" : "上妙飲食",
-        "address" : "桃園市龍潭區自由街2巷1號"
       }
     },
     {
+      "id" : "E16E280B-5C1A-47D7-A5BD-7FF455D67923",
+      "properties" : {
+        "name" : "得來素蔬食連鎖餐飲",
+        "address" : "桃園市桃園區介壽路487號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4027,13 +4320,14 @@
           121.3034545,
           24.977474399999998
         ]
-      },
-      "properties" : {
-        "name" : "得來素蔬食連鎖餐飲",
-        "address" : "桃園市桃園區介壽路487號"
       }
     },
     {
+      "id" : "06AE1C3D-8C31-4757-B774-3F764DA971D2",
+      "properties" : {
+        "name" : "福老爹素食水餃專賣店",
+        "address" : "桃園市中壢區龍崗路二段61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4041,13 +4335,14 @@
           121.224996,
           24.965844000000001
         ]
-      },
-      "properties" : {
-        "name" : "福老爹素食水餃專賣店",
-        "address" : "桃園市中壢區龍崗路二段61號"
       }
     },
     {
+      "id" : "EEAA6E32-E488-42AA-972E-8C6929A4B3DE",
+      "properties" : {
+        "name" : "晴園素食小吃",
+        "address" : "桃園市八德區介壽路二段1135號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4055,13 +4350,14 @@
           121.29763029999999,
           24.9325349
         ]
-      },
-      "properties" : {
-        "name" : "晴園素食小吃",
-        "address" : "桃園市八德區介壽路二段1135號"
       }
     },
     {
+      "id" : "A03D5859-C64F-4FB0-B5C1-FA70E821F9EC",
+      "properties" : {
+        "name" : "芊豐",
+        "address" : "桃園市桃園區大興西路二段96巷3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4069,13 +4365,14 @@
           121.297459,
           25.011486999999999
         ]
-      },
-      "properties" : {
-        "name" : "芊豐",
-        "address" : "桃園市桃園區大興西路二段96巷3號"
       }
     },
     {
+      "id" : "11DB1124-82E7-4B7D-8B1A-8701E07AB109",
+      "properties" : {
+        "name" : "梳子．Salud",
+        "address" : "桃園市桃園區新埔六街89號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4083,13 +4380,14 @@
           121.30222000000001,
           25.01436
         ]
-      },
-      "properties" : {
-        "name" : "梳子．Salud",
-        "address" : "桃園市桃園區新埔六街89號"
       }
     },
     {
+      "id" : "3DD8F008-7069-48FA-8CA6-86590F1E7573",
+      "properties" : {
+        "name" : "巧軒素食店",
+        "address" : "桃園市桃園區桃鶯路224號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4097,13 +4395,14 @@
           121.31959500000001,
           24.980606999999999
         ]
-      },
-      "properties" : {
-        "name" : "巧軒素食店",
-        "address" : "桃園市桃園區桃鶯路224號"
       }
     },
     {
+      "id" : "2A9D6304-28E7-4F2A-8073-DCF6371E9457",
+      "properties" : {
+        "name" : "育馨素食水煎包抓餅",
+        "address" : "桃園市平鎮區延平路二段157號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4111,13 +4410,14 @@
           121.21134000000001,
           24.947924
         ]
-      },
-      "properties" : {
-        "name" : "育馨素食水煎包抓餅",
-        "address" : "桃園市平鎮區延平路二段157號"
       }
     },
     {
+      "id" : "F27576A6-0159-4BA5-BAA2-A4B47260A245",
+      "properties" : {
+        "name" : "素之鄉素食館一館",
+        "address" : "桃園市桃園區中山路685巷80號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4125,13 +4425,14 @@
           121.292883,
           24.989101999999999
         ]
-      },
-      "properties" : {
-        "name" : "素之鄉素食館一館",
-        "address" : "桃園市桃園區中山路685巷80號"
       }
     },
     {
+      "id" : "DCCC0B9B-6432-459C-B94F-D9BF8C501A49",
+      "properties" : {
+        "name" : "南華素食總匯",
+        "address" : "桃園市蘆竹區南農街1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4139,13 +4440,14 @@
           121.292652,
           25.04815
         ]
-      },
-      "properties" : {
-        "name" : "南華素食總匯",
-        "address" : "桃園市蘆竹區南農街1號"
       }
     },
     {
+      "id" : "9FEAB6BC-2FF8-4A3C-8DF2-6B286FE71B77",
+      "properties" : {
+        "name" : "素怡園素食自助餐",
+        "address" : "桃園市中壢區大仁四街20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4153,13 +4455,14 @@
           121.241187,
           24.955781999999999
         ]
-      },
-      "properties" : {
-        "name" : "素怡園素食自助餐",
-        "address" : "桃園市中壢區大仁四街20號"
       }
     },
     {
+      "id" : "4E6DA692-9392-47D4-8367-D786329759C9",
+      "properties" : {
+        "name" : "垣辰素食早午餐",
+        "address" : "桃園市蘆竹區奉化路46號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4167,13 +4470,14 @@
           121.285962,
           25.040824000000001
         ]
-      },
-      "properties" : {
-        "name" : "垣辰素食早午餐",
-        "address" : "桃園市蘆竹區奉化路46號"
       }
     },
     {
+      "id" : "5B37C77C-9ED5-4FC8-AD2C-D9B19372B806",
+      "properties" : {
+        "name" : "甘霖養生坊",
+        "address" : "桃園市桃園區大豐路75號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4181,13 +4485,14 @@
           121.31726,
           24.980391000000001
         ]
-      },
-      "properties" : {
-        "name" : "甘霖養生坊",
-        "address" : "桃園市桃園區大豐路75號"
       }
     },
     {
+      "id" : "E11C74B5-CB3B-4402-B4FB-91BE8B8602C8",
+      "properties" : {
+        "name" : "祥順素食",
+        "address" : "桃園市中壢區中園路二段107號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4195,13 +4500,14 @@
           121.234224,
           24.991536
         ]
-      },
-      "properties" : {
-        "name" : "祥順素食",
-        "address" : "桃園市中壢區中園路二段107號"
       }
     },
     {
+      "id" : "E711A3D2-E9CE-4495-B8C7-CC1F7DA1A18F",
+      "properties" : {
+        "name" : "竤翔健康素食",
+        "address" : "桃園市大溪區康莊路211號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4209,13 +4515,14 @@
           121.28849099999999,
           24.878910000000001
         ]
-      },
-      "properties" : {
-        "name" : "竤翔健康素食",
-        "address" : "桃園市大溪區康莊路211號"
       }
     },
     {
+      "id" : "D22DD9BE-96FB-47BA-B000-5A1DAC359FC8",
+      "properties" : {
+        "name" : "喜樂蔬食創意料理",
+        "address" : "桃園市龜山區復興北路46號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4223,13 +4530,14 @@
           121.369699,
           25.058555999999999
         ]
-      },
-      "properties" : {
-        "name" : "喜樂蔬食創意料理",
-        "address" : "桃園市龜山區復興北路46號"
       }
     },
     {
+      "id" : "805F5AC6-F2F9-4C37-9644-C47B1F31298E",
+      "properties" : {
+        "name" : "興華素食水煎包",
+        "address" : "桃園市平鎮區復旦路二段11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4237,13 +4545,14 @@
           121.205941,
           24.947372999999999
         ]
-      },
-      "properties" : {
-        "name" : "興華素食水煎包",
-        "address" : "桃園市平鎮區復旦路二段11號"
       }
     },
     {
+      "id" : "F8463779-6EF7-4188-89EA-5C3C642C9395",
+      "properties" : {
+        "name" : "杏德芙健康蔬食創意料理",
+        "address" : "桃園市龍潭區華南路一段130號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4251,13 +4560,14 @@
           121.21762,
           24.868946000000001
         ]
-      },
-      "properties" : {
-        "name" : "杏德芙健康蔬食創意料理",
-        "address" : "桃園市龍潭區華南路一段130號"
       }
     },
     {
+      "id" : "CC3D6CF5-B458-4EFA-B4ED-11D0DF295619",
+      "properties" : {
+        "name" : "妙觀音素食",
+        "address" : "桃園市桃園區南平路286-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4265,13 +4575,14 @@
           121.29928409999999,
           25.018695099999999
         ]
-      },
-      "properties" : {
-        "name" : "妙觀音素食",
-        "address" : "桃園市桃園區南平路286-1號"
       }
     },
     {
+      "id" : "DDED9D20-4ADA-4965-B531-C3D94FE0DE73",
+      "properties" : {
+        "name" : "守富素食館",
+        "address" : "桃園市桃園區三民路三段239號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4279,13 +4590,14 @@
           121.3060438,
           24.994862600000001
         ]
-      },
-      "properties" : {
-        "name" : "守富素食館",
-        "address" : "桃園市桃園區三民路三段239號"
       }
     },
     {
+      "id" : "E76765BB-3785-471B-946E-1DE7383634BC",
+      "properties" : {
+        "name" : "素食麵店",
+        "address" : "桃園市中壢區中豐路412-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4293,13 +4605,14 @@
           121.21881500000001,
           24.956002000000002
         ]
-      },
-      "properties" : {
-        "name" : "素食麵店",
-        "address" : "桃園市中壢區中豐路412-2號"
       }
     },
     {
+      "id" : "30036092-6D97-4F49-9262-56DCA7A9F748",
+      "properties" : {
+        "name" : "健康緣素",
+        "address" : "桃園市龍潭區中豐路上林段228-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4307,13 +4620,14 @@
           121.2094352,
           24.864385899999998
         ]
-      },
-      "properties" : {
-        "name" : "健康緣素",
-        "address" : "桃園市龍潭區中豐路上林段228-1號"
       }
     },
     {
+      "id" : "33D23412-518A-4E23-BC36-AC7F30E38A07",
+      "properties" : {
+        "name" : "小娟生活小舖",
+        "address" : "桃園市觀音區九如街11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4321,13 +4635,14 @@
           121.142172,
           25.043496999999999
         ]
-      },
-      "properties" : {
-        "name" : "小娟生活小舖",
-        "address" : "桃園市觀音區九如街11號"
       }
     },
     {
+      "id" : "3D213CDE-ECD3-4392-9FE4-0E7058C35178",
+      "properties" : {
+        "name" : "樂農莊HELLOLAND",
+        "address" : "桃園市新屋區笨港村8鄰笨子港50-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4335,13 +4650,14 @@
           121.1054409,
           24.9727815
         ]
-      },
-      "properties" : {
-        "name" : "樂農莊HELLOLAND",
-        "address" : "桃園市新屋區笨港村8鄰笨子港50-6號"
       }
     },
     {
+      "id" : "8FA60691-C354-4A58-9FB4-60ADDFFA90C8",
+      "properties" : {
+        "name" : "自然の樂園",
+        "address" : "桃園市大溪區福山一路118-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4349,13 +4665,14 @@
           121.263611,
           24.830124000000001
         ]
-      },
-      "properties" : {
-        "name" : "自然の樂園",
-        "address" : "桃園市大溪區福山一路118-1號"
       }
     },
     {
+      "id" : "4955E58F-3A61-4B9C-8DC4-DFA20FA76EF3",
+      "properties" : {
+        "name" : "天一素食",
+        "address" : "桃園市楊梅區武營街35號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4363,13 +4680,14 @@
           121.1446275,
           24.9087709
         ]
-      },
-      "properties" : {
-        "name" : "天一素食",
-        "address" : "桃園市楊梅區武營街35號"
       }
     },
     {
+      "id" : "07E7F930-E8E7-49F7-96CC-13AB1C3DDC06",
+      "properties" : {
+        "name" : "LeVens樂望莊園",
+        "address" : "桃園市大溪區瑞安路二段150號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4377,13 +4695,14 @@
           121.280694,
           24.86544
         ]
-      },
-      "properties" : {
-        "name" : "LeVens樂望莊園",
-        "address" : "桃園市大溪區瑞安路二段150號"
       }
     },
     {
+      "id" : "CA519F4B-A388-491B-A566-C6C5350E485A",
+      "properties" : {
+        "name" : "異起素樂活蔬果料理",
+        "address" : "桃園市中壢區福州二街451號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4391,13 +4710,14 @@
           121.232964,
           24.968091999999999
         ]
-      },
-      "properties" : {
-        "name" : "異起素樂活蔬果料理",
-        "address" : "桃園市中壢區福州二街451號"
       }
     },
     {
+      "id" : "4F5DCD83-54EC-472D-BD5B-D8B0504848ED",
+      "properties" : {
+        "name" : "隱約咖啡",
+        "address" : "桃園市中壢區延平路10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4405,13 +4725,14 @@
           121.2333308,
           24.963785399999999
         ]
-      },
-      "properties" : {
-        "name" : "隱約咖啡",
-        "address" : "桃園市中壢區延平路10號"
       }
     },
     {
+      "id" : "CCE27131-C888-4830-A22F-650242840BBF",
+      "properties" : {
+        "name" : "金松門素菜餐廳",
+        "address" : "桃園市龜山區文昌一街58號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4419,13 +4740,14 @@
           121.368285,
           25.057729999999999
         ]
-      },
-      "properties" : {
-        "name" : "金松門素菜餐廳",
-        "address" : "桃園市龜山區文昌一街58號"
       }
     },
     {
+      "id" : "D55ED136-7EDD-47DE-A1C8-E45EF60D3CCF",
+      "properties" : {
+        "name" : "禾源軒蔬食",
+        "address" : "桃園市桃園區寶山街350號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4433,13 +4755,14 @@
           121.312445,
           25.011232
         ]
-      },
-      "properties" : {
-        "name" : "禾源軒蔬食",
-        "address" : "桃園市桃園區寶山街350號"
       }
     },
     {
+      "id" : "E27FE4D2-336B-4E9F-B2DD-E192F259240B",
+      "properties" : {
+        "name" : "怡緣素食",
+        "address" : "桃園市觀音區忠孝路890巷30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4447,13 +4770,14 @@
           121.1319215,
           25.0671234
         ]
-      },
-      "properties" : {
-        "name" : "怡緣素食",
-        "address" : "桃園市觀音區忠孝路890巷30號"
       }
     },
     {
+      "id" : "463820D6-95E0-4D57-B690-C4FBE9B924E3",
+      "properties" : {
+        "name" : "天下第一菇",
+        "address" : "桃園市龍潭區東龍路250號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4461,13 +4785,14 @@
           121.213894,
           24.865417000000001
         ]
-      },
-      "properties" : {
-        "name" : "天下第一菇",
-        "address" : "桃園市龍潭區東龍路250號"
       }
     },
     {
+      "id" : "1C246230-EED1-4BC7-8742-10DE79E1BC00",
+      "properties" : {
+        "name" : "天然素食",
+        "address" : "桃園市中壢區中平路14號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4475,13 +4800,14 @@
           121.2258757,
           24.954421100000001
         ]
-      },
-      "properties" : {
-        "name" : "天然素食",
-        "address" : "桃園市中壢區中平路14號"
       }
     },
     {
+      "id" : "470C40CB-05E6-409D-8F94-BA90CE209298",
+      "properties" : {
+        "name" : "早餐",
+        "address" : "桃園市楊梅區光華街35號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4489,13 +4815,14 @@
           121.145205,
           24.908027000000001
         ]
-      },
-      "properties" : {
-        "name" : "早餐",
-        "address" : "桃園市楊梅區光華街35號"
       }
     },
     {
+      "id" : "311DBE26-445D-4AC7-A277-7DBFEBE6AEB4",
+      "properties" : {
+        "name" : "香辣小舖",
+        "address" : "桃園市中壢區民族路166號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4503,13 +4830,14 @@
           121.211167,
           24.956223000000001
         ]
-      },
-      "properties" : {
-        "name" : "香辣小舖",
-        "address" : "桃園市中壢區民族路166號"
       }
     },
     {
+      "id" : "572EC7EA-62BA-4A4D-9470-6F72A255F4D5",
+      "properties" : {
+        "name" : "風韵魔法藝術",
+        "address" : "桃園市中壢區慈惠三街43號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4517,13 +4845,14 @@
           121.2248,
           24.961358000000001
         ]
-      },
-      "properties" : {
-        "name" : "風韵魔法藝術",
-        "address" : "桃園市中壢區慈惠三街43號"
       }
     },
     {
+      "id" : "F33949D0-3344-46F8-9581-157BB1A05ED6",
+      "properties" : {
+        "name" : "力行素食",
+        "address" : "桃園市桃園區中正五街280號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4531,13 +4860,14 @@
           121.30207900000001,
           25.002451000000001
         ]
-      },
-      "properties" : {
-        "name" : "力行素食",
-        "address" : "桃園市桃園區中正五街280號"
       }
     },
     {
+      "id" : "62CFC252-D057-426C-951F-6C9DFD48F975",
+      "properties" : {
+        "name" : "波羅密自助餐",
+        "address" : "桃園市桃園區長壽街5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4545,13 +4875,14 @@
           121.3126706,
           24.9891042
         ]
-      },
-      "properties" : {
-        "name" : "波羅密自助餐",
-        "address" : "桃園市桃園區長壽街5號"
       }
     },
     {
+      "id" : "D716AA87-8FCD-46C3-830B-D3182382C900",
+      "properties" : {
+        "name" : "天德素食園",
+        "address" : "桃園市大溪區中央路153-5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4559,13 +4890,14 @@
           121.2873,
           24.882985000000001
         ]
-      },
-      "properties" : {
-        "name" : "天德素食園",
-        "address" : "桃園市大溪區中央路153-5號"
       }
     },
     {
+      "id" : "4C7A3A34-0C12-44D7-98F0-E8422761AEEB",
+      "properties" : {
+        "name" : "天然素食",
+        "address" : "桃園市中壢區文化路373號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4573,13 +4905,14 @@
           121.25032,
           24.979255999999999
         ]
-      },
-      "properties" : {
-        "name" : "天然素食",
-        "address" : "桃園市中壢區文化路373號"
       }
     },
     {
+      "id" : "A6541AA4-FDB8-4406-B229-1A6B58C2C66D",
+      "properties" : {
+        "name" : "素食水煎包",
+        "address" : "桃園市桃園區大豐路95號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4587,13 +4920,14 @@
           121.316103,
           24.980236999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食水煎包",
-        "address" : "桃園市桃園區大豐路95號"
       }
     },
     {
+      "id" : "97DA2691-1763-4ABB-88A8-B5402AAC9E81",
+      "properties" : {
+        "name" : "素食早點",
+        "address" : "桃園市八德區福豐南街5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4601,13 +4935,14 @@
           121.30087899999999,
           24.964665
         ]
-      },
-      "properties" : {
-        "name" : "素食早點",
-        "address" : "桃園市八德區福豐南街5號"
       }
     },
     {
+      "id" : "675D4D66-4C4C-401F-BBBE-BB7383A9B362",
+      "properties" : {
+        "name" : "東興文山素食館",
+        "address" : "桃園市中壢區日新路41號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4615,13 +4950,14 @@
           121.23891399999999,
           24.954545
         ]
-      },
-      "properties" : {
-        "name" : "東興文山素食館",
-        "address" : "桃園市中壢區日新路41號"
       }
     },
     {
+      "id" : "B6491FD3-4508-40E6-B612-8BC6E04A964D",
+      "properties" : {
+        "name" : "清心蔬食館",
+        "address" : "桃園市楊梅區新農街二段100號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4629,13 +4965,14 @@
           121.16883900000001,
           24.912717000000001
         ]
-      },
-      "properties" : {
-        "name" : "清心蔬食館",
-        "address" : "桃園市楊梅區新農街二段100號"
       }
     },
     {
+      "id" : "88AE5E48-1B08-43A2-A0A7-26D6493EECED",
+      "properties" : {
+        "name" : "甜蜜屋素食小吃",
+        "address" : "桃園市平鎮區復旦路二段23巷21弄2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4643,13 +4980,14 @@
           121.204528,
           24.946556000000001
         ]
-      },
-      "properties" : {
-        "name" : "甜蜜屋素食小吃",
-        "address" : "桃園市平鎮區復旦路二段23巷21弄2號"
       }
     },
     {
+      "id" : "EEF57768-E167-4DD3-BE27-C358C8AB16AE",
+      "properties" : {
+        "name" : "辰德健康蔬食早午晚餐",
+        "address" : "桃園市大溪區員林路一段479號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4657,13 +4995,14 @@
           121.27332699999999,
           24.891566000000001
         ]
-      },
-      "properties" : {
-        "name" : "辰德健康蔬食早午晚餐",
-        "address" : "桃園市大溪區員林路一段479號"
       }
     },
     {
+      "id" : "FCE1BB76-F5A2-42C2-B2FA-8F7025DA5656",
+      "properties" : {
+        "name" : "品味素食店",
+        "address" : "桃園市龍潭區大昌路二段91-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4671,13 +5010,14 @@
           121.2221547,
           24.867008899999998
         ]
-      },
-      "properties" : {
-        "name" : "品味素食店",
-        "address" : "桃園市龍潭區大昌路二段91-1號"
       }
     },
     {
+      "id" : "19935A38-136F-408D-94F3-D5E9FCB3B03D",
+      "properties" : {
+        "name" : "彰化素食",
+        "address" : "桃園市桃園區文化街33號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4685,13 +5025,14 @@
           121.30815370000001,
           24.991941300000001
         ]
-      },
-      "properties" : {
-        "name" : "彰化素食",
-        "address" : "桃園市桃園區文化街33號"
       }
     },
     {
+      "id" : "BBAE63E8-5834-472D-A437-C3C29185835F",
+      "properties" : {
+        "name" : "中興素食",
+        "address" : "桃園市楊梅區中興路156號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4699,13 +5040,14 @@
           121.185587,
           24.9159471
         ]
-      },
-      "properties" : {
-        "name" : "中興素食",
-        "address" : "桃園市楊梅區中興路156號"
       }
     },
     {
+      "id" : "453A8A98-9B4F-4C42-AA7D-66750EBA39AE",
+      "properties" : {
+        "name" : "湘湘素的堡早餐店",
+        "address" : "桃園市龜山區南美街42號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4713,13 +5055,14 @@
           121.297571,
           25.046136000000001
         ]
-      },
-      "properties" : {
-        "name" : "湘湘素的堡早餐店",
-        "address" : "桃園市龜山區南美街42號"
       }
     },
     {
+      "id" : "259BEC25-6DD2-4CCC-ABDA-B63106D320E2",
+      "properties" : {
+        "name" : "蓮生健康素食",
+        "address" : "桃園市中壢區強國路12號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4727,13 +5070,14 @@
           121.260158,
           24.967589
         ]
-      },
-      "properties" : {
-        "name" : "蓮生健康素食",
-        "address" : "桃園市中壢區強國路12號"
       }
     },
     {
+      "id" : "B4728898-C0DD-48BF-8317-3AF0A3656DA4",
+      "properties" : {
+        "name" : "蔬食早點",
+        "address" : "桃園市中壢區忠勤街49號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4741,13 +5085,14 @@
           121.256541,
           24.974740000000001
         ]
-      },
-      "properties" : {
-        "name" : "蔬食早點",
-        "address" : "桃園市中壢區忠勤街49號"
       }
     },
     {
+      "id" : "7BFEBF9B-1E7C-4EAE-9BBF-6E991BF4F611",
+      "properties" : {
+        "name" : "香草蛋糕舖",
+        "address" : "桃園市桃園區民族路193號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4755,13 +5100,14 @@
           121.3078867,
           24.994093500000002
         ]
-      },
-      "properties" : {
-        "name" : "香草蛋糕舖",
-        "address" : "桃園市桃園區民族路193號"
       }
     },
     {
+      "id" : "E56C93FE-192E-4B47-ACC3-A059299980FD",
+      "properties" : {
+        "name" : "素食水煎包",
+        "address" : "桃園市龍潭區神龍路155號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4769,13 +5115,14 @@
           121.21308689999999,
           24.861473199999999
         ]
-      },
-      "properties" : {
-        "name" : "素食水煎包",
-        "address" : "桃園市龍潭區神龍路155號"
       }
     },
     {
+      "id" : "8A495CD0-A161-481D-A57A-41E00B89514E",
+      "properties" : {
+        "name" : "新合興素食店",
+        "address" : "桃園市桃園區和平路61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4783,13 +5130,14 @@
           121.3109103,
           24.996555099999998
         ]
-      },
-      "properties" : {
-        "name" : "新合興素食店",
-        "address" : "桃園市桃園區和平路61號"
       }
     },
     {
+      "id" : "DD909812-BDCA-4560-8F0A-40C0C1A13547",
+      "properties" : {
+        "name" : "益生素食",
+        "address" : "桃園市桃園區正康二街155號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4797,13 +5145,14 @@
           121.307411,
           25.003944000000001
         ]
-      },
-      "properties" : {
-        "name" : "益生素食",
-        "address" : "桃園市桃園區正康二街155號"
       }
     },
     {
+      "id" : "3B3078E6-E009-4C9F-B453-281B652CFEE2",
+      "properties" : {
+        "name" : "昶淳素食",
+        "address" : "桃園市桃園區民富十一街118號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4811,13 +5160,14 @@
           121.31389299999999,
           25.010475
         ]
-      },
-      "properties" : {
-        "name" : "昶淳素食",
-        "address" : "桃園市桃園區民富十一街118號"
       }
     },
     {
+      "id" : "80E9D3FC-C7B4-4560-8BDF-323E93F67410",
+      "properties" : {
+        "name" : "一心素食",
+        "address" : "桃園市八德區大成街64號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4825,13 +5175,14 @@
           121.296074,
           24.957497
         ]
-      },
-      "properties" : {
-        "name" : "一心素食",
-        "address" : "桃園市八德區大成街64號"
       }
     },
     {
+      "id" : "C87ABF08-3F10-4221-A6D7-A6F7A6876986",
+      "properties" : {
+        "name" : "帝王杏鮑菇",
+        "address" : "桃園市中壢區實踐路113號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4839,13 +5190,14 @@
           121.2403553,
           24.9555601
         ]
-      },
-      "properties" : {
-        "name" : "帝王杏鮑菇",
-        "address" : "桃園市中壢區實踐路113號"
       }
     },
     {
+      "id" : "77D5D58B-0126-4D40-B887-E91F975696EF",
+      "properties" : {
+        "name" : "龍泉素食 雲南美味",
+        "address" : "桃園市中壢區龍泉街11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4853,13 +5205,14 @@
           121.233813,
           24.935110999999999
         ]
-      },
-      "properties" : {
-        "name" : "龍泉素食 雲南美味",
-        "address" : "桃園市中壢區龍泉街11號"
       }
     },
     {
+      "id" : "C1B2364F-A17F-4456-9422-47F433969EDA",
+      "properties" : {
+        "name" : "佛心素食材料",
+        "address" : "桃園市中壢區志廣路67號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4867,13 +5220,14 @@
           121.207761,
           24.960455
         ]
-      },
-      "properties" : {
-        "name" : "佛心素食材料",
-        "address" : "桃園市中壢區志廣路67號"
       }
     },
     {
+      "id" : "EB69874E-2CBE-4A9F-BF3C-2DB487E66D14",
+      "properties" : {
+        "name" : "有間披薩 It's Pizza",
+        "address" : "桃園市龍潭區大同路58巷13號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4881,13 +5235,14 @@
           121.2200076,
           24.8576032
         ]
-      },
-      "properties" : {
-        "name" : "有間披薩 It's Pizza",
-        "address" : "桃園市龍潭區大同路58巷13號"
       }
     },
     {
+      "id" : "2B805532-5805-47F6-98D7-0036A0FA5421",
+      "properties" : {
+        "name" : "如心素食",
+        "address" : "桃園市龍潭區建國路192號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4895,13 +5250,14 @@
           121.23281799999999,
           24.845134000000002
         ]
-      },
-      "properties" : {
-        "name" : "如心素食",
-        "address" : "桃園市龍潭區建國路192號"
       }
     },
     {
+      "id" : "C6A8FD67-A9F5-4419-8CD5-EF1986549E74",
+      "properties" : {
+        "name" : "隨緣小棧",
+        "address" : "桃園市復興區三民村丸山2鄰1-7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4909,13 +5265,14 @@
           121.35217400000001,
           24.815549000000001
         ]
-      },
-      "properties" : {
-        "name" : "隨緣小棧",
-        "address" : "桃園市復興區三民村丸山2鄰1-7號"
       }
     },
     {
+      "id" : "ABD5768E-A086-4765-B07F-C9750BE966F9",
+      "properties" : {
+        "name" : "素食麵家族",
+        "address" : "桃園市中壢區民族路326號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4923,13 +5280,14 @@
           121.20877419999999,
           24.957194699999999
         ]
-      },
-      "properties" : {
-        "name" : "素食麵家族",
-        "address" : "桃園市中壢區民族路326號"
       }
     },
     {
+      "id" : "1913934F-9AE8-4F64-B285-7EEECB0353F0",
+      "properties" : {
+        "name" : "素心齋素食",
+        "address" : "桃園市蘆竹區光明路一段112號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4937,13 +5295,14 @@
           121.289773,
           25.044706000000001
         ]
-      },
-      "properties" : {
-        "name" : "素心齋素食",
-        "address" : "桃園市蘆竹區光明路一段112號"
       }
     },
     {
+      "id" : "094298CE-9AB4-44F1-BE40-0C6AD338170F",
+      "properties" : {
+        "name" : "愛灑人間複合式素食坊",
+        "address" : "桃園市中壢區忠孝路296號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4951,13 +5310,14 @@
           121.25432600000001,
           24.979611999999999
         ]
-      },
-      "properties" : {
-        "name" : "愛灑人間複合式素食坊",
-        "address" : "桃園市中壢區忠孝路296號"
       }
     },
     {
+      "id" : "0BE174A7-B944-441C-A8ED-F40FA34FF28D",
+      "properties" : {
+        "name" : "一派胡塩酵素臭豆腐",
+        "address" : "桃園市龍潭區龍元路79號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4965,13 +5325,14 @@
           121.2117958,
           24.8645967
         ]
-      },
-      "properties" : {
-        "name" : "一派胡塩酵素臭豆腐",
-        "address" : "桃園市龍潭區龍元路79號"
       }
     },
     {
+      "id" : "8FA196E3-2E92-4E5F-968B-5D2846C8B9AE",
+      "properties" : {
+        "name" : "大溪陳記素肉圓",
+        "address" : "桃園市平鎮區龍南路347號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4979,13 +5340,14 @@
           121.25089440000001,
           24.922303400000001
         ]
-      },
-      "properties" : {
-        "name" : "大溪陳記素肉圓",
-        "address" : "桃園市平鎮區龍南路347號"
       }
     },
     {
+      "id" : "D0E30705-61EE-499A-8238-C27AAA5C67DF",
+      "properties" : {
+        "name" : "原味時蔬",
+        "address" : "桃園市桃園區縣府路318-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4993,13 +5355,14 @@
           121.30043499999999,
           24.992497
         ]
-      },
-      "properties" : {
-        "name" : "原味時蔬",
-        "address" : "桃園市桃園區縣府路318-1號"
       }
     },
     {
+      "id" : "A711479D-81DE-41B2-84C8-5318BDCA5697",
+      "properties" : {
+        "name" : "Dear Caf'e 迪兒咖啡",
+        "address" : "桃園市平鎮區中豐路168號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5007,13 +5370,14 @@
           121.21667119999999,
           24.944758100000001
         ]
-      },
-      "properties" : {
-        "name" : "Dear Caf'e 迪兒咖啡",
-        "address" : "桃園市平鎮區中豐路168號"
       }
     },
     {
+      "id" : "234932AF-EE6C-4A2F-8821-808AE9E06A0E",
+      "properties" : {
+        "name" : "源德素食",
+        "address" : "桃園市桃園區仁愛路108號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5021,13 +5385,14 @@
           121.292079,
           24.994702
         ]
-      },
-      "properties" : {
-        "name" : "源德素食",
-        "address" : "桃園市桃園區仁愛路108號"
       }
     },
     {
+      "id" : "D3EE34B9-D97D-4117-8099-E185EE791032",
+      "properties" : {
+        "name" : "微笑元素",
+        "address" : "桃園市中壢區南園二路388號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5035,13 +5400,14 @@
           121.22598499999999,
           24.971726700000001
         ]
-      },
-      "properties" : {
-        "name" : "微笑元素",
-        "address" : "桃園市中壢區南園二路388號"
       }
     },
     {
+      "id" : "393D9050-D72A-455F-ABD4-886424757F06",
+      "properties" : {
+        "name" : "G Coffee",
+        "address" : "桃園市桃園區中山北路3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5049,13 +5415,14 @@
           121.3033576,
           24.992289700000001
         ]
-      },
-      "properties" : {
-        "name" : "G Coffee",
-        "address" : "桃園市桃園區中山北路3號"
       }
     },
     {
+      "id" : "F1B97E6B-0420-4664-9F4A-EE42075B9199",
+      "properties" : {
+        "name" : "素食早點",
+        "address" : "桃園市龜山區中興路1-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5063,13 +5430,14 @@
           121.328068,
           24.986553000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食早點",
-        "address" : "桃園市龜山區中興路1-1號"
       }
     },
     {
+      "id" : "3BBF27EE-D7BC-40E8-87DF-7C088D2F3F54",
+      "properties" : {
+        "name" : "全國健康素食",
+        "address" : "桃園市龜山區復興一路150號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5077,13 +5445,14 @@
           121.36654,
           25.058264999999999
         ]
-      },
-      "properties" : {
-        "name" : "全國健康素食",
-        "address" : "桃園市龜山區復興一路150號"
       }
     },
     {
+      "id" : "C1475B45-B1B9-4A92-9C13-8ECCB9272C39",
+      "properties" : {
+        "name" : "桃園素食小棧",
+        "address" : "桃園市桃園區文中路818號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5091,13 +5460,14 @@
           121.289196,
           24.996187899999999
         ]
-      },
-      "properties" : {
-        "name" : "桃園素食小棧",
-        "address" : "桃園市桃園區文中路818號"
       }
     },
     {
+      "id" : "6DB24044-F169-4726-9029-527F214F58DB",
+      "properties" : {
+        "name" : "圓滿健康素食坊",
+        "address" : "桃園市中壢區興隆五街42號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5105,13 +5475,14 @@
           121.222487,
           24.9653913
         ]
-      },
-      "properties" : {
-        "name" : "圓滿健康素食坊",
-        "address" : "桃園市中壢區興隆五街42號"
       }
     },
     {
+      "id" : "239D4B90-443B-4AA9-AEF6-8A2C00C450EB",
+      "properties" : {
+        "name" : "美馨蔬食",
+        "address" : "桃園市桃園區民權路81號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5119,13 +5490,14 @@
           121.310112,
           24.993669000000001
         ]
-      },
-      "properties" : {
-        "name" : "美馨蔬食",
-        "address" : "桃園市桃園區民權路81號"
       }
     },
     {
+      "id" : "3615C15A-C7C7-479B-B045-08BA2DE42EA2",
+      "properties" : {
+        "name" : "何師兄早餐",
+        "address" : "桃園市中壢區興仁路二段87號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5133,13 +5505,14 @@
           121.2629311,
           24.966724500000002
         ]
-      },
-      "properties" : {
-        "name" : "何師兄早餐",
-        "address" : "桃園市中壢區興仁路二段87號"
       }
     },
     {
+      "id" : "0B3200E3-EB22-4E8A-8CBF-87EB0B05CAF9",
+      "properties" : {
+        "name" : "自然蔬食早午餐",
+        "address" : "桃園市大園區中正一街21號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5147,13 +5520,14 @@
           121.199618,
           25.062477999999999
         ]
-      },
-      "properties" : {
-        "name" : "自然蔬食早午餐",
-        "address" : "桃園市大園區中正一街21號"
       }
     },
     {
+      "id" : "B4B0A3D3-27FA-429F-AFD8-A501A82A4856",
+      "properties" : {
+        "name" : "允聖行",
+        "address" : "桃園市桃園區三民路三段520號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5161,13 +5535,14 @@
           121.30729599999999,
           24.982862000000001
         ]
-      },
-      "properties" : {
-        "name" : "允聖行",
-        "address" : "桃園市桃園區三民路三段520號"
       }
     },
     {
+      "id" : "9F2614AE-7626-4C9B-8EE2-BC5398840BE2",
+      "properties" : {
+        "name" : "福緣素食",
+        "address" : "桃園市中壢區榮民路227號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5175,13 +5550,14 @@
           121.26143999999999,
           24.965226000000001
         ]
-      },
-      "properties" : {
-        "name" : "福緣素食",
-        "address" : "桃園市中壢區榮民路227號"
       }
     },
     {
+      "id" : "A7B00899-8537-4B1A-AE79-323B532E6483",
+      "properties" : {
+        "name" : "五〇三巷咖啡",
+        "address" : "桃園市大溪區員林路二段1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5189,13 +5565,14 @@
           121.272789,
           24.891113000000001
         ]
-      },
-      "properties" : {
-        "name" : "五〇三巷咖啡",
-        "address" : "桃園市大溪區員林路二段1號"
       }
     },
     {
+      "id" : "1E3C4220-129E-4E15-A3BA-56D33B68DC58",
+      "properties" : {
+        "name" : "聖堡登莊園",
+        "address" : "桃園市觀音區金華路855巷168號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5203,13 +5580,14 @@
           121.12177440000001,
           24.999640800000002
         ]
-      },
-      "properties" : {
-        "name" : "聖堡登莊園",
-        "address" : "桃園市觀音區金華路855巷168號"
       }
     },
     {
+      "id" : "9C892E98-878E-4500-A99C-6B3636B99DE8",
+      "properties" : {
+        "name" : "富品味素食",
+        "address" : "桃園市平鎮區振興路39號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5217,13 +5595,14 @@
           121.220296,
           24.945785000000001
         ]
-      },
-      "properties" : {
-        "name" : "富品味素食",
-        "address" : "桃園市平鎮區振興路39號"
       }
     },
     {
+      "id" : "D3C56B91-DCD8-4BA6-9EA9-62DAC9387E3F",
+      "properties" : {
+        "name" : "泔豆素食自助餐",
+        "address" : "桃園市桃園區延壽街18號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5231,13 +5610,14 @@
           121.29371999999999,
           24.992090999999999
         ]
-      },
-      "properties" : {
-        "name" : "泔豆素食自助餐",
-        "address" : "桃園市桃園區延壽街18號"
       }
     },
     {
+      "id" : "4B6624BD-60EB-4375-8723-00C585105E86",
+      "properties" : {
+        "name" : "廣樺綠色蔬食超市",
+        "address" : "桃園市桃園區大業路一段369-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5245,13 +5625,14 @@
           121.311995,
           25.013117999999999
         ]
-      },
-      "properties" : {
-        "name" : "廣樺綠色蔬食超市",
-        "address" : "桃園市桃園區大業路一段369-1號"
       }
     },
     {
+      "id" : "3F11C0AD-0149-477D-AD70-D4CA7902F8E6",
+      "properties" : {
+        "name" : "山外山創意料理蔬食餐廳",
+        "address" : "桃園市龍潭區民族路769巷16號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5259,13 +5640,14 @@
           121.2310592,
           24.828671499999999
         ]
-      },
-      "properties" : {
-        "name" : "山外山創意料理蔬食餐廳",
-        "address" : "桃園市龍潭區民族路769巷16號"
       }
     },
     {
+      "id" : "70C6C452-3B1E-427B-BC56-7C638ACEF078",
+      "properties" : {
+        "name" : "天然養生素食",
+        "address" : "桃園市蘆竹區上興路258號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5273,13 +5655,14 @@
           121.259361,
           25.018964
         ]
-      },
-      "properties" : {
-        "name" : "天然養生素食",
-        "address" : "桃園市蘆竹區上興路258號"
       }
     },
     {
+      "id" : "E31643C2-23A7-409C-915E-F66D17DA45BE",
+      "properties" : {
+        "name" : "小熊庭園素食餐廳",
+        "address" : "桃園市桃園區介壽路一段529號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5287,13 +5670,14 @@
           121.30320500000001,
           24.977373400000001
         ]
-      },
-      "properties" : {
-        "name" : "小熊庭園素食餐廳",
-        "address" : "桃園市桃園區介壽路一段529號"
       }
     },
     {
+      "id" : "05E25D16-72E3-47B2-A2DD-449C934AD792",
+      "properties" : {
+        "name" : "采楓健康素食簡餐",
+        "address" : "桃園市中壢區三光路146號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5301,13 +5685,14 @@
           121.212481,
           24.962889000000001
         ]
-      },
-      "properties" : {
-        "name" : "采楓健康素食簡餐",
-        "address" : "桃園市中壢區三光路146號"
       }
     },
     {
+      "id" : "617178AB-ACC1-4796-8041-554C45209B2E",
+      "properties" : {
+        "name" : "素食麵",
+        "address" : "桃園市桃園區桃鶯路366號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5315,13 +5700,14 @@
           121.322334,
           24.977581000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食麵",
-        "address" : "桃園市桃園區桃鶯路366號"
       }
     },
     {
+      "id" : "DEFB46FE-052F-4421-BC92-2C18A09B3C6E",
+      "properties" : {
+        "name" : "妙觀音素食",
+        "address" : "桃園市桃園區寶山街227號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5329,13 +5715,14 @@
           121.315585,
           25.011965
         ]
-      },
-      "properties" : {
-        "name" : "妙觀音素食",
-        "address" : "桃園市桃園區寶山街227號"
       }
     },
     {
+      "id" : "517BDA5E-F9A8-4641-BB9F-90A1FEF597E7",
+      "properties" : {
+        "name" : "如意素食",
+        "address" : "桃園市八德區義勇街140號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5343,13 +5730,14 @@
           121.305491,
           24.963325999999999
         ]
-      },
-      "properties" : {
-        "name" : "如意素食",
-        "address" : "桃園市八德區義勇街140號"
       }
     },
     {
+      "id" : "62D26A88-D8EA-49C9-8F49-F2E884790C3B",
+      "properties" : {
+        "name" : "福齋庭素食餐廳",
+        "address" : "桃園市蘆竹區中興路135號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5357,13 +5745,14 @@
           121.263475,
           25.014030999999999
         ]
-      },
-      "properties" : {
-        "name" : "福齋庭素食餐廳",
-        "address" : "桃園市蘆竹區中興路135號"
       }
     },
     {
+      "id" : "20695D50-7C15-4AB2-B599-7796F11B934B",
+      "properties" : {
+        "name" : "弘道素食坊",
+        "address" : "桃園市中壢區福德路46號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5371,13 +5760,14 @@
           121.258636,
           24.974209999999999
         ]
-      },
-      "properties" : {
-        "name" : "弘道素食坊",
-        "address" : "桃園市中壢區福德路46號"
       }
     },
     {
+      "id" : "8CAE2D64-0397-48BB-8919-BB6935ACA2EB",
+      "properties" : {
+        "name" : "見元素食堂",
+        "address" : "桃園市觀音區中山路一段807號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5385,13 +5775,14 @@
           121.101721,
           25.031898000000002
         ]
-      },
-      "properties" : {
-        "name" : "見元素食堂",
-        "address" : "桃園市觀音區中山路一段807號"
       }
     },
     {
+      "id" : "A2EC678C-A9C2-401B-831D-B03D2B993DEC",
+      "properties" : {
+        "name" : "秦記傳統山東饅頭",
+        "address" : "桃園市中壢區後龍街20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5399,13 +5790,14 @@
           121.25197,
           24.928803299999998
         ]
-      },
-      "properties" : {
-        "name" : "秦記傳統山東饅頭",
-        "address" : "桃園市中壢區後龍街20號"
       }
     },
     {
+      "id" : "2DF27265-062C-4C71-9B47-92B43940312C",
+      "properties" : {
+        "name" : "讀蔬人",
+        "address" : "桃園市中壢區龍東路395號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5413,13 +5805,14 @@
           121.25570759999999,
           24.933270799999999
         ]
-      },
-      "properties" : {
-        "name" : "讀蔬人",
-        "address" : "桃園市中壢區龍東路395號"
       }
     },
     {
+      "id" : "F6484F9A-FE3F-42EA-8AF3-99E0915C3718",
+      "properties" : {
+        "name" : "竺緣小棧",
+        "address" : "桃園市大溪區復興路155號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5427,13 +5820,14 @@
           121.29276400000001,
           24.878375999999999
         ]
-      },
-      "properties" : {
-        "name" : "竺緣小棧",
-        "address" : "桃園市大溪區復興路155號"
       }
     },
     {
+      "id" : "38498DFD-00D2-46A9-8293-81FFDEF77E91",
+      "properties" : {
+        "name" : "合心素食館",
+        "address" : "桃園市蘆竹區中正路199號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5441,13 +5835,14 @@
           121.29288099999999,
           25.045667999999999
         ]
-      },
-      "properties" : {
-        "name" : "合心素食館",
-        "address" : "桃園市蘆竹區中正路199號"
       }
     },
     {
+      "id" : "41E667EC-E0AC-44A1-92A4-60036959A1FE",
+      "properties" : {
+        "name" : "上好吃大餅",
+        "address" : "桃園市龜山區萬壽路二段489-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5455,13 +5850,14 @@
           121.34969460000001,
           25.001529900000001
         ]
-      },
-      "properties" : {
-        "name" : "上好吃大餅",
-        "address" : "桃園市龜山區萬壽路二段489-1號"
       }
     },
     {
+      "id" : "5E07DCB2-C223-407A-B38C-78E6B6CF5BD7",
+      "properties" : {
+        "name" : "陳姐香菇麵線",
+        "address" : "桃園市桃園區民生路256號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5469,13 +5865,14 @@
           121.312714,
           24.995525000000001
         ]
-      },
-      "properties" : {
-        "name" : "陳姐香菇麵線",
-        "address" : "桃園市桃園區民生路256號"
       }
     },
     {
+      "id" : "6C5E1C4E-CE58-4493-B2A8-939567E30B96",
+      "properties" : {
+        "name" : "元氣素清粥小菜",
+        "address" : "桃園市桃園區民生路364號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5483,13 +5880,14 @@
           121.3078732,
           25.008490599999998
         ]
-      },
-      "properties" : {
-        "name" : "元氣素清粥小菜",
-        "address" : "桃園市桃園區民生路364號"
       }
     },
     {
+      "id" : "8E908D56-9B66-42C0-911E-5EE4F2F5DEB1",
+      "properties" : {
+        "name" : "幸福蔬食早餐",
+        "address" : "桃園市大園區和平東路89號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5497,13 +5895,14 @@
           121.20035230000001,
           25.062648800000002
         ]
-      },
-      "properties" : {
-        "name" : "幸福蔬食早餐",
-        "address" : "桃園市大園區和平東路89號"
       }
     },
     {
+      "id" : "B5A60615-58AB-4BB1-9CA1-24C8211437C2",
+      "properties" : {
+        "name" : "田欣素食餐廳",
+        "address" : "桃園市八德區桃鶯路67號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5511,13 +5910,14 @@
           121.3275606,
           24.970757899999999
         ]
-      },
-      "properties" : {
-        "name" : "田欣素食餐廳",
-        "address" : "桃園市八德區桃鶯路67號"
       }
     },
     {
+      "id" : "DA7A6569-2AA4-4AA6-A68B-476438698ECF",
+      "properties" : {
+        "name" : "園緣通吃館",
+        "address" : "桃園市中壢區環中東路708巷68號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5525,13 +5925,14 @@
           121.2436161,
           24.9555285
         ]
-      },
-      "properties" : {
-        "name" : "園緣通吃館",
-        "address" : "桃園市中壢區環中東路708巷68號"
       }
     },
     {
+      "id" : "9F17C666-D7B2-4F7D-BD3A-BE387E4D1497",
+      "properties" : {
+        "name" : "印度皇宮",
+        "address" : "桃園市蘆竹區中正路1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5539,13 +5940,14 @@
           121.29527950000001,
           25.040673200000001
         ]
-      },
-      "properties" : {
-        "name" : "印度皇宮",
-        "address" : "桃園市蘆竹區中正路1號"
       }
     },
     {
+      "id" : "95884131-61AC-45DB-AD4A-037C1E35BBD7",
+      "properties" : {
+        "name" : "元香素食",
+        "address" : "桃園市中壢區中正路686號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5553,13 +5955,14 @@
           121.2095431,
           24.960615099999998
         ]
-      },
-      "properties" : {
-        "name" : "元香素食",
-        "address" : "桃園市中壢區中正路686號"
       }
     },
     {
+      "id" : "FE0F3B63-9D25-4ACB-90A5-593F5FDEF614",
+      "properties" : {
+        "name" : "蘇杭素食點心",
+        "address" : "桃園市桃園區民安路90號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5567,13 +5970,14 @@
           121.299769,
           24.997409000000001
         ]
-      },
-      "properties" : {
-        "name" : "蘇杭素食點心",
-        "address" : "桃園市桃園區民安路90號"
       }
     },
     {
+      "id" : "5D3D9991-655F-41E3-BD1C-49084EA2B81B",
+      "properties" : {
+        "name" : "如意素食美味粥品麵線",
+        "address" : "桃園市桃園區大同路129號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5581,13 +5985,14 @@
           121.30870040000001,
           24.9883907
         ]
-      },
-      "properties" : {
-        "name" : "如意素食美味粥品麵線",
-        "address" : "桃園市桃園區大同路129號"
       }
     },
     {
+      "id" : "0DE7FDDD-0A47-48D1-9DA5-2F8BD1786495",
+      "properties" : {
+        "name" : "天添好運素食",
+        "address" : "桃園市中壢區榮安一街385號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5595,13 +6000,14 @@
           121.25637,
           24.964459999999999
         ]
-      },
-      "properties" : {
-        "name" : "天添好運素食",
-        "address" : "桃園市中壢區榮安一街385號"
       }
     },
     {
+      "id" : "22CA5942-0879-4CC0-B18E-C732E5F0E771",
+      "properties" : {
+        "name" : "蔬物所",
+        "address" : "桃園市大溪區介壽路904號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5609,13 +6015,14 @@
           121.28381,
           24.899857000000001
         ]
-      },
-      "properties" : {
-        "name" : "蔬物所",
-        "address" : "桃園市大溪區介壽路904號"
       }
     },
     {
+      "id" : "44ABB6FB-D638-4B2B-A277-EEDE6378ADFF",
+      "properties" : {
+        "name" : "堅果奶,吧 nutsmilk",
+        "address" : "桃園市桃園區中正路684號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5623,13 +6030,14 @@
           121.303862,
           25.006412999999998
         ]
-      },
-      "properties" : {
-        "name" : "堅果奶,吧 nutsmilk",
-        "address" : "桃園市桃園區中正路684號"
       }
     },
     {
+      "id" : "8AB6C390-040E-48CD-AA5E-AC374723FDDD",
+      "properties" : {
+        "name" : "天福素食婚宴會館",
+        "address" : "桃園市桃園區正光路72號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5637,13 +6045,14 @@
           121.2954417,
           24.995104699999999
         ]
-      },
-      "properties" : {
-        "name" : "天福素食婚宴會館",
-        "address" : "桃園市桃園區正光路72號"
       }
     },
     {
+      "id" : "870B4160-ACEC-4246-B88F-626A9EC4F0AD",
+      "properties" : {
+        "name" : "舒心園 ",
+        "address" : "桃園市龜山區文昌三街5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5651,13 +6060,14 @@
           121.36821260000001,
           25.058548999999999
         ]
-      },
-      "properties" : {
-        "name" : "舒心園 ",
-        "address" : "桃園市龜山區文昌三街5號"
       }
     },
     {
+      "id" : "1ABCFD3C-0F67-4868-8662-382EA52FD8F6",
+      "properties" : {
+        "name" : "緣圓蔬果養生食堂",
+        "address" : "桃園市桃園區寶慶路387號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5665,13 +6075,14 @@
           121.290441,
           25.017578
         ]
-      },
-      "properties" : {
-        "name" : "緣圓蔬果養生食堂",
-        "address" : "桃園市桃園區寶慶路387號"
       }
     },
     {
+      "id" : "D7A9B530-B895-4AE5-A04B-2A9188B60088",
+      "properties" : {
+        "name" : "新民素食館",
+        "address" : "桃園市中壢區民族路152號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5679,13 +6090,14 @@
           121.21147000000001,
           24.956267
         ]
-      },
-      "properties" : {
-        "name" : "新民素食館",
-        "address" : "桃園市中壢區民族路152號"
       }
     },
     {
+      "id" : "D398E5BC-4C08-443F-A6A6-ACFBB96E46E6",
+      "properties" : {
+        "name" : "奕心素池上便當",
+        "address" : "桃園市桃園區信光路106號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5693,13 +6105,14 @@
           121.30526879999999,
           25.005273299999999
         ]
-      },
-      "properties" : {
-        "name" : "奕心素池上便當",
-        "address" : "桃園市桃園區信光路106號"
       }
     },
     {
+      "id" : "21702145-7343-4C21-A38B-8E93B7FC90A8",
+      "properties" : {
+        "name" : "心開素食坊",
+        "address" : "桃園市桃園區大同路128號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5707,13 +6120,14 @@
           121.309161,
           24.988755000000001
         ]
-      },
-      "properties" : {
-        "name" : "心開素食坊",
-        "address" : "桃園市桃園區大同路128號"
       }
     },
     {
+      "id" : "D0A3BEB2-3145-4650-ADE9-B06E16EC9FA9",
+      "properties" : {
+        "name" : "大家素食龜山店",
+        "address" : "桃園市龜山區中興路一段5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5721,13 +6135,14 @@
           121.3374688,
           24.993891600000001
         ]
-      },
-      "properties" : {
-        "name" : "大家素食龜山店",
-        "address" : "桃園市龜山區中興路一段5號"
       }
     },
     {
+      "id" : "38EF3705-AC5D-421E-8BD7-F6587D674185",
+      "properties" : {
+        "name" : "仁美居",
+        "address" : "桃園市桃園區中正路407號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5735,13 +6150,14 @@
           121.30734,
           25.0003624
         ]
-      },
-      "properties" : {
-        "name" : "仁美居",
-        "address" : "桃園市桃園區中正路407號"
       }
     },
     {
+      "id" : "0AA881D5-7C35-4D52-8471-B0183048FB8B",
+      "properties" : {
+        "name" : "福菓子素食料理",
+        "address" : "桃園市中壢區龍東路111號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5749,13 +6165,14 @@
           121.25139900000001,
           24.929397000000002
         ]
-      },
-      "properties" : {
-        "name" : "福菓子素食料理",
-        "address" : "桃園市中壢區龍東路111號"
       }
     },
     {
+      "id" : "98033FBC-A3FC-4733-B5E8-E2689F741596",
+      "properties" : {
+        "name" : "蓮華素食自助餐",
+        "address" : "桃園市龜山區復興街5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5763,13 +6180,14 @@
           121.36950400000001,
           25.061525
         ]
-      },
-      "properties" : {
-        "name" : "蓮華素食自助餐",
-        "address" : "桃園市龜山區復興街5號"
       }
     },
     {
+      "id" : "7E668AA6-7B1F-411B-856F-787ABDDA3D2E",
+      "properties" : {
+        "name" : "義想樹蔬食廚房",
+        "address" : "桃園市蘆竹區大新二街69巷2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5777,13 +6195,14 @@
           121.256418,
           25.023215
         ]
-      },
-      "properties" : {
-        "name" : "義想樹蔬食廚房",
-        "address" : "桃園市蘆竹區大新二街69巷2號"
       }
     },
     {
+      "id" : "B5D11E44-7EE2-46E3-BFEF-DA53CBEC2219",
+      "properties" : {
+        "name" : "得來素健康蔬食早午餐",
+        "address" : "桃園市中壢區弘揚路77號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5791,13 +6210,14 @@
           121.24124999999999,
           24.953825999999999
         ]
-      },
-      "properties" : {
-        "name" : "得來素健康蔬食早午餐",
-        "address" : "桃園市中壢區弘揚路77號"
       }
     },
     {
+      "id" : "67F13E51-7F66-4180-8051-C71F9F17F059",
+      "properties" : {
+        "name" : "素的 做貳休伍臭臭鍋",
+        "address" : "桃園市楊梅區福羚路200巷6弄16號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5805,13 +6225,14 @@
           121.181444,
           24.907245
         ]
-      },
-      "properties" : {
-        "name" : "素的 做貳休伍臭臭鍋",
-        "address" : "桃園市楊梅區福羚路200巷6弄16號"
       }
     },
     {
+      "id" : "049B88DA-0375-4B22-BBC5-214461449876",
+      "properties" : {
+        "name" : "亞爾斯素食外送專賣店",
+        "address" : "桃園市楊梅區梅高路二段51號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5819,13 +6240,14 @@
           121.14473889999999,
           24.938269300000002
         ]
-      },
-      "properties" : {
-        "name" : "亞爾斯素食外送專賣店",
-        "address" : "桃園市楊梅區梅高路二段51號"
       }
     },
     {
+      "id" : "A72CD318-CABD-4ABB-B6D8-6E474B8F8888",
+      "properties" : {
+        "name" : "大溪寶塔寺滴水坊",
+        "address" : "桃園市大溪區美華里7鄰2-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5833,13 +6255,14 @@
           121.286856,
           24.881513000000002
         ]
-      },
-      "properties" : {
-        "name" : "大溪寶塔寺滴水坊",
-        "address" : "桃園市大溪區美華里7鄰2-6號"
       }
     },
     {
+      "id" : "5C1CED0C-A5BD-4614-85E0-62A53E637D09",
+      "properties" : {
+        "name" : "慈氏素食",
+        "address" : "桃園市八德區四維路56巷4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5847,13 +6270,14 @@
           121.29639899999999,
           24.960636999999998
         ]
-      },
-      "properties" : {
-        "name" : "慈氏素食",
-        "address" : "桃園市八德區四維路56巷4號"
       }
     },
     {
+      "id" : "1897F622-71EB-4419-96E7-21BE830A48F1",
+      "properties" : {
+        "name" : "坤元妙齋",
+        "address" : "桃園市平鎮區環南路二段27號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5861,13 +6285,14 @@
           121.209431,
           24.944280299999999
         ]
-      },
-      "properties" : {
-        "name" : "坤元妙齋",
-        "address" : "桃園市平鎮區環南路二段27號"
       }
     },
     {
+      "id" : "14CA7399-DBDA-4639-B0B7-54982EF4B182",
+      "properties" : {
+        "name" : "七采人文蔬果\/茶餐廳",
+        "address" : "桃園市桃園區南平路86號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5875,10 +6300,6 @@
           121.304508,
           25.020754
         ]
-      },
-      "properties" : {
-        "name" : "七采人文蔬果\/茶餐廳",
-        "address" : "桃園市桃園區南平路86號"
       }
     }
   ]

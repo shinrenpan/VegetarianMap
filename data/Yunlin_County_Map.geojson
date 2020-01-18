@@ -1,7 +1,13 @@
 {
   "type" : "FeatureCollection",
+  "areaCode" : 603,
   "features" : [
     {
+      "id" : "6CD4D3F2-F6A7-48AD-A786-5D9670F41074",
+      "properties" : {
+        "name" : "素食",
+        "address" : "雲林縣口湖鄉文化路44號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -9,13 +15,14 @@
           120.16279299999999,
           23.618079999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "雲林縣口湖鄉文化路44號"
       }
     },
     {
+      "id" : "36F23337-3ABF-475F-A424-7F62336DA5F9",
+      "properties" : {
+        "name" : "菁容素食便當自助餐",
+        "address" : "雲林縣臺西鄉五港村瓦厝路10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -23,13 +30,14 @@
           120.516875,
           23.668868
         ]
-      },
-      "properties" : {
-        "name" : "菁容素食便當自助餐",
-        "address" : "雲林縣臺西鄉五港村瓦厝路10號"
       }
     },
     {
+      "id" : "D1C9BCA0-E181-4187-8EB3-C7F0FB25BCDC",
+      "properties" : {
+        "name" : "幸福味蔬食堂",
+        "address" : "雲林縣莿桐鄉中正路101號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -37,13 +45,14 @@
           120.50050400000001,
           23.757144
         ]
-      },
-      "properties" : {
-        "name" : "幸福味蔬食堂",
-        "address" : "雲林縣莿桐鄉中正路101號"
       }
     },
     {
+      "id" : "D6960592-3A54-49D9-AADD-057677093539",
+      "properties" : {
+        "name" : "ㄚ鈴早餐屋",
+        "address" : "雲林縣西螺鎮平和南路349號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -51,13 +60,14 @@
           120.456321,
           23.794951000000001
         ]
-      },
-      "properties" : {
-        "name" : "ㄚ鈴早餐屋",
-        "address" : "雲林縣西螺鎮平和南路349號"
       }
     },
     {
+      "id" : "5832E142-BA85-43D6-89A4-FC0ED3D33E51",
+      "properties" : {
+        "name" : "阿吉灶腳素齋館",
+        "address" : "雲林縣斗六市西平路794號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -65,13 +75,14 @@
           120.52399800000001,
           23.727136999999999
         ]
-      },
-      "properties" : {
-        "name" : "阿吉灶腳素齋館",
-        "address" : "雲林縣斗六市西平路794號"
       }
     },
     {
+      "id" : "CD1872E9-A7D1-4C34-AC80-02A2E5E62829",
+      "properties" : {
+        "name" : "艾草花舍自然蔬食",
+        "address" : "雲林縣斗南鎮建國二路199號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -79,13 +90,14 @@
           120.469902,
           23.679261
         ]
-      },
-      "properties" : {
-        "name" : "艾草花舍自然蔬食",
-        "address" : "雲林縣斗南鎮建國二路199號"
       }
     },
     {
+      "id" : "AB0D5B0A-38DD-4E9D-B699-778A37C35564",
+      "properties" : {
+        "name" : "愿心燒-章魚燒",
+        "address" : "雲林縣斗六市莊敬夜市"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -93,13 +105,14 @@
           120.527764,
           23.69726
         ]
-      },
-      "properties" : {
-        "name" : "愿心燒-章魚燒",
-        "address" : "雲林縣斗六市莊敬夜市"
       }
     },
     {
+      "id" : "E31E707B-9059-407F-A17E-DB3A2738F8CC",
+      "properties" : {
+        "name" : "桂林香波咖啡城堡\/花漾餐廳",
+        "address" : "雲林縣古坑鄉桂林村93號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -107,13 +120,14 @@
           120.604961,
           23.613389000000002
         ]
-      },
-      "properties" : {
-        "name" : "桂林香波咖啡城堡\/花漾餐廳",
-        "address" : "雲林縣古坑鄉桂林村93號"
       }
     },
     {
+      "id" : "2DB62B3F-588E-438D-8839-42C11E544FB4",
+      "properties" : {
+        "name" : "長億行",
+        "address" : "雲林縣北港鎮中山路126號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -121,13 +135,14 @@
           120.30458,
           23.566865
         ]
-      },
-      "properties" : {
-        "name" : "長億行",
-        "address" : "雲林縣北港鎮中山路126號"
       }
     },
     {
+      "id" : "48914861-8264-4623-819E-34C53A1B4186",
+      "properties" : {
+        "name" : "北港素食館",
+        "address" : "雲林縣北港鎮光明路17號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -135,13 +150,14 @@
           120.30396399999999,
           23.56616
         ]
-      },
-      "properties" : {
-        "name" : "北港素食館",
-        "address" : "雲林縣北港鎮光明路17號"
       }
     },
     {
+      "id" : "E8639783-AC4A-410A-A6C0-545A67D00F2B",
+      "properties" : {
+        "name" : "歡喜素食",
+        "address" : "雲林縣斗南鎮南昌路93號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -149,13 +165,14 @@
           120.479568,
           23.673057
         ]
-      },
-      "properties" : {
-        "name" : "歡喜素食",
-        "address" : "雲林縣斗南鎮南昌路93號"
       }
     },
     {
+      "id" : "CF1A88F3-1DBB-4EAB-863E-A451C7E9BFAF",
+      "properties" : {
+        "name" : "聖荷上品咖啡坊",
+        "address" : "雲林縣古坑鄉桂林村桃源8-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -163,13 +180,14 @@
           120.563119,
           23.647054000000001
         ]
-      },
-      "properties" : {
-        "name" : "聖荷上品咖啡坊",
-        "address" : "雲林縣古坑鄉桂林村桃源8-6號"
       }
     },
     {
+      "id" : "550327E4-CF2D-4E11-BB11-0B11E4412216",
+      "properties" : {
+        "name" : "莿桐素食小吃",
+        "address" : "雲林縣莿桐鄉和平路10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -177,13 +195,14 @@
           120.50053200000001,
           23.758229
         ]
-      },
-      "properties" : {
-        "name" : "莿桐素食小吃",
-        "address" : "雲林縣莿桐鄉和平路10號"
       }
     },
     {
+      "id" : "6C544DE6-902A-42AA-8BFB-708C5D8F01E3",
+      "properties" : {
+        "name" : "緣素食小吃",
+        "address" : "雲林縣虎尾鎮中正路332號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -191,13 +210,14 @@
           120.429226,
           23.704075
         ]
-      },
-      "properties" : {
-        "name" : "緣素食小吃",
-        "address" : "雲林縣虎尾鎮中正路332號"
       }
     },
     {
+      "id" : "4D77ED68-6538-47E5-9FE1-5382562B8194",
+      "properties" : {
+        "name" : "宏欣素食",
+        "address" : "雲林縣口湖鄉口湖路236號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -205,13 +225,14 @@
           120.183036,
           23.585460000000001
         ]
-      },
-      "properties" : {
-        "name" : "宏欣素食",
-        "address" : "雲林縣口湖鄉口湖路236號"
       }
     },
     {
+      "id" : "E1E85601-AB6C-4B1A-B2E8-02D798E0D175",
+      "properties" : {
+        "name" : "中興素食",
+        "address" : "雲林縣西螺鎮公正路166號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -219,13 +240,14 @@
           120.46228499999999,
           23.798597999999998
         ]
-      },
-      "properties" : {
-        "name" : "中興素食",
-        "address" : "雲林縣西螺鎮公正路166號"
       }
     },
     {
+      "id" : "FB14AF0F-C1DA-43FB-A58F-4660C4CD0E26",
+      "properties" : {
+        "name" : "蔬適炸物",
+        "address" : "雲林縣斗六市中正路160號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -233,13 +255,14 @@
           120.544409,
           23.705969
         ]
-      },
-      "properties" : {
-        "name" : "蔬適炸物",
-        "address" : "雲林縣斗六市中正路160號"
       }
     },
     {
+      "id" : "207B9E1C-70A6-47D9-B96D-5E47B4DE8671",
+      "properties" : {
+        "name" : "94狂素食早點",
+        "address" : "雲林縣虎尾鎮四維街35-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -247,13 +270,14 @@
           120.42627400000001,
           23.703112999999998
         ]
-      },
-      "properties" : {
-        "name" : "94狂素食早點",
-        "address" : "雲林縣虎尾鎮四維街35-1號"
       }
     },
     {
+      "id" : "A728944B-D815-48E5-8B78-36FCD22EA209",
+      "properties" : {
+        "name" : "妙香素食",
+        "address" : "雲林縣北港鎮大同路202號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -261,13 +285,14 @@
           120.301473,
           23.571881000000001
         ]
-      },
-      "properties" : {
-        "name" : "妙香素食",
-        "address" : "雲林縣北港鎮大同路202號"
       }
     },
     {
+      "id" : "85C22553-CC7C-4971-9219-DCF958CF9AFF",
+      "properties" : {
+        "name" : "禾園蔬食養生餐館",
+        "address" : "雲林縣斗六市慶生路5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -275,13 +300,14 @@
           120.540318,
           23.712219999999999
         ]
-      },
-      "properties" : {
-        "name" : "禾園蔬食養生餐館",
-        "address" : "雲林縣斗六市慶生路5號"
       }
     },
     {
+      "id" : "F0F76E0A-AFEF-401D-ACB0-227FC3D880C8",
+      "properties" : {
+        "name" : "韓吉香黃金薯",
+        "address" : "雲林縣虎尾鎮和平路122號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -289,13 +315,14 @@
           120.435051,
           23.708262000000001
         ]
-      },
-      "properties" : {
-        "name" : "韓吉香黃金薯",
-        "address" : "雲林縣虎尾鎮和平路122號"
       }
     },
     {
+      "id" : "E5C7805A-0169-4FDF-950C-6FEBE2D1E674",
+      "properties" : {
+        "name" : "天天素齋館",
+        "address" : "雲林縣臺西鄉中山路145號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -303,13 +330,14 @@
           120.46011,
           23.799745000000001
         ]
-      },
-      "properties" : {
-        "name" : "天天素齋館",
-        "address" : "雲林縣臺西鄉中山路145號"
       }
     },
     {
+      "id" : "541A7EA9-F1AC-4065-98C0-9A634D240E67",
+      "properties" : {
+        "name" : "郭媽媽古早味素食",
+        "address" : "雲林縣麥寮鄉中正路43號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -317,13 +345,14 @@
           120.25462400000001,
           23.748429000000002
         ]
-      },
-      "properties" : {
-        "name" : "郭媽媽古早味素食",
-        "address" : "雲林縣麥寮鄉中正路43號"
       }
     },
     {
+      "id" : "36E723DF-2D77-41C2-A649-861C1A2FBAAA",
+      "properties" : {
+        "name" : "幸福素食",
+        "address" : "雲林縣虎尾鎮民族路18號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -331,13 +360,14 @@
           120.440819,
           23.711894999999998
         ]
-      },
-      "properties" : {
-        "name" : "幸福素食",
-        "address" : "雲林縣虎尾鎮民族路18號"
       }
     },
     {
+      "id" : "5732E011-1E73-48DB-A9C2-3EDA6D0BF794",
+      "properties" : {
+        "name" : "甜甜屋素食簡餐",
+        "address" : "雲林縣斗六市上海路241號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -345,13 +375,14 @@
           120.54176099999999,
           23.714286999999999
         ]
-      },
-      "properties" : {
-        "name" : "甜甜屋素食簡餐",
-        "address" : "雲林縣斗六市上海路241號"
       }
     },
     {
+      "id" : "B753469C-D4D9-44C9-B1F8-31ADF6B49033",
+      "properties" : {
+        "name" : "路上有花蔬食館",
+        "address" : "雲林縣北港鎮文昌路158號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -359,13 +390,14 @@
           120.29929300000001,
           23.577159000000002
         ]
-      },
-      "properties" : {
-        "name" : "路上有花蔬食館",
-        "address" : "雲林縣北港鎮文昌路158號"
       }
     },
     {
+      "id" : "9B923175-CDD2-4E3B-88C1-C212E09F071F",
+      "properties" : {
+        "name" : "上群素食西點麵包店",
+        "address" : "雲林縣斗六市大同路261號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -373,13 +405,14 @@
           120.549581,
           23.709689000000001
         ]
-      },
-      "properties" : {
-        "name" : "上群素食西點麵包店",
-        "address" : "雲林縣斗六市大同路261號"
       }
     },
     {
+      "id" : "AEC671F9-BDEB-422C-BAB4-7EB6BFF8EE05",
+      "properties" : {
+        "name" : "素食",
+        "address" : "雲林縣西螺鎮平和路51號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -387,13 +420,14 @@
           120.457058,
           23.796758000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "雲林縣西螺鎮平和路51號"
       }
     },
     {
+      "id" : "A7122ECE-0F44-4665-8406-8592207686CC",
+      "properties" : {
+        "name" : "二崙健康素食",
+        "address" : "雲林縣二崙鄉中華路53巷36號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -401,13 +435,14 @@
           120.41283199999999,
           23.768249000000001
         ]
-      },
-      "properties" : {
-        "name" : "二崙健康素食",
-        "address" : "雲林縣二崙鄉中華路53巷36號"
       }
     },
     {
+      "id" : "C64E4DAF-389D-45A1-96F5-AE6999E57B16",
+      "properties" : {
+        "name" : "蓮品素食",
+        "address" : "雲林縣虎尾鎮民權路39號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -415,13 +450,14 @@
           120.436404,
           23.709237999999999
         ]
-      },
-      "properties" : {
-        "name" : "蓮品素食",
-        "address" : "雲林縣虎尾鎮民權路39號"
       }
     },
     {
+      "id" : "2E65BD1E-5B52-4697-9282-28A95E8DF32C",
+      "properties" : {
+        "name" : "翔美素食餐廳",
+        "address" : "雲林縣斗六市成功路201-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -429,13 +465,14 @@
           120.54585,
           23.707754999999999
         ]
-      },
-      "properties" : {
-        "name" : "翔美素食餐廳",
-        "address" : "雲林縣斗六市成功路201-1號"
       }
     },
     {
+      "id" : "9DF533DE-A319-4148-ACC1-F7F8C7A0BE82",
+      "properties" : {
+        "name" : "素食臭豆腐 火車飯",
+        "address" : "雲林縣斗南鎮南昌路82號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -443,13 +480,14 @@
           120.479961,
           23.673480999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食臭豆腐 火車飯",
-        "address" : "雲林縣斗南鎮南昌路82號"
       }
     },
     {
+      "id" : "0C23059D-54A5-4E07-843D-C87844CC66AC",
+      "properties" : {
+        "name" : "素食越南河粉",
+        "address" : "雲林縣斗六市雲林路一段100號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -457,13 +495,14 @@
           120.539366,
           23.708480999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食越南河粉",
-        "address" : "雲林縣斗六市雲林路一段100號"
       }
     },
     {
+      "id" : "6361DD88-3863-43DC-BA54-D800314DD929",
+      "properties" : {
+        "name" : "西螺素圓",
+        "address" : "雲林縣西螺鎮建興路221號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -471,13 +510,14 @@
           120.45904109999999,
           23.799836599999999
         ]
-      },
-      "properties" : {
-        "name" : "西螺素圓",
-        "address" : "雲林縣西螺鎮建興路221號"
       }
     },
     {
+      "id" : "71B80337-6BFF-4BC8-A5CB-83FCBBB46701",
+      "properties" : {
+        "name" : "五穀飯糰養生蔬食早餐店",
+        "address" : "雲林縣西螺鎮建興路217號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -485,13 +525,14 @@
           120.4590424,
           23.799759300000002
         ]
-      },
-      "properties" : {
-        "name" : "五穀飯糰養生蔬食早餐店",
-        "address" : "雲林縣西螺鎮建興路217號"
       }
     },
     {
+      "id" : "9A9878AE-B120-4019-A778-9367DF3F12D8",
+      "properties" : {
+        "name" : "莿桐素食店",
+        "address" : "雲林縣莿桐鄉中山路91號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -499,13 +540,14 @@
           120.499606,
           23.75686
         ]
-      },
-      "properties" : {
-        "name" : "莿桐素食店",
-        "address" : "雲林縣莿桐鄉中山路91號"
       }
     },
     {
+      "id" : "37FB8D70-BC69-492F-B527-4136B24270C7",
+      "properties" : {
+        "name" : "通泉素料行",
+        "address" : "雲林縣虎尾鎮中正路78號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -513,13 +555,14 @@
           120.434884,
           23.708945
         ]
-      },
-      "properties" : {
-        "name" : "通泉素料行",
-        "address" : "雲林縣虎尾鎮中正路78號"
       }
     },
     {
+      "id" : "4B1B5B14-1AF9-40A6-9004-51C0E10890AC",
+      "properties" : {
+        "name" : "阿興素食",
+        "address" : "雲林縣斗六市中山路299號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -527,13 +570,14 @@
           120.537998,
           23.6995775
         ]
-      },
-      "properties" : {
-        "name" : "阿興素食",
-        "address" : "雲林縣斗六市中山路299號"
       }
     },
     {
+      "id" : "CC2E04BF-FB23-4B0B-B8FA-981EF5D7EAEA",
+      "properties" : {
+        "name" : "素心齋生活廚房",
+        "address" : "雲林縣西螺鎮中正路135-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -541,13 +585,14 @@
           120.45891899999999,
           23.798355000000001
         ]
-      },
-      "properties" : {
-        "name" : "素心齋生活廚房",
-        "address" : "雲林縣西螺鎮中正路135-6號"
       }
     },
     {
+      "id" : "ADFE775A-8D30-4562-9731-4EF3ECD6FFEE",
+      "properties" : {
+        "name" : "喜心素食",
+        "address" : "雲林縣斗六市中山路219號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -555,13 +600,14 @@
           120.5392765,
           23.7040477
         ]
-      },
-      "properties" : {
-        "name" : "喜心素食",
-        "address" : "雲林縣斗六市中山路219號"
       }
     },
     {
+      "id" : "47183908-EF45-4809-A3ED-16AFB97AA0C2",
+      "properties" : {
+        "name" : "素食真味佳",
+        "address" : "雲林縣北港鎮義民路192巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -569,13 +615,14 @@
           120.3044197,
           23.572603699999998
         ]
-      },
-      "properties" : {
-        "name" : "素食真味佳",
-        "address" : "雲林縣北港鎮義民路192巷1號"
       }
     },
     {
+      "id" : "49D7DE48-0FF3-4599-A4DE-53588927C07D",
+      "properties" : {
+        "name" : "聖心亭素食",
+        "address" : "雲林縣元長鄉中山路25-4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -583,13 +630,14 @@
           120.31333100000001,
           23.648690999999999
         ]
-      },
-      "properties" : {
-        "name" : "聖心亭素食",
-        "address" : "雲林縣元長鄉中山路25-4號"
       }
     },
     {
+      "id" : "659C22E9-36A1-4CF7-AB8C-BB198A671F3A",
+      "properties" : {
+        "name" : "素食小吃",
+        "address" : "雲林縣西螺鎮漢光路3-10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -597,13 +645,14 @@
           120.45910600000001,
           23.797819
         ]
-      },
-      "properties" : {
-        "name" : "素食小吃",
-        "address" : "雲林縣西螺鎮漢光路3-10號"
       }
     },
     {
+      "id" : "9A6A1598-9B27-4737-8712-651ABFFCC429",
+      "properties" : {
+        "name" : "醬吃薯條 Sauce the Fries",
+        "address" : "雲林縣虎尾鎮德興路22-15號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -611,13 +660,14 @@
           120.432079,
           23.708338999999999
         ]
-      },
-      "properties" : {
-        "name" : "醬吃薯條 Sauce the Fries",
-        "address" : "雲林縣虎尾鎮德興路22-15號"
       }
     },
     {
+      "id" : "C7BEE561-29FF-4140-A363-C50CBD889D1E",
+      "properties" : {
+        "name" : "素食鹽酥雞",
+        "address" : "雲林縣斗六市雲林路一段110號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -625,13 +675,14 @@
           120.539227,
           23.708373000000002
         ]
-      },
-      "properties" : {
-        "name" : "素食鹽酥雞",
-        "address" : "雲林縣斗六市雲林路一段110號"
       }
     },
     {
+      "id" : "E9502A8B-1203-4310-B54A-E8D16CD21366",
+      "properties" : {
+        "name" : "莿桐十字路口素食早點",
+        "address" : "雲林縣莿桐鄉中正路111號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -639,13 +690,14 @@
           120.499925,
           23.757224999999998
         ]
-      },
-      "properties" : {
-        "name" : "莿桐十字路口素食早點",
-        "address" : "雲林縣莿桐鄉中正路111號"
       }
     },
     {
+      "id" : "0BD440F2-B140-4CAD-9098-75DCFE5F6559",
+      "properties" : {
+        "name" : "慈心園素食",
+        "address" : "雲林縣褒忠鄉中勝路8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -653,13 +705,14 @@
           120.31003800000001,
           23.694984000000002
         ]
-      },
-      "properties" : {
-        "name" : "慈心園素食",
-        "address" : "雲林縣褒忠鄉中勝路8號"
       }
     },
     {
+      "id" : "09E0A441-DACC-4D52-81E4-9403C300A26C",
+      "properties" : {
+        "name" : "壹番素食餐廳",
+        "address" : "雲林縣斗六市太平路213號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -667,13 +720,14 @@
           120.540549,
           23.706719
         ]
-      },
-      "properties" : {
-        "name" : "壹番素食餐廳",
-        "address" : "雲林縣斗六市太平路213號"
       }
     },
     {
+      "id" : "5599F7B8-FD2C-4EA5-A69C-CBA3683A7E5D",
+      "properties" : {
+        "name" : "善賢素食",
+        "address" : "雲林縣斗六市南仁路53-4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -681,13 +735,14 @@
           120.58537800000001,
           23.719750000000001
         ]
-      },
-      "properties" : {
-        "name" : "善賢素食",
-        "address" : "雲林縣斗六市南仁路53-4號"
       }
     },
     {
+      "id" : "C3416243-31C4-4391-9375-253D543852D6",
+      "properties" : {
+        "name" : "立鋪子蔬食滷味鹹酥基",
+        "address" : "雲林縣虎尾鎮德興路55號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -695,13 +750,14 @@
           120.431575,
           23.708787000000001
         ]
-      },
-      "properties" : {
-        "name" : "立鋪子蔬食滷味鹹酥基",
-        "address" : "雲林縣虎尾鎮德興路55號"
       }
     },
     {
+      "id" : "7F6532C6-1536-490F-8436-D9EA9DB820C5",
+      "properties" : {
+        "name" : "穎素齋",
+        "address" : "雲林縣虎尾鎮民主六路75號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -709,13 +765,14 @@
           120.43186,
           23.703161000000001
         ]
-      },
-      "properties" : {
-        "name" : "穎素齋",
-        "address" : "雲林縣虎尾鎮民主六路75號"
       }
     },
     {
+      "id" : "1CAEFD3A-D212-4DE0-9968-65430828A6A3",
+      "properties" : {
+        "name" : "禾芝養生齋",
+        "address" : "雲林縣北港鎮華勝路38號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -723,13 +780,14 @@
           120.299927,
           23.573246999999999
         ]
-      },
-      "properties" : {
-        "name" : "禾芝養生齋",
-        "address" : "雲林縣北港鎮華勝路38號"
       }
     },
     {
+      "id" : "F593BB48-309C-4F9F-B6E4-04F39D04C3A8",
+      "properties" : {
+        "name" : "心之咖啡 蔬食Brunch",
+        "address" : "雲林縣斗六市平等街62號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -737,13 +795,14 @@
           120.54723,
           23.703634999999998
         ]
-      },
-      "properties" : {
-        "name" : "心之咖啡 蔬食Brunch",
-        "address" : "雲林縣斗六市平等街62號"
       }
     },
     {
+      "id" : "83CA4B72-1983-4082-BEEB-43946E0F8AEA",
+      "properties" : {
+        "name" : "十二號草堂",
+        "address" : "雲林縣虎尾鎮成平街12號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -751,13 +810,14 @@
           120.445391,
           23.710501000000001
         ]
-      },
-      "properties" : {
-        "name" : "十二號草堂",
-        "address" : "雲林縣虎尾鎮成平街12號"
       }
     },
     {
+      "id" : "9E61ACF4-9082-4817-91C4-F4B8701E9BEF",
+      "properties" : {
+        "name" : "善友素食館",
+        "address" : "雲林縣斗六市成功路186號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -765,13 +825,14 @@
           120.549147,
           23.706406000000001
         ]
-      },
-      "properties" : {
-        "name" : "善友素食館",
-        "address" : "雲林縣斗六市成功路186號"
       }
     },
     {
+      "id" : "2F871281-7B7C-4552-8FBA-A829DC44577E",
+      "properties" : {
+        "name" : "愛家小吃",
+        "address" : "雲林縣二崙鄉中山路一段189巷16號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -779,13 +840,14 @@
           120.415843,
           23.770987000000002
         ]
-      },
-      "properties" : {
-        "name" : "愛家小吃",
-        "address" : "雲林縣二崙鄉中山路一段189巷16號"
       }
     },
     {
+      "id" : "66C59401-2F61-40B3-BABE-8010157BA99A",
+      "properties" : {
+        "name" : "生機廚房",
+        "address" : "雲林縣虎尾鎮民主路1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -793,13 +855,14 @@
           120.43548,
           23.703616
         ]
-      },
-      "properties" : {
-        "name" : "生機廚房",
-        "address" : "雲林縣虎尾鎮民主路1號"
       }
     },
     {
+      "id" : "A1181B2B-227C-4505-8314-390C60E31BE2",
+      "properties" : {
+        "name" : "奇滿屋蔬食館",
+        "address" : "雲林縣斗六市八德路76號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -807,13 +870,14 @@
           120.528531,
           23.692295000000001
         ]
-      },
-      "properties" : {
-        "name" : "奇滿屋蔬食館",
-        "address" : "雲林縣斗六市八德路76號"
       }
     },
     {
+      "id" : "01880234-DD13-4D97-9F48-F68D041B81B7",
+      "properties" : {
+        "name" : "養惠素食行",
+        "address" : "雲林縣斗南鎮中山路45號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -821,13 +885,14 @@
           120.479629,
           23.674409000000001
         ]
-      },
-      "properties" : {
-        "name" : "養惠素食行",
-        "address" : "雲林縣斗南鎮中山路45號"
       }
     },
     {
+      "id" : "4FB0A227-331E-4AF6-B267-7B6E35EE745E",
+      "properties" : {
+        "name" : "西螺老店素食手工早點",
+        "address" : "雲林縣西螺鎮中正路196號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -835,13 +900,14 @@
           120.458336,
           23.798452999999999
         ]
-      },
-      "properties" : {
-        "name" : "西螺老店素食手工早點",
-        "address" : "雲林縣西螺鎮中正路196號"
       }
     },
     {
+      "id" : "09EB2304-96B0-4978-B049-9BA6633C9F17",
+      "properties" : {
+        "name" : "食緣坊",
+        "address" : "雲林縣斗六市成功路202號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -849,13 +915,14 @@
           120.54956199999999,
           23.706274000000001
         ]
-      },
-      "properties" : {
-        "name" : "食緣坊",
-        "address" : "雲林縣斗六市成功路202號"
       }
     },
     {
+      "id" : "7F1C0962-800D-4565-81F1-26637BFD6D1C",
+      "properties" : {
+        "name" : "素食麵攤",
+        "address" : "雲林縣虎尾鎮和平路35號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -863,13 +930,14 @@
           120.437511,
           23.709202999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食麵攤",
-        "address" : "雲林縣虎尾鎮和平路35號"
       }
     },
     {
+      "id" : "95F5C3F4-B215-4EE1-894A-FCE1B433FCB6",
+      "properties" : {
+        "name" : "聖荷阿水伯蔬食餐廳",
+        "address" : "雲林縣斗六市成功三街1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -877,13 +945,14 @@
           120.45525720000001,
           23.525109799999999
         ]
-      },
-      "properties" : {
-        "name" : "聖荷阿水伯蔬食餐廳",
-        "address" : "雲林縣斗六市成功三街1號"
       }
     },
     {
+      "id" : "8FF5D6A5-BB6F-457B-B534-56390BAF5B17",
+      "properties" : {
+        "name" : "御禾園養生素食館",
+        "address" : "雲林縣斗六市成功二街78-80號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -891,13 +960,14 @@
           120.459754,
           23.525074
         ]
-      },
-      "properties" : {
-        "name" : "御禾園養生素食館",
-        "address" : "雲林縣斗六市成功二街78-80號"
       }
     },
     {
+      "id" : "45FC66CB-D5F5-40FD-83A0-0666A8A7D958",
+      "properties" : {
+        "name" : "如是我聞韓式海苔飯捲",
+        "address" : "雲林縣斗六市城頂街雲林溪美食廣場71號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -905,13 +975,14 @@
           120.542423,
           23.707053999999999
         ]
-      },
-      "properties" : {
-        "name" : "如是我聞韓式海苔飯捲",
-        "address" : "雲林縣斗六市城頂街雲林溪美食廣場71號"
       }
     },
     {
+      "id" : "A6EF5AA5-9C97-4AE4-838F-4156AFF01058",
+      "properties" : {
+        "name" : "健康素食中心",
+        "address" : "雲林縣虎尾鎮新生路81號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -919,13 +990,14 @@
           120.439718,
           23.708804000000001
         ]
-      },
-      "properties" : {
-        "name" : "健康素食中心",
-        "address" : "雲林縣虎尾鎮新生路81號"
       }
     },
     {
+      "id" : "ADCD20E3-9412-4F13-80D6-37198B7F07A5",
+      "properties" : {
+        "name" : "御膳素食餐館",
+        "address" : "雲林縣斗六市鎮東路343號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -933,13 +1005,14 @@
           120.527764,
           23.69726
         ]
-      },
-      "properties" : {
-        "name" : "御膳素食餐館",
-        "address" : "雲林縣斗六市鎮東路343號"
       }
     },
     {
+      "id" : "6CC23740-EE76-49B2-92EA-B0E16830A08C",
+      "properties" : {
+        "name" : "妙香林素食中心",
+        "address" : "雲林縣斗六市中山路579-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -947,13 +1020,14 @@
           120.538273,
           23.694227999999999
         ]
-      },
-      "properties" : {
-        "name" : "妙香林素食中心",
-        "address" : "雲林縣斗六市中山路579-1號"
       }
     },
     {
+      "id" : "65602437-AA67-43E0-B0AB-E3331216A348",
+      "properties" : {
+        "name" : "郁兔素食中西式早午晚餐",
+        "address" : "雲林縣斗南鎮順安街136-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -961,13 +1035,14 @@
           120.4778,
           23.675948000000002
         ]
-      },
-      "properties" : {
-        "name" : "郁兔素食中西式早午晚餐",
-        "address" : "雲林縣斗南鎮順安街136-1號"
       }
     },
     {
+      "id" : "4CA77256-2B28-42B1-8F19-CC1699BD16EA",
+      "properties" : {
+        "name" : "崇智素食",
+        "address" : "雲林縣西螺鎮平和路60號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -975,13 +1050,14 @@
           120.457413,
           23.797218999999998
         ]
-      },
-      "properties" : {
-        "name" : "崇智素食",
-        "address" : "雲林縣西螺鎮平和路60號"
       }
     },
     {
+      "id" : "F91E81AA-836E-4F8D-A552-2166F296D616",
+      "properties" : {
+        "name" : "素食小館",
+        "address" : "雲林縣北港鎮民治路30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -989,13 +1065,14 @@
           120.301839,
           23.574468
         ]
-      },
-      "properties" : {
-        "name" : "素食小館",
-        "address" : "雲林縣北港鎮民治路30號"
       }
     },
     {
+      "id" : "315A0FA0-742B-4005-8FC9-E76EA5D7E389",
+      "properties" : {
+        "name" : "子心蔬食微笑餐飲",
+        "address" : "雲林縣虎尾鎮光復路418號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1003,13 +1080,14 @@
           120.435385,
           23.710546000000001
         ]
-      },
-      "properties" : {
-        "name" : "子心蔬食微笑餐飲",
-        "address" : "雲林縣虎尾鎮光復路418號"
       }
     },
     {
+      "id" : "C769DC1D-03C5-435B-870E-FDF0D785BE4E",
+      "properties" : {
+        "name" : "素食坊",
+        "address" : "雲林縣西螺鎮建興路212號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1017,13 +1095,14 @@
           120.4594019,
           23.799416399999998
         ]
-      },
-      "properties" : {
-        "name" : "素食坊",
-        "address" : "雲林縣西螺鎮建興路212號"
       }
     },
     {
+      "id" : "676941CC-C684-4CC9-B28E-1EE777267055",
+      "properties" : {
+        "name" : "莿桐如意齋素食午餐",
+        "address" : "雲林縣莿桐鄉中正路65號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1031,13 +1110,14 @@
           120.501705,
           23.756990999999999
         ]
-      },
-      "properties" : {
-        "name" : "莿桐如意齋素食午餐",
-        "address" : "雲林縣莿桐鄉中正路65號"
       }
     },
     {
+      "id" : "26560D3A-DC09-48D6-9AF2-71E2081948CA",
+      "properties" : {
+        "name" : "素食小吃",
+        "address" : "雲林縣土庫鎮中正路96號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1045,13 +1125,14 @@
           120.39015999999999,
           23.675098999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食小吃",
-        "address" : "雲林縣土庫鎮中正路96號"
       }
     },
     {
+      "id" : "88F26224-D79B-4C0C-9126-0CA775A274D8",
+      "properties" : {
+        "name" : "心素齋蔬食料理",
+        "address" : "雲林縣北港鎮文仁路231號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1059,13 +1140,14 @@
           120.29781199999999,
           23.577479
         ]
-      },
-      "properties" : {
-        "name" : "心素齋蔬食料理",
-        "address" : "雲林縣北港鎮文仁路231號"
       }
     },
     {
+      "id" : "FD6BB205-A01F-4F30-815C-96EA656745B1",
+      "properties" : {
+        "name" : "森野．素食餐坊",
+        "address" : "雲林縣古坑鄉文淵路1-4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1073,13 +1155,14 @@
           120.56352099999999,
           23.642880999999999
         ]
-      },
-      "properties" : {
-        "name" : "森野．素食餐坊",
-        "address" : "雲林縣古坑鄉文淵路1-4號"
       }
     },
     {
+      "id" : "3CF6015B-0916-464F-AFB1-5B34E58E6BDA",
+      "properties" : {
+        "name" : "斗六慈光咖啡素食",
+        "address" : "雲林縣斗六市成功路470號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1087,13 +1170,14 @@
           120.55680099999999,
           23.699017000000001
         ]
-      },
-      "properties" : {
-        "name" : "斗六慈光咖啡素食",
-        "address" : "雲林縣斗六市成功路470號"
       }
     },
     {
+      "id" : "D24ECC1E-A6C9-47E2-923C-E0BA7930A476",
+      "properties" : {
+        "name" : "素食",
+        "address" : "雲林縣土庫鎮中山路116號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1101,13 +1185,14 @@
           120.39087000000001,
           23.675405999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "雲林縣土庫鎮中山路116號"
       }
     },
     {
+      "id" : "7076C4D2-88E1-42B4-B235-9E7AC07FBD4B",
+      "properties" : {
+        "name" : "九品傳統素食小吃",
+        "address" : "雲林縣斗六市中山路286-5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1115,13 +1200,14 @@
           120.538366,
           23.702289
         ]
-      },
-      "properties" : {
-        "name" : "九品傳統素食小吃",
-        "address" : "雲林縣斗六市中山路286-5號"
       }
     },
     {
+      "id" : "6670AE44-ED3D-4731-8A3A-181E23C064AC",
+      "properties" : {
+        "name" : "卡莫卡巧克力莊園",
+        "address" : "雲林縣斗六市中堅西路268號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1129,13 +1215,14 @@
           120.53377500000001,
           23.701539
         ]
-      },
-      "properties" : {
-        "name" : "卡莫卡巧克力莊園",
-        "address" : "雲林縣斗六市中堅西路268號"
       }
     },
     {
+      "id" : "59E324D8-6368-4628-96F2-E4D705E06A91",
+      "properties" : {
+        "name" : "大姐臭豆腐",
+        "address" : "雲林縣西螺鎮福來路50號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1143,13 +1230,14 @@
           120.446811,
           23.784079999999999
         ]
-      },
-      "properties" : {
-        "name" : "大姐臭豆腐",
-        "address" : "雲林縣西螺鎮福來路50號"
       }
     },
     {
+      "id" : "0B3FEFEE-DB80-4B13-9784-A3A4E2DD757A",
+      "properties" : {
+        "name" : "如來素食店",
+        "address" : "雲林縣虎尾鎮忠孝路58號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1157,13 +1245,14 @@
           120.43017500000001,
           23.70579
         ]
-      },
-      "properties" : {
-        "name" : "如來素食店",
-        "address" : "雲林縣虎尾鎮忠孝路58號"
       }
     },
     {
+      "id" : "4EA0EEA4-F5DA-4B38-8EA3-165B4720E60C",
+      "properties" : {
+        "name" : "稻家村素味美食",
+        "address" : "雲林縣斗六市豐興路30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1171,13 +1260,14 @@
           120.557388,
           23.719196
         ]
-      },
-      "properties" : {
-        "name" : "稻家村素味美食",
-        "address" : "雲林縣斗六市豐興路30號"
       }
     },
     {
+      "id" : "892986F4-CB07-474A-B46E-E3C4A6E8816E",
+      "properties" : {
+        "name" : "御芳素食",
+        "address" : "雲林縣斗六市中華路164號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1185,13 +1275,14 @@
           120.545754,
           23.708383000000001
         ]
-      },
-      "properties" : {
-        "name" : "御芳素食",
-        "address" : "雲林縣斗六市中華路164號"
       }
     },
     {
+      "id" : "26971F65-8F26-43C3-905A-255150F48FFB",
+      "properties" : {
+        "name" : "石榴素食",
+        "address" : "雲林縣斗六市中興路102號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1199,13 +1290,14 @@
           120.578329,
           23.725728
         ]
-      },
-      "properties" : {
-        "name" : "石榴素食",
-        "address" : "雲林縣斗六市中興路102號"
       }
     },
     {
+      "id" : "CC8C3288-9563-452F-B0B9-D317151A4F68",
+      "properties" : {
+        "name" : "老邵純素小籠包小吃店",
+        "address" : "雲林縣西螺鎮建興路171號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1213,13 +1305,14 @@
           120.45905329999999,
           23.7987264
         ]
-      },
-      "properties" : {
-        "name" : "老邵純素小籠包小吃店",
-        "address" : "雲林縣西螺鎮建興路171號"
       }
     },
     {
+      "id" : "0CCF3D1C-DD71-47BD-B53F-DE4EBA9CECB0",
+      "properties" : {
+        "name" : "健康素食中心",
+        "address" : "雲林縣斗六市中正路118號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1227,13 +1320,14 @@
           120.544344,
           23.707218999999998
         ]
-      },
-      "properties" : {
-        "name" : "健康素食中心",
-        "address" : "雲林縣斗六市中正路118號"
       }
     },
     {
+      "id" : "5F8FC4CC-0536-4BB4-AA74-C02A7F6B5A1F",
+      "properties" : {
+        "name" : "好鮮森蔬食館",
+        "address" : "雲林縣虎尾鎮文科路473號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1241,13 +1335,14 @@
           120.441361,
           23.716767000000001
         ]
-      },
-      "properties" : {
-        "name" : "好鮮森蔬食館",
-        "address" : "雲林縣虎尾鎮文科路473號"
       }
     },
     {
+      "id" : "8C6A4919-91BB-446A-98FE-781DCB0E6FE3",
+      "properties" : {
+        "name" : "發現新素食",
+        "address" : "雲林縣斗六市永昌西街185號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1255,13 +1350,14 @@
           120.536495,
           23.702919999999999
         ]
-      },
-      "properties" : {
-        "name" : "發現新素食",
-        "address" : "雲林縣斗六市永昌西街185號"
       }
     },
     {
+      "id" : "B3B72513-68DD-4A8F-B8C8-1D9B90764A87",
+      "properties" : {
+        "name" : "一合相素食",
+        "address" : "雲林縣斗六市中山路140號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1269,13 +1365,14 @@
           120.539376,
           23.705494999999999
         ]
-      },
-      "properties" : {
-        "name" : "一合相素食",
-        "address" : "雲林縣斗六市中山路140號"
       }
     },
     {
+      "id" : "0669A52D-3685-4D1F-9A3C-8A00B8D94081",
+      "properties" : {
+        "name" : "阿杏素食園",
+        "address" : "雲林縣北港鎮民治路32號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1283,13 +1380,14 @@
           120.301799,
           23.574455
         ]
-      },
-      "properties" : {
-        "name" : "阿杏素食園",
-        "address" : "雲林縣北港鎮民治路32號"
       }
     },
     {
+      "id" : "7DE14B3F-CABF-41E5-A2CA-ED073A103FBE",
+      "properties" : {
+        "name" : "林記素食",
+        "address" : "雲林縣東勢鄉東勢東路89號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1297,13 +1395,14 @@
           120.25554,
           23.675021000000001
         ]
-      },
-      "properties" : {
-        "name" : "林記素食",
-        "address" : "雲林縣東勢鄉東勢東路89號"
       }
     },
     {
+      "id" : "3A5DE89D-EEF0-4D2D-A1A1-4170136326CE",
+      "properties" : {
+        "name" : "寬玉素食客棧",
+        "address" : "雲林縣北港鎮公園路279巷57號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1311,13 +1410,14 @@
           120.30079569999999,
           23.580968299999999
         ]
-      },
-      "properties" : {
-        "name" : "寬玉素食客棧",
-        "address" : "雲林縣北港鎮公園路279巷57號"
       }
     },
     {
+      "id" : "E41AAD17-A775-4650-9E11-B7788C13C0BC",
+      "properties" : {
+        "name" : "公正街素食",
+        "address" : "雲林縣斗六市公正街36號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1325,13 +1425,14 @@
           120.543413,
           23.709085000000002
         ]
-      },
-      "properties" : {
-        "name" : "公正街素食",
-        "address" : "雲林縣斗六市公正街36號"
       }
     },
     {
+      "id" : "FD1B3AA3-CF3E-4715-8D71-D18B32628DC2",
+      "properties" : {
+        "name" : "圓緣素食",
+        "address" : "雲林縣斗六市龍潭北路15號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1339,13 +1440,14 @@
           120.52826399999999,
           23.691659999999999
         ]
-      },
-      "properties" : {
-        "name" : "圓緣素食",
-        "address" : "雲林縣斗六市龍潭北路15號"
       }
     },
     {
+      "id" : "98375BF1-62CF-4181-B4AF-41F1792B48B5",
+      "properties" : {
+        "name" : "天佑韓式海苔飯捲",
+        "address" : "雲林縣斗六市永昌西街16號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1353,13 +1455,14 @@
           120.538121,
           23.702957999999999
         ]
-      },
-      "properties" : {
-        "name" : "天佑韓式海苔飯捲",
-        "address" : "雲林縣斗六市永昌西街16號"
       }
     },
     {
+      "id" : "3D43C764-E7D0-4318-B1E6-5F4224C9C3A2",
+      "properties" : {
+        "name" : "麥寮崇德素食",
+        "address" : "雲林縣麥寮鄉中正路147號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1367,13 +1470,14 @@
           120.252268,
           23.749061999999999
         ]
-      },
-      "properties" : {
-        "name" : "麥寮崇德素食",
-        "address" : "雲林縣麥寮鄉中正路147號"
       }
     },
     {
+      "id" : "3A379C67-401A-473F-A411-45AA17AC8FD5",
+      "properties" : {
+        "name" : "興華素食",
+        "address" : "雲林縣斗南鎮延平路三段69號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1381,13 +1485,14 @@
           120.47349199999999,
           23.657423999999999
         ]
-      },
-      "properties" : {
-        "name" : "興華素食",
-        "address" : "雲林縣斗南鎮延平路三段69號"
       }
     },
     {
+      "id" : "318FA4F7-B796-45E1-8606-75DD0EF1A3BB",
+      "properties" : {
+        "name" : "慈恩素食館",
+        "address" : "雲林縣虎尾鎮林森路二段299號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1395,13 +1500,14 @@
           120.427503,
           23.702638
         ]
-      },
-      "properties" : {
-        "name" : "慈恩素食館",
-        "address" : "雲林縣虎尾鎮林森路二段299號"
       }
     },
     {
+      "id" : "85245437-586C-4AE7-933F-9523C05FBD4D",
+      "properties" : {
+        "name" : "蓮之香素食餐廳",
+        "address" : "雲林縣斗六市中山路406號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1409,13 +1515,14 @@
           120.537766,
           23.697745999999999
         ]
-      },
-      "properties" : {
-        "name" : "蓮之香素食餐廳",
-        "address" : "雲林縣斗六市中山路406號"
       }
     },
     {
+      "id" : "75135435-FB81-4B05-9F12-05626596102B",
+      "properties" : {
+        "name" : "素食材料專賣店",
+        "address" : "雲林縣莿桐鄉中山路59-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1423,13 +1530,14 @@
           120.49906799999999,
           23.755880000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食材料專賣店",
-        "address" : "雲林縣莿桐鄉中山路59-3號"
       }
     },
     {
+      "id" : "7A69551F-16AC-4612-A9C6-D30FA073EB59",
+      "properties" : {
+        "name" : "臭味相投素食麻辣臭豆腐店",
+        "address" : "雲林縣斗六市莊敬路16號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1437,13 +1545,14 @@
           120.5498255,
           23.7038677
         ]
-      },
-      "properties" : {
-        "name" : "臭味相投素食麻辣臭豆腐店",
-        "address" : "雲林縣斗六市莊敬路16號"
       }
     },
     {
+      "id" : "ABFA824B-EE26-4FB0-821C-51AC1846614C",
+      "properties" : {
+        "name" : "元和素食自助餐",
+        "address" : "雲林縣虎尾鎮民生路37-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1451,13 +1560,14 @@
           120.43682099999999,
           23.708231000000001
         ]
-      },
-      "properties" : {
-        "name" : "元和素食自助餐",
-        "address" : "雲林縣虎尾鎮民生路37-2號"
       }
     },
     {
+      "id" : "07505415-61B8-4E5B-BBF3-F793B83F7342",
+      "properties" : {
+        "name" : "虎尾天一素食自助餐",
+        "address" : "雲林縣斗南鎮興仁街25號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1465,13 +1575,14 @@
           120.4805683,
           23.674760599999999
         ]
-      },
-      "properties" : {
-        "name" : "虎尾天一素食自助餐",
-        "address" : "雲林縣斗南鎮興仁街25號"
       }
     },
     {
+      "id" : "37155D6E-472E-4FA9-86DB-9788D0AADDE0",
+      "properties" : {
+        "name" : "養身元氣屋",
+        "address" : "雲林縣斗六市雲林路二段446號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1479,13 +1590,14 @@
           120.52515699999999,
           23.699100999999999
         ]
-      },
-      "properties" : {
-        "name" : "養身元氣屋",
-        "address" : "雲林縣斗六市雲林路二段446號"
       }
     },
     {
+      "id" : "7461C9DF-C57C-4D27-90A9-63503E21D375",
+      "properties" : {
+        "name" : "正宗素食",
+        "address" : "雲林縣北港鎮民族路58號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1493,13 +1605,14 @@
           120.300909,
           23.572516
         ]
-      },
-      "properties" : {
-        "name" : "正宗素食",
-        "address" : "雲林縣北港鎮民族路58號"
       }
     },
     {
+      "id" : "D2187904-4AA3-4ECA-B13D-8AF5E1E197CE",
+      "properties" : {
+        "name" : "登地蔬食餐廳",
+        "address" : "雲林縣斗六市岩山路45號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1507,13 +1620,14 @@
           120.606112,
           23.707625
         ]
-      },
-      "properties" : {
-        "name" : "登地蔬食餐廳",
-        "address" : "雲林縣斗六市岩山路45號"
       }
     },
     {
+      "id" : "1C69A166-73F4-4ADA-B1A6-74AD323AFA82",
+      "properties" : {
+        "name" : "APPLE元氣早午餐",
+        "address" : "雲林縣虎尾鎮博愛路187號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1521,13 +1635,14 @@
           120.43602,
           23.718230999999999
         ]
-      },
-      "properties" : {
-        "name" : "APPLE元氣早午餐",
-        "address" : "雲林縣虎尾鎮博愛路187號"
       }
     },
     {
+      "id" : "F0E0E50E-1CD4-4C63-BFEC-41C901DEC756",
+      "properties" : {
+        "name" : "佛緣素食自助餐",
+        "address" : "雲林縣西螺鎮建興路258號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1535,13 +1650,14 @@
           120.459377,
           23.800659
         ]
-      },
-      "properties" : {
-        "name" : "佛緣素食自助餐",
-        "address" : "雲林縣西螺鎮建興路258號"
       }
     },
     {
+      "id" : "5C7BE46C-E2F1-4FDB-A5AE-73A4E971AFD3",
+      "properties" : {
+        "name" : "西螺素食",
+        "address" : "雲林縣西螺鎮延平路344號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1549,13 +1665,14 @@
           120.457071,
           23.800871000000001
         ]
-      },
-      "properties" : {
-        "name" : "西螺素食",
-        "address" : "雲林縣西螺鎮延平路344號"
       }
     },
     {
+      "id" : "8D5D5C22-34EE-4694-8412-D524142F3B0B",
+      "properties" : {
+        "name" : "佛緣素食館",
+        "address" : "雲林縣北港鎮公園路93號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1563,13 +1680,14 @@
           120.30176400000001,
           23.575958
         ]
-      },
-      "properties" : {
-        "name" : "佛緣素食館",
-        "address" : "雲林縣北港鎮公園路93號"
       }
     },
     {
+      "id" : "5B080E9C-571D-40CF-AD31-F2B592BF8337",
+      "properties" : {
+        "name" : "著迷．食間 Enchanted café",
+        "address" : "雲林縣斗六市鎮東路81巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1577,13 +1695,14 @@
           120.527764,
           23.69726
         ]
-      },
-      "properties" : {
-        "name" : "著迷．食間 Enchanted café",
-        "address" : "雲林縣斗六市鎮東路81巷1號"
       }
     },
     {
+      "id" : "62584DB9-A80C-4FD0-A257-8F8E1800945C",
+      "properties" : {
+        "name" : "度食居",
+        "address" : "雲林縣斗六市中華路262號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1591,13 +1710,14 @@
           120.54842600000001,
           23.708390000000001
         ]
-      },
-      "properties" : {
-        "name" : "度食居",
-        "address" : "雲林縣斗六市中華路262號"
       }
     },
     {
+      "id" : "484712C6-693F-4776-B61B-AC2CC8187146",
+      "properties" : {
+        "name" : "素食中西式早餐",
+        "address" : "雲林縣虎尾鎮大成街79號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1605,13 +1725,14 @@
           120.44640699999999,
           23.711766999999998
         ]
-      },
-      "properties" : {
-        "name" : "素食中西式早餐",
-        "address" : "雲林縣虎尾鎮大成街79號"
       }
     },
     {
+      "id" : "6FA03E4F-3A9E-4252-AE4C-68CC7ACF8994",
+      "properties" : {
+        "name" : "欣欣緣素食西點麵包",
+        "address" : "雲林縣斗南鎮大同路285號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1619,13 +1740,14 @@
           120.473831,
           23.681191999999999
         ]
-      },
-      "properties" : {
-        "name" : "欣欣緣素食西點麵包",
-        "address" : "雲林縣斗南鎮大同路285號"
       }
     },
     {
+      "id" : "9F17A6CD-CAB3-4AD9-8F06-B7A4AA35C00F",
+      "properties" : {
+        "name" : "天廚素食臭豆腐",
+        "address" : "雲林縣林內鄉清水溪29號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1633,13 +1755,14 @@
           120.64648200000001,
           23.762352
         ]
-      },
-      "properties" : {
-        "name" : "天廚素食臭豆腐",
-        "address" : "雲林縣林內鄉清水溪29號"
       }
     },
     {
+      "id" : "6E5C846D-0F33-4B77-8E0F-896C6B258306",
+      "properties" : {
+        "name" : "阿來素食",
+        "address" : "雲林縣虎尾鎮復興路170號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1647,13 +1770,14 @@
           120.426272,
           23.706531999999999
         ]
-      },
-      "properties" : {
-        "name" : "阿來素食",
-        "address" : "雲林縣虎尾鎮復興路170號"
       }
     },
     {
+      "id" : "573F3FB8-8543-4F88-AA00-B94E0FA0DD61",
+      "properties" : {
+        "name" : "奇香妙草蔬食館",
+        "address" : "雲林縣斗六市慶生路10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1661,13 +1785,14 @@
           120.54036000000001,
           23.712589999999999
         ]
-      },
-      "properties" : {
-        "name" : "奇香妙草蔬食館",
-        "address" : "雲林縣斗六市慶生路10號"
       }
     },
     {
+      "id" : "3588AFE4-A7DF-4211-9749-DE6D3992173D",
+      "properties" : {
+        "name" : "素之味素食",
+        "address" : "雲林縣斗六市文化路138號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1675,13 +1800,14 @@
           120.548788,
           23.710858999999999
         ]
-      },
-      "properties" : {
-        "name" : "素之味素食",
-        "address" : "雲林縣斗六市文化路138號"
       }
     },
     {
+      "id" : "0385E943-FFF3-46A5-A822-BDFB0418732C",
+      "properties" : {
+        "name" : "目鏡仔麥芽酥",
+        "address" : "雲林縣西螺鎮建興路244號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1689,13 +1815,14 @@
           120.4593885,
           23.8001474
         ]
-      },
-      "properties" : {
-        "name" : "目鏡仔麥芽酥",
-        "address" : "雲林縣西螺鎮建興路244號"
       }
     },
     {
+      "id" : "2A67250D-4843-4439-84D3-AE9D5CA0E2EE",
+      "properties" : {
+        "name" : "熱浪島南洋蔬食茶堂",
+        "address" : "雲林縣斗六市中山路414號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1703,13 +1830,14 @@
           120.537752,
           23.697502
         ]
-      },
-      "properties" : {
-        "name" : "熱浪島南洋蔬食茶堂",
-        "address" : "雲林縣斗六市中山路414號"
       }
     },
     {
+      "id" : "5034D4BB-FDA0-4B4D-8313-6BCD70DEB525",
+      "properties" : {
+        "name" : "生命緣素食",
+        "address" : "雲林縣土庫鎮中山路149號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1717,13 +1845,14 @@
           120.39090899999999,
           23.675663
         ]
-      },
-      "properties" : {
-        "name" : "生命緣素食",
-        "address" : "雲林縣土庫鎮中山路149號"
       }
     },
     {
+      "id" : "AF04D10E-7432-490B-BA5A-EB3E965C2CBD",
+      "properties" : {
+        "name" : "食在燒鍋",
+        "address" : "雲林縣麥寮鄉中山路410號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1731,13 +1860,14 @@
           120.251361,
           23.750150000000001
         ]
-      },
-      "properties" : {
-        "name" : "食在燒鍋",
-        "address" : "雲林縣麥寮鄉中山路410號"
       }
     },
     {
+      "id" : "538473B8-1E7D-4306-8A1C-4F2F204D57F9",
+      "properties" : {
+        "name" : "素食紅豆餅",
+        "address" : "雲林縣西螺鎮福興路167-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1745,13 +1875,14 @@
           120.4608195,
           23.799563500000001
         ]
-      },
-      "properties" : {
-        "name" : "素食紅豆餅",
-        "address" : "雲林縣西螺鎮福興路167-1號"
       }
     },
     {
+      "id" : "C001506C-5AA3-4716-B191-450E4B4406ED",
+      "properties" : {
+        "name" : "素食水煎包",
+        "address" : "雲林縣虎尾鎮林森路一段64號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1759,13 +1890,14 @@
           120.442003,
           23.718665999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食水煎包",
-        "address" : "雲林縣虎尾鎮林森路一段64號"
       }
     },
     {
+      "id" : "55D96A45-C2D3-4D96-9D3E-47655B87E157",
+      "properties" : {
+        "name" : "天天來",
+        "address" : "雲林縣斗六市文化路113號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1773,13 +1905,14 @@
           120.54937099999999,
           23.711399
         ]
-      },
-      "properties" : {
-        "name" : "天天來",
-        "address" : "雲林縣斗六市文化路113號"
       }
     },
     {
+      "id" : "157F141F-6D12-44E3-B2C8-40B46026197C",
+      "properties" : {
+        "name" : "大斗六-手作饅頭.菜包",
+        "address" : "雲林縣斗六市大同路195號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1787,13 +1920,14 @@
           120.547617,
           23.709631999999999
         ]
-      },
-      "properties" : {
-        "name" : "大斗六-手作饅頭.菜包",
-        "address" : "雲林縣斗六市大同路195號"
       }
     },
     {
+      "id" : "63266620-1930-4946-93B8-212A0EF7E3F5",
+      "properties" : {
+        "name" : "Rico 義式蔬食料理",
+        "address" : "雲林縣虎尾鎮復興路207號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1801,13 +1935,14 @@
           120.42504599999999,
           23.705158000000001
         ]
-      },
-      "properties" : {
-        "name" : "Rico 義式蔬食料理",
-        "address" : "雲林縣虎尾鎮復興路207號"
       }
     },
     {
+      "id" : "F21C81C6-8A87-4F51-95FA-010F1DABC387",
+      "properties" : {
+        "name" : "饗飴吓湯包專賣店",
+        "address" : "雲林縣斗南鎮文元街10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1815,13 +1950,14 @@
           120.478628,
           23.675688999999998
         ]
-      },
-      "properties" : {
-        "name" : "饗飴吓湯包專賣店",
-        "address" : "雲林縣斗南鎮文元街10號"
       }
     },
     {
+      "id" : "8013B31B-9676-4881-9913-82BB3F9685F5",
+      "properties" : {
+        "name" : "16號廚房",
+        "address" : "雲林縣斗六市上海路244號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1829,13 +1965,14 @@
           120.54198,
           23.714621000000001
         ]
-      },
-      "properties" : {
-        "name" : "16號廚房",
-        "address" : "雲林縣斗六市上海路244號"
       }
     },
     {
+      "id" : "E25DA2E3-2648-4C8B-824B-9DC1AD700D2E",
+      "properties" : {
+        "name" : "菩緣素食",
+        "address" : "雲林縣虎尾鎮德興路13號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1843,13 +1980,14 @@
           120.43198,
           23.707877
         ]
-      },
-      "properties" : {
-        "name" : "菩緣素食",
-        "address" : "雲林縣虎尾鎮德興路13號"
       }
     },
     {
+      "id" : "E0E25B9E-4F7D-4FA6-A44E-3988E90E3AED",
+      "properties" : {
+        "name" : "一休素食",
+        "address" : "雲林縣斗六市雲林路二段426號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1857,13 +1995,14 @@
           120.525621,
           23.699294999999999
         ]
-      },
-      "properties" : {
-        "name" : "一休素食",
-        "address" : "雲林縣斗六市雲林路二段426號"
       }
     },
     {
+      "id" : "3CF4F616-E225-4D56-8929-9C126B69EBF2",
+      "properties" : {
+        "name" : "啡嘗想戀",
+        "address" : "雲林縣斗六市文化路646巷11弄2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1871,13 +2010,14 @@
           120.561447,
           23.712949999999999
         ]
-      },
-      "properties" : {
-        "name" : "啡嘗想戀",
-        "address" : "雲林縣斗六市文化路646巷11弄2號"
       }
     },
     {
+      "id" : "0C0576D3-C3D0-46A3-B955-950A7233C01F",
+      "properties" : {
+        "name" : "仙地咖啡",
+        "address" : "雲林縣古坑鄉桂林村桃源路1-31號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1885,13 +2025,14 @@
           120.563119,
           23.647054000000001
         ]
-      },
-      "properties" : {
-        "name" : "仙地咖啡",
-        "address" : "雲林縣古坑鄉桂林村桃源路1-31號"
       }
     },
     {
+      "id" : "04CDC1CA-8F62-4064-B6EA-D065DC9B4EE4",
+      "properties" : {
+        "name" : "佳華素食",
+        "address" : "雲林縣斗南鎮中正路284號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1899,13 +2040,14 @@
           120.4764512,
           23.676300600000001
         ]
-      },
-      "properties" : {
-        "name" : "佳華素食",
-        "address" : "雲林縣斗南鎮中正路284號"
       }
     },
     {
+      "id" : "9C8F6102-773C-4F84-B833-8EEF0AF6DB79",
+      "properties" : {
+        "name" : "大真素食",
+        "address" : "雲林縣斗六市西平路38號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1913,13 +2055,14 @@
           120.539224,
           23.708438999999998
         ]
-      },
-      "properties" : {
-        "name" : "大真素食",
-        "address" : "雲林縣斗六市西平路38號"
       }
     },
     {
+      "id" : "308ECE92-A4A1-4B89-9787-FA21E3AD9B80",
+      "properties" : {
+        "name" : "opa精品咖啡館",
+        "address" : "雲林縣虎尾鎮長春路38號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1927,13 +2070,14 @@
           120.42813,
           23.700455999999999
         ]
-      },
-      "properties" : {
-        "name" : "opa精品咖啡館",
-        "address" : "雲林縣虎尾鎮長春路38號"
       }
     },
     {
+      "id" : "44C51A02-ACA5-4E05-931C-3FE93AAFDB8E",
+      "properties" : {
+        "name" : "如是我嘗素食",
+        "address" : "雲林縣虎尾鎮林森路一段340號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1941,13 +2085,14 @@
           120.436313,
           23.712340000000001
         ]
-      },
-      "properties" : {
-        "name" : "如是我嘗素食",
-        "address" : "雲林縣虎尾鎮林森路一段340號"
       }
     },
     {
+      "id" : "EE4EB944-CF80-49CB-A2A7-975DFB734F32",
+      "properties" : {
+        "name" : "稻香韓式海苔蔬飯捲",
+        "address" : "雲林縣西螺鎮平和路41號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1955,13 +2100,14 @@
           120.45696,
           23.796529
         ]
-      },
-      "properties" : {
-        "name" : "稻香韓式海苔蔬飯捲",
-        "address" : "雲林縣西螺鎮平和路41號"
       }
     },
     {
+      "id" : "2EAC2E75-25E5-4D98-AC4F-D3A620355D18",
+      "properties" : {
+        "name" : "慈恩素食",
+        "address" : "雲林縣斗南鎮福德街57號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1969,13 +2115,14 @@
           120.479304,
           23.677548999999999
         ]
-      },
-      "properties" : {
-        "name" : "慈恩素食",
-        "address" : "雲林縣斗南鎮福德街57號"
       }
     },
     {
+      "id" : "27E4A746-36B9-4C68-B24F-2DD069152B28",
+      "properties" : {
+        "name" : "弘恩素料",
+        "address" : "雲林縣四湖鄉新市街137號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1983,13 +2130,14 @@
           120.22433599999999,
           23.636579000000001
         ]
-      },
-      "properties" : {
-        "name" : "弘恩素料",
-        "address" : "雲林縣四湖鄉新市街137號"
       }
     },
     {
+      "id" : "C2B2C692-0314-4CA6-BDF5-E0880B88AC1B",
+      "properties" : {
+        "name" : "小荳子素食簡餐",
+        "address" : "雲林縣虎尾鎮興南里108號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1997,13 +2145,14 @@
           120.519533,
           23.762277000000001
         ]
-      },
-      "properties" : {
-        "name" : "小荳子素食簡餐",
-        "address" : "雲林縣虎尾鎮興南里108號"
       }
     },
     {
+      "id" : "8C6E3FA8-9D78-4B53-AB2D-11146AC26D02",
+      "properties" : {
+        "name" : "素之味素食",
+        "address" : "雲林縣斗六市城頂街164號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2011,13 +2160,14 @@
           120.539016,
           23.706541000000001
         ]
-      },
-      "properties" : {
-        "name" : "素之味素食",
-        "address" : "雲林縣斗六市城頂街164號"
       }
     },
     {
+      "id" : "B468500A-4C88-47AC-B302-672FE66F3888",
+      "properties" : {
+        "name" : "菩提籽素膳",
+        "address" : "雲林縣虎尾鎮文化路29號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2025,13 +2175,14 @@
           120.42958299999999,
           23.705044999999998
         ]
-      },
-      "properties" : {
-        "name" : "菩提籽素膳",
-        "address" : "雲林縣虎尾鎮文化路29號"
       }
     },
     {
+      "id" : "1CB6532C-8E9A-42DE-B2E3-31384B1AAFA6",
+      "properties" : {
+        "name" : "全真素食",
+        "address" : "雲林縣斗六市雲林溪攤販市場74號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2039,13 +2190,14 @@
           120.527764,
           23.69726
         ]
-      },
-      "properties" : {
-        "name" : "全真素食",
-        "address" : "雲林縣斗六市雲林溪攤販市場74號"
       }
     },
     {
+      "id" : "1F21C188-A701-4515-B76E-21BE6425B022",
+      "properties" : {
+        "name" : "養德素食",
+        "address" : "雲林縣褒忠鄉中正路137號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2053,13 +2205,14 @@
           120.312147,
           23.694682
         ]
-      },
-      "properties" : {
-        "name" : "養德素食",
-        "address" : "雲林縣褒忠鄉中正路137號"
       }
     },
     {
+      "id" : "50EDCC58-3ADE-40BE-8C3B-93D531238F8B",
+      "properties" : {
+        "name" : "欣素坊 養生蔬食",
+        "address" : "雲林縣斗六市中正路147號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2067,10 +2220,6 @@
           120.544613,
           23.706068999999999
         ]
-      },
-      "properties" : {
-        "name" : "欣素坊 養生蔬食",
-        "address" : "雲林縣斗六市中正路147號"
       }
     }
   ]

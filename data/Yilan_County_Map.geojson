@@ -1,7 +1,13 @@
 {
   "type" : "FeatureCollection",
+  "areaCode" : 206,
   "features" : [
     {
+      "id" : "335BF363-9F0C-4E71-8078-F3C94BBFE935",
+      "properties" : {
+        "name" : "林紀芋園",
+        "address" : "宜蘭縣羅東鎮中山路三段370號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -9,13 +15,14 @@
           121.76659100000001,
           24.675084999999999
         ]
-      },
-      "properties" : {
-        "name" : "林紀芋園",
-        "address" : "宜蘭縣羅東鎮中山路三段370號"
       }
     },
     {
+      "id" : "864060D3-A696-46FF-8874-3AF47F903AEC",
+      "properties" : {
+        "name" : "曼陀羅滴水坊",
+        "address" : "宜蘭縣礁溪鄉林尾路160號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -23,13 +30,14 @@
           121.731903,
           24.817741999999999
         ]
-      },
-      "properties" : {
-        "name" : "曼陀羅滴水坊",
-        "address" : "宜蘭縣礁溪鄉林尾路160號"
       }
     },
     {
+      "id" : "B50075FA-9EE5-48FD-B763-DF6123C2F987",
+      "properties" : {
+        "name" : "有機大地蔬食館",
+        "address" : "宜蘭縣礁溪鄉中山路二段51號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -37,13 +45,14 @@
           121.77206700000001,
           24.824632000000001
         ]
-      },
-      "properties" : {
-        "name" : "有機大地蔬食館",
-        "address" : "宜蘭縣礁溪鄉中山路二段51號"
       }
     },
     {
+      "id" : "B1C454A3-1289-423A-BB51-9E43B8D32E58",
+      "properties" : {
+        "name" : "禪心居",
+        "address" : "宜蘭縣礁溪鄉大忠路14號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -51,13 +60,14 @@
           121.768356,
           24.818878000000002
         ]
-      },
-      "properties" : {
-        "name" : "禪心居",
-        "address" : "宜蘭縣礁溪鄉大忠路14號"
       }
     },
     {
+      "id" : "5432F592-A0F0-4009-9A6A-5D626E2384DA",
+      "properties" : {
+        "name" : "素棧素食館",
+        "address" : "宜蘭縣羅東鎮公正路289號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -65,13 +75,14 @@
           121.76359100000001,
           24.680078000000002
         ]
-      },
-      "properties" : {
-        "name" : "素棧素食館",
-        "address" : "宜蘭縣羅東鎮公正路289號"
       }
     },
     {
+      "id" : "2247F080-8696-4D14-B0A0-919557E2A54B",
+      "properties" : {
+        "name" : "光復傳統豆花",
+        "address" : "宜蘭縣宜蘭市民權新路235號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -79,13 +90,14 @@
           121.7459116,
           24.751831800000001
         ]
-      },
-      "properties" : {
-        "name" : "光復傳統豆花",
-        "address" : "宜蘭縣宜蘭市民權新路235號"
       }
     },
     {
+      "id" : "AFE6D40F-131B-4F0E-82B2-79D387949A6D",
+      "properties" : {
+        "name" : "萬里香素食坊",
+        "address" : "宜蘭縣羅東鎮公正路165號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -93,13 +105,14 @@
           121.7684579,
           24.6788293
         ]
-      },
-      "properties" : {
-        "name" : "萬里香素食坊",
-        "address" : "宜蘭縣羅東鎮公正路165號"
       }
     },
     {
+      "id" : "783BE63F-DAA0-4F5A-8FD8-FA8B93D55334",
+      "properties" : {
+        "name" : "吉美素食",
+        "address" : "宜蘭縣冬山鄉義成路三段397號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -107,13 +120,14 @@
           121.767861,
           24.667096999999998
         ]
-      },
-      "properties" : {
-        "name" : "吉美素食",
-        "address" : "宜蘭縣冬山鄉義成路三段397號"
       }
     },
     {
+      "id" : "493187D6-ECCE-43B9-8D9A-FE93BADAD4A8",
+      "properties" : {
+        "name" : "四方素食店",
+        "address" : "宜蘭縣員山鄉員山路一段76-5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -121,13 +135,14 @@
           121.72948,
           24.747351999999999
         ]
-      },
-      "properties" : {
-        "name" : "四方素食店",
-        "address" : "宜蘭縣員山鄉員山路一段76-5號"
       }
     },
     {
+      "id" : "035A065A-5DA1-41CE-8174-BAD271544AB8",
+      "properties" : {
+        "name" : "法緣素食",
+        "address" : "宜蘭縣羅東鎮長春路63號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -135,13 +150,14 @@
           121.77058700000001,
           24.678211000000001
         ]
-      },
-      "properties" : {
-        "name" : "法緣素食",
-        "address" : "宜蘭縣羅東鎮長春路63號"
       }
     },
     {
+      "id" : "9B3BA961-9A53-4F22-9F70-4E2D7B16F47D",
+      "properties" : {
+        "name" : "玉林素食",
+        "address" : "宜蘭縣羅東鎮公正路507號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -149,13 +165,14 @@
           121.757739,
           24.679945
         ]
-      },
-      "properties" : {
-        "name" : "玉林素食",
-        "address" : "宜蘭縣羅東鎮公正路507號"
       }
     },
     {
+      "id" : "510FEC66-CED3-416C-8C79-3C4A486A204A",
+      "properties" : {
+        "name" : "張媽媽素食",
+        "address" : "宜蘭縣羅東鎮民生路89號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -163,13 +180,14 @@
           121.76649999999999,
           24.677683999999999
         ]
-      },
-      "properties" : {
-        "name" : "張媽媽素食",
-        "address" : "宜蘭縣羅東鎮民生路89號"
       }
     },
     {
+      "id" : "EEFCB74D-D0A5-452D-B556-0B876977EF40",
+      "properties" : {
+        "name" : "蔬杏堂蔬食複合式餐飲",
+        "address" : "宜蘭縣礁溪鄉礁溪路五段168號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -177,13 +195,14 @@
           121.774113,
           24.828634000000001
         ]
-      },
-      "properties" : {
-        "name" : "蔬杏堂蔬食複合式餐飲",
-        "address" : "宜蘭縣礁溪鄉礁溪路五段168號"
       }
     },
     {
+      "id" : "EF59E740-DB4D-4C61-9635-B7B3E6864F28",
+      "properties" : {
+        "name" : "綠活小舖",
+        "address" : "宜蘭縣礁溪鄉礁溪路一段306號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -191,13 +210,14 @@
           121.7621542,
           24.789779100000001
         ]
-      },
-      "properties" : {
-        "name" : "綠活小舖",
-        "address" : "宜蘭縣礁溪鄉礁溪路一段306號"
       }
     },
     {
+      "id" : "3615CFC0-686D-459E-B11F-352F329B0DF6",
+      "properties" : {
+        "name" : "興德素食餐廳",
+        "address" : "宜蘭縣羅東鎮民生路110號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -205,13 +225,14 @@
           121.76734449999999,
           24.677638600000002
         ]
-      },
-      "properties" : {
-        "name" : "興德素食餐廳",
-        "address" : "宜蘭縣羅東鎮民生路110號"
       }
     },
     {
+      "id" : "677161FD-FE78-44FF-8A3A-B16BEE02993E",
+      "properties" : {
+        "name" : "如是我聞",
+        "address" : "宜蘭縣羅東鎮中山路三段257號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -219,13 +240,14 @@
           121.767786,
           24.675142999999998
         ]
-      },
-      "properties" : {
-        "name" : "如是我聞",
-        "address" : "宜蘭縣羅東鎮中山路三段257號"
       }
     },
     {
+      "id" : "49204A43-10A2-466A-BF4D-B3CEB1BB689E",
+      "properties" : {
+        "name" : "蔬泰鄉",
+        "address" : "宜蘭縣羅東鎮純精路一段19號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -233,13 +255,14 @@
           121.765962,
           24.668900000000001
         ]
-      },
-      "properties" : {
-        "name" : "蔬泰鄉",
-        "address" : "宜蘭縣羅東鎮純精路一段19號"
       }
     },
     {
+      "id" : "1EA1CE1B-D779-4E9D-8002-B8AD28B1C741",
+      "properties" : {
+        "name" : "連香齋坊",
+        "address" : "宜蘭縣宜蘭市民族路120號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -247,13 +270,14 @@
           121.75078449999999,
           24.752927199999998
         ]
-      },
-      "properties" : {
-        "name" : "連香齋坊",
-        "address" : "宜蘭縣宜蘭市民族路120號"
       }
     },
     {
+      "id" : "EF07799E-C7E2-447D-A0E7-4C17BEC872DB",
+      "properties" : {
+        "name" : "Loving Hut",
+        "address" : "宜蘭縣羅東鎮倉前路93號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -261,13 +285,14 @@
           121.76888099999999,
           24.680903000000001
         ]
-      },
-      "properties" : {
-        "name" : "Loving Hut",
-        "address" : "宜蘭縣羅東鎮倉前路93號"
       }
     },
     {
+      "id" : "B04833BC-7475-47AD-A54B-EB47397B7ADE",
+      "properties" : {
+        "name" : "在田一方",
+        "address" : "宜蘭縣員山鄉賢德路1段88巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -275,13 +300,14 @@
           121.73333,
           24.7194
         ]
-      },
-      "properties" : {
-        "name" : "在田一方",
-        "address" : "宜蘭縣員山鄉賢德路1段88巷1號"
       }
     },
     {
+      "id" : "3A847CC7-33E7-41C8-8995-7C5704BF0FFC",
+      "properties" : {
+        "name" : "綠野仙蹤休閒農場",
+        "address" : "宜蘭縣冬山鄉中山三路65號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -289,13 +315,14 @@
           121.78993800000001,
           24.635390000000001
         ]
-      },
-      "properties" : {
-        "name" : "綠野仙蹤休閒農場",
-        "address" : "宜蘭縣冬山鄉中山三路65號"
       }
     },
     {
+      "id" : "DFF81761-5F8D-460C-AD8B-6F0EC3C286AA",
+      "properties" : {
+        "name" : "脆皮甜玉米",
+        "address" : "宜蘭縣羅東鎮公園路140號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -303,13 +330,14 @@
           121.76949,
           24.676169999999999
         ]
-      },
-      "properties" : {
-        "name" : "脆皮甜玉米",
-        "address" : "宜蘭縣羅東鎮公園路140號"
       }
     },
     {
+      "id" : "45516E1A-FEEA-400C-B9FB-2FA9BDA351F6",
+      "properties" : {
+        "name" : "心悅齋素食館",
+        "address" : "宜蘭縣羅東鎮中山路四段383號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -317,13 +345,14 @@
           121.75390400000001,
           24.671444999999999
         ]
-      },
-      "properties" : {
-        "name" : "心悅齋素食館",
-        "address" : "宜蘭縣羅東鎮中山路四段383號"
       }
     },
     {
+      "id" : "B548BD03-1F83-4864-8A69-16ADF11814DE",
+      "properties" : {
+        "name" : "天心素食早餐",
+        "address" : "宜蘭縣宜蘭市健康路一段139號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -331,13 +360,14 @@
           121.75271600000001,
           24.744016999999999
         ]
-      },
-      "properties" : {
-        "name" : "天心素食早餐",
-        "address" : "宜蘭縣宜蘭市健康路一段139號"
       }
     },
     {
+      "id" : "2CA55011-C53D-4D3E-A801-983FA90EA27A",
+      "properties" : {
+        "name" : "天然有素",
+        "address" : "宜蘭縣宜蘭市武營街38號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -345,13 +375,14 @@
           121.751296,
           24.756997999999999
         ]
-      },
-      "properties" : {
-        "name" : "天然有素",
-        "address" : "宜蘭縣宜蘭市武營街38號"
       }
     },
     {
+      "id" : "07ECFAC1-1304-4381-BAEB-D5CB598C1A41",
+      "properties" : {
+        "name" : "N29 健康管家婆",
+        "address" : "宜蘭縣羅東鎮中正路29號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -359,13 +390,14 @@
           121.7704617,
           24.673398500000001
         ]
-      },
-      "properties" : {
-        "name" : "N29 健康管家婆",
-        "address" : "宜蘭縣羅東鎮中正路29號"
       }
     },
     {
+      "id" : "652B300F-D87F-4298-81BD-980364F25C0E",
+      "properties" : {
+        "name" : "冰家之地",
+        "address" : "宜蘭縣羅東鎮公正路262號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -373,13 +405,14 @@
           121.76593800000001,
           24.679756999999999
         ]
-      },
-      "properties" : {
-        "name" : "冰家之地",
-        "address" : "宜蘭縣羅東鎮公正路262號"
       }
     },
     {
+      "id" : "B9857456-93A2-40C8-8A88-FC1E1B38B6C0",
+      "properties" : {
+        "name" : "禪心蔬食館",
+        "address" : "宜蘭縣羅東鎮公正路289-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -387,13 +420,14 @@
           121.76359100000001,
           24.680078000000002
         ]
-      },
-      "properties" : {
-        "name" : "禪心蔬食館",
-        "address" : "宜蘭縣羅東鎮公正路289-3號"
       }
     },
     {
+      "id" : "6D9D2823-C6AA-4776-9E88-4AE7A07F63C8",
+      "properties" : {
+        "name" : "夢想成真 養生蔬果餐＆櫻之宿",
+        "address" : "宜蘭縣三星鄉上將路一段368號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -401,13 +435,14 @@
           121.74319199999999,
           24.701333000000002
         ]
-      },
-      "properties" : {
-        "name" : "夢想成真 養生蔬果餐＆櫻之宿",
-        "address" : "宜蘭縣三星鄉上將路一段368號"
       }
     },
     {
+      "id" : "39208FB1-9DC3-463C-AF08-C51747DEFB5A",
+      "properties" : {
+        "name" : "禾怡御食堂",
+        "address" : "宜蘭縣羅東鎮公園路156號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -415,13 +450,14 @@
           121.769682,
           24.676483999999999
         ]
-      },
-      "properties" : {
-        "name" : "禾怡御食堂",
-        "address" : "宜蘭縣羅東鎮公園路156號"
       }
     },
     {
+      "id" : "72B89941-5BFB-40F3-9E4B-F422FF6AF03A",
+      "properties" : {
+        "name" : "胤珍園素食餐坊",
+        "address" : "宜蘭縣羅東鎮光榮路36號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -429,13 +465,14 @@
           121.77789420000001,
           24.6697658
         ]
-      },
-      "properties" : {
-        "name" : "胤珍園素食餐坊",
-        "address" : "宜蘭縣羅東鎮光榮路36號"
       }
     },
     {
+      "id" : "B7E9E25B-3DD8-403C-8417-3407F5E40139",
+      "properties" : {
+        "name" : "莊師傅蔬食專賣店",
+        "address" : "宜蘭縣宜蘭市聖後街24號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -443,13 +480,14 @@
           121.758223,
           24.758362000000002
         ]
-      },
-      "properties" : {
-        "name" : "莊師傅蔬食專賣店",
-        "address" : "宜蘭縣宜蘭市聖後街24號"
       }
     },
     {
+      "id" : "CDB4F3A9-7A51-4D8F-95E1-CFC33071F2CD",
+      "properties" : {
+        "name" : "源味養生早餐",
+        "address" : "宜蘭縣蘇澳鎮大同路119號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -457,13 +495,14 @@
           121.83419000000001,
           24.622402999999998
         ]
-      },
-      "properties" : {
-        "name" : "源味養生早餐",
-        "address" : "宜蘭縣蘇澳鎮大同路119號"
       }
     },
     {
+      "id" : "F9CA933B-63CA-4181-B414-0A2110080924",
+      "properties" : {
+        "name" : "素來興健康店",
+        "address" : "宜蘭縣羅東鎮清潭路148巷9號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -471,13 +510,14 @@
           121.770696,
           24.672803999999999
         ]
-      },
-      "properties" : {
-        "name" : "素來興健康店",
-        "address" : "宜蘭縣羅東鎮清潭路148巷9號"
       }
     },
     {
+      "id" : "468D5D1E-7AD6-4AE5-AF9E-99FA3BDD09B8",
+      "properties" : {
+        "name" : "野夫咖啡 ",
+        "address" : "宜蘭縣宜蘭市泰山路民族二巷1-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -485,13 +525,14 @@
           121.7320498,
           24.7482638
         ]
-      },
-      "properties" : {
-        "name" : "野夫咖啡 ",
-        "address" : "宜蘭縣宜蘭市泰山路民族二巷1-1號"
       }
     },
     {
+      "id" : "DDE83D64-8264-4E35-A42A-B305DD996A89",
+      "properties" : {
+        "name" : "慈心素食",
+        "address" : "宜蘭縣羅東鎮忠孝路110號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -499,13 +540,14 @@
           121.765553,
           24.677842999999999
         ]
-      },
-      "properties" : {
-        "name" : "慈心素食",
-        "address" : "宜蘭縣羅東鎮忠孝路110號"
       }
     },
     {
+      "id" : "CA349F15-32DE-41E6-A5E1-2604468EA7D9",
+      "properties" : {
+        "name" : "慈母素食館",
+        "address" : "宜蘭縣蘇澳鎮聖湖路23號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -513,13 +555,14 @@
           121.8339058,
           24.597808199999999
         ]
-      },
-      "properties" : {
-        "name" : "慈母素食館",
-        "address" : "宜蘭縣蘇澳鎮聖湖路23號"
       }
     },
     {
+      "id" : "24A7EDD2-F247-494E-A8ED-06606B9884DD",
+      "properties" : {
+        "name" : "珍素堡 Jane's burger",
+        "address" : "宜蘭縣宜蘭市新民路20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -527,13 +570,14 @@
           121.7576621,
           24.756481999999998
         ]
-      },
-      "properties" : {
-        "name" : "珍素堡 Jane's burger",
-        "address" : "宜蘭縣宜蘭市新民路20號"
       }
     },
     {
+      "id" : "5C8832EC-1E33-4A20-ACC1-C88B1ED0E12D",
+      "properties" : {
+        "name" : "杏鮑菇",
+        "address" : "宜蘭縣羅東鎮公園路140號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -541,13 +585,14 @@
           121.76949,
           24.676169999999999
         ]
-      },
-      "properties" : {
-        "name" : "杏鮑菇",
-        "address" : "宜蘭縣羅東鎮公園路140號"
       }
     },
     {
+      "id" : "E39F0D15-934A-48B9-8FE9-407DC6EADD65",
+      "properties" : {
+        "name" : "滿足巧食屋",
+        "address" : "宜蘭縣羅東鎮中山路四段189號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -555,13 +600,14 @@
           121.759553,
           24.673289
         ]
-      },
-      "properties" : {
-        "name" : "滿足巧食屋",
-        "address" : "宜蘭縣羅東鎮中山路四段189號"
       }
     },
     {
+      "id" : "4798C463-611D-4054-B181-9B4FE1B91972",
+      "properties" : {
+        "name" : "吟芳素食麵包坊",
+        "address" : "宜蘭縣宜蘭市嵐峰路一段108號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -569,13 +615,14 @@
           121.753185,
           24.742678999999999
         ]
-      },
-      "properties" : {
-        "name" : "吟芳素食麵包坊",
-        "address" : "宜蘭縣宜蘭市嵐峰路一段108號"
       }
     },
     {
+      "id" : "AC9F18CB-421D-4F77-A2B6-45F20AE39088",
+      "properties" : {
+        "name" : "結緣素食館",
+        "address" : "宜蘭縣五結鄉五結路二段277號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -583,13 +630,14 @@
           121.80094200000001,
           24.686124
         ]
-      },
-      "properties" : {
-        "name" : "結緣素食館",
-        "address" : "宜蘭縣五結鄉五結路二段277號"
       }
     },
     {
+      "id" : "16815683-489A-4FBF-928E-937CFAB6A6B6",
+      "properties" : {
+        "name" : "織綺素食便當坊",
+        "address" : "宜蘭縣冬山鄉永安路328巷23號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -597,13 +645,14 @@
           121.76593699999999,
           24.663543000000001
         ]
-      },
-      "properties" : {
-        "name" : "織綺素食便當坊",
-        "address" : "宜蘭縣冬山鄉永安路328巷23號"
       }
     },
     {
+      "id" : "A48CAD94-280B-4F1B-9C2D-258307C17CF2",
+      "properties" : {
+        "name" : "口福素食",
+        "address" : "宜蘭縣羅東鎮培英路55號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -611,13 +660,14 @@
           121.761864,
           24.677294
         ]
-      },
-      "properties" : {
-        "name" : "口福素食",
-        "address" : "宜蘭縣羅東鎮培英路55號"
       }
     },
     {
+      "id" : "20228FE2-BAC3-4156-B095-8B2B2936C75F",
+      "properties" : {
+        "name" : "如意齋素食館",
+        "address" : "宜蘭縣礁溪鄉中山路1段121號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -625,13 +675,14 @@
           121.77028799999999,
           24.819617999999998
         ]
-      },
-      "properties" : {
-        "name" : "如意齋素食館",
-        "address" : "宜蘭縣礁溪鄉中山路1段121號"
       }
     },
     {
+      "id" : "83783218-68D9-4A78-A573-4E56D8A60442",
+      "properties" : {
+        "name" : "車輪餅",
+        "address" : "宜蘭縣冬山鄉大埤路40號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -639,13 +690,14 @@
           121.731202,
           24.645813
         ]
-      },
-      "properties" : {
-        "name" : "車輪餅",
-        "address" : "宜蘭縣冬山鄉大埤路40號"
       }
     },
     {
+      "id" : "71815E96-02EF-4479-B013-780753FC3651",
+      "properties" : {
+        "name" : "校舍素食",
+        "address" : "宜蘭縣宜蘭市校舍路29巷107弄52號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -653,13 +705,14 @@
           121.7626994,
           24.7309801
         ]
-      },
-      "properties" : {
-        "name" : "校舍素食",
-        "address" : "宜蘭縣宜蘭市校舍路29巷107弄52號"
       }
     },
     {
+      "id" : "9291F974-B2D3-4646-9952-366036161589",
+      "properties" : {
+        "name" : "青果果 咖啡｛蔬｝食堂",
+        "address" : "宜蘭縣礁溪鄉奇峰街4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -667,13 +720,14 @@
           121.765952,
           24.822232
         ]
-      },
-      "properties" : {
-        "name" : "青果果 咖啡｛蔬｝食堂",
-        "address" : "宜蘭縣礁溪鄉奇峰街4號"
       }
     },
     {
+      "id" : "867393E1-44FB-4575-B4AE-375081FF5CDE",
+      "properties" : {
+        "name" : "心名素食快炒",
+        "address" : "宜蘭縣羅東鎮民權路38號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -681,13 +735,14 @@
           121.77047899999999,
           24.675405999999999
         ]
-      },
-      "properties" : {
-        "name" : "心名素食快炒",
-        "address" : "宜蘭縣羅東鎮民權路38號"
       }
     },
     {
+      "id" : "2D934D77-CF9A-4802-95FA-BD33BDA44FF7",
+      "properties" : {
+        "name" : "頂天素食烘培坊",
+        "address" : "宜蘭縣羅東鎮文化街80號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -695,13 +750,14 @@
           121.770145,
           24.671453
         ]
-      },
-      "properties" : {
-        "name" : "頂天素食烘培坊",
-        "address" : "宜蘭縣羅東鎮文化街80號"
       }
     },
     {
+      "id" : "5339F6B0-51D0-4D12-B2BF-4C27E7D9485C",
+      "properties" : {
+        "name" : "蓮緣素食餐館",
+        "address" : "宜蘭縣五結鄉隆昌路1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -709,13 +765,14 @@
           121.77042299999999,
           24.691053
         ]
-      },
-      "properties" : {
-        "name" : "蓮緣素食餐館",
-        "address" : "宜蘭縣五結鄉隆昌路1號"
       }
     },
     {
+      "id" : "9A4F91F4-D2D8-4151-9A48-3058BD2C79E6",
+      "properties" : {
+        "name" : "QQ香 茶葉蛋 豆干",
+        "address" : "宜蘭縣羅東鎮興東路25號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -723,13 +780,14 @@
           121.76771599999999,
           24.675957
         ]
-      },
-      "properties" : {
-        "name" : "QQ香 茶葉蛋 豆干",
-        "address" : "宜蘭縣羅東鎮興東路25號"
       }
     },
     {
+      "id" : "8000E10E-F834-45E0-9695-BA3473BBA54D",
+      "properties" : {
+        "name" : "春記麥芽酥",
+        "address" : "宜蘭縣冬山鄉大進路450號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -737,13 +795,14 @@
           121.71301200000001,
           24.633206999999999
         ]
-      },
-      "properties" : {
-        "name" : "春記麥芽酥",
-        "address" : "宜蘭縣冬山鄉大進路450號"
       }
     },
     {
+      "id" : "1493D7E1-6F81-47A0-91B2-007343A6CFB7",
+      "properties" : {
+        "name" : "宜蘭北門尚好素食早餐店",
+        "address" : "宜蘭縣宜蘭市舊城北路125號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -751,13 +810,14 @@
           121.75393699999999,
           24.760197000000002
         ]
-      },
-      "properties" : {
-        "name" : "宜蘭北門尚好素食早餐店",
-        "address" : "宜蘭縣宜蘭市舊城北路125號"
       }
     },
     {
+      "id" : "8D1737D5-0F46-4927-840A-60C07D57B058",
+      "properties" : {
+        "name" : "美亞蔬食早午餐",
+        "address" : "宜蘭縣頭城鎮纘祥路58號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -765,13 +825,14 @@
           121.82286499999999,
           24.858284000000001
         ]
-      },
-      "properties" : {
-        "name" : "美亞蔬食早午餐",
-        "address" : "宜蘭縣頭城鎮纘祥路58號"
       }
     },
     {
+      "id" : "7E334687-4BF5-4527-8A2F-4FCB158F975C",
+      "properties" : {
+        "name" : "沐思膳食坊",
+        "address" : "宜蘭縣礁溪鄉礁溪路六段133巷1-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -779,13 +840,14 @@
           121.7813949,
           24.8352726
         ]
-      },
-      "properties" : {
-        "name" : "沐思膳食坊",
-        "address" : "宜蘭縣礁溪鄉礁溪路六段133巷1-1號"
       }
     },
     {
+      "id" : "A24463AE-B4F8-4A91-9FF0-0C0CDCFB3BCB",
+      "properties" : {
+        "name" : "哈佛素食",
+        "address" : "宜蘭縣羅東鎮南昌街51-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -793,13 +855,14 @@
           121.77378899999999,
           24.672125999999999
         ]
-      },
-      "properties" : {
-        "name" : "哈佛素食",
-        "address" : "宜蘭縣羅東鎮南昌街51-1號"
       }
     },
     {
+      "id" : "D3FEC177-6922-4200-B305-DD2B953C4942",
+      "properties" : {
+        "name" : "三星老爹蔬食",
+        "address" : "宜蘭縣羅東鎮興東南路236號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -807,13 +870,14 @@
           121.76748000000001,
           24.674538999999999
         ]
-      },
-      "properties" : {
-        "name" : "三星老爹蔬食",
-        "address" : "宜蘭縣羅東鎮興東南路236號"
       }
     },
     {
+      "id" : "5244C53A-B817-44C2-B1F6-5691E2BC393E",
+      "properties" : {
+        "name" : "布籽事鬆餅\/故事咖啡簡餐",
+        "address" : "宜蘭縣蘇澳鎮中山路一段34號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -821,13 +885,14 @@
           121.852305,
           24.596201000000001
         ]
-      },
-      "properties" : {
-        "name" : "布籽事鬆餅\/故事咖啡簡餐",
-        "address" : "宜蘭縣蘇澳鎮中山路一段34號"
       }
     },
     {
+      "id" : "81E13994-F67F-4A5C-A718-D12183EC4339",
+      "properties" : {
+        "name" : "上香蓮花 素食之家",
+        "address" : "宜蘭縣頭城鎮城北里禶祥路70號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -835,13 +900,14 @@
           121.881362,
           24.915161000000001
         ]
-      },
-      "properties" : {
-        "name" : "上香蓮花 素食之家",
-        "address" : "宜蘭縣頭城鎮城北里禶祥路70號"
       }
     },
     {
+      "id" : "BA563A50-E1D2-4A16-A0CC-2C34070D6C7F",
+      "properties" : {
+        "name" : "素之緣",
+        "address" : "宜蘭縣羅東鎮和平路11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -849,13 +915,14 @@
           121.765911,
           24.692307
         ]
-      },
-      "properties" : {
-        "name" : "素之緣",
-        "address" : "宜蘭縣羅東鎮和平路11號"
       }
     },
     {
+      "id" : "8D905EA6-9550-4464-9E35-AD6CC39AEA0E",
+      "properties" : {
+        "name" : "蓮香素食",
+        "address" : "宜蘭縣羅東鎮復興路二段148號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -863,13 +930,14 @@
           121.765456,
           24.689021
         ]
-      },
-      "properties" : {
-        "name" : "蓮香素食",
-        "address" : "宜蘭縣羅東鎮復興路二段148號"
       }
     },
     {
+      "id" : "536D4052-2239-43DE-A646-1CBBB639D929",
+      "properties" : {
+        "name" : "一簞食 - 蔬食x生活",
+        "address" : "宜蘭縣宜蘭市進士路101號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -877,13 +945,14 @@
           121.747281,
           24.742972999999999
         ]
-      },
-      "properties" : {
-        "name" : "一簞食 - 蔬食x生活",
-        "address" : "宜蘭縣宜蘭市進士路101號"
       }
     },
     {
+      "id" : "D50D1FF8-911B-4307-A78A-9E9F1C23CFAF",
+      "properties" : {
+        "name" : "劉記花生",
+        "address" : "宜蘭縣冬山鄉大進路466號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -891,13 +960,14 @@
           121.712806,
           24.632874000000001
         ]
-      },
-      "properties" : {
-        "name" : "劉記花生",
-        "address" : "宜蘭縣冬山鄉大進路466號"
       }
     },
     {
+      "id" : "82FB6A6B-C980-4874-A98E-E465F57A9912",
+      "properties" : {
+        "name" : "愛家國際餐飲 松風吟&吳伯伯素食",
+        "address" : "宜蘭縣宜蘭市中山路三段333號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -905,13 +975,14 @@
           121.75443799999999,
           24.763822999999999
         ]
-      },
-      "properties" : {
-        "name" : "愛家國際餐飲 松風吟&吳伯伯素食",
-        "address" : "宜蘭縣宜蘭市中山路三段333號"
       }
     },
     {
+      "id" : "DFD11A7C-2E6C-4DDC-AFE9-11A5B4E1C6B8",
+      "properties" : {
+        "name" : "人間擺渡素食簡餐",
+        "address" : "宜蘭縣羅東鎮建國街12號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -919,13 +990,14 @@
           121.75872200000001,
           24.676448000000001
         ]
-      },
-      "properties" : {
-        "name" : "人間擺渡素食簡餐",
-        "address" : "宜蘭縣羅東鎮建國街12號"
       }
     },
     {
+      "id" : "98074BD4-9CF1-4776-9BBA-439A12D74087",
+      "properties" : {
+        "name" : "魏姐包心粉圓專賣店",
+        "address" : "宜蘭縣礁溪鄉礁溪路五段35號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -933,13 +1005,14 @@
           121.77146500000001,
           24.826485000000002
         ]
-      },
-      "properties" : {
-        "name" : "魏姐包心粉圓專賣店",
-        "address" : "宜蘭縣礁溪鄉礁溪路五段35號"
       }
     },
     {
+      "id" : "28FFEDEF-853C-445B-B2A8-5DEF4EB04407",
+      "properties" : {
+        "name" : "蓮花瓣蔬食養生坊",
+        "address" : "宜蘭縣羅東鎮復興路一段91號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -947,13 +1020,14 @@
           121.768765,
           24.682524000000001
         ]
-      },
-      "properties" : {
-        "name" : "蓮花瓣蔬食養生坊",
-        "address" : "宜蘭縣羅東鎮復興路一段91號"
       }
     },
     {
+      "id" : "230758F9-48BC-4FAF-91FB-9FA27A61F036",
+      "properties" : {
+        "name" : "越南素食成玉",
+        "address" : "宜蘭縣宜蘭市中興路346號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -961,13 +1035,14 @@
           121.7628086,
           24.7569169
         ]
-      },
-      "properties" : {
-        "name" : "越南素食成玉",
-        "address" : "宜蘭縣宜蘭市中興路346號"
       }
     },
     {
+      "id" : "4C11E0F7-165F-405D-8113-DC6FD8D134D6",
+      "properties" : {
+        "name" : "純素早點",
+        "address" : "宜蘭縣宜蘭市泰山路24號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -975,13 +1050,14 @@
           121.7486421,
           24.755431300000001
         ]
-      },
-      "properties" : {
-        "name" : "純素早點",
-        "address" : "宜蘭縣宜蘭市泰山路24號"
       }
     },
     {
+      "id" : "6A5628CC-9366-45D8-9D87-9AD24557026F",
+      "properties" : {
+        "name" : "Loving Hut ",
+        "address" : "宜蘭縣宜蘭市泰山路14號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -989,13 +1065,14 @@
           121.74886290000001,
           24.7556066
         ]
-      },
-      "properties" : {
-        "name" : "Loving Hut ",
-        "address" : "宜蘭縣宜蘭市泰山路14號"
       }
     },
     {
+      "id" : "62CD6623-24B9-42CF-B15F-ECF6D38B8166",
+      "properties" : {
+        "name" : "遇見幸福",
+        "address" : "宜蘭縣羅東鎮南英巷6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1003,13 +1080,14 @@
           121.76956,
           24.669429999999998
         ]
-      },
-      "properties" : {
-        "name" : "遇見幸福",
-        "address" : "宜蘭縣羅東鎮南英巷6號"
       }
     },
     {
+      "id" : "6AC44C68-5B60-448E-81F7-B39C310EC162",
+      "properties" : {
+        "name" : "順好素食",
+        "address" : "宜蘭縣羅東鎮民權路105號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1017,13 +1095,14 @@
           121.768522,
           24.675737000000002
         ]
-      },
-      "properties" : {
-        "name" : "順好素食",
-        "address" : "宜蘭縣羅東鎮民權路105號"
       }
     },
     {
+      "id" : "82555E5F-5E4F-405D-AD59-313BBE9A241A",
+      "properties" : {
+        "name" : "全味香素食",
+        "address" : "宜蘭縣羅東鎮民生路6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1031,13 +1110,14 @@
           121.77091799999999,
           24.676801999999999
         ]
-      },
-      "properties" : {
-        "name" : "全味香素食",
-        "address" : "宜蘭縣羅東鎮民生路6號"
       }
     },
     {
+      "id" : "DDD057CC-9C4D-4105-BCF3-A622E9C0A3C7",
+      "properties" : {
+        "name" : "千千素食館",
+        "address" : "宜蘭縣宜蘭市民權路二段7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1045,13 +1125,14 @@
           121.7510887,
           24.753119900000002
         ]
-      },
-      "properties" : {
-        "name" : "千千素食館",
-        "address" : "宜蘭縣宜蘭市民權路二段7號"
       }
     },
     {
+      "id" : "A4F1BFDD-DD2A-454A-A390-EFE12DF4A927",
+      "properties" : {
+        "name" : "阿壽伯古早手工食品",
+        "address" : "宜蘭縣頭城鎮城北里西4巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1059,13 +1140,14 @@
           121.881362,
           24.915161000000001
         ]
-      },
-      "properties" : {
-        "name" : "阿壽伯古早手工食品",
-        "address" : "宜蘭縣頭城鎮城北里西4巷1號"
       }
     },
     {
+      "id" : "10AB08CA-7F03-461D-926D-2567C11A6630",
+      "properties" : {
+        "name" : "魏姐包心粉圓專賣店",
+        "address" : "宜蘭縣宜蘭市民權路二段38巷6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1073,13 +1155,14 @@
           121.75002619999999,
           24.754375599999999
         ]
-      },
-      "properties" : {
-        "name" : "魏姐包心粉圓專賣店",
-        "address" : "宜蘭縣宜蘭市民權路二段38巷6號"
       }
     },
     {
+      "id" : "D1EC65A9-1BB3-46D3-8B04-01DA19085BA4",
+      "properties" : {
+        "name" : "和平豆花",
+        "address" : "宜蘭縣羅東鎮民生路130號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1087,13 +1170,14 @@
           121.766954,
           24.677757
         ]
-      },
-      "properties" : {
-        "name" : "和平豆花",
-        "address" : "宜蘭縣羅東鎮民生路130號"
       }
     },
     {
+      "id" : "23A13DB1-9DA9-4D0C-97DC-0DE9528358B3",
+      "properties" : {
+        "name" : "沐思膳食坊",
+        "address" : "宜蘭縣宜蘭市嵐峰路一段338號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1101,13 +1185,14 @@
           121.747049,
           24.742049999999999
         ]
-      },
-      "properties" : {
-        "name" : "沐思膳食坊",
-        "address" : "宜蘭縣宜蘭市嵐峰路一段338號"
       }
     },
     {
+      "id" : "9B17CAA2-67D4-499A-A7F8-FFE94179F275",
+      "properties" : {
+        "name" : "淨水琉璃食藝料理",
+        "address" : "宜蘭縣礁溪鄉淇武蘭路97-9號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1115,13 +1200,14 @@
           121.78359399999999,
           24.807672
         ]
-      },
-      "properties" : {
-        "name" : "淨水琉璃食藝料理",
-        "address" : "宜蘭縣礁溪鄉淇武蘭路97-9號"
       }
     },
     {
+      "id" : "C4D0D1B0-C99A-482A-AADE-1B1556A848B2",
+      "properties" : {
+        "name" : "魏姐包心粉圓專賣店",
+        "address" : "宜蘭縣五結鄉五濱路二段201號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1129,13 +1215,14 @@
           121.82544900000001,
           24.687802000000001
         ]
-      },
-      "properties" : {
-        "name" : "魏姐包心粉圓專賣店",
-        "address" : "宜蘭縣五結鄉五濱路二段201號"
       }
     },
     {
+      "id" : "C2162FCE-C33B-4D12-A2E6-1D419F105B05",
+      "properties" : {
+        "name" : "素義風味坊",
+        "address" : "宜蘭縣宜蘭市光復路79-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1143,13 +1230,14 @@
           121.754176,
           24.755376999999999
         ]
-      },
-      "properties" : {
-        "name" : "素義風味坊",
-        "address" : "宜蘭縣宜蘭市光復路79-1號"
       }
     },
     {
+      "id" : "3E6BCB40-F153-4525-AC99-BE38CF404E27",
+      "properties" : {
+        "name" : "健康素鹽酥G",
+        "address" : "宜蘭縣宜蘭市聖後街24號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1157,13 +1245,14 @@
           121.758223,
           24.758362000000002
         ]
-      },
-      "properties" : {
-        "name" : "健康素鹽酥G",
-        "address" : "宜蘭縣宜蘭市聖後街24號"
       }
     },
     {
+      "id" : "BF448128-5C92-41B8-B81D-5B38BAFEEA0E",
+      "properties" : {
+        "name" : "堅果奶,吧",
+        "address" : "宜蘭縣宜蘭市神農路一段5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1171,13 +1260,14 @@
           121.749351,
           24.747067000000001
         ]
-      },
-      "properties" : {
-        "name" : "堅果奶,吧",
-        "address" : "宜蘭縣宜蘭市神農路一段5號"
       }
     },
     {
+      "id" : "F60B5863-3B90-4CE9-86CA-6F42123DA4AD",
+      "properties" : {
+        "name" : "黃媽媽手作食堂來見麵",
+        "address" : "宜蘭縣羅東鎮中山路三段56號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1185,13 +1275,14 @@
           121.773214,
           24.674752999999999
         ]
-      },
-      "properties" : {
-        "name" : "黃媽媽手作食堂來見麵",
-        "address" : "宜蘭縣羅東鎮中山路三段56號"
       }
     },
     {
+      "id" : "2C7F1ED6-935C-45DF-B655-A190FCFEB3BE",
+      "properties" : {
+        "name" : "鴻德素食館",
+        "address" : "宜蘭縣宜蘭市和睦路2-51號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1199,13 +1290,14 @@
           121.75707300000001,
           24.757061
         ]
-      },
-      "properties" : {
-        "name" : "鴻德素食館",
-        "address" : "宜蘭縣宜蘭市和睦路2-51號"
       }
     },
     {
+      "id" : "272781DD-017A-4BCA-A680-6B26EC2BA505",
+      "properties" : {
+        "name" : "和平豆花 ",
+        "address" : "宜蘭縣羅東鎮中山路三段109號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1213,13 +1305,14 @@
           121.77159399999999,
           24.674477
         ]
-      },
-      "properties" : {
-        "name" : "和平豆花 ",
-        "address" : "宜蘭縣羅東鎮中山路三段109號"
       }
     },
     {
+      "id" : "AB658EF3-7089-4715-83DF-9A4CFE8AB37C",
+      "properties" : {
+        "name" : "雲天自助餐廳",
+        "address" : "宜蘭縣礁溪鄉大中村五峰路69號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1227,13 +1320,14 @@
           121.755718,
           24.827905000000001
         ]
-      },
-      "properties" : {
-        "name" : "雲天自助餐廳",
-        "address" : "宜蘭縣礁溪鄉大中村五峰路69號"
       }
     },
     {
+      "id" : "52470801-4FF3-4FDF-BE25-1E32D95BC421",
+      "properties" : {
+        "name" : "香聚蔬食咖啡館",
+        "address" : "宜蘭縣宜蘭市宜中路67號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1241,13 +1335,14 @@
           121.742547,
           24.746680000000001
         ]
-      },
-      "properties" : {
-        "name" : "香聚蔬食咖啡館",
-        "address" : "宜蘭縣宜蘭市宜中路67號"
       }
     },
     {
+      "id" : "6FE29F91-4C6C-44DD-92E9-8F778B1F4B3A",
+      "properties" : {
+        "name" : "北成素食",
+        "address" : "宜蘭縣羅東鎮四育路35號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1255,13 +1350,14 @@
           121.75964399999999,
           24.676867000000001
         ]
-      },
-      "properties" : {
-        "name" : "北成素食",
-        "address" : "宜蘭縣羅東鎮四育路35號"
       }
     },
     {
+      "id" : "93F93ACB-77D8-4CA0-A8D3-C0544AF8B4AD",
+      "properties" : {
+        "name" : "慈恩素食",
+        "address" : "宜蘭縣宜蘭市民權新路172號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1269,13 +1365,14 @@
           121.74691,
           24.751909999999999
         ]
-      },
-      "properties" : {
-        "name" : "慈恩素食",
-        "address" : "宜蘭縣宜蘭市民權新路172號"
       }
     },
     {
+      "id" : "5FAE1936-9DD4-4302-9A10-9E8A18B03098",
+      "properties" : {
+        "name" : "姑媳養煎 水煎包",
+        "address" : "宜蘭縣宜蘭市神農路一段7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1283,13 +1380,14 @@
           121.74925,
           24.74709
         ]
-      },
-      "properties" : {
-        "name" : "姑媳養煎 水煎包",
-        "address" : "宜蘭縣宜蘭市神農路一段7號"
       }
     },
     {
+      "id" : "3BF6AF31-3251-4B6D-BBCF-461B7AC3F060",
+      "properties" : {
+        "name" : "周媽媽蔬食館",
+        "address" : "宜蘭縣宜蘭市復興路一段34號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1297,13 +1395,14 @@
           121.7524494,
           24.7492701
         ]
-      },
-      "properties" : {
-        "name" : "周媽媽蔬食館",
-        "address" : "宜蘭縣宜蘭市復興路一段34號"
       }
     },
     {
+      "id" : "465B283D-5126-4DA3-96CA-8FFE4097F543",
+      "properties" : {
+        "name" : "文吉素食",
+        "address" : "宜蘭縣宜蘭市西後街22號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1311,13 +1410,14 @@
           121.7517232,
           24.7570011
         ]
-      },
-      "properties" : {
-        "name" : "文吉素食",
-        "address" : "宜蘭縣宜蘭市西後街22號"
       }
     },
     {
+      "id" : "E55F2E51-EEF3-4733-8180-FCBDE8519971",
+      "properties" : {
+        "name" : "新活力健康小棧",
+        "address" : "宜蘭縣宜蘭市嵐峰路一段188號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1325,13 +1425,14 @@
           121.751009,
           24.742374999999999
         ]
-      },
-      "properties" : {
-        "name" : "新活力健康小棧",
-        "address" : "宜蘭縣宜蘭市嵐峰路一段188號"
       }
     },
     {
+      "id" : "2BF4BB9C-66B8-4FA0-9A5D-FB932A104C4A",
+      "properties" : {
+        "name" : "阿金的店",
+        "address" : "宜蘭縣羅東鎮純精路二段186巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1339,13 +1440,14 @@
           121.763841,
           24.678179
         ]
-      },
-      "properties" : {
-        "name" : "阿金的店",
-        "address" : "宜蘭縣羅東鎮純精路二段186巷1號"
       }
     },
     {
+      "id" : "B346AE72-9E2D-471B-BC03-C8DB8033F409",
+      "properties" : {
+        "name" : "金媽祖廟口素食",
+        "address" : "宜蘭縣蘇澳鎮江夏路10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1353,13 +1455,14 @@
           121.8649668,
           24.581490200000001
         ]
-      },
-      "properties" : {
-        "name" : "金媽祖廟口素食",
-        "address" : "宜蘭縣蘇澳鎮江夏路10號"
       }
     },
     {
+      "id" : "DAAE806C-185C-4A8B-B25E-C6710E227C85",
+      "properties" : {
+        "name" : "蔬杏堂",
+        "address" : "宜蘭縣礁溪鄉礁溪路五段166號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1367,13 +1470,14 @@
           121.774069,
           24.828626
         ]
-      },
-      "properties" : {
-        "name" : "蔬杏堂",
-        "address" : "宜蘭縣礁溪鄉礁溪路五段166號"
       }
     },
     {
+      "id" : "9698E3CA-22D1-4E7E-92B6-2F048E80F928",
+      "properties" : {
+        "name" : "QQ蛋",
+        "address" : "宜蘭縣羅東鎮民權路87號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1381,13 +1485,14 @@
           121.76926400000001,
           24.675532
         ]
-      },
-      "properties" : {
-        "name" : "QQ蛋",
-        "address" : "宜蘭縣羅東鎮民權路87號"
       }
     },
     {
+      "id" : "9E3FF74C-340A-4A29-A30C-0AF67068620A",
+      "properties" : {
+        "name" : "同心緣素食",
+        "address" : "宜蘭縣宜蘭市宜興路一段245號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1395,13 +1500,14 @@
           121.7578077,
           24.7557893
         ]
-      },
-      "properties" : {
-        "name" : "同心緣素食",
-        "address" : "宜蘭縣宜蘭市宜興路一段245號"
       }
     },
     {
+      "id" : "50F3A11A-11E9-47AD-9065-FE252F378F41",
+      "properties" : {
+        "name" : "林媽媽素食",
+        "address" : "宜蘭縣宜蘭市復興路二段190號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1409,13 +1515,14 @@
           121.744271,
           24.750076
         ]
-      },
-      "properties" : {
-        "name" : "林媽媽素食",
-        "address" : "宜蘭縣宜蘭市復興路二段190號"
       }
     },
     {
+      "id" : "0BFF2083-FCE8-4EC8-85EC-FBDBA46DB07A",
+      "properties" : {
+        "name" : "心裡有素餐坊",
+        "address" : "宜蘭縣宜蘭市健康路二段125號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1423,13 +1530,14 @@
           121.751091,
           24.748336999999999
         ]
-      },
-      "properties" : {
-        "name" : "心裡有素餐坊",
-        "address" : "宜蘭縣宜蘭市健康路二段125號"
       }
     },
     {
+      "id" : "85805E6C-546F-4787-94DF-7929D0673E3A",
+      "properties" : {
+        "name" : "蘭陽別院",
+        "address" : "宜蘭縣宜蘭市中山路三段258號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1437,13 +1545,14 @@
           121.7538079,
           24.7616108
         ]
-      },
-      "properties" : {
-        "name" : "蘭陽別院",
-        "address" : "宜蘭縣宜蘭市中山路三段258號"
       }
     },
     {
+      "id" : "C074B8BD-FE2A-4DDA-8243-487CE31E88D2",
+      "properties" : {
+        "name" : "芳草青低GI健康餐廳",
+        "address" : "宜蘭縣羅東鎮倉前路77-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1451,13 +1560,14 @@
           121.7701235,
           24.680591199999999
         ]
-      },
-      "properties" : {
-        "name" : "芳草青低GI健康餐廳",
-        "address" : "宜蘭縣羅東鎮倉前路77-3號"
       }
     },
     {
+      "id" : "FC41FEFD-1A36-4CF7-A219-B8169E776FA1",
+      "properties" : {
+        "name" : "車鈦吉",
+        "address" : "宜蘭縣蘇澳鎮中山路一段253號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1465,13 +1575,14 @@
           121.844047,
           24.595490999999999
         ]
-      },
-      "properties" : {
-        "name" : "車鈦吉",
-        "address" : "宜蘭縣蘇澳鎮中山路一段253號"
       }
     },
     {
+      "id" : "E8641408-6C1E-4BE6-97D9-D97082776442",
+      "properties" : {
+        "name" : "簡單生活生機飲食",
+        "address" : "宜蘭縣羅東鎮建國街22號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1479,13 +1590,14 @@
           121.759045,
           24.676724
         ]
-      },
-      "properties" : {
-        "name" : "簡單生活生機飲食",
-        "address" : "宜蘭縣羅東鎮建國街22號"
       }
     },
     {
+      "id" : "87C330EA-37E6-4F76-AC6A-04BF2AC519F5",
+      "properties" : {
+        "name" : "香淳素食坊",
+        "address" : "宜蘭縣羅東鎮純精路二段165號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1493,13 +1605,14 @@
           121.763379,
           24.678163999999999
         ]
-      },
-      "properties" : {
-        "name" : "香淳素食坊",
-        "address" : "宜蘭縣羅東鎮純精路二段165號"
       }
     },
     {
+      "id" : "B8107775-8DF0-49F6-B2E0-C57AF3F1AB1C",
+      "properties" : {
+        "name" : "玉善素食料理",
+        "address" : "宜蘭縣宜蘭市新興路102號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1507,13 +1620,14 @@
           121.757789,
           24.760667999999999
         ]
-      },
-      "properties" : {
-        "name" : "玉善素食料理",
-        "address" : "宜蘭縣宜蘭市新興路102號"
       }
     },
     {
+      "id" : "50D1FB63-4CFE-4190-8404-2F7FA4CB2EBF",
+      "properties" : {
+        "name" : "巴塔維亞天然酵母麵包",
+        "address" : "宜蘭縣羅東鎮復興路一段107號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1521,13 +1635,14 @@
           121.7687588,
           24.6829106
         ]
-      },
-      "properties" : {
-        "name" : "巴塔維亞天然酵母麵包",
-        "address" : "宜蘭縣羅東鎮復興路一段107號"
       }
     },
     {
+      "id" : "DA6778C9-5037-462B-BFDD-22DF5752A1BE",
+      "properties" : {
+        "name" : "正德羅東愛心廚房",
+        "address" : "宜蘭縣羅東鎮忠孝路117號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1535,13 +1650,14 @@
           121.765485,
           24.678445
         ]
-      },
-      "properties" : {
-        "name" : "正德羅東愛心廚房",
-        "address" : "宜蘭縣羅東鎮忠孝路117號"
       }
     },
     {
+      "id" : "2B903B66-2355-45DE-8515-82E7BE2B24D7",
+      "properties" : {
+        "name" : "結善緣素食坊",
+        "address" : "宜蘭縣礁溪鄉中山路一段121號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1549,13 +1665,14 @@
           121.77028799999999,
           24.819617999999998
         ]
-      },
-      "properties" : {
-        "name" : "結善緣素食坊",
-        "address" : "宜蘭縣礁溪鄉中山路一段121號"
       }
     },
     {
+      "id" : "FFBCC990-DDFA-47A3-ADE4-FF8FC580CB08",
+      "properties" : {
+        "name" : "金饡養生手工包子饅頭",
+        "address" : "宜蘭縣宜蘭市昇平街41號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1563,13 +1680,14 @@
           121.753591,
           24.756630000000001
         ]
-      },
-      "properties" : {
-        "name" : "金饡養生手工包子饅頭",
-        "address" : "宜蘭縣宜蘭市昇平街41號"
       }
     },
     {
+      "id" : "D51CAAE5-726C-4CE8-BDAE-1268F2704C9C",
+      "properties" : {
+        "name" : "日出茶太",
+        "address" : "宜蘭縣五結鄉五結路二段508號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1577,13 +1695,14 @@
           121.795552,
           24.684605999999999
         ]
-      },
-      "properties" : {
-        "name" : "日出茶太",
-        "address" : "宜蘭縣五結鄉五結路二段508號"
       }
     },
     {
+      "id" : "EE29B0C9-50DC-44F3-836E-7459FB86EF8F",
+      "properties" : {
+        "name" : "人子 Human-being Veg.& Cafe",
+        "address" : "宜蘭縣礁溪鄉德陽路51號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1591,13 +1710,14 @@
           121.77183599999999,
           24.828482000000001
         ]
-      },
-      "properties" : {
-        "name" : "人子 Human-being Veg.& Cafe",
-        "address" : "宜蘭縣礁溪鄉德陽路51號"
       }
     },
     {
+      "id" : "CC8F2FA0-773D-4284-915C-C8298B0F5B44",
+      "properties" : {
+        "name" : "豬龍寨 波的波可窯烤披薩",
+        "address" : "宜蘭縣員山鄉坡城路38號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1605,13 +1725,14 @@
           121.699865,
           24.779319600000001
         ]
-      },
-      "properties" : {
-        "name" : "豬龍寨 波的波可窯烤披薩",
-        "address" : "宜蘭縣員山鄉坡城路38號"
       }
     },
     {
+      "id" : "03BE9FA3-50B7-4DFC-B5C9-C22A76AC011A",
+      "properties" : {
+        "name" : "禾安素食坊",
+        "address" : "宜蘭縣頭城鎮開蘭路12號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1619,13 +1740,14 @@
           121.822017,
           24.855065
         ]
-      },
-      "properties" : {
-        "name" : "禾安素食坊",
-        "address" : "宜蘭縣頭城鎮開蘭路12號"
       }
     },
     {
+      "id" : "C2413789-51D4-4959-8F55-0505F4F4CA00",
+      "properties" : {
+        "name" : "濟得素食館",
+        "address" : "宜蘭縣羅東鎮公正路273號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1633,13 +1755,14 @@
           121.764596,
           24.67981
         ]
-      },
-      "properties" : {
-        "name" : "濟得素食館",
-        "address" : "宜蘭縣羅東鎮公正路273號"
       }
     },
     {
+      "id" : "3EF0F421-D9B9-43BA-A40C-DB9B1733D0F3",
+      "properties" : {
+        "name" : "頂好素食",
+        "address" : "宜蘭縣宜蘭市中華路51號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1647,13 +1770,14 @@
           121.753759,
           24.747131
         ]
-      },
-      "properties" : {
-        "name" : "頂好素食",
-        "address" : "宜蘭縣宜蘭市中華路51號"
       }
     },
     {
+      "id" : "EBEA59E5-867C-438E-B311-6AF8E816B728",
+      "properties" : {
+        "name" : "廟口素食店",
+        "address" : "宜蘭縣頭城鎮和平街100號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1661,13 +1785,14 @@
           121.82435700000001,
           24.857208
         ]
-      },
-      "properties" : {
-        "name" : "廟口素食店",
-        "address" : "宜蘭縣頭城鎮和平街100號"
       }
     },
     {
+      "id" : "17191330-1D10-4D04-99C1-28F8CAF3D7B3",
+      "properties" : {
+        "name" : "Buluba民宿",
+        "address" : "宜蘭縣員山鄉惠深二路一段66巷11-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1675,13 +1800,14 @@
           121.729071,
           24.723694999999999
         ]
-      },
-      "properties" : {
-        "name" : "Buluba民宿",
-        "address" : "宜蘭縣員山鄉惠深二路一段66巷11-1號"
       }
     },
     {
+      "id" : "21ABD4EB-E40C-4387-9644-98E638309F7C",
+      "properties" : {
+        "name" : "天然香飯糰",
+        "address" : "宜蘭縣羅東鎮中山路三段127號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1689,13 +1815,14 @@
           121.77116100000001,
           24.674596999999999
         ]
-      },
-      "properties" : {
-        "name" : "天然香飯糰",
-        "address" : "宜蘭縣羅東鎮中山路三段127號"
       }
     },
     {
+      "id" : "25A8E09B-7A57-4CB4-A07A-CB42C06675EC",
+      "properties" : {
+        "name" : "巧之齋蔬食堂",
+        "address" : "宜蘭縣宜蘭市中華路17號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1703,13 +1830,14 @@
           121.7539439,
           24.7463759
         ]
-      },
-      "properties" : {
-        "name" : "巧之齋蔬食堂",
-        "address" : "宜蘭縣宜蘭市中華路17號"
       }
     },
     {
+      "id" : "B8FD7387-A6D0-4440-AB1D-B6AC9C04268C",
+      "properties" : {
+        "name" : "美福行",
+        "address" : "宜蘭縣宜蘭市女中路三段401號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1717,13 +1845,14 @@
           121.73862,
           24.746490000000001
         ]
-      },
-      "properties" : {
-        "name" : "美福行",
-        "address" : "宜蘭縣宜蘭市女中路三段401號"
       }
     },
     {
+      "id" : "7FC52A70-53AD-4D27-9A11-C10B0650483E",
+      "properties" : {
+        "name" : "佛光山滴水坊",
+        "address" : "宜蘭縣礁溪鄉溫泉路6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1731,13 +1860,14 @@
           121.775245,
           24.827355000000001
         ]
-      },
-      "properties" : {
-        "name" : "佛光山滴水坊",
-        "address" : "宜蘭縣礁溪鄉溫泉路6號"
       }
     },
     {
+      "id" : "A3625136-0E64-4505-8417-C26A21FB634F",
+      "properties" : {
+        "name" : "三合蔬食燒餅",
+        "address" : "宜蘭縣羅東鎮南門路188號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1745,13 +1875,14 @@
           121.76416999999999,
           24.67295
         ]
-      },
-      "properties" : {
-        "name" : "三合蔬食燒餅",
-        "address" : "宜蘭縣羅東鎮南門路188號"
       }
     },
     {
+      "id" : "15575A3A-F80A-4C54-9680-B91799B603AC",
+      "properties" : {
+        "name" : "慈心園素食館",
+        "address" : "宜蘭縣羅東鎮民權路185-4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1759,13 +1890,14 @@
           121.7662152,
           24.6763561
         ]
-      },
-      "properties" : {
-        "name" : "慈心園素食館",
-        "address" : "宜蘭縣羅東鎮民權路185-4號"
       }
     },
     {
+      "id" : "9F62A327-C428-493D-A149-98904A2BDE95",
+      "properties" : {
+        "name" : "魏姐包心粉圓專賣店",
+        "address" : "宜蘭縣羅東鎮公正路2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1773,13 +1905,14 @@
           121.7737995,
           24.6781194
         ]
-      },
-      "properties" : {
-        "name" : "魏姐包心粉圓專賣店",
-        "address" : "宜蘭縣羅東鎮公正路2號"
       }
     },
     {
+      "id" : "CBD0C45C-E2AB-4459-8780-F43112A15A6C",
+      "properties" : {
+        "name" : "甘露素食坊",
+        "address" : "宜蘭縣宜蘭市康樂路141號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1787,13 +1920,14 @@
           121.753107,
           24.756425
         ]
-      },
-      "properties" : {
-        "name" : "甘露素食坊",
-        "address" : "宜蘭縣宜蘭市康樂路141號"
       }
     },
     {
+      "id" : "3E833621-6252-426A-875C-0C48E49CB3EF",
+      "properties" : {
+        "name" : "G Coffee",
+        "address" : "宜蘭縣宜蘭市東港路5-7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1801,13 +1935,14 @@
           121.763946,
           24.754445
         ]
-      },
-      "properties" : {
-        "name" : "G Coffee",
-        "address" : "宜蘭縣宜蘭市東港路5-7號"
       }
     },
     {
+      "id" : "B71870C6-061F-467B-A092-BA718CD208BB",
+      "properties" : {
+        "name" : "水巷茶弄",
+        "address" : "宜蘭縣宜蘭市中山路二段518號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1815,13 +1950,14 @@
           121.752439,
           24.754259000000001
         ]
-      },
-      "properties" : {
-        "name" : "水巷茶弄",
-        "address" : "宜蘭縣宜蘭市中山路二段518號"
       }
     },
     {
+      "id" : "AD6C9B0D-BC20-4CFD-B30C-8BC0F7A1249B",
+      "properties" : {
+        "name" : "木本圓素食",
+        "address" : "宜蘭縣宜蘭市泰山路86巷44號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1829,13 +1965,14 @@
           121.743696,
           24.755880000000001
         ]
-      },
-      "properties" : {
-        "name" : "木本圓素食",
-        "address" : "宜蘭縣宜蘭市泰山路86巷44號"
       }
     },
     {
+      "id" : "9CF2C056-514E-410A-8B95-DC023821E35B",
+      "properties" : {
+        "name" : "素人食堂",
+        "address" : "宜蘭縣宜蘭市嵐峰路一段183號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1843,13 +1980,14 @@
           121.75120320000001,
           24.742113
         ]
-      },
-      "properties" : {
-        "name" : "素人食堂",
-        "address" : "宜蘭縣宜蘭市嵐峰路一段183號"
       }
     },
     {
+      "id" : "16080D19-A1C5-4856-91DE-581673D22E03",
+      "properties" : {
+        "name" : "聚徠得素食坊",
+        "address" : "宜蘭縣宜蘭市聖後街214號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1857,13 +1995,14 @@
           121.753677,
           24.759031
         ]
-      },
-      "properties" : {
-        "name" : "聚徠得素食坊",
-        "address" : "宜蘭縣宜蘭市聖後街214號"
       }
     },
     {
+      "id" : "060D1507-89C8-4BD6-93EF-D96ED902B855",
+      "properties" : {
+        "name" : "萬蓮蔬食早晚餐",
+        "address" : "宜蘭縣宜蘭市中山路二段170號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1871,13 +2010,14 @@
           121.755178,
           24.746731
         ]
-      },
-      "properties" : {
-        "name" : "萬蓮蔬食早晚餐",
-        "address" : "宜蘭縣宜蘭市中山路二段170號"
       }
     },
     {
+      "id" : "102F68C2-E4EB-43B2-9315-CAC7E0887914",
+      "properties" : {
+        "name" : "登地輕食坊 Dundee Cafe SHOP",
+        "address" : "宜蘭縣羅東鎮敬業路39號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1885,13 +2025,14 @@
           121.759041,
           24.674032
         ]
-      },
-      "properties" : {
-        "name" : "登地輕食坊 Dundee Cafe SHOP",
-        "address" : "宜蘭縣羅東鎮敬業路39號"
       }
     },
     {
+      "id" : "B5B7CABF-58BE-41A8-B013-2A6C53367A00",
+      "properties" : {
+        "name" : "梅子養生早點",
+        "address" : "宜蘭縣宜蘭市弘志路64號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1899,13 +2040,14 @@
           121.75283279999999,
           24.747009599999998
         ]
-      },
-      "properties" : {
-        "name" : "梅子養生早點",
-        "address" : "宜蘭縣宜蘭市弘志路64號"
       }
     },
     {
+      "id" : "7ADE17D0-E6A0-48E4-8462-54B185CC37D3",
+      "properties" : {
+        "name" : "Canopy Juicery",
+        "address" : "宜蘭縣宜蘭市女中路三段117號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1913,13 +2055,14 @@
           121.74494300000001,
           24.744864
         ]
-      },
-      "properties" : {
-        "name" : "Canopy Juicery",
-        "address" : "宜蘭縣宜蘭市女中路三段117號"
       }
     },
     {
+      "id" : "F2FB7947-25A2-4F89-A7EC-C484C633B6DE",
+      "properties" : {
+        "name" : "善緣素食早餐吧",
+        "address" : "宜蘭縣宜蘭市民權路一段17號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1927,13 +2070,14 @@
           121.755831,
           24.752144999999999
         ]
-      },
-      "properties" : {
-        "name" : "善緣素食早餐吧",
-        "address" : "宜蘭縣宜蘭市民權路一段17號"
       }
     },
     {
+      "id" : "739936E7-BD8F-43E6-A703-7AE53A833EB1",
+      "properties" : {
+        "name" : "頂埔素食",
+        "address" : "宜蘭縣頭城鎮青雲路二段560號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1941,13 +2085,14 @@
           121.811734,
           24.846736
         ]
-      },
-      "properties" : {
-        "name" : "頂埔素食",
-        "address" : "宜蘭縣頭城鎮青雲路二段560號"
       }
     },
     {
+      "id" : "45B25923-3733-4321-BD05-C3E70920BD19",
+      "properties" : {
+        "name" : "紫米飯糰",
+        "address" : "宜蘭縣羅東鎮維陽路190-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1955,13 +2100,14 @@
           121.769676,
           24.678038000000001
         ]
-      },
-      "properties" : {
-        "name" : "紫米飯糰",
-        "address" : "宜蘭縣羅東鎮維陽路190-1號"
       }
     },
     {
+      "id" : "8064F57F-3AA8-4D47-ADEE-7E3B1494EC1F",
+      "properties" : {
+        "name" : "候天資健康早餐",
+        "address" : "宜蘭縣羅東鎮中正路16號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1969,13 +2115,14 @@
           121.770527,
           24.672822
         ]
-      },
-      "properties" : {
-        "name" : "候天資健康早餐",
-        "address" : "宜蘭縣羅東鎮中正路16號"
       }
     },
     {
+      "id" : "3277038E-1B37-4053-9B4E-AD46AA45EF18",
+      "properties" : {
+        "name" : "里仁",
+        "address" : "宜蘭縣宜蘭市中山路三段174號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1983,13 +2130,14 @@
           121.75326800000001,
           24.759640000000001
         ]
-      },
-      "properties" : {
-        "name" : "里仁",
-        "address" : "宜蘭縣宜蘭市中山路三段174號"
       }
     },
     {
+      "id" : "C65E48C8-F06A-4B51-B490-BEC398EA9654",
+      "properties" : {
+        "name" : "日暮晴蔬食早午餐",
+        "address" : "宜蘭縣宜蘭市農權路二段8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1997,13 +2145,14 @@
           121.749015,
           24.747133999999999
         ]
-      },
-      "properties" : {
-        "name" : "日暮晴蔬食早午餐",
-        "address" : "宜蘭縣宜蘭市農權路二段8號"
       }
     },
     {
+      "id" : "1B940E58-FDB1-43B6-8045-C6A3BA356705",
+      "properties" : {
+        "name" : "生佛藝素家",
+        "address" : "宜蘭縣宜蘭市東港路13-56號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2011,13 +2160,14 @@
           121.77124999999999,
           24.750738999999999
         ]
-      },
-      "properties" : {
-        "name" : "生佛藝素家",
-        "address" : "宜蘭縣宜蘭市東港路13-56號"
       }
     },
     {
+      "id" : "C84C133E-A8D0-46E4-B4FF-357276A4F6D0",
+      "properties" : {
+        "name" : "三合蔬食燒餅",
+        "address" : "宜蘭縣礁溪鄉礁溪路一段300號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2025,13 +2175,14 @@
           121.76209350000001,
           24.789607100000001
         ]
-      },
-      "properties" : {
-        "name" : "三合蔬食燒餅",
-        "address" : "宜蘭縣礁溪鄉礁溪路一段300號"
       }
     },
     {
+      "id" : "3C02E0F8-156F-4C8B-8C6B-E302195279DC",
+      "properties" : {
+        "name" : "宜蘭淺食坊",
+        "address" : "宜蘭縣蘇澳鎮新馬路87-9號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2039,13 +2190,14 @@
           121.831711,
           24.617488999999999
         ]
-      },
-      "properties" : {
-        "name" : "宜蘭淺食坊",
-        "address" : "宜蘭縣蘇澳鎮新馬路87-9號"
       }
     },
     {
+      "id" : "F8530420-C745-49AB-A00B-C000DF5FFF6D",
+      "properties" : {
+        "name" : "素食小吃",
+        "address" : "宜蘭縣羅東鎮站前南路44號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2053,13 +2205,14 @@
           121.77315350000001,
           24.6686294
         ]
-      },
-      "properties" : {
-        "name" : "素食小吃",
-        "address" : "宜蘭縣羅東鎮站前南路44號"
       }
     },
     {
+      "id" : "5A97F29F-60FB-4057-82E8-72928D455806",
+      "properties" : {
+        "name" : "真味家",
+        "address" : "宜蘭縣宜蘭市民族路288號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2067,13 +2220,14 @@
           121.74725100000001,
           24.751881999999998
         ]
-      },
-      "properties" : {
-        "name" : "真味家",
-        "address" : "宜蘭縣宜蘭市民族路288號"
       }
     },
     {
+      "id" : "D75948FB-CE8B-425A-B9C8-E16DC10DC18D",
+      "properties" : {
+        "name" : "靖園素食館",
+        "address" : "宜蘭縣羅東鎮民族路74號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2081,13 +2235,14 @@
           121.7683037,
           24.674304100000001
         ]
-      },
-      "properties" : {
-        "name" : "靖園素食館",
-        "address" : "宜蘭縣羅東鎮民族路74號"
       }
     },
     {
+      "id" : "2A707B24-7DE3-4CA2-8EE7-66EDE5DC74FD",
+      "properties" : {
+        "name" : "悅德素食館",
+        "address" : "宜蘭縣宜蘭市康樂路13號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2095,13 +2250,14 @@
           121.757322,
           24.755561
         ]
-      },
-      "properties" : {
-        "name" : "悅德素食館",
-        "address" : "宜蘭縣宜蘭市康樂路13號"
       }
     },
     {
+      "id" : "3499108F-4263-422A-A9A3-3E8DDBD4F506",
+      "properties" : {
+        "name" : "素食",
+        "address" : "宜蘭縣宜蘭市宜興路133號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2109,13 +2265,14 @@
           121.7626994,
           24.7309801
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "宜蘭縣宜蘭市宜興路133號"
       }
     },
     {
+      "id" : "2CCF4C3C-957F-4CB6-8D12-5DAD1AA5F03E",
+      "properties" : {
+        "name" : "巧巧素食店",
+        "address" : "宜蘭縣宜蘭市中山路三段195號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2123,13 +2280,14 @@
           121.753156,
           24.760375
         ]
-      },
-      "properties" : {
-        "name" : "巧巧素食店",
-        "address" : "宜蘭縣宜蘭市中山路三段195號"
       }
     },
     {
+      "id" : "11AA0F25-D57D-4DF5-81D3-A857396724C8",
+      "properties" : {
+        "name" : "九蓮素食",
+        "address" : "宜蘭縣礁溪鄉德陽街4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2137,13 +2295,14 @@
           121.7704777,
           24.822119000000001
         ]
-      },
-      "properties" : {
-        "name" : "九蓮素食",
-        "address" : "宜蘭縣礁溪鄉德陽街4號"
       }
     },
     {
+      "id" : "D602179B-664B-4984-9394-E2513193F3F8",
+      "properties" : {
+        "name" : "芯田樹願",
+        "address" : "宜蘭縣宜蘭市幸福路6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2151,13 +2310,14 @@
           121.7541968,
           24.760909999999999
         ]
-      },
-      "properties" : {
-        "name" : "芯田樹願",
-        "address" : "宜蘭縣宜蘭市幸福路6號"
       }
     },
     {
+      "id" : "67B12343-CC3A-4AAC-9CCE-76216874B548",
+      "properties" : {
+        "name" : "兩相好煎餅甜甜圈",
+        "address" : "宜蘭縣羅東鎮文化街37號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2165,13 +2325,14 @@
           121.76943,
           24.670555
         ]
-      },
-      "properties" : {
-        "name" : "兩相好煎餅甜甜圈",
-        "address" : "宜蘭縣羅東鎮文化街37號"
       }
     },
     {
+      "id" : "214094D5-6707-4330-AE64-2C361B6D1DC6",
+      "properties" : {
+        "name" : "我的廚房",
+        "address" : "宜蘭縣冬山鄉冬山路三段582號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2179,13 +2340,14 @@
           121.774023,
           24.665334999999999
         ]
-      },
-      "properties" : {
-        "name" : "我的廚房",
-        "address" : "宜蘭縣冬山鄉冬山路三段582號"
       }
     },
     {
+      "id" : "227C3D69-40EC-4671-BFBF-46B135F0F932",
+      "properties" : {
+        "name" : "明溱禪悅",
+        "address" : "宜蘭縣礁溪鄉光武村武暖路121-7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2193,13 +2355,14 @@
           121.771693,
           24.777145900000001
         ]
-      },
-      "properties" : {
-        "name" : "明溱禪悅",
-        "address" : "宜蘭縣礁溪鄉光武村武暖路121-7號"
       }
     },
     {
+      "id" : "F2CDED8A-8FFB-4BAF-9CA0-2E5929AC8578",
+      "properties" : {
+        "name" : "原來豆花",
+        "address" : "宜蘭縣宜蘭市舊城北路171-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2207,13 +2370,14 @@
           121.751912,
           24.760411000000001
         ]
-      },
-      "properties" : {
-        "name" : "原來豆花",
-        "address" : "宜蘭縣宜蘭市舊城北路171-2號"
       }
     },
     {
+      "id" : "52C00C5F-8E58-4B7A-A690-6FCC8C6F7483",
+      "properties" : {
+        "name" : "十源素料",
+        "address" : "宜蘭縣羅東鎮民族路11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2221,13 +2385,14 @@
           121.77103409999999,
           24.673603
         ]
-      },
-      "properties" : {
-        "name" : "十源素料",
-        "address" : "宜蘭縣羅東鎮民族路11號"
       }
     },
     {
+      "id" : "5FDA5C24-4CA9-4BEB-9A7C-8B1E9059E70E",
+      "properties" : {
+        "name" : "緣素蔬食",
+        "address" : "宜蘭縣羅東鎮維揚路237號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2235,13 +2400,14 @@
           121.756602,
           24.672156000000001
         ]
-      },
-      "properties" : {
-        "name" : "緣素蔬食",
-        "address" : "宜蘭縣羅東鎮維揚路237號"
       }
     },
     {
+      "id" : "00EFE7F4-7B84-4570-B147-9B20D91F7FC5",
+      "properties" : {
+        "name" : "大環淨",
+        "address" : "宜蘭縣宜蘭市舊城東路62號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2249,13 +2415,14 @@
           121.756811,
           24.758179999999999
         ]
-      },
-      "properties" : {
-        "name" : "大環淨",
-        "address" : "宜蘭縣宜蘭市舊城東路62號"
       }
     },
     {
+      "id" : "8F063267-A90D-42AE-946E-F4A937E15F77",
+      "properties" : {
+        "name" : "台塑素食",
+        "address" : "宜蘭縣宜蘭市民權路二段38巷6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2263,13 +2430,14 @@
           121.75002619999999,
           24.754375599999999
         ]
-      },
-      "properties" : {
-        "name" : "台塑素食",
-        "address" : "宜蘭縣宜蘭市民權路二段38巷6號"
       }
     },
     {
+      "id" : "CF1268C0-71A1-4963-A2FA-8B9F946E42C4",
+      "properties" : {
+        "name" : "天然健康殼物",
+        "address" : "宜蘭縣羅東鎮站前路60號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2277,13 +2445,14 @@
           121.773779,
           24.675903000000002
         ]
-      },
-      "properties" : {
-        "name" : "天然健康殼物",
-        "address" : "宜蘭縣羅東鎮站前路60號"
       }
     },
     {
+      "id" : "788E7B13-085F-4DB3-B146-9279FA6F86BB",
+      "properties" : {
+        "name" : "里仁",
+        "address" : "宜蘭縣羅東鎮和平路104號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2291,13 +2460,14 @@
           121.7723295,
           24.676276399999999
         ]
-      },
-      "properties" : {
-        "name" : "里仁",
-        "address" : "宜蘭縣羅東鎮和平路104號"
       }
     },
     {
+      "id" : "CDC2B92D-3489-4235-BAA5-34C85ECD917B",
+      "properties" : {
+        "name" : "淡淡的幸福",
+        "address" : "宜蘭縣宜蘭市縣政一街1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2305,13 +2475,14 @@
           121.7626994,
           24.7309801
         ]
-      },
-      "properties" : {
-        "name" : "淡淡的幸福",
-        "address" : "宜蘭縣宜蘭市縣政一街1號"
       }
     },
     {
+      "id" : "5B4E4875-BDFD-4EFF-97B9-67F0F74E6EC2",
+      "properties" : {
+        "name" : "素食小吃",
+        "address" : "宜蘭縣宜蘭市新民路39號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2319,13 +2490,14 @@
           121.75718500000001,
           24.756495000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食小吃",
-        "address" : "宜蘭縣宜蘭市新民路39號"
       }
     },
     {
+      "id" : "8D5A02BA-278B-4E4D-B359-220590B6006A",
+      "properties" : {
+        "name" : "北城香Q飯團",
+        "address" : "宜蘭縣羅東鎮北成路一段122號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2333,13 +2505,14 @@
           121.759253,
           24.675650999999998
         ]
-      },
-      "properties" : {
-        "name" : "北城香Q飯團",
-        "address" : "宜蘭縣羅東鎮北成路一段122號"
       }
     },
     {
+      "id" : "3D2D8DD4-6746-407C-BE95-44DA73FA3435",
+      "properties" : {
+        "name" : "祥和素食小館",
+        "address" : "宜蘭縣蘇澳鎮中山路一段163-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2347,13 +2520,14 @@
           121.84674099999999,
           24.595707999999998
         ]
-      },
-      "properties" : {
-        "name" : "祥和素食小館",
-        "address" : "宜蘭縣蘇澳鎮中山路一段163-1號"
       }
     },
     {
+      "id" : "FC2BCA65-5E52-46F2-BE44-06A530EC5FB2",
+      "properties" : {
+        "name" : "鹿野苑蔬食料理廚房",
+        "address" : "宜蘭縣宜蘭市女中路三段111號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2361,13 +2535,14 @@
           121.745065,
           24.744859000000002
         ]
-      },
-      "properties" : {
-        "name" : "鹿野苑蔬食料理廚房",
-        "address" : "宜蘭縣宜蘭市女中路三段111號"
       }
     },
     {
+      "id" : "3618B710-1032-4039-942F-757FB507E89C",
+      "properties" : {
+        "name" : "觀蓮有機農場",
+        "address" : "宜蘭縣羅東鎮北成路二段1巷66號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2375,13 +2550,14 @@
           121.75373500000001,
           24.677385000000001
         ]
-      },
-      "properties" : {
-        "name" : "觀蓮有機農場",
-        "address" : "宜蘭縣羅東鎮北成路二段1巷66號"
       }
     },
     {
+      "id" : "4830EE51-1C69-4476-BCEF-07DABA839B4E",
+      "properties" : {
+        "name" : "Golden Ratio 黃金比例輕食",
+        "address" : "宜蘭縣宜蘭市中山路五段111號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2389,13 +2565,14 @@
           121.75640300000001,
           24.769473999999999
         ]
-      },
-      "properties" : {
-        "name" : "Golden Ratio 黃金比例輕食",
-        "address" : "宜蘭縣宜蘭市中山路五段111號"
       }
     },
     {
+      "id" : "6BF5377F-9C50-4163-819B-047C09EC27F1",
+      "properties" : {
+        "name" : "佛有緣",
+        "address" : "宜蘭縣宜蘭市光復路77號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2403,13 +2580,14 @@
           121.75425199999999,
           24.755358999999999
         ]
-      },
-      "properties" : {
-        "name" : "佛有緣",
-        "address" : "宜蘭縣宜蘭市光復路77號"
       }
     },
     {
+      "id" : "23479E3F-6DE3-44AF-8F60-2FC672517690",
+      "properties" : {
+        "name" : "味福藝術烘培坊",
+        "address" : "宜蘭縣五結鄉五結路二段422號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2417,13 +2595,14 @@
           121.7973262,
           24.684893500000001
         ]
-      },
-      "properties" : {
-        "name" : "味福藝術烘培坊",
-        "address" : "宜蘭縣五結鄉五結路二段422號"
       }
     },
     {
+      "id" : "457AA300-456A-4AA6-84BE-CFA3914940BB",
+      "properties" : {
+        "name" : "三合蔬食-燒餅",
+        "address" : "宜蘭縣宜蘭市泰山路71號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2431,13 +2610,14 @@
           121.7457137,
           24.754169000000001
         ]
-      },
-      "properties" : {
-        "name" : "三合蔬食-燒餅",
-        "address" : "宜蘭縣宜蘭市泰山路71號"
       }
     },
     {
+      "id" : "65406A76-7446-4C7D-AC92-2E3A6F63E4EC",
+      "properties" : {
+        "name" : "綠九素食",
+        "address" : "宜蘭縣宜蘭市宜興路一段60號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2445,13 +2625,14 @@
           121.75572099999999,
           24.749677999999999
         ]
-      },
-      "properties" : {
-        "name" : "綠九素食",
-        "address" : "宜蘭縣宜蘭市宜興路一段60號"
       }
     },
     {
+      "id" : "FFAA5394-A3A9-47CD-B37B-14E50A816E29",
+      "properties" : {
+        "name" : "愛家小吃健康素食",
+        "address" : "宜蘭縣宜蘭市泰山路93-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2459,13 +2640,14 @@
           121.74461100000001,
           24.754093000000001
         ]
-      },
-      "properties" : {
-        "name" : "愛家小吃健康素食",
-        "address" : "宜蘭縣宜蘭市泰山路93-1號"
       }
     },
     {
+      "id" : "C09590A0-DABF-4448-880D-3F0B4F7D907B",
+      "properties" : {
+        "name" : "悅德素食館",
+        "address" : "宜蘭縣礁溪鄉中山路一段248號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2473,13 +2655,14 @@
           121.77106999999999,
           24.821013000000001
         ]
-      },
-      "properties" : {
-        "name" : "悅德素食館",
-        "address" : "宜蘭縣礁溪鄉中山路一段248號"
       }
     },
     {
+      "id" : "DF8BE826-9B7C-4B17-9049-A91FB63FEE3A",
+      "properties" : {
+        "name" : "秀桃早餐店",
+        "address" : "宜蘭縣羅東鎮中山西街1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2487,13 +2670,14 @@
           121.770256,
           24.674468999999998
         ]
-      },
-      "properties" : {
-        "name" : "秀桃早餐店",
-        "address" : "宜蘭縣羅東鎮中山西街1號"
       }
     },
     {
+      "id" : "559AE541-2A84-4CB9-885D-F218B542CBB8",
+      "properties" : {
+        "name" : "蘭彼尼餐坊",
+        "address" : "宜蘭縣宜蘭市進士路44-59號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2501,13 +2685,14 @@
           121.7479895,
           24.744463
         ]
-      },
-      "properties" : {
-        "name" : "蘭彼尼餐坊",
-        "address" : "宜蘭縣宜蘭市進士路44-59號"
       }
     },
     {
+      "id" : "00F3BCE9-A762-4513-ACF5-9D0DDE17E94F",
+      "properties" : {
+        "name" : "銘品蔬食坊",
+        "address" : "宜蘭縣礁溪鄉礁溪路五段50巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2515,13 +2700,14 @@
           121.77164999999999,
           24.826011999999999
         ]
-      },
-      "properties" : {
-        "name" : "銘品蔬食坊",
-        "address" : "宜蘭縣礁溪鄉礁溪路五段50巷1號"
       }
     },
     {
+      "id" : "81452095-5FF2-40E6-84D7-DFE4565C5EBC",
+      "properties" : {
+        "name" : "山野居",
+        "address" : "宜蘭縣員山鄉枕山一村54號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2529,13 +2715,14 @@
           121.72019299999999,
           24.745305999999999
         ]
-      },
-      "properties" : {
-        "name" : "山野居",
-        "address" : "宜蘭縣員山鄉枕山一村54號"
       }
     },
     {
+      "id" : "D21B6CA6-CA7F-44E8-811E-3F574D5CC9A2",
+      "properties" : {
+        "name" : "大德素食館",
+        "address" : "宜蘭縣蘇澳鎮大同路85號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2543,13 +2730,14 @@
           121.834234,
           24.621549000000002
         ]
-      },
-      "properties" : {
-        "name" : "大德素食館",
-        "address" : "宜蘭縣蘇澳鎮大同路85號"
       }
     },
     {
+      "id" : "8DE9CDC2-33C9-4EF2-B64E-AC0BDB2042DE",
+      "properties" : {
+        "name" : "同德素食店",
+        "address" : "宜蘭縣羅東鎮中正路19號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2557,13 +2745,14 @@
           121.7703994,
           24.673196600000001
         ]
-      },
-      "properties" : {
-        "name" : "同德素食店",
-        "address" : "宜蘭縣羅東鎮中正路19號"
       }
     },
     {
+      "id" : "24A03940-DEE7-4CCE-B9F3-1A0920034C71",
+      "properties" : {
+        "name" : "素香齋",
+        "address" : "宜蘭縣礁溪鄉中山路一段101號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2571,13 +2760,14 @@
           121.769959,
           24.819230999999998
         ]
-      },
-      "properties" : {
-        "name" : "素香齋",
-        "address" : "宜蘭縣礁溪鄉中山路一段101號"
       }
     },
     {
+      "id" : "F06F8B48-3487-4278-8FBF-530A9E8DDA7A",
+      "properties" : {
+        "name" : "親家母粗食",
+        "address" : "宜蘭縣羅東鎮中山路四段323號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2585,13 +2775,14 @@
           121.7554648,
           24.671880099999999
         ]
-      },
-      "properties" : {
-        "name" : "親家母粗食",
-        "address" : "宜蘭縣羅東鎮中山路四段323號"
       }
     },
     {
+      "id" : "EB69C0EE-1938-49B5-A74F-7723AF110EB5",
+      "properties" : {
+        "name" : "甘林素食",
+        "address" : "宜蘭縣羅東鎮南昌街59-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2599,13 +2790,14 @@
           121.77362979999999,
           24.671777800000001
         ]
-      },
-      "properties" : {
-        "name" : "甘林素食",
-        "address" : "宜蘭縣羅東鎮南昌街59-2號"
       }
     },
     {
+      "id" : "9C39C3AF-B081-4051-8170-A5C082F7F351",
+      "properties" : {
+        "name" : "魏姐包心粉圓專賣店",
+        "address" : "宜蘭縣羅東鎮公園路1079號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2613,13 +2805,14 @@
           121.76894710000001,
           24.675911599999999
         ]
-      },
-      "properties" : {
-        "name" : "魏姐包心粉圓專賣店",
-        "address" : "宜蘭縣羅東鎮公園路1079號"
       }
     },
     {
+      "id" : "9D093F1E-FEFD-4A19-8BC5-B440050AA855",
+      "properties" : {
+        "name" : "素花素食坊",
+        "address" : "宜蘭縣羅東鎮中山西街3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2627,13 +2820,14 @@
           121.770223,
           24.674479999999999
         ]
-      },
-      "properties" : {
-        "name" : "素花素食坊",
-        "address" : "宜蘭縣羅東鎮中山西街3號"
       }
     },
     {
+      "id" : "BC9165F3-2703-48EE-BCF7-E1FD37DAC493",
+      "properties" : {
+        "name" : "西湖素食",
+        "address" : "宜蘭縣羅東鎮中山路三段81巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2641,13 +2835,14 @@
           121.77219700000001,
           24.674302000000001
         ]
-      },
-      "properties" : {
-        "name" : "西湖素食",
-        "address" : "宜蘭縣羅東鎮中山路三段81巷1號"
       }
     },
     {
+      "id" : "21E69F5E-1E64-49B9-94AB-E721C2156FBA",
+      "properties" : {
+        "name" : "Brighthouseノ光之旅",
+        "address" : "宜蘭縣蘇澳鎮跨港路1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2655,13 +2850,14 @@
           121.8716605,
           24.585952800000001
         ]
-      },
-      "properties" : {
-        "name" : "Brighthouseノ光之旅",
-        "address" : "宜蘭縣蘇澳鎮跨港路1號"
       }
     },
     {
+      "id" : "D83230C5-E86B-4701-B534-D26C7442A38F",
+      "properties" : {
+        "name" : "如善蔬食小食堂",
+        "address" : "宜蘭縣羅東鎮四育路8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2669,13 +2865,14 @@
           121.75956600000001,
           24.675934999999999
         ]
-      },
-      "properties" : {
-        "name" : "如善蔬食小食堂",
-        "address" : "宜蘭縣羅東鎮四育路8號"
       }
     },
     {
+      "id" : "B9CDCF0A-6127-483C-8BDC-610F464FDF23",
+      "properties" : {
+        "name" : "魏姐包心粉圓專賣店",
+        "address" : "宜蘭縣羅東鎮公園路95號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2683,13 +2880,14 @@
           121.76884699999999,
           24.675507
         ]
-      },
-      "properties" : {
-        "name" : "魏姐包心粉圓專賣店",
-        "address" : "宜蘭縣羅東鎮公園路95號"
       }
     },
     {
+      "id" : "03E2F545-6D86-453C-8D73-CC97FA1F4816",
+      "properties" : {
+        "name" : "百年素食館",
+        "address" : "宜蘭縣宜蘭市崇聖街28號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2697,13 +2895,14 @@
           121.754958,
           24.755815999999999
         ]
-      },
-      "properties" : {
-        "name" : "百年素食館",
-        "address" : "宜蘭縣宜蘭市崇聖街28號"
       }
     },
     {
+      "id" : "4CC45C9E-498D-48CF-BB9F-BFBA3E425A01",
+      "properties" : {
+        "name" : "苔珍素食餐坊",
+        "address" : "宜蘭縣礁溪鄉復興街3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2711,13 +2910,14 @@
           121.77141,
           24.825324999999999
         ]
-      },
-      "properties" : {
-        "name" : "苔珍素食餐坊",
-        "address" : "宜蘭縣礁溪鄉復興街3號"
       }
     },
     {
+      "id" : "DBD0A327-A549-49D5-A30B-2EDF806E88E7",
+      "properties" : {
+        "name" : "惠鑫素食料理",
+        "address" : "宜蘭縣羅東鎮和平路85號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2725,13 +2925,14 @@
           121.766313,
           24.690867999999998
         ]
-      },
-      "properties" : {
-        "name" : "惠鑫素食料理",
-        "address" : "宜蘭縣羅東鎮和平路85號"
       }
     },
     {
+      "id" : "CB045C7B-89B0-4356-B262-A8B581186317",
+      "properties" : {
+        "name" : "素麵羹",
+        "address" : "宜蘭縣羅東鎮南昌街57-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2739,13 +2940,14 @@
           121.773557,
           24.671894000000002
         ]
-      },
-      "properties" : {
-        "name" : "素麵羹",
-        "address" : "宜蘭縣羅東鎮南昌街57-1號"
       }
     },
     {
+      "id" : "FB7A2E86-7BE3-4DE4-AF77-553E6739AF0A",
+      "properties" : {
+        "name" : "日光小鎮",
+        "address" : "宜蘭縣三星鄉大隱15路121號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2753,13 +2955,14 @@
           121.653178,
           24.668935999999999
         ]
-      },
-      "properties" : {
-        "name" : "日光小鎮",
-        "address" : "宜蘭縣三星鄉大隱15路121號"
       }
     },
     {
+      "id" : "EEF3AFCB-7441-4D62-BF70-83139523009D",
+      "properties" : {
+        "name" : "熊愛家蔬食",
+        "address" : "宜蘭縣員山鄉員山路一段300號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2767,13 +2970,14 @@
           121.723862,
           24.7438514
         ]
-      },
-      "properties" : {
-        "name" : "熊愛家蔬食",
-        "address" : "宜蘭縣員山鄉員山路一段300號"
       }
     },
     {
+      "id" : "FD1DE268-B6C1-4215-BF90-240A57976509",
+      "properties" : {
+        "name" : "佛光山百萬人興學紀念館",
+        "address" : "宜蘭縣礁溪鄉林美村林尾路160號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2781,13 +2985,14 @@
           121.731903,
           24.817741999999999
         ]
-      },
-      "properties" : {
-        "name" : "佛光山百萬人興學紀念館",
-        "address" : "宜蘭縣礁溪鄉林美村林尾路160號"
       }
     },
     {
+      "id" : "08913AFE-1586-46A0-8C48-442903223A9A",
+      "properties" : {
+        "name" : "慈德素食",
+        "address" : "宜蘭縣羅東鎮清潭路100號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2795,13 +3000,14 @@
           121.772114,
           24.673808999999999
         ]
-      },
-      "properties" : {
-        "name" : "慈德素食",
-        "address" : "宜蘭縣羅東鎮清潭路100號"
       }
     },
     {
+      "id" : "33DB9609-FDBD-4CC7-A675-561B0ED7D084",
+      "properties" : {
+        "name" : "全民餐館養生素食",
+        "address" : "宜蘭縣宜蘭市民族路381號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2809,13 +3015,14 @@
           121.74473999999999,
           24.750399999999999
         ]
-      },
-      "properties" : {
-        "name" : "全民餐館養生素食",
-        "address" : "宜蘭縣宜蘭市民族路381號"
       }
     },
     {
+      "id" : "2F93D4E3-D1AC-48A1-A528-78EFE1B28576",
+      "properties" : {
+        "name" : "悅德素食館",
+        "address" : "宜蘭縣羅東鎮中華路52號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2823,13 +3030,14 @@
           121.767042,
           24.67802
         ]
-      },
-      "properties" : {
-        "name" : "悅德素食館",
-        "address" : "宜蘭縣羅東鎮中華路52號"
       }
     },
     {
+      "id" : "1B9A8726-841A-4784-833F-ADACDC15A705",
+      "properties" : {
+        "name" : "烤地瓜",
+        "address" : "宜蘭縣羅東鎮北成一路113號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2837,13 +3045,14 @@
           121.769676,
           24.678038000000001
         ]
-      },
-      "properties" : {
-        "name" : "烤地瓜",
-        "address" : "宜蘭縣羅東鎮北成一路113號"
       }
     },
     {
+      "id" : "B3A121EF-A93E-4BDE-93C3-20E3F14FC44F",
+      "properties" : {
+        "name" : "水玥素食",
+        "address" : "宜蘭縣礁溪鄉中山路一段270-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2851,13 +3060,14 @@
           121.771175,
           24.821484000000002
         ]
-      },
-      "properties" : {
-        "name" : "水玥素食",
-        "address" : "宜蘭縣礁溪鄉中山路一段270-1號"
       }
     },
     {
+      "id" : "F1CDF08F-7C93-4E46-B4F2-BE48C4023598",
+      "properties" : {
+        "name" : "綠色臭豆腐",
+        "address" : "宜蘭縣礁溪鄉仁愛路22-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2865,13 +3075,14 @@
           121.77089599999999,
           24.828247000000001
         ]
-      },
-      "properties" : {
-        "name" : "綠色臭豆腐",
-        "address" : "宜蘭縣礁溪鄉仁愛路22-1號"
       }
     },
     {
+      "id" : "95BC3724-8964-46E1-B1AE-8E7160FA19AF",
+      "properties" : {
+        "name" : "菩提素廊",
+        "address" : "宜蘭縣宜蘭市農權路197號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2879,10 +3090,6 @@
           121.750882,
           24.746607999999998
         ]
-      },
-      "properties" : {
-        "name" : "菩提素廊",
-        "address" : "宜蘭縣宜蘭市農權路197號"
       }
     }
   ]

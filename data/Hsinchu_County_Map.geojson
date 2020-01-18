@@ -1,7 +1,13 @@
 {
   "type" : "FeatureCollection",
+  "areaCode" : 302,
   "features" : [
     {
+      "id" : "12C37DD4-7D4F-4501-84C9-DEDF500F0C9E",
+      "properties" : {
+        "name" : "梅門大義山莊",
+        "address" : "新竹縣北埔鄉大林村二寮八鄰14號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -9,13 +15,14 @@
           121.082407,
           24.699465
         ]
-      },
-      "properties" : {
-        "name" : "梅門大義山莊",
-        "address" : "新竹縣北埔鄉大林村二寮八鄰14號"
       }
     },
     {
+      "id" : "7668FA16-496A-446B-AFD0-14D3C299B5FA",
+      "properties" : {
+        "name" : "黃金薯",
+        "address" : "新竹縣新豐鄉建興路一段40號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -23,13 +30,14 @@
           120.995942,
           24.870757000000001
         ]
-      },
-      "properties" : {
-        "name" : "黃金薯",
-        "address" : "新竹縣新豐鄉建興路一段40號"
       }
     },
     {
+      "id" : "84668BD8-C60B-4BAD-ACCF-524DD6A0BE5D",
+      "properties" : {
+        "name" : "蔬食滷味",
+        "address" : "新竹縣新豐鄉尚仁街2-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -37,13 +45,14 @@
           120.99038299999999,
           24.867011000000002
         ]
-      },
-      "properties" : {
-        "name" : "蔬食滷味",
-        "address" : "新竹縣新豐鄉尚仁街2-1號"
       }
     },
     {
+      "id" : "ED709D98-7A89-4B82-8E53-09A4EEAD83F5",
+      "properties" : {
+        "name" : "空笙庭健康蔬食",
+        "address" : "新竹縣竹東鎮長春路三段374號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -51,13 +60,14 @@
           121.0806561,
           24.747245700000001
         ]
-      },
-      "properties" : {
-        "name" : "空笙庭健康蔬食",
-        "address" : "新竹縣竹東鎮長春路三段374號"
       }
     },
     {
+      "id" : "C23A86AD-A27F-4331-A051-DD9CCBF32A5E",
+      "properties" : {
+        "name" : "欣融素食店",
+        "address" : "新竹縣湖口鄉達生路25號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -65,13 +75,14 @@
           121.045969,
           24.903134000000001
         ]
-      },
-      "properties" : {
-        "name" : "欣融素食店",
-        "address" : "新竹縣湖口鄉達生路25號"
       }
     },
     {
+      "id" : "ECAB11CE-A3E9-4AD4-9ACA-7B22F33C6811",
+      "properties" : {
+        "name" : "蔬喜創意素食料理",
+        "address" : "新竹縣竹北市光明九路151號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -79,13 +90,14 @@
           121.00848000000001,
           24.825769999999999
         ]
-      },
-      "properties" : {
-        "name" : "蔬喜創意素食料理",
-        "address" : "新竹縣竹北市光明九路151號"
       }
     },
     {
+      "id" : "5B15EE48-C0C5-4BB2-BB13-4D498357C2C6",
+      "properties" : {
+        "name" : "中正素食早點",
+        "address" : "新竹縣湖口鄉勝利路二段5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -93,13 +105,14 @@
           121.02984600000001,
           24.865562000000001
         ]
-      },
-      "properties" : {
-        "name" : "中正素食早點",
-        "address" : "新竹縣湖口鄉勝利路二段5號"
       }
     },
     {
+      "id" : "C691E922-8C1C-48F0-8241-B52E75F9270B",
+      "properties" : {
+        "name" : "世界幸福咖啡總店-快樂咖啡坊 咖啡馆",
+        "address" : "新竹縣峨眉鄉快樂路7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -107,13 +120,14 @@
           121.0197038,
           24.688642900000001
         ]
-      },
-      "properties" : {
-        "name" : "世界幸福咖啡總店-快樂咖啡坊 咖啡馆",
-        "address" : "新竹縣峨眉鄉快樂路7號"
       }
     },
     {
+      "id" : "DC8F1BF2-D1BC-4415-85D9-EA64228FE67B",
+      "properties" : {
+        "name" : "稻京豆釜殿",
+        "address" : "新竹縣竹北市民權街39號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -121,13 +135,14 @@
           121.012339,
           24.832705000000001
         ]
-      },
-      "properties" : {
-        "name" : "稻京豆釜殿",
-        "address" : "新竹縣竹北市民權街39號"
       }
     },
     {
+      "id" : "5543F611-ABDA-4A85-895C-CEF6D467A2CD",
+      "properties" : {
+        "name" : "潛園五行湯麵",
+        "address" : "新竹縣竹東鎮文林路143號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -135,13 +150,14 @@
           121.088523,
           24.730273
         ]
-      },
-      "properties" : {
-        "name" : "潛園五行湯麵",
-        "address" : "新竹縣竹東鎮文林路143號"
       }
     },
     {
+      "id" : "9FB5DE2E-2DCB-4C98-B509-08DC81BF6818",
+      "properties" : {
+        "name" : "Sidewalk 人行道",
+        "address" : "新竹縣竹北市勝利五路131號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -149,13 +165,14 @@
           121.027407,
           24.824005
         ]
-      },
-      "properties" : {
-        "name" : "Sidewalk 人行道",
-        "address" : "新竹縣竹北市勝利五路131號"
       }
     },
     {
+      "id" : "0490B1E3-A828-4C54-9E3C-08929808E0E3",
+      "properties" : {
+        "name" : "活力多蔬食館",
+        "address" : "新竹縣竹東鎮自強路40號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -163,13 +180,14 @@
           121.081574,
           24.747745399999999
         ]
-      },
-      "properties" : {
-        "name" : "活力多蔬食館",
-        "address" : "新竹縣竹東鎮自強路40號"
       }
     },
     {
+      "id" : "A7D82E5B-055C-4D9C-9BFD-98A8730E7BC2",
+      "properties" : {
+        "name" : "璞鈺典藏客家擂茶",
+        "address" : "新竹縣北埔鄉廟前街8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -177,13 +195,14 @@
           121.057534,
           24.699068
         ]
-      },
-      "properties" : {
-        "name" : "璞鈺典藏客家擂茶",
-        "address" : "新竹縣北埔鄉廟前街8號"
       }
     },
     {
+      "id" : "B15C2783-1A59-40B6-8DA9-9607958411DF",
+      "properties" : {
+        "name" : "振興關西扁麵舖",
+        "address" : "新竹縣關西鎮中豐路一段379號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -191,13 +210,14 @@
           121.1783045,
           24.791295600000002
         ]
-      },
-      "properties" : {
-        "name" : "振興關西扁麵舖",
-        "address" : "新竹縣關西鎮中豐路一段379號"
       }
     },
     {
+      "id" : "8AF80A6A-3238-4F03-9B2D-A118AEAD37B1",
+      "properties" : {
+        "name" : "一山蔬食",
+        "address" : "新竹縣竹北市嘉豐五路一段188號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -205,13 +225,14 @@
           121.02842,
           24.812539999999998
         ]
-      },
-      "properties" : {
-        "name" : "一山蔬食",
-        "address" : "新竹縣竹北市嘉豐五路一段188號"
       }
     },
     {
+      "id" : "FE9E8187-1E7D-4373-A4C2-4257D7ACE88A",
+      "properties" : {
+        "name" : "王記厚片純手工牛舌餅",
+        "address" : "新竹縣新豐鄉文昌街135號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -219,13 +240,14 @@
           120.996661,
           24.875097
         ]
-      },
-      "properties" : {
-        "name" : "王記厚片純手工牛舌餅",
-        "address" : "新竹縣新豐鄉文昌街135號"
       }
     },
     {
+      "id" : "78332DA1-FB86-471D-8AB8-2D4EDEEFFFCF",
+      "properties" : {
+        "name" : "心馨素蔬廚房",
+        "address" : "新竹縣新豐鄉建興路一段90號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -233,13 +255,14 @@
           120.995332,
           24.871715999999999
         ]
-      },
-      "properties" : {
-        "name" : "心馨素蔬廚房",
-        "address" : "新竹縣新豐鄉建興路一段90號"
       }
     },
     {
+      "id" : "E31925B1-4619-4BD5-B616-897565648A26",
+      "properties" : {
+        "name" : "韓楓1080 素食新潮流",
+        "address" : "新竹縣竹北市光明五街339號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -247,13 +270,14 @@
           121.009992,
           24.828581
         ]
-      },
-      "properties" : {
-        "name" : "韓楓1080 素食新潮流",
-        "address" : "新竹縣竹北市光明五街339號"
       }
     },
     {
+      "id" : "8681CEAE-9D43-46AE-A573-4BC38CBE08D3",
+      "properties" : {
+        "name" : "素食早點",
+        "address" : "新竹縣湖口鄉仁樂路126號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -261,13 +285,14 @@
           121.01191179999999,
           24.872704899999999
         ]
-      },
-      "properties" : {
-        "name" : "素食早點",
-        "address" : "新竹縣湖口鄉仁樂路126號"
       }
     },
     {
+      "id" : "6099A0E6-321B-470F-8DC8-70018337B5E4",
+      "properties" : {
+        "name" : "水岸馬武督舒食",
+        "address" : "新竹縣關西鎮金山里31-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -275,13 +300,14 @@
           121.1872256,
           24.793401899999999
         ]
-      },
-      "properties" : {
-        "name" : "水岸馬武督舒食",
-        "address" : "新竹縣關西鎮金山里31-1號"
       }
     },
     {
+      "id" : "24A5B56F-2EC3-4577-8FFD-C9B8F909BE93",
+      "properties" : {
+        "name" : "益膳堂中式韓式蔬食自助餐",
+        "address" : "新竹縣竹北市縣政十一街99號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -289,13 +315,14 @@
           121.01299899999999,
           24.8269898
         ]
-      },
-      "properties" : {
-        "name" : "益膳堂中式韓式蔬食自助餐",
-        "address" : "新竹縣竹北市縣政十一街99號"
       }
     },
     {
+      "id" : "2A01FF8E-AF96-4835-B79C-599A7C9BCF15",
+      "properties" : {
+        "name" : "然方宣素食餐廳",
+        "address" : "新竹縣竹北市勝利二路71號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -303,13 +330,14 @@
           121.02623,
           24.822839999999999
         ]
-      },
-      "properties" : {
-        "name" : "然方宣素食餐廳",
-        "address" : "新竹縣竹北市勝利二路71號"
       }
     },
     {
+      "id" : "7A707FBF-47B8-448F-BE4D-58E51B92E0B8",
+      "properties" : {
+        "name" : "禪園藝境人文蔬食養生食堂",
+        "address" : "新竹縣湖口鄉中山路二段424號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -317,13 +345,14 @@
           121.04850500000001,
           24.907429
         ]
-      },
-      "properties" : {
-        "name" : "禪園藝境人文蔬食養生食堂",
-        "address" : "新竹縣湖口鄉中山路二段424號"
       }
     },
     {
+      "id" : "61929B78-83BA-499A-8B0E-179D25A9B4C2",
+      "properties" : {
+        "name" : "修緣素食",
+        "address" : "新竹縣竹北市四維路162號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -331,13 +360,14 @@
           121.01299899999999,
           24.8269898
         ]
-      },
-      "properties" : {
-        "name" : "修緣素食",
-        "address" : "新竹縣竹北市四維路162號"
       }
     },
     {
+      "id" : "6D7518A0-A8E4-4685-BC39-787E46EC3DB3",
+      "properties" : {
+        "name" : "空笙庭健康蔬食",
+        "address" : "新竹縣竹東鎮杞林路101號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -345,13 +375,14 @@
           121.0918927,
           24.737592100000001
         ]
-      },
-      "properties" : {
-        "name" : "空笙庭健康蔬食",
-        "address" : "新竹縣竹東鎮杞林路101號"
       }
     },
     {
+      "id" : "DD34D299-83E9-4779-BA5D-ED3D382C2486",
+      "properties" : {
+        "name" : "兔子遇到熊異國蔬食",
+        "address" : "新竹縣竹北市福興一路140號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -359,13 +390,14 @@
           121.002578,
           24.826494
         ]
-      },
-      "properties" : {
-        "name" : "兔子遇到熊異國蔬食",
-        "address" : "新竹縣竹北市福興一路140號"
       }
     },
     {
+      "id" : "79B5F7A7-3506-46E5-9AD1-7B71CB69820D",
+      "properties" : {
+        "name" : "綠芯素蔬坊",
+        "address" : "新竹縣竹東鎮康寧街71號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -373,13 +405,14 @@
           121.087152,
           24.736802000000001
         ]
-      },
-      "properties" : {
-        "name" : "綠芯素蔬坊",
-        "address" : "新竹縣竹東鎮康寧街71號"
       }
     },
     {
+      "id" : "41D6FF57-09C9-4B72-AA16-C7E20A67BAEA",
+      "properties" : {
+        "name" : "緣 素食便當",
+        "address" : "新竹縣竹北市三民路25號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -387,13 +420,14 @@
           121.01834719999999,
           24.834519799999999
         ]
-      },
-      "properties" : {
-        "name" : "緣 素食便當",
-        "address" : "新竹縣竹北市三民路25號"
       }
     },
     {
+      "id" : "B5AAF85A-0D52-4E4F-9B56-80F4598890D1",
+      "properties" : {
+        "name" : "慈圓素食餐館",
+        "address" : "新竹縣新豐鄉文昌街159號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -401,13 +435,14 @@
           120.99664199999999,
           24.875729
         ]
-      },
-      "properties" : {
-        "name" : "慈圓素食餐館",
-        "address" : "新竹縣新豐鄉文昌街159號"
       }
     },
     {
+      "id" : "BE83F799-16B8-41B0-AF60-CF48A6C6BCD3",
+      "properties" : {
+        "name" : "清香素食館",
+        "address" : "新竹縣湖口鄉民生街293號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -415,13 +450,14 @@
           121.05204000000001,
           24.904869999999999
         ]
-      },
-      "properties" : {
-        "name" : "清香素食館",
-        "address" : "新竹縣湖口鄉民生街293號"
       }
     },
     {
+      "id" : "5A8C6095-CD4B-485B-8891-227B59F164DF",
+      "properties" : {
+        "name" : "菩堤＠全植物蔬食",
+        "address" : "新竹縣竹北市縣政二路368號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -429,13 +465,14 @@
           121.01299899999999,
           24.8269898
         ]
-      },
-      "properties" : {
-        "name" : "菩堤＠全植物蔬食",
-        "address" : "新竹縣竹北市縣政二路368號"
       }
     },
     {
+      "id" : "F220F637-28DC-46E6-A0EE-5B775D0A3DC8",
+      "properties" : {
+        "name" : "綠花園愛心餐館",
+        "address" : "新竹縣新豐鄉學府路105號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -443,13 +480,14 @@
           120.99646250000001,
           24.871101400000001
         ]
-      },
-      "properties" : {
-        "name" : "綠花園愛心餐館",
-        "address" : "新竹縣新豐鄉學府路105號"
       }
     },
     {
+      "id" : "F765464D-C551-43F6-BED2-2A182D4B2551",
+      "properties" : {
+        "name" : "道禾食堂",
+        "address" : "新竹縣竹東鎮康寧街133號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -457,13 +495,14 @@
           121.085954,
           24.738320999999999
         ]
-      },
-      "properties" : {
-        "name" : "道禾食堂",
-        "address" : "新竹縣竹東鎮康寧街133號"
       }
     },
     {
+      "id" : "E850C405-DADF-40C8-B2BA-E4BFBE63FD51",
+      "properties" : {
+        "name" : "林阿嬤",
+        "address" : "新竹縣橫山鄉光復路84號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -471,13 +510,14 @@
           121.181566,
           24.707046999999999
         ]
-      },
-      "properties" : {
-        "name" : "林阿嬤",
-        "address" : "新竹縣橫山鄉光復路84號"
       }
     },
     {
+      "id" : "6D64DC12-1401-45BA-940B-807F7482A176",
+      "properties" : {
+        "name" : "悠蔬園",
+        "address" : "新竹縣竹北市新光街237號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -485,13 +525,14 @@
           121.001651,
           24.836587999999999
         ]
-      },
-      "properties" : {
-        "name" : "悠蔬園",
-        "address" : "新竹縣竹北市新光街237號"
       }
     },
     {
+      "id" : "6AB8A32F-1770-4BA5-93AC-6C8D81FC4707",
+      "properties" : {
+        "name" : "竹園素食餐坊",
+        "address" : "新竹縣竹北市麻園三路56號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -499,13 +540,14 @@
           120.9773691,
           24.8493508
         ]
-      },
-      "properties" : {
-        "name" : "竹園素食餐坊",
-        "address" : "新竹縣竹北市麻園三路56號"
       }
     },
     {
+      "id" : "4EF606C3-32E2-4969-9575-16AC28574B12",
+      "properties" : {
+        "name" : "和順園雲南蔬食麵館",
+        "address" : "新竹縣竹北市成功二街172號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -513,13 +555,14 @@
           121.02595700000001,
           24.818857999999999
         ]
-      },
-      "properties" : {
-        "name" : "和順園雲南蔬食麵館",
-        "address" : "新竹縣竹北市成功二街172號"
       }
     },
     {
+      "id" : "5EF8CEC8-599B-4C96-9716-FFB00C69C719",
+      "properties" : {
+        "name" : "禪悅素食",
+        "address" : "新竹縣湖口鄉達生路25-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -527,13 +570,14 @@
           121.045969,
           24.903134000000001
         ]
-      },
-      "properties" : {
-        "name" : "禪悅素食",
-        "address" : "新竹縣湖口鄉達生路25-2號"
       }
     },
     {
+      "id" : "ACC9081C-E1B4-4CD2-9F44-6499F0F9C1A8",
+      "properties" : {
+        "name" : "北埔擂茶堂",
+        "address" : "新竹縣北埔鄉廟前街4-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -541,13 +585,14 @@
           121.05748199999999,
           24.698881
         ]
-      },
-      "properties" : {
-        "name" : "北埔擂茶堂",
-        "address" : "新竹縣北埔鄉廟前街4-1號"
       }
     },
     {
+      "id" : "51CD2C04-6EDF-4883-AD81-12AACDDF6F66",
+      "properties" : {
+        "name" : "竹北素食",
+        "address" : "新竹縣竹北市華興街135號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -555,13 +600,14 @@
           121.002906,
           24.840111
         ]
-      },
-      "properties" : {
-        "name" : "竹北素食",
-        "address" : "新竹縣竹北市華興街135號"
       }
     },
     {
+      "id" : "F080D64D-804E-471D-B125-0ABB0A7F2868",
+      "properties" : {
+        "name" : "義麵房義法料理洋食館",
+        "address" : "新竹縣竹北市光明一路276號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -569,13 +615,14 @@
           121.01430000000001,
           24.830680000000001
         ]
-      },
-      "properties" : {
-        "name" : "義麵房義法料理洋食館",
-        "address" : "新竹縣竹北市光明一路276號"
       }
     },
     {
+      "id" : "39DF0E03-145E-4C3C-ACC9-BFAC06F01A1C",
+      "properties" : {
+        "name" : "德緣安心廚房",
+        "address" : "新竹縣竹北市六家五路一段216號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -583,13 +630,14 @@
           121.02733000000001,
           24.80828
         ]
-      },
-      "properties" : {
-        "name" : "德緣安心廚房",
-        "address" : "新竹縣竹北市六家五路一段216號"
       }
     },
     {
+      "id" : "1BCD2974-B390-4F12-A073-A66EA4D6589A",
+      "properties" : {
+        "name" : "Lumiere 洛米耶蔬食",
+        "address" : "新竹縣竹北市勝利八街一段315號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -597,13 +645,14 @@
           121.0288577,
           24.825157099999998
         ]
-      },
-      "properties" : {
-        "name" : "Lumiere 洛米耶蔬食",
-        "address" : "新竹縣竹北市勝利八街一段315號"
       }
     },
     {
+      "id" : "434A5EAF-3DBD-4ED1-A034-380346DEB9CB",
+      "properties" : {
+        "name" : "里品養生蔬食館",
+        "address" : "新竹縣關西鎮上三屯14號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -611,13 +660,14 @@
           121.178213,
           24.794540999999999
         ]
-      },
-      "properties" : {
-        "name" : "里品養生蔬食館",
-        "address" : "新竹縣關西鎮上三屯14號"
       }
     },
     {
+      "id" : "EAD0830B-A2FC-42E6-B7C3-E1C18778AA91",
+      "properties" : {
+        "name" : "天惠饅頭店",
+        "address" : "新竹縣湖口鄉民權街54號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -625,13 +675,14 @@
           121.046451,
           24.902532999999998
         ]
-      },
-      "properties" : {
-        "name" : "天惠饅頭店",
-        "address" : "新竹縣湖口鄉民權街54號"
       }
     },
     {
+      "id" : "37319D1F-5071-443C-B752-26C0FD171E96",
+      "properties" : {
+        "name" : "行航素食館",
+        "address" : "新竹縣竹東鎮學府路12號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -639,13 +690,14 @@
           121.05600099999999,
           24.766991000000001
         ]
-      },
-      "properties" : {
-        "name" : "行航素食館",
-        "address" : "新竹縣竹東鎮學府路12號"
       }
     },
     {
+      "id" : "9785ED09-C557-4AEF-A4FE-E84493FC25C6",
+      "properties" : {
+        "name" : "觀悅素食",
+        "address" : "新竹縣湖口鄉民族街122號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -653,13 +705,14 @@
           121.04570699999999,
           24.902999999999999
         ]
-      },
-      "properties" : {
-        "name" : "觀悅素食",
-        "address" : "新竹縣湖口鄉民族街122號"
       }
     },
     {
+      "id" : "225DFDDD-F3AB-4D10-A867-95D2D4338866",
+      "properties" : {
+        "name" : "明心緣素食",
+        "address" : "新竹縣新豐鄉明新街50號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -667,13 +720,14 @@
           120.989722,
           24.864381000000002
         ]
-      },
-      "properties" : {
-        "name" : "明心緣素食",
-        "address" : "新竹縣新豐鄉明新街50號"
       }
     },
     {
+      "id" : "D02C319A-C6DD-4152-8101-4D0781F94223",
+      "properties" : {
+        "name" : "歡喜心集",
+        "address" : "新竹縣竹東鎮中興路四段 508 號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -681,13 +735,14 @@
           121.03309950000001,
           24.777723000000002
         ]
-      },
-      "properties" : {
-        "name" : "歡喜心集",
-        "address" : "新竹縣竹東鎮中興路四段 508 號"
       }
     },
     {
+      "id" : "2CFFE37C-8A55-4E4D-A500-65C4B8A674C5",
+      "properties" : {
+        "name" : "苗馨蔬果餐飲",
+        "address" : "新竹縣竹北市和平街70號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -695,13 +750,14 @@
           121.0096933,
           24.839222199999998
         ]
-      },
-      "properties" : {
-        "name" : "苗馨蔬果餐飲",
-        "address" : "新竹縣竹北市和平街70號"
       }
     },
     {
+      "id" : "9CD7B7AA-D1A3-4E63-8F08-BD65CE3C99DF",
+      "properties" : {
+        "name" : "傳統早餐",
+        "address" : "新竹縣竹北市中正西路165號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -709,13 +765,14 @@
           120.999285,
           24.841353999999999
         ]
-      },
-      "properties" : {
-        "name" : "傳統早餐",
-        "address" : "新竹縣竹北市中正西路165號"
       }
     },
     {
+      "id" : "3CAC7A99-72F1-44AF-AD83-CBB82F44860C",
+      "properties" : {
+        "name" : "喫菜吧 Vegetables Bar",
+        "address" : "新竹縣竹北市嘉豐二街一段32號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -723,13 +780,14 @@
           121.0299,
           24.816849999999999
         ]
-      },
-      "properties" : {
-        "name" : "喫菜吧 Vegetables Bar",
-        "address" : "新竹縣竹北市嘉豐二街一段32號"
       }
     },
     {
+      "id" : "FC7B8904-9B98-4707-98FA-086D0BDE5B5F",
+      "properties" : {
+        "name" : "雄素食",
+        "address" : "新竹縣竹北市竹北夜市"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -737,13 +795,14 @@
           120.995772,
           24.838538
         ]
-      },
-      "properties" : {
-        "name" : "雄素食",
-        "address" : "新竹縣竹北市竹北夜市"
       }
     },
     {
+      "id" : "B7906096-C003-4D7E-AFDE-B24B7FCF6F65",
+      "properties" : {
+        "name" : "牧野蔬食",
+        "address" : "新竹縣竹北市文興路一段199號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -751,13 +810,14 @@
           121.02891,
           24.810569999999998
         ]
-      },
-      "properties" : {
-        "name" : "牧野蔬食",
-        "address" : "新竹縣竹北市文興路一段199號"
       }
     },
     {
+      "id" : "8051F16E-81E9-417C-8948-87B3F1E65CA0",
+      "properties" : {
+        "name" : "素食早點",
+        "address" : "新竹縣湖口鄉民權街3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -765,13 +825,14 @@
           121.045248,
           24.901029000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食早點",
-        "address" : "新竹縣湖口鄉民權街3號"
       }
     },
     {
+      "id" : "4BFEFB33-9351-4BF0-94FA-75B6822BE0D3",
+      "properties" : {
+        "name" : "十饍麵堂 Shi Shan Noodles",
+        "address" : "新竹縣竹北市莊敬二街2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -779,13 +840,14 @@
           121.0241716,
           24.821767399999999
         ]
-      },
-      "properties" : {
-        "name" : "十饍麵堂 Shi Shan Noodles",
-        "address" : "新竹縣竹北市莊敬二街2號"
       }
     },
     {
+      "id" : "3FA9590E-C00E-4275-9480-C2AECAF382A5",
+      "properties" : {
+        "name" : "隨緣素食",
+        "address" : "新竹縣新豐鄉泰安街"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -793,13 +855,14 @@
           120.99384499999999,
           24.8727223
         ]
-      },
-      "properties" : {
-        "name" : "隨緣素食",
-        "address" : "新竹縣新豐鄉泰安街"
       }
     },
     {
+      "id" : "B23614FA-4A53-44F6-8416-4DD73AC1E5A4",
+      "properties" : {
+        "name" : "陳小姐素食",
+        "address" : "新竹縣關西鎮南山里12鄰3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -807,13 +870,14 @@
           121.178213,
           24.794540999999999
         ]
-      },
-      "properties" : {
-        "name" : "陳小姐素食",
-        "address" : "新竹縣關西鎮南山里12鄰3號"
       }
     },
     {
+      "id" : "E425D72C-5DD1-4FDD-9271-08DE60155182",
+      "properties" : {
+        "name" : "一心素食坊",
+        "address" : "新竹縣湖口鄉德興路138號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -821,13 +885,14 @@
           121.0449076,
           24.908914800000002
         ]
-      },
-      "properties" : {
-        "name" : "一心素食坊",
-        "address" : "新竹縣湖口鄉德興路138號"
       }
     },
     {
+      "id" : "F34A6AA0-B41C-4E73-A42F-A70ED289F8E6",
+      "properties" : {
+        "name" : "珍饌創藝廚房",
+        "address" : "新竹縣竹東鎮東林路100號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -835,13 +900,14 @@
           121.09219,
           24.736650000000001
         ]
-      },
-      "properties" : {
-        "name" : "珍饌創藝廚房",
-        "address" : "新竹縣竹東鎮東林路100號"
       }
     },
     {
+      "id" : "921F1E11-A4CB-4219-8669-B828D1436601",
+      "properties" : {
+        "name" : "福慧園素食小館",
+        "address" : "新竹縣竹北市縣政二路612號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -849,13 +915,14 @@
           121.01299899999999,
           24.8269898
         ]
-      },
-      "properties" : {
-        "name" : "福慧園素食小館",
-        "address" : "新竹縣竹北市縣政二路612號"
       }
     },
     {
+      "id" : "2F2FB682-030F-431A-B037-91B60724392E",
+      "properties" : {
+        "name" : "緣圓素食館",
+        "address" : "新竹縣竹北市民權街5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -863,13 +930,14 @@
           121.012693,
           24.834235
         ]
-      },
-      "properties" : {
-        "name" : "緣圓素食館",
-        "address" : "新竹縣竹北市民權街5號"
       }
     },
     {
+      "id" : "175D9DDD-35BC-4176-A7F1-105EBEDB58C6",
+      "properties" : {
+        "name" : "陶然亭素齋坊",
+        "address" : "新竹縣橫山鄉中豐路二段267號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -877,13 +945,14 @@
           121.14436860000001,
           24.717056500000002
         ]
-      },
-      "properties" : {
-        "name" : "陶然亭素齋坊",
-        "address" : "新竹縣橫山鄉中豐路二段267號"
       }
     },
     {
+      "id" : "F4C6B89A-A88F-49D3-AB30-598B214451C8",
+      "properties" : {
+        "name" : "春亭齋養生食材",
+        "address" : "新竹縣竹北市十興路305巷10弄2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -891,13 +960,14 @@
           121.02294000000001,
           24.832999999999998
         ]
-      },
-      "properties" : {
-        "name" : "春亭齋養生食材",
-        "address" : "新竹縣竹北市十興路305巷10弄2號"
       }
     },
     {
+      "id" : "AA98E49B-20FA-4FF1-90B3-6B46E30FCDC3",
+      "properties" : {
+        "name" : "田土山。無菜單蔬食餐廳",
+        "address" : "新竹縣竹北市嘉豐六路一段96號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -905,13 +975,14 @@
           121.03021,
           24.811889999999998
         ]
-      },
-      "properties" : {
-        "name" : "田土山。無菜單蔬食餐廳",
-        "address" : "新竹縣竹北市嘉豐六路一段96號"
       }
     },
     {
+      "id" : "2B95D24B-BBBD-43E8-9775-F5A4D2D50BD4",
+      "properties" : {
+        "name" : "北埔素食",
+        "address" : "新竹縣北埔鄉城門街86號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -919,13 +990,14 @@
           121.056428,
           24.700233999999998
         ]
-      },
-      "properties" : {
-        "name" : "北埔素食",
-        "address" : "新竹縣北埔鄉城門街86號"
       }
     },
     {
+      "id" : "812EA89F-77AC-475D-937A-50096B4CE891",
+      "properties" : {
+        "name" : "素食早點",
+        "address" : "新竹縣湖口鄉中正路103號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -933,13 +1005,14 @@
           121.176269,
           24.789759
         ]
-      },
-      "properties" : {
-        "name" : "素食早點",
-        "address" : "新竹縣湖口鄉中正路103號"
       }
     },
     {
+      "id" : "13FB77DF-0783-4E69-92B6-A4B332CB6734",
+      "properties" : {
+        "name" : "竺園素食",
+        "address" : "新竹縣關西鎮正義路132號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -947,13 +1020,14 @@
           121.1760665,
           24.794696699999999
         ]
-      },
-      "properties" : {
-        "name" : "竺園素食",
-        "address" : "新竹縣關西鎮正義路132號"
       }
     },
     {
+      "id" : "98400127-2F7B-42A2-9631-7221E05F5306",
+      "properties" : {
+        "name" : "托斯卡尼田間餐廳",
+        "address" : "新竹縣關西鎮坪林56-12號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -961,13 +1035,14 @@
           121.14057699999999,
           24.801632000000001
         ]
-      },
-      "properties" : {
-        "name" : "托斯卡尼田間餐廳",
-        "address" : "新竹縣關西鎮坪林56-12號"
       }
     },
     {
+      "id" : "40978E4C-5A0D-43BC-8FBE-99ADA6098AE3",
+      "properties" : {
+        "name" : "井町",
+        "address" : "新竹縣竹北市文信路385號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -975,13 +1050,14 @@
           121.00999,
           24.832467000000001
         ]
-      },
-      "properties" : {
-        "name" : "井町",
-        "address" : "新竹縣竹北市文信路385號"
       }
     },
     {
+      "id" : "4F993ECA-A607-4155-952C-C7EFFCC6CE9B",
+      "properties" : {
+        "name" : "開心紅豆餅",
+        "address" : "新竹縣湖口鄉中山路二段121號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -989,13 +1065,14 @@
           121.04406,
           24.902954000000001
         ]
-      },
-      "properties" : {
-        "name" : "開心紅豆餅",
-        "address" : "新竹縣湖口鄉中山路二段121號"
       }
     },
     {
+      "id" : "8F007ABE-1019-472D-9CE1-52085F26F65A",
+      "properties" : {
+        "name" : "竹北桑尼咖啡館",
+        "address" : "新竹縣竹北市文興路二段52號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1003,13 +1080,14 @@
           121.03409000000001,
           24.807690000000001
         ]
-      },
-      "properties" : {
-        "name" : "竹北桑尼咖啡館",
-        "address" : "新竹縣竹北市文興路二段52號"
       }
     },
     {
+      "id" : "751C420C-96F7-4B71-8418-63A8C7E3D1C2",
+      "properties" : {
+        "name" : "天然複合式蔬食餐食坊",
+        "address" : "新竹縣竹北市中央路46號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1017,13 +1095,14 @@
           121.004071,
           24.837130999999999
         ]
-      },
-      "properties" : {
-        "name" : "天然複合式蔬食餐食坊",
-        "address" : "新竹縣竹北市中央路46號"
       }
     },
     {
+      "id" : "B643B620-098E-47D6-A661-DB443DD9921A",
+      "properties" : {
+        "name" : "內灣老街炸杏飽菇野薑花",
+        "address" : "新竹縣橫山鄉中正路與廣濟路交叉口"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1031,13 +1110,14 @@
           121.1804964,
           24.707541299999999
         ]
-      },
-      "properties" : {
-        "name" : "內灣老街炸杏飽菇野薑花",
-        "address" : "新竹縣橫山鄉中正路與廣濟路交叉口"
       }
     },
     {
+      "id" : "4F89C98E-9F40-4793-B008-B66C7030619E",
+      "properties" : {
+        "name" : "天然素食",
+        "address" : "新竹縣湖口鄉仁樂路62號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1045,13 +1125,14 @@
           121.01408000000001,
           24.871385
         ]
-      },
-      "properties" : {
-        "name" : "天然素食",
-        "address" : "新竹縣湖口鄉仁樂路62號"
       }
     },
     {
+      "id" : "558AC607-4A4A-4B3B-9583-F1BA6267E8BF",
+      "properties" : {
+        "name" : "善緣素食",
+        "address" : "新竹縣竹東鎮長春路三段370號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1059,13 +1140,14 @@
           121.0806561,
           24.747245700000001
         ]
-      },
-      "properties" : {
-        "name" : "善緣素食",
-        "address" : "新竹縣竹東鎮長春路三段370號"
       }
     },
     {
+      "id" : "87BBD4C7-5A69-4600-BDE9-E5A6CE27EDA8",
+      "properties" : {
+        "name" : "佛有緣素食",
+        "address" : "新竹縣竹東鎮莊敬路46號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1073,13 +1155,14 @@
           121.08729460000001,
           24.741521800000001
         ]
-      },
-      "properties" : {
-        "name" : "佛有緣素食",
-        "address" : "新竹縣竹東鎮莊敬路46號"
       }
     },
     {
+      "id" : "DEE297DA-2F3F-4B26-91B5-AD7AF8E63EAE",
+      "properties" : {
+        "name" : "如聞心齋素食餐廳",
+        "address" : "新竹縣竹北市光明一路458號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1087,13 +1170,14 @@
           121.0105428,
           24.831781100000001
         ]
-      },
-      "properties" : {
-        "name" : "如聞心齋素食餐廳",
-        "address" : "新竹縣竹北市光明一路458號"
       }
     },
     {
+      "id" : "4BADCA91-389D-4D83-BC2E-5DC3158A8E46",
+      "properties" : {
+        "name" : "明新科技大學餐廳",
+        "address" : "新竹縣新豐鄉新興路1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1101,13 +1185,14 @@
           120.99163179999999,
           24.864663
         ]
-      },
-      "properties" : {
-        "name" : "明新科技大學餐廳",
-        "address" : "新竹縣新豐鄉新興路1號"
       }
     },
     {
+      "id" : "EBB82389-8698-48FE-AC1C-B3D0C90B0B21",
+      "properties" : {
+        "name" : "想再吃阿婆滷味",
+        "address" : "新竹縣橫山鄉中正路44號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1115,13 +1200,14 @@
           121.1833678,
           24.703913
         ]
-      },
-      "properties" : {
-        "name" : "想再吃阿婆滷味",
-        "address" : "新竹縣橫山鄉中正路44號"
       }
     },
     {
+      "id" : "F7C13C4D-9462-4FC9-AD1B-0B463D1F9763",
+      "properties" : {
+        "name" : "日勝客家蔬食",
+        "address" : "新竹縣新埔鎮中正路329號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1129,13 +1215,14 @@
           121.07768299999999,
           24.827604000000001
         ]
-      },
-      "properties" : {
-        "name" : "日勝客家蔬食",
-        "address" : "新竹縣新埔鎮中正路329號"
       }
     },
     {
+      "id" : "D262FC6A-730A-4B4D-BF0B-5353B5A7AEDB",
+      "properties" : {
+        "name" : "素食之家",
+        "address" : "新竹縣竹東鎮朝陽路75號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1143,13 +1230,14 @@
           121.086416,
           24.742851000000002
         ]
-      },
-      "properties" : {
-        "name" : "素食之家",
-        "address" : "新竹縣竹東鎮朝陽路75號"
       }
     },
     {
+      "id" : "07446896-3F47-4144-80AA-28F8CC7332AB",
+      "properties" : {
+        "name" : "舞蔬弄果",
+        "address" : "新竹縣竹北市嘉豐南路一段78號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1157,13 +1245,14 @@
           121.03379700000001,
           24.810541000000001
         ]
-      },
-      "properties" : {
-        "name" : "舞蔬弄果",
-        "address" : "新竹縣竹北市嘉豐南路一段78號"
       }
     },
     {
+      "id" : "E03C5351-F104-4CAA-8DD1-71376D719F01",
+      "properties" : {
+        "name" : "子欣素食",
+        "address" : "新竹縣新豐鄉建興路一段51巷10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1171,13 +1260,14 @@
           120.993968,
           24.871144000000001
         ]
-      },
-      "properties" : {
-        "name" : "子欣素食",
-        "address" : "新竹縣新豐鄉建興路一段51巷10號"
       }
     },
     {
+      "id" : "BDCB27CE-3F38-46F5-B077-471D11B2ED88",
+      "properties" : {
+        "name" : "吉祥健康自助餐",
+        "address" : "新竹縣竹北市中山路397號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1185,13 +1275,14 @@
           121.016268,
           24.837486999999999
         ]
-      },
-      "properties" : {
-        "name" : "吉祥健康自助餐",
-        "address" : "新竹縣竹北市中山路397號"
       }
     },
     {
+      "id" : "4F6734BF-F449-4B71-9BD5-F92E7795D0EC",
+      "properties" : {
+        "name" : "輕揚 Veggie Delight",
+        "address" : "新竹縣竹北市科大一路130號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1199,13 +1290,14 @@
           121.00967,
           24.821083000000002
         ]
-      },
-      "properties" : {
-        "name" : "輕揚 Veggie Delight",
-        "address" : "新竹縣竹北市科大一路130號"
       }
     },
     {
+      "id" : "5FCE2A5C-250F-4845-B93C-AC11F3D4DEB5",
+      "properties" : {
+        "name" : "松芸軒咖啡莊",
+        "address" : "新竹縣峨眉鄉湖光村十二寮12鄰1-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1213,13 +1305,14 @@
           120.990692,
           24.674184
         ]
-      },
-      "properties" : {
-        "name" : "松芸軒咖啡莊",
-        "address" : "新竹縣峨眉鄉湖光村十二寮12鄰1-2號"
       }
     },
     {
+      "id" : "6295BE6F-8A18-415C-9668-A4A8C43B12AD",
+      "properties" : {
+        "name" : "首竹素塹",
+        "address" : "新竹縣竹北市光明三路80號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1227,13 +1320,14 @@
           121.00867100000001,
           24.830310000000001
         ]
-      },
-      "properties" : {
-        "name" : "首竹素塹",
-        "address" : "新竹縣竹北市光明三路80號"
       }
     },
     {
+      "id" : "A4CE4BBB-71F1-4B59-98C2-CDFCDC9F5310",
+      "properties" : {
+        "name" : "我給你個 ‧ 綠創蔬廚",
+        "address" : "新竹縣竹北市文信路379號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1241,13 +1335,14 @@
           121.010091,
           24.832521
         ]
-      },
-      "properties" : {
-        "name" : "我給你個 ‧ 綠創蔬廚",
-        "address" : "新竹縣竹北市文信路379號"
       }
     },
     {
+      "id" : "EDAC426E-42B3-4F96-9661-6F703559BF5A",
+      "properties" : {
+        "name" : "茆家蔬食驛棧",
+        "address" : "新竹縣竹東鎮長春路二段77號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1255,13 +1350,14 @@
           121.08753,
           24.738629
         ]
-      },
-      "properties" : {
-        "name" : "茆家蔬食驛棧",
-        "address" : "新竹縣竹東鎮長春路二段77號"
       }
     },
     {
+      "id" : "96EC163A-BC0E-4CF6-BC59-2F4B2B943C73",
+      "properties" : {
+        "name" : "或者",
+        "address" : "新竹縣竹北市文興路一段123號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1269,13 +1365,14 @@
           121.0270606,
           24.8114557
         ]
-      },
-      "properties" : {
-        "name" : "或者",
-        "address" : "新竹縣竹北市文興路一段123號"
       }
     },
     {
+      "id" : "731D3684-CB1C-4673-8A07-183D7E2252C3",
+      "properties" : {
+        "name" : "素有緣素食",
+        "address" : "新竹縣竹北市仁義路129號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1283,13 +1380,14 @@
           121.014439,
           24.834491
         ]
-      },
-      "properties" : {
-        "name" : "素有緣素食",
-        "address" : "新竹縣竹北市仁義路129號"
       }
     },
     {
+      "id" : "87DA738C-6C2F-45E4-BF3D-AAFBF4D54930",
+      "properties" : {
+        "name" : "吉緣素食館",
+        "address" : "新竹縣竹北市文興路一段42號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1297,13 +1395,14 @@
           121.02459,
           24.812249999999999
         ]
-      },
-      "properties" : {
-        "name" : "吉緣素食館",
-        "address" : "新竹縣竹北市文興路一段42號"
       }
     },
     {
+      "id" : "21B58FFE-64ED-495B-8C83-696B6CB88571",
+      "properties" : {
+        "name" : "天恩饅頭包子",
+        "address" : "新竹縣湖口鄉湖中路85號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1311,13 +1410,14 @@
           121.054979,
           24.892617999999999
         ]
-      },
-      "properties" : {
-        "name" : "天恩饅頭包子",
-        "address" : "新竹縣湖口鄉湖中路85號"
       }
     },
     {
+      "id" : "2EACF082-EB82-408C-ADB7-1A92AA276A2E",
+      "properties" : {
+        "name" : "幸福元素蔬食館",
+        "address" : "新竹縣竹北市嘉興路242號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1325,13 +1425,14 @@
           121.029039,
           24.818203
         ]
-      },
-      "properties" : {
-        "name" : "幸福元素蔬食館",
-        "address" : "新竹縣竹北市嘉興路242號"
       }
     },
     {
+      "id" : "09691559-371D-45CC-986F-B8ED3172F971",
+      "properties" : {
+        "name" : "Peacevegan 痞食維根",
+        "address" : "新竹縣新埔鎮田新路327號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1339,13 +1440,14 @@
           121.07753169999999,
           24.824641199999999
         ]
-      },
-      "properties" : {
-        "name" : "Peacevegan 痞食維根",
-        "address" : "新竹縣新埔鎮田新路327號"
       }
     },
     {
+      "id" : "D8AF327D-6808-4A70-A35A-E22167C69679",
+      "properties" : {
+        "name" : "首竹素塹",
+        "address" : "新竹縣湖口鄉仁和路32號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1353,13 +1455,14 @@
           121.01224879999999,
           24.874069200000001
         ]
-      },
-      "properties" : {
-        "name" : "首竹素塹",
-        "address" : "新竹縣湖口鄉仁和路32號"
       }
     },
     {
+      "id" : "A1EB7C5B-BAD9-478A-85F5-B7A390EF7205",
+      "properties" : {
+        "name" : "F.A. 長椅咖啡",
+        "address" : "新竹縣竹北市嘉豐六路二段47號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1367,13 +1470,14 @@
           121.02815,
           24.808608
         ]
-      },
-      "properties" : {
-        "name" : "F.A. 長椅咖啡",
-        "address" : "新竹縣竹北市嘉豐六路二段47號"
       }
     },
     {
+      "id" : "1904FD62-491E-4D86-A20B-3F51A834889D",
+      "properties" : {
+        "name" : "素食早點",
+        "address" : "新竹縣新豐鄉新立路169號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1381,13 +1485,14 @@
           120.98616,
           24.902068
         ]
-      },
-      "properties" : {
-        "name" : "素食早點",
-        "address" : "新竹縣新豐鄉新立路169號"
       }
     },
     {
+      "id" : "8186D0D4-907C-437B-AF17-0EDFFF5A21F5",
+      "properties" : {
+        "name" : "井井咖啡",
+        "address" : "新竹縣竹北市文信路387號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1395,13 +1500,14 @@
           121.009972,
           24.832429000000001
         ]
-      },
-      "properties" : {
-        "name" : "井井咖啡",
-        "address" : "新竹縣竹北市文信路387號"
       }
     },
     {
+      "id" : "DF85E03E-5CB8-4B48-8D79-6B5F61136266",
+      "properties" : {
+        "name" : "素食小吃",
+        "address" : "新竹縣竹東鎮幸福路108號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1409,13 +1515,14 @@
           121.091128,
           24.723564
         ]
-      },
-      "properties" : {
-        "name" : "素食小吃",
-        "address" : "新竹縣竹東鎮幸福路108號"
       }
     },
     {
+      "id" : "D9565032-A41F-477F-B999-1BD3A39F13C8",
+      "properties" : {
+        "name" : "蔬食鍋",
+        "address" : "新竹縣竹北市嘉豐五路二段58號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1423,13 +1530,14 @@
           121.026135,
           24.809840000000001
         ]
-      },
-      "properties" : {
-        "name" : "蔬食鍋",
-        "address" : "新竹縣竹北市嘉豐五路二段58號"
       }
     },
     {
+      "id" : "7B4219BC-1D51-4246-BE81-B9DA8BC67B43",
+      "properties" : {
+        "name" : "小瑛廚房",
+        "address" : "新竹縣竹東鎮東寧路一段113號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1437,13 +1545,14 @@
           121.094675,
           24.724733000000001
         ]
-      },
-      "properties" : {
-        "name" : "小瑛廚房",
-        "address" : "新竹縣竹東鎮東寧路一段113號"
       }
     },
     {
+      "id" : "F5883F92-0F2D-470B-A313-7C2814D43F16",
+      "properties" : {
+        "name" : "Dig in Comfort 癮•舒•食",
+        "address" : "新竹縣竹北市六家一路一段7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1451,13 +1560,14 @@
           121.02423520000001,
           24.812491099999999
         ]
-      },
-      "properties" : {
-        "name" : "Dig in Comfort 癮•舒•食",
-        "address" : "新竹縣竹北市六家一路一段7號"
       }
     },
     {
+      "id" : "9BDCA884-1631-42D6-A810-921C9E546B9F",
+      "properties" : {
+        "name" : "菩提素食",
+        "address" : "新竹縣竹東鎮大同路49號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1465,13 +1575,14 @@
           121.0882814,
           24.7385102
         ]
-      },
-      "properties" : {
-        "name" : "菩提素食",
-        "address" : "新竹縣竹東鎮大同路49號"
       }
     },
     {
+      "id" : "16C175B0-3735-4D8A-A61F-AA1CD5DADAF1",
+      "properties" : {
+        "name" : "素食早點",
+        "address" : "新竹縣湖口鄉仁樂路138號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1479,13 +1590,14 @@
           121.01118289999999,
           24.873110400000002
         ]
-      },
-      "properties" : {
-        "name" : "素食早點",
-        "address" : "新竹縣湖口鄉仁樂路138號"
       }
     },
     {
+      "id" : "D9453D64-75B0-4123-A25C-25B13BF18EAD",
+      "properties" : {
+        "name" : "寬心園精緻蔬食料理",
+        "address" : "新竹縣竹北市莊敬二街8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1493,13 +1605,14 @@
           121.0242318,
           24.821967999999998
         ]
-      },
-      "properties" : {
-        "name" : "寬心園精緻蔬食料理",
-        "address" : "新竹縣竹北市莊敬二街8號"
       }
     },
     {
+      "id" : "D4E1DBA0-BA19-429B-A97D-AC24D343B7D0",
+      "properties" : {
+        "name" : "素食臭豆腐.飯.麵",
+        "address" : "新竹縣竹北市華興街35號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1507,13 +1620,14 @@
           121.00489709999999,
           24.843179500000002
         ]
-      },
-      "properties" : {
-        "name" : "素食臭豆腐.飯.麵",
-        "address" : "新竹縣竹北市華興街35號"
       }
     },
     {
+      "id" : "B722C414-9FF7-4C63-A45F-C43A79C8621A",
+      "properties" : {
+        "name" : "桐花芽蔬食咖啡廚房",
+        "address" : "新竹縣關西鎮錦山里2鄰錦山21-8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1521,13 +1635,14 @@
           121.22868699999999,
           24.764707000000001
         ]
-      },
-      "properties" : {
-        "name" : "桐花芽蔬食咖啡廚房",
-        "address" : "新竹縣關西鎮錦山里2鄰錦山21-8號"
       }
     },
     {
+      "id" : "41BE0F3B-2E8D-4B22-8904-95A0C4459DB1",
+      "properties" : {
+        "name" : "Loving Hut ",
+        "address" : "新竹縣竹北市民權街37號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1535,13 +1650,14 @@
           121.012315,
           24.832730999999999
         ]
-      },
-      "properties" : {
-        "name" : "Loving Hut ",
-        "address" : "新竹縣竹北市民權街37號"
       }
     },
     {
+      "id" : "81C468D6-1017-43BF-8D4C-38B7176BF069",
+      "properties" : {
+        "name" : "安齋素食",
+        "address" : "新竹縣新豐鄉康樂路一段301號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1549,13 +1665,14 @@
           120.98665339999999,
           24.870725100000001
         ]
-      },
-      "properties" : {
-        "name" : "安齋素食",
-        "address" : "新竹縣新豐鄉康樂路一段301號"
       }
     },
     {
+      "id" : "C3E65F3B-047B-4C46-91BC-C0598E238188",
+      "properties" : {
+        "name" : "養肝茶",
+        "address" : "新竹縣竹北市嘉興路176號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1563,13 +1680,14 @@
           121.02746999999999,
           24.816884000000002
         ]
-      },
-      "properties" : {
-        "name" : "養肝茶",
-        "address" : "新竹縣竹北市嘉興路176號"
       }
     },
     {
+      "id" : "120ACF53-E447-4456-80EC-29DA4F177C0F",
+      "properties" : {
+        "name" : "書香素香",
+        "address" : "新竹縣竹東鎮光明路231號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1577,10 +1695,6 @@
           121.056237,
           24.771576
         ]
-      },
-      "properties" : {
-        "name" : "書香素香",
-        "address" : "新竹縣竹東鎮光明路231號"
       }
     }
   ]

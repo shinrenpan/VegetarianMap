@@ -1,7 +1,13 @@
 {
   "type" : "FeatureCollection",
+  "areaCode" : 900,
   "features" : [
     {
+      "id" : "3A33AE4E-EEA6-41DD-92D8-EB445627A6A7",
+      "properties" : {
+        "name" : "吉尚緣蔬食館",
+        "address" : "屏東縣內埔鄉光明路541號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -9,13 +15,14 @@
           120.569377,
           22.615666999999998
         ]
-      },
-      "properties" : {
-        "name" : "吉尚緣蔬食館",
-        "address" : "屏東縣內埔鄉光明路541號"
       }
     },
     {
+      "id" : "A4A6AF02-9B32-4F72-B381-738C51CB9D06",
+      "properties" : {
+        "name" : "蔬芙蕾拉丁美洲蔬食自助餐",
+        "address" : "屏東縣內埔鄉南寧路167號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -23,13 +30,14 @@
           120.562409,
           22.619347000000001
         ]
-      },
-      "properties" : {
-        "name" : "蔬芙蕾拉丁美洲蔬食自助餐",
-        "address" : "屏東縣內埔鄉南寧路167號"
       }
     },
     {
+      "id" : "CDE54321-21A3-4ACA-87DD-87A10A71C044",
+      "properties" : {
+        "name" : "素宴舍",
+        "address" : "屏東縣屏東市勝利路258號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -37,13 +45,14 @@
           120.475291,
           22.678916000000001
         ]
-      },
-      "properties" : {
-        "name" : "素宴舍",
-        "address" : "屏東縣屏東市勝利路258號"
       }
     },
     {
+      "id" : "1302043C-3F6B-4953-9DBE-FC8AF54838C3",
+      "properties" : {
+        "name" : "素食麵店",
+        "address" : "屏東縣屏東市豐榮街35號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -51,13 +60,14 @@
           120.501611,
           22.677852999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食麵店",
-        "address" : "屏東縣屏東市豐榮街35號"
       }
     },
     {
+      "id" : "262CC892-7FBE-4E7B-8CE3-6D89AE9496D2",
+      "properties" : {
+        "name" : "Eske Place Coffee House",
+        "address" : "屏東縣屏東市民享路142號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -65,13 +75,14 @@
           120.499492,
           22.675024000000001
         ]
-      },
-      "properties" : {
-        "name" : "Eske Place Coffee House",
-        "address" : "屏東縣屏東市民享路142號"
       }
     },
     {
+      "id" : "E018B444-D60A-49D5-ADAA-2E4D46F4D52C",
+      "properties" : {
+        "name" : "双圓素食",
+        "address" : "屏東縣鹽埔鄉維新路94號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -79,13 +90,14 @@
           120.557356,
           22.740908999999998
         ]
-      },
-      "properties" : {
-        "name" : "双圓素食",
-        "address" : "屏東縣鹽埔鄉維新路94號"
       }
     },
     {
+      "id" : "75EC4BD3-7821-45E7-9DDF-D67333FB5A53",
+      "properties" : {
+        "name" : "阿閦素食坊",
+        "address" : "屏東縣屏東市信義路282號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -93,13 +105,14 @@
           120.492019,
           22.686995
         ]
-      },
-      "properties" : {
-        "name" : "阿閦素食坊",
-        "address" : "屏東縣屏東市信義路282號"
       }
     },
     {
+      "id" : "27BCDB7B-3A48-43D2-A6AF-FCA86B937DD5",
+      "properties" : {
+        "name" : "上海素食餐廳",
+        "address" : "屏東縣屏東市重慶路60號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -107,13 +120,14 @@
           120.483863,
           22.672723999999999
         ]
-      },
-      "properties" : {
-        "name" : "上海素食餐廳",
-        "address" : "屏東縣屏東市重慶路60號"
       }
     },
     {
+      "id" : "39645D53-B84E-4553-AA03-018889635F66",
+      "properties" : {
+        "name" : "上聖素食",
+        "address" : "屏東縣屏東市民權路79號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -121,13 +135,14 @@
           120.491975,
           22.672771999999998
         ]
-      },
-      "properties" : {
-        "name" : "上聖素食",
-        "address" : "屏東縣屏東市民權路79號"
       }
     },
     {
+      "id" : "A6ED8214-48ED-4184-AA13-C751277D17FF",
+      "properties" : {
+        "name" : "自然廚房健康素食",
+        "address" : "屏東縣屏東市建豐路317號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -135,13 +150,14 @@
           120.50127000000001,
           22.676936999999999
         ]
-      },
-      "properties" : {
-        "name" : "自然廚房健康素食",
-        "address" : "屏東縣屏東市建豐路317號"
       }
     },
     {
+      "id" : "320183CF-8189-4348-8CE4-E6BA6A5113B2",
+      "properties" : {
+        "name" : "欣美冰城",
+        "address" : "屏東縣東港鎮中正路14號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -149,13 +165,14 @@
           120.448899,
           22.465233000000001
         ]
-      },
-      "properties" : {
-        "name" : "欣美冰城",
-        "address" : "屏東縣東港鎮中正路14號"
       }
     },
     {
+      "id" : "DB2E56B5-C50C-4479-AB3A-9880B42E9E40",
+      "properties" : {
+        "name" : "慈好素食魯味",
+        "address" : "屏東縣屏東市永大路233號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -163,13 +180,14 @@
           120.47668299999999,
           22.657875000000001
         ]
-      },
-      "properties" : {
-        "name" : "慈好素食魯味",
-        "address" : "屏東縣屏東市永大路233號"
       }
     },
     {
+      "id" : "60070D82-E865-4CD4-9B68-6233BCABD057",
+      "properties" : {
+        "name" : "發現祕境民宿",
+        "address" : "屏東縣林邊鄉裕後路90號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -177,13 +195,14 @@
           120.48857099999999,
           22.428564000000001
         ]
-      },
-      "properties" : {
-        "name" : "發現祕境民宿",
-        "address" : "屏東縣林邊鄉裕後路90號"
       }
     },
     {
+      "id" : "1911F517-F1F5-4F7A-BA51-12202CE11146",
+      "properties" : {
+        "name" : "Lohouse樂多福",
+        "address" : "屏東縣屏東市林森路38號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -191,13 +210,14 @@
           120.49643500000001,
           22.671810000000001
         ]
-      },
-      "properties" : {
-        "name" : "Lohouse樂多福",
-        "address" : "屏東縣屏東市林森路38號"
       }
     },
     {
+      "id" : "75F58CF6-FCB8-4129-9E94-E1411F7D2C53",
+      "properties" : {
+        "name" : "呷素軒",
+        "address" : "屏東縣屏東市博愛路383號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -205,13 +225,14 @@
           120.480475,
           22.684905000000001
         ]
-      },
-      "properties" : {
-        "name" : "呷素軒",
-        "address" : "屏東縣屏東市博愛路383號"
       }
     },
     {
+      "id" : "CEFB1017-0535-4214-B065-ACBB572B0FBC",
+      "properties" : {
+        "name" : "龍德素食",
+        "address" : "屏東縣東港鎮信義街50號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -219,13 +240,14 @@
           120.4512352,
           22.467958200000002
         ]
-      },
-      "properties" : {
-        "name" : "龍德素食",
-        "address" : "屏東縣東港鎮信義街50號"
       }
     },
     {
+      "id" : "4FE7FCF4-CE80-43D0-B6E2-DB6BF203AC75",
+      "properties" : {
+        "name" : "王素食鹽酥G",
+        "address" : "屏東縣屏東市廣東路114-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -233,13 +255,14 @@
           120.499815,
           22.673245999999999
         ]
-      },
-      "properties" : {
-        "name" : "王素食鹽酥G",
-        "address" : "屏東縣屏東市廣東路114-1號"
       }
     },
     {
+      "id" : "5ABBE9C0-4EBF-415C-8B7E-9B0CE66D787C",
+      "properties" : {
+        "name" : "傑克好小子",
+        "address" : "屏東縣屏東市廣東路590號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -247,13 +270,14 @@
           120.498367,
           22.683619
         ]
-      },
-      "properties" : {
-        "name" : "傑克好小子",
-        "address" : "屏東縣屏東市廣東路590號"
       }
     },
     {
+      "id" : "E997FCD3-7867-4928-8230-DF4764B453FF",
+      "properties" : {
+        "name" : "蓮莊",
+        "address" : "屏東縣屏東市仁愛路165號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -261,13 +285,14 @@
           120.497478,
           22.68281
         ]
-      },
-      "properties" : {
-        "name" : "蓮莊",
-        "address" : "屏東縣屏東市仁愛路165號"
       }
     },
     {
+      "id" : "3B6E996C-ECBE-43A9-8F3F-8DC8091D482C",
+      "properties" : {
+        "name" : "方便素食早午餐",
+        "address" : "屏東縣屏東市中山路88號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -275,13 +300,14 @@
           120.48482300000001,
           22.680536
         ]
-      },
-      "properties" : {
-        "name" : "方便素食早午餐",
-        "address" : "屏東縣屏東市中山路88號"
       }
     },
     {
+      "id" : "4F8EF60F-B944-4838-88D5-C81A2F7C7845",
+      "properties" : {
+        "name" : "素食自助餐",
+        "address" : "屏東縣屏東市中正路369-4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -289,13 +315,14 @@
           120.494027,
           22.684846
         ]
-      },
-      "properties" : {
-        "name" : "素食自助餐",
-        "address" : "屏東縣屏東市中正路369-4號"
       }
     },
     {
+      "id" : "ADB787B2-69FA-4C72-A8A3-AA195149F92A",
+      "properties" : {
+        "name" : "蔬活晨食",
+        "address" : "屏東縣屏東市大連路87號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -303,13 +330,14 @@
           120.495828,
           22.677945999999999
         ]
-      },
-      "properties" : {
-        "name" : "蔬活晨食",
-        "address" : "屏東縣屏東市大連路87號"
       }
     },
     {
+      "id" : "02D8CF3F-1A57-4F9B-81A1-7B9535DF7243",
+      "properties" : {
+        "name" : "李家素食",
+        "address" : "屏東縣屏東市民生路57巷13號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -317,13 +345,14 @@
           120.505026,
           22.663032000000001
         ]
-      },
-      "properties" : {
-        "name" : "李家素食",
-        "address" : "屏東縣屏東市民生路57巷13號"
       }
     },
     {
+      "id" : "A5CDDA83-1FB2-435B-A6AA-E97C904B03C2",
+      "properties" : {
+        "name" : "東港第一家素食鹹酥雞",
+        "address" : "屏東縣東港鎮新生一路30-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -331,13 +360,14 @@
           120.44579899999999,
           22.465993000000001
         ]
-      },
-      "properties" : {
-        "name" : "東港第一家素食鹹酥雞",
-        "address" : "屏東縣東港鎮新生一路30-6號"
       }
     },
     {
+      "id" : "68D0BFA2-59E6-46D4-B5D5-E56E917DC757",
+      "properties" : {
+        "name" : "恆春麵店",
+        "address" : "屏東縣恆春鎮恆南路55-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -345,13 +375,14 @@
           120.7448535,
           21.997074300000001
         ]
-      },
-      "properties" : {
-        "name" : "恆春麵店",
-        "address" : "屏東縣恆春鎮恆南路55-1號"
       }
     },
     {
+      "id" : "44D6BB14-82E6-4F3D-8196-E237A7BB3397",
+      "properties" : {
+        "name" : "Table 1 cafe' 打舖宿食咖啡館",
+        "address" : "屏東縣萬丹鄉中興路二段657號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -359,13 +390,14 @@
           120.488221,
           22.583925000000001
         ]
-      },
-      "properties" : {
-        "name" : "Table 1 cafe' 打舖宿食咖啡館",
-        "address" : "屏東縣萬丹鄉中興路二段657號"
       }
     },
     {
+      "id" : "6419A012-634C-469C-926F-715E7DC4E183",
+      "properties" : {
+        "name" : "御心齋素食",
+        "address" : "屏東縣屏東市廣東路55號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -373,13 +405,14 @@
           120.498941,
           22.671374
         ]
-      },
-      "properties" : {
-        "name" : "御心齋素食",
-        "address" : "屏東縣屏東市廣東路55號"
       }
     },
     {
+      "id" : "FC73EC1B-F6F6-4E28-8DEA-BAC5E73EEB95",
+      "properties" : {
+        "name" : "和素齋食堂",
+        "address" : "屏東縣內埔鄉學仁路606號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -387,13 +420,14 @@
           120.570414,
           22.613026000000001
         ]
-      },
-      "properties" : {
-        "name" : "和素齋食堂",
-        "address" : "屏東縣內埔鄉學仁路606號"
       }
     },
     {
+      "id" : "5A941905-88F4-4E43-BDD9-340C55275442",
+      "properties" : {
+        "name" : "妙齋素食",
+        "address" : "屏東縣屏東市歸仁路188-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -401,13 +435,14 @@
           120.506929,
           22.661503
         ]
-      },
-      "properties" : {
-        "name" : "妙齋素食",
-        "address" : "屏東縣屏東市歸仁路188-1號"
       }
     },
     {
+      "id" : "A2E36B49-F1A9-40AD-9C5D-9D71F7DBDDA5",
+      "properties" : {
+        "name" : "慈海素食",
+        "address" : "屏東縣恆春鎮西門路139號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -415,13 +450,14 @@
           120.743529,
           22.008721000000001
         ]
-      },
-      "properties" : {
-        "name" : "慈海素食",
-        "address" : "屏東縣恆春鎮西門路139號"
       }
     },
     {
+      "id" : "423B32A4-BCDB-447E-A2DB-B2C3336AC496",
+      "properties" : {
+        "name" : "變形特區o.b ZONE",
+        "address" : "屏東縣東港鎮嘉蓮路42-7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -429,13 +465,14 @@
           120.449237,
           22.455752
         ]
-      },
-      "properties" : {
-        "name" : "變形特區o.b ZONE",
-        "address" : "屏東縣東港鎮嘉蓮路42-7號"
       }
     },
     {
+      "id" : "7C93D02E-8A20-4460-90F8-67D6BB4FB08A",
+      "properties" : {
+        "name" : "禪香素食",
+        "address" : "屏東縣萬丹鄉萬丹路一段470號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -443,13 +480,14 @@
           120.489073,
           22.592431999999999
         ]
-      },
-      "properties" : {
-        "name" : "禪香素食",
-        "address" : "屏東縣萬丹鄉萬丹路一段470號"
       }
     },
     {
+      "id" : "4DBBEFE4-F5E5-455A-A5F4-C2FFADB9E3BC",
+      "properties" : {
+        "name" : "雨林蔬食",
+        "address" : "屏東縣東港鎮新義路132號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -457,13 +495,14 @@
           120.45958400000001,
           22.464825999999999
         ]
-      },
-      "properties" : {
-        "name" : "雨林蔬食",
-        "address" : "屏東縣東港鎮新義路132號"
       }
     },
     {
+      "id" : "4BEFF3B6-9E43-4C2A-BA74-07883E36671C",
+      "properties" : {
+        "name" : "萸素食鹽水雞",
+        "address" : "屏東縣屏東市民族路78號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -471,13 +510,14 @@
           120.48732699999999,
           22.670247
         ]
-      },
-      "properties" : {
-        "name" : "萸素食鹽水雞",
-        "address" : "屏東縣屏東市民族路78號"
       }
     },
     {
+      "id" : "0CF6C3C3-6591-4229-90CF-05E31D531F28",
+      "properties" : {
+        "name" : "素の燒",
+        "address" : "屏東縣屏東市信義路177號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -485,13 +525,14 @@
           120.489492,
           22.680382999999999
         ]
-      },
-      "properties" : {
-        "name" : "素の燒",
-        "address" : "屏東縣屏東市信義路177號"
       }
     },
     {
+      "id" : "AD34EC57-9C82-4557-8A6C-0D652D48785C",
+      "properties" : {
+        "name" : "好禮素食坊",
+        "address" : "屏東縣琉球鄉中正路307號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -499,13 +540,14 @@
           120.37004,
           22.338971000000001
         ]
-      },
-      "properties" : {
-        "name" : "好禮素食坊",
-        "address" : "屏東縣琉球鄉中正路307號"
       }
     },
     {
+      "id" : "45FB2CDC-BA1D-420B-8840-8257078CD965",
+      "properties" : {
+        "name" : "盛蓮全素",
+        "address" : "屏東縣屏東市華正路153號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -513,13 +555,14 @@
           120.499987,
           22.685979
         ]
-      },
-      "properties" : {
-        "name" : "盛蓮全素",
-        "address" : "屏東縣屏東市華正路153號"
       }
     },
     {
+      "id" : "F278FBB3-F2F2-4E6D-8FA0-D96613E86CF8",
+      "properties" : {
+        "name" : "素心齋",
+        "address" : "屏東縣萬丹鄉和平西路158號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -527,13 +570,14 @@
           120.487627,
           22.589251999999998
         ]
-      },
-      "properties" : {
-        "name" : "素心齋",
-        "address" : "屏東縣萬丹鄉和平西路158號"
       }
     },
     {
+      "id" : "3E7507B0-5780-4805-840D-458D3A5E1A9C",
+      "properties" : {
+        "name" : "金旺仔",
+        "address" : "屏東縣佳冬鄉中山路94號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -541,13 +585,14 @@
           120.56286900000001,
           22.431059999999999
         ]
-      },
-      "properties" : {
-        "name" : "金旺仔",
-        "address" : "屏東縣佳冬鄉中山路94號"
       }
     },
     {
+      "id" : "EF81267D-5DC7-490D-A420-1431127C8327",
+      "properties" : {
+        "name" : "天喜素食自助餐館",
+        "address" : "屏東縣屏東市信義路401號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -555,13 +600,14 @@
           120.48369,
           22.672025999999999
         ]
-      },
-      "properties" : {
-        "name" : "天喜素食自助餐館",
-        "address" : "屏東縣屏東市信義路401號"
       }
     },
     {
+      "id" : "782ACD5F-63C0-4EE1-93C5-7DFB2F2F81E5",
+      "properties" : {
+        "name" : "安巒山莊",
+        "address" : "屏東縣萬巒鄉永康路134號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -569,13 +615,14 @@
           120.564475,
           22.566046
         ]
-      },
-      "properties" : {
-        "name" : "安巒山莊",
-        "address" : "屏東縣萬巒鄉永康路134號"
       }
     },
     {
+      "id" : "E27082A9-E711-4078-AD9B-D7309FAAFF2B",
+      "properties" : {
+        "name" : "綠菓蔬",
+        "address" : "屏東縣萬丹鄉萬丹路二段157號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -583,13 +630,14 @@
           120.48807100000001,
           22.602933
         ]
-      },
-      "properties" : {
-        "name" : "綠菓蔬",
-        "address" : "屏東縣萬丹鄉萬丹路二段157號"
       }
     },
     {
+      "id" : "33F0AA01-DD73-41C8-85E1-25BE546CDE99",
+      "properties" : {
+        "name" : "養生素食館",
+        "address" : "屏東縣屏東市博愛路149號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -597,13 +645,14 @@
           120.48120400000001,
           22.675756
         ]
-      },
-      "properties" : {
-        "name" : "養生素食館",
-        "address" : "屏東縣屏東市博愛路149號"
       }
     },
     {
+      "id" : "DCA8F56A-F6E1-44E1-96EB-C7AEEBCBB6C1",
+      "properties" : {
+        "name" : "嵐筑園民宿庭園咖啡",
+        "address" : "屏東縣高樹鄉沿山公路一段91號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -611,13 +660,14 @@
           120.64539619999999,
           22.8795836
         ]
-      },
-      "properties" : {
-        "name" : "嵐筑園民宿庭園咖啡",
-        "address" : "屏東縣高樹鄉沿山公路一段91號"
       }
     },
     {
+      "id" : "252CB140-EA53-44D7-B3A8-036E61DD9AD4",
+      "properties" : {
+        "name" : "Jimmy James Coffee Vegan",
+        "address" : "屏東縣屏東市忠孝路1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -625,13 +675,14 @@
           120.480985,
           22.672366
         ]
-      },
-      "properties" : {
-        "name" : "Jimmy James Coffee Vegan",
-        "address" : "屏東縣屏東市忠孝路1號"
       }
     },
     {
+      "id" : "1C16EED5-B0B3-4DBC-8D4D-BD8FD291E374",
+      "properties" : {
+        "name" : "藝棧咖啡蔬食館",
+        "address" : "屏東縣潮州鎮天祥路36號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -639,13 +690,14 @@
           120.541089,
           22.540410999999999
         ]
-      },
-      "properties" : {
-        "name" : "藝棧咖啡蔬食館",
-        "address" : "屏東縣潮州鎮天祥路36號"
       }
     },
     {
+      "id" : "8DA0B0BF-AF33-4DD8-9F6C-35FF5A4AA81F",
+      "properties" : {
+        "name" : "中正素食館",
+        "address" : "屏東縣潮州鎮連興路2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -653,13 +705,14 @@
           120.539444,
           22.553553000000001
         ]
-      },
-      "properties" : {
-        "name" : "中正素食館",
-        "address" : "屏東縣潮州鎮連興路2號"
       }
     },
     {
+      "id" : "E05C7BC3-992D-4458-95BE-E5B76D05CCA9",
+      "properties" : {
+        "name" : "圓素食",
+        "address" : "屏東縣萬丹鄉萬丹路一段312號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -667,13 +720,14 @@
           120.489355,
           22.589424999999999
         ]
-      },
-      "properties" : {
-        "name" : "圓素食",
-        "address" : "屏東縣萬丹鄉萬丹路一段312號"
       }
     },
     {
+      "id" : "E13B622B-6E3F-4EFD-9B42-2A8829904796",
+      "properties" : {
+        "name" : "大寶地素食",
+        "address" : "屏東縣屏東市中正路702-8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -681,13 +735,14 @@
           120.499343,
           22.689550000000001
         ]
-      },
-      "properties" : {
-        "name" : "大寶地素食",
-        "address" : "屏東縣屏東市中正路702-8號"
       }
     },
     {
+      "id" : "4EF8F2F7-B563-41CA-862E-1D9DBB6F14C9",
+      "properties" : {
+        "name" : "就素好吃",
+        "address" : "屏東縣屏東市建華一街200號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -695,13 +750,14 @@
           120.48170210000001,
           22.6687695
         ]
-      },
-      "properties" : {
-        "name" : "就素好吃",
-        "address" : "屏東縣屏東市建華一街200號"
       }
     },
     {
+      "id" : "177168E7-B345-4668-8991-56924A12B881",
+      "properties" : {
+        "name" : "妙育素食自助餐",
+        "address" : "屏東縣林邊鄉中林路76號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -709,13 +765,14 @@
           120.51754099999999,
           22.433268000000002
         ]
-      },
-      "properties" : {
-        "name" : "妙育素食自助餐",
-        "address" : "屏東縣林邊鄉中林路76號"
       }
     },
     {
+      "id" : "67E87723-BC88-4CC8-BF7D-95826A776C39",
+      "properties" : {
+        "name" : "素食林",
+        "address" : "屏東縣恆春鎮中山路155號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -723,13 +780,14 @@
           120.743392,
           22.004386
         ]
-      },
-      "properties" : {
-        "name" : "素食林",
-        "address" : "屏東縣恆春鎮中山路155號"
       }
     },
     {
+      "id" : "6CD9DFFE-F225-44A2-9D65-4AD67DB40E90",
+      "properties" : {
+        "name" : "大吉素食",
+        "address" : "屏東縣東港鎮中山路141-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -737,13 +795,14 @@
           120.447453,
           22.467977999999999
         ]
-      },
-      "properties" : {
-        "name" : "大吉素食",
-        "address" : "屏東縣東港鎮中山路141-1號"
       }
     },
     {
+      "id" : "BDB6252F-4DF8-4E99-8F76-C82E6F7450E0",
+      "properties" : {
+        "name" : "東東素食行專賣店原料",
+        "address" : "屏東縣萬丹鄉萬榮街95號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -751,13 +810,14 @@
           120.490512,
           22.591885000000001
         ]
-      },
-      "properties" : {
-        "name" : "東東素食行專賣店原料",
-        "address" : "屏東縣萬丹鄉萬榮街95號"
       }
     },
     {
+      "id" : "82D15191-CF65-4077-89FD-62DF700CA55C",
+      "properties" : {
+        "name" : "吳媽媽素食館",
+        "address" : "屏東縣屏東市林森路25-43號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -765,13 +825,14 @@
           120.497282,
           22.670940000000002
         ]
-      },
-      "properties" : {
-        "name" : "吳媽媽素食館",
-        "address" : "屏東縣屏東市林森路25-43號"
       }
     },
     {
+      "id" : "D0273FCA-7FA2-4D28-99F1-4B9BF09B6663",
+      "properties" : {
+        "name" : "靜觀素食自助餐館",
+        "address" : "屏東縣潮州鎮文化路46號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -779,13 +840,14 @@
           120.542524,
           22.552446
         ]
-      },
-      "properties" : {
-        "name" : "靜觀素食自助餐館",
-        "address" : "屏東縣潮州鎮文化路46號"
       }
     },
     {
+      "id" : "B4E8283B-FCFE-49CE-8B7A-F8BC93255B28",
+      "properties" : {
+        "name" : "陳媽媽素食小館",
+        "address" : "屏東縣內埔鄉原勝路127號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -793,13 +855,14 @@
           120.59986499999999,
           22.667117999999999
         ]
-      },
-      "properties" : {
-        "name" : "陳媽媽素食小館",
-        "address" : "屏東縣內埔鄉原勝路127號"
       }
     },
     {
+      "id" : "76DD92A6-960F-466A-A9D4-090D90EEE31A",
+      "properties" : {
+        "name" : "香海雲集濃厚青草茶鋪",
+        "address" : "屏東縣屏東市廣東路700-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -807,13 +870,14 @@
           120.495926,
           22.685883
         ]
-      },
-      "properties" : {
-        "name" : "香海雲集濃厚青草茶鋪",
-        "address" : "屏東縣屏東市廣東路700-3號"
       }
     },
     {
+      "id" : "64D41202-0CB2-4880-BE45-8F7C6D28CE2A",
+      "properties" : {
+        "name" : "素食早午餐",
+        "address" : "屏東縣潮州鎮大同路107號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -821,13 +885,14 @@
           120.53101100000001,
           22.542183999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食早午餐",
-        "address" : "屏東縣潮州鎮大同路107號"
       }
     },
     {
+      "id" : "849A8C94-2E1B-48F7-86CD-FF49D0AA3812",
+      "properties" : {
+        "name" : "新美茶飲",
+        "address" : "屏東縣內埔鄉壽比路738號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -835,13 +900,14 @@
           120.59556600000001,
           22.640149999999998
         ]
-      },
-      "properties" : {
-        "name" : "新美茶飲",
-        "address" : "屏東縣內埔鄉壽比路738號"
       }
     },
     {
+      "id" : "B7883466-1950-4D1B-AD5D-C914D2B6F80F",
+      "properties" : {
+        "name" : "全明素食麻辣燙",
+        "address" : "屏東縣萬丹鄉丹榮路625號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -849,13 +915,14 @@
           120.492017,
           22.588936
         ]
-      },
-      "properties" : {
-        "name" : "全明素食麻辣燙",
-        "address" : "屏東縣萬丹鄉丹榮路625號"
       }
     },
     {
+      "id" : "474DB165-4B0B-47DF-ADD7-A275606D8D11",
+      "properties" : {
+        "name" : "日光池畔蔬食坊",
+        "address" : "屏東縣屏東市勝利東路48號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -863,13 +930,14 @@
           120.49827999999999,
           22.677482000000001
         ]
-      },
-      "properties" : {
-        "name" : "日光池畔蔬食坊",
-        "address" : "屏東縣屏東市勝利東路48號"
       }
     },
     {
+      "id" : "DFC50685-4CB0-4D93-B3AF-17030C00628E",
+      "properties" : {
+        "name" : "洪家素食",
+        "address" : "屏東縣屏東市信義路50號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -877,13 +945,14 @@
           120.484171,
           22.672415000000001
         ]
-      },
-      "properties" : {
-        "name" : "洪家素食",
-        "address" : "屏東縣屏東市信義路50號"
       }
     },
     {
+      "id" : "C5AA8A19-8E84-408D-9E31-92B3E20228CE",
+      "properties" : {
+        "name" : "媽咪蔬食館",
+        "address" : "屏東縣南州鄉三民路38號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -891,13 +960,14 @@
           120.51036999999999,
           22.490131000000002
         ]
-      },
-      "properties" : {
-        "name" : "媽咪蔬食館",
-        "address" : "屏東縣南州鄉三民路38號"
       }
     },
     {
+      "id" : "BED82A0E-F828-4929-A366-D9512C49B802",
+      "properties" : {
+        "name" : "美華蚵爹",
+        "address" : "屏東縣萬丹鄉下蚶路223號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -905,13 +975,14 @@
           120.46368699999999,
           22.598645999999999
         ]
-      },
-      "properties" : {
-        "name" : "美華蚵爹",
-        "address" : "屏東縣萬丹鄉下蚶路223號"
       }
     },
     {
+      "id" : "C43EB793-A8EC-404C-BB97-098067E6DC3E",
+      "properties" : {
+        "name" : "環遊素界",
+        "address" : "屏東縣東港鎮新勝街93-4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -919,13 +990,14 @@
           120.451819,
           22.468045199999999
         ]
-      },
-      "properties" : {
-        "name" : "環遊素界",
-        "address" : "屏東縣東港鎮新勝街93-4號"
       }
     },
     {
+      "id" : "C58BE7F7-93B4-4ADB-95BE-94C1A8D7433B",
+      "properties" : {
+        "name" : "滋味多素食店",
+        "address" : "屏東縣鹽埔鄉德協路4-7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -933,13 +1005,14 @@
           120.556921,
           22.739995
         ]
-      },
-      "properties" : {
-        "name" : "滋味多素食店",
-        "address" : "屏東縣鹽埔鄉德協路4-7號"
       }
     },
     {
+      "id" : "00C5F264-7C9D-49EC-B903-C3B0118E1D19",
+      "properties" : {
+        "name" : "蔬香世家",
+        "address" : "屏東縣潮州鎮文化路28號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -947,13 +1020,14 @@
           120.54239699999999,
           22.551926999999999
         ]
-      },
-      "properties" : {
-        "name" : "蔬香世家",
-        "address" : "屏東縣潮州鎮文化路28號"
       }
     },
     {
+      "id" : "C5CFEA75-6C93-4785-976F-1CFD1241EED1",
+      "properties" : {
+        "name" : "明香坊健康素食",
+        "address" : "屏東縣屏東市華正路37號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -961,13 +1035,14 @@
           120.502774,
           22.686682999999999
         ]
-      },
-      "properties" : {
-        "name" : "明香坊健康素食",
-        "address" : "屏東縣屏東市華正路37號"
       }
     },
     {
+      "id" : "9943DC34-CB43-412E-906B-2964FB28E2B1",
+      "properties" : {
+        "name" : "花之夢蔬食坊",
+        "address" : "屏東縣屏東市台糖街63號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -975,13 +1050,14 @@
           120.491772,
           22.662175999999999
         ]
-      },
-      "properties" : {
-        "name" : "花之夢蔬食坊",
-        "address" : "屏東縣屏東市台糖街63號"
       }
     },
     {
+      "id" : "04B56A84-0DD1-48ED-822F-14A46E7B866B",
+      "properties" : {
+        "name" : "夜市素食店",
+        "address" : "屏東縣屏東市萬倉街3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -989,13 +1065,14 @@
           120.49098600000001,
           22.668635999999999
         ]
-      },
-      "properties" : {
-        "name" : "夜市素食店",
-        "address" : "屏東縣屏東市萬倉街3號"
       }
     },
     {
+      "id" : "D99758C5-08F8-47D4-8C60-BCB8C5621AD3",
+      "properties" : {
+        "name" : "素食小屋",
+        "address" : "屏東縣屏東市勝利路47號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1003,13 +1080,14 @@
           120.490656,
           22.678854999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食小屋",
-        "address" : "屏東縣屏東市勝利路47號"
       }
     },
     {
+      "id" : "B1DB56EE-A31E-4C5E-BEEE-09B1ED19E490",
+      "properties" : {
+        "name" : "天一蔬食坊",
+        "address" : "屏東縣屏東市廣東路1135號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1017,13 +1095,14 @@
           120.477785,
           22.685502
         ]
-      },
-      "properties" : {
-        "name" : "天一蔬食坊",
-        "address" : "屏東縣屏東市廣東路1135號"
       }
     },
     {
+      "id" : "7178BB31-FD62-4964-A83A-E30EF5873632",
+      "properties" : {
+        "name" : "鄉味素食",
+        "address" : "屏東縣內埔鄉龍潭村昭勝路319號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1031,13 +1110,14 @@
           120.600858,
           22.675740999999999
         ]
-      },
-      "properties" : {
-        "name" : "鄉味素食",
-        "address" : "屏東縣內埔鄉龍潭村昭勝路319號"
       }
     },
     {
+      "id" : "B89B88AD-BD6B-499C-AECC-D5E126ED3BD9",
+      "properties" : {
+        "name" : "金饌蔬食園",
+        "address" : "屏東縣潮州鎮建基路179號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1045,13 +1125,14 @@
           120.540279,
           22.551252999999999
         ]
-      },
-      "properties" : {
-        "name" : "金饌蔬食園",
-        "address" : "屏東縣潮州鎮建基路179號"
       }
     },
     {
+      "id" : "4DA96E23-DB3F-4BAD-A4AB-1FD3E95E855F",
+      "properties" : {
+        "name" : "如意素 蔬食坊",
+        "address" : "屏東縣東港鎮新仁段661號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1059,13 +1140,14 @@
           120.445492,
           22.466511000000001
         ]
-      },
-      "properties" : {
-        "name" : "如意素 蔬食坊",
-        "address" : "屏東縣東港鎮新仁段661號"
       }
     },
     {
+      "id" : "7D474A1B-BB7C-44B9-BD16-8B7D80A10C26",
+      "properties" : {
+        "name" : "恆。好",
+        "address" : "屏東縣恆春鎮東門路二巷11弄2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1073,13 +1155,14 @@
           120.7497898,
           22.003931000000001
         ]
-      },
-      "properties" : {
-        "name" : "恆。好",
-        "address" : "屏東縣恆春鎮東門路二巷11弄2號"
       }
     },
     {
+      "id" : "B409DCE8-7836-4B1E-924C-F601BE1A6C4C",
+      "properties" : {
+        "name" : "現代健康素食",
+        "address" : "屏東縣內埔鄉光明路254號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1087,13 +1170,14 @@
           120.568799,
           22.615794000000001
         ]
-      },
-      "properties" : {
-        "name" : "現代健康素食",
-        "address" : "屏東縣內埔鄉光明路254號"
       }
     },
     {
+      "id" : "BF4C5846-E9FC-42E7-9157-0C29538BD544",
+      "properties" : {
+        "name" : "妙味素食餐廳",
+        "address" : "屏東縣潮州鎮建基路166號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1101,13 +1185,14 @@
           120.54078,
           22.551186999999999
         ]
-      },
-      "properties" : {
-        "name" : "妙味素食餐廳",
-        "address" : "屏東縣潮州鎮建基路166號"
       }
     },
     {
+      "id" : "DB6B8A77-D1F2-4632-B24D-607634769C0F",
+      "properties" : {
+        "name" : "方圓精萃素食館",
+        "address" : "屏東縣恆春鎮恆公路716-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1115,13 +1200,14 @@
           120.74038349999999,
           22.0079083
         ]
-      },
-      "properties" : {
-        "name" : "方圓精萃素食館",
-        "address" : "屏東縣恆春鎮恆公路716-1號"
       }
     },
     {
+      "id" : "E3490D13-08A3-492F-ADE2-BDE527CB8F54",
+      "properties" : {
+        "name" : "上海素食餐廳",
+        "address" : "屏東縣屏東市中山路148巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1129,13 +1215,14 @@
           120.484863,
           22.682841
         ]
-      },
-      "properties" : {
-        "name" : "上海素食餐廳",
-        "address" : "屏東縣屏東市中山路148巷1號"
       }
     },
     {
+      "id" : "B00A69F8-0A8C-4860-A87A-60A90B2C1161",
+      "properties" : {
+        "name" : "獨臭MaLaLu",
+        "address" : "屏東縣屏東市民生東路46-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1143,13 +1230,14 @@
           120.512334,
           22.659496000000001
         ]
-      },
-      "properties" : {
-        "name" : "獨臭MaLaLu",
-        "address" : "屏東縣屏東市民生東路46-1號"
       }
     },
     {
+      "id" : "67D3D0E1-7D56-4C74-B2E4-FEE826E52A04",
+      "properties" : {
+        "name" : "台巴太 Toptai Kenting",
+        "address" : "屏東縣恆春鎮社興路186-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1157,13 +1245,14 @@
           120.817854,
           21.957863
         ]
-      },
-      "properties" : {
-        "name" : "台巴太 Toptai Kenting",
-        "address" : "屏東縣恆春鎮社興路186-6號"
       }
     },
     {
+      "id" : "406E74BD-F15C-4E69-8A4E-1A4B98CBFB9E",
+      "properties" : {
+        "name" : "哈薩克音樂咖啡休閒廣場",
+        "address" : "屏東縣南州鄉永安路1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1171,13 +1260,14 @@
           120.51229859999999,
           22.494769300000002
         ]
-      },
-      "properties" : {
-        "name" : "哈薩克音樂咖啡休閒廣場",
-        "address" : "屏東縣南州鄉永安路1號"
       }
     },
     {
+      "id" : "A70083AD-FEB4-4F34-82AD-4F347298E8E6",
+      "properties" : {
+        "name" : "萬家鄉素食自助餐",
+        "address" : "屏東縣新園鄉媽祖路122號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1185,13 +1275,14 @@
           120.452716,
           22.526474
         ]
-      },
-      "properties" : {
-        "name" : "萬家鄉素食自助餐",
-        "address" : "屏東縣新園鄉媽祖路122號"
       }
     },
     {
+      "id" : "5FCBBE58-092C-4B21-9E28-CB771FA82B8D",
+      "properties" : {
+        "name" : "龍德素食部",
+        "address" : "屏東縣屏東市崇蘭路156-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1199,13 +1290,14 @@
           120.48797639999999,
           22.6832885
         ]
-      },
-      "properties" : {
-        "name" : "龍德素食部",
-        "address" : "屏東縣屏東市崇蘭路156-1號"
       }
     },
     {
+      "id" : "1ECB1723-0BF8-452C-9495-7E346044D08F",
+      "properties" : {
+        "name" : "阮家素食",
+        "address" : "屏東縣屏東市廣東南路50號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1213,13 +1305,14 @@
           120.48885900000001,
           22.665047999999999
         ]
-      },
-      "properties" : {
-        "name" : "阮家素食",
-        "address" : "屏東縣屏東市廣東南路50號"
       }
     },
     {
+      "id" : "3C6B8F27-55C1-403C-BE18-DC4B837A34C9",
+      "properties" : {
+        "name" : "鼎上素食館",
+        "address" : "屏東縣恆春鎮曉南路3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1227,13 +1320,14 @@
           120.744758,
           22.004421000000001
         ]
-      },
-      "properties" : {
-        "name" : "鼎上素食館",
-        "address" : "屏東縣恆春鎮曉南路3號"
       }
     },
     {
+      "id" : "A904A3EE-1B00-42A5-83DC-2614945E47CA",
+      "properties" : {
+        "name" : "阿鴻素食",
+        "address" : "屏東縣恆春鎮省北路92號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1241,13 +1335,14 @@
           120.74435099999999,
           22.011177
         ]
-      },
-      "properties" : {
-        "name" : "阿鴻素食",
-        "address" : "屏東縣恆春鎮省北路92號"
       }
     },
     {
+      "id" : "C4566C41-BEF8-4606-9FBA-A9BC0D2C5568",
+      "properties" : {
+        "name" : "林家素食菜粽",
+        "address" : "屏東縣屏東市信義路54號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1255,13 +1350,14 @@
           120.48427700000001,
           22.672461999999999
         ]
-      },
-      "properties" : {
-        "name" : "林家素食菜粽",
-        "address" : "屏東縣屏東市信義路54號"
       }
     },
     {
+      "id" : "26A1F971-9EE7-4F26-A16C-9E43ACD2D30E",
+      "properties" : {
+        "name" : "如緣品香素食",
+        "address" : "屏東縣屏東市信義路77號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1269,13 +1365,14 @@
           120.483813,
           22.672432000000001
         ]
-      },
-      "properties" : {
-        "name" : "如緣品香素食",
-        "address" : "屏東縣屏東市信義路77號"
       }
     },
     {
+      "id" : "6E1EB3C2-BDF7-4717-B919-CDCBE2A2588B",
+      "properties" : {
+        "name" : "潮州素食",
+        "address" : "屏東縣潮州鎮太平路9巷12號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1283,13 +1380,14 @@
           120.53942499999999,
           22.552056
         ]
-      },
-      "properties" : {
-        "name" : "潮州素食",
-        "address" : "屏東縣潮州鎮太平路9巷12號"
       }
     },
     {
+      "id" : "83299735-60DE-4698-8147-036FB8403001",
+      "properties" : {
+        "name" : "人和素食館",
+        "address" : "屏東縣恆春鎮恆南路232號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1297,13 +1395,14 @@
           120.7445247,
           21.999177400000001
         ]
-      },
-      "properties" : {
-        "name" : "人和素食館",
-        "address" : "屏東縣恆春鎮恆南路232號"
       }
     },
     {
+      "id" : "2D3A82D4-FB1D-4E49-A5F0-7D3CC92F7086",
+      "properties" : {
+        "name" : "宜發素食館",
+        "address" : "屏東縣內埔鄉昌宏路188號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1311,13 +1410,14 @@
           120.57807510000001,
           22.617295599999999
         ]
-      },
-      "properties" : {
-        "name" : "宜發素食館",
-        "address" : "屏東縣內埔鄉昌宏路188號"
       }
     },
     {
+      "id" : "E5DB5729-1052-4A3E-BFDD-8E1D38F41B3D",
+      "properties" : {
+        "name" : "新山素食館",
+        "address" : "屏東縣潮州鎮清水路3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1325,13 +1425,14 @@
           120.53994,
           22.550158
         ]
-      },
-      "properties" : {
-        "name" : "新山素食館",
-        "address" : "屏東縣潮州鎮清水路3號"
       }
     },
     {
+      "id" : "49522BB7-A2B0-43E6-9AE9-A5BEC93BCCC5",
+      "properties" : {
+        "name" : "佛緣素鹽酥雞",
+        "address" : "屏東縣東港鎮福德街30-7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1339,13 +1440,14 @@
           120.446392,
           22.464205
         ]
-      },
-      "properties" : {
-        "name" : "佛緣素鹽酥雞",
-        "address" : "屏東縣東港鎮福德街30-7號"
       }
     },
     {
+      "id" : "619319DA-6E89-4CA7-B5AA-B8C0BCD92EA3",
+      "properties" : {
+        "name" : "鼎湘素食鹽酥雞",
+        "address" : "屏東縣屏東市大連路29-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1353,13 +1455,14 @@
           120.504699,
           22.682682
         ]
-      },
-      "properties" : {
-        "name" : "鼎湘素食鹽酥雞",
-        "address" : "屏東縣屏東市大連路29-1號"
       }
     },
     {
+      "id" : "D5A9FD4B-1659-4187-8E33-EF99510F25DB",
+      "properties" : {
+        "name" : "里仁",
+        "address" : "屏東縣屏東市廣東路924號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1367,13 +1470,14 @@
           120.486814,
           22.688129
         ]
-      },
-      "properties" : {
-        "name" : "里仁",
-        "address" : "屏東縣屏東市廣東路924號"
       }
     },
     {
+      "id" : "AA48BF71-7CFB-49E2-A7FF-192AE3E7F484",
+      "properties" : {
+        "name" : "小圓緣 - 客家手工餡餅",
+        "address" : "屏東縣屏東市濟南街1-41號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1381,13 +1485,14 @@
           120.4908995,
           22.676783799999999
         ]
-      },
-      "properties" : {
-        "name" : "小圓緣 - 客家手工餡餅",
-        "address" : "屏東縣屏東市濟南街1-41號"
       }
     },
     {
+      "id" : "024D2D92-030B-4906-A9C3-B9F5CD289C8C",
+      "properties" : {
+        "name" : "50素食小館",
+        "address" : "屏東縣屏東市林森路27-12號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1395,13 +1500,14 @@
           120.496691,
           22.671586000000001
         ]
-      },
-      "properties" : {
-        "name" : "50素食小館",
-        "address" : "屏東縣屏東市林森路27-12號"
       }
     },
     {
+      "id" : "209AA84B-8878-4F18-84E2-7758C63D13CF",
+      "properties" : {
+        "name" : "素食鹽酥雞",
+        "address" : "屏東縣屏東市廣東路743號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1409,13 +1515,14 @@
           120.493752,
           22.686774
         ]
-      },
-      "properties" : {
-        "name" : "素食鹽酥雞",
-        "address" : "屏東縣屏東市廣東路743號"
       }
     },
     {
+      "id" : "D53EDD2E-4754-447E-9494-8E88DA00023A",
+      "properties" : {
+        "name" : "道興素食",
+        "address" : "屏東縣內埔鄉昭勝路119號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1423,13 +1530,14 @@
           120.600168,
           22.671686999999999
         ]
-      },
-      "properties" : {
-        "name" : "道興素食",
-        "address" : "屏東縣內埔鄉昭勝路119號"
       }
     },
     {
+      "id" : "53D46539-4F9A-4E1A-A48F-B0F45F5152E5",
+      "properties" : {
+        "name" : "建興素食館",
+        "address" : "屏東縣枋寮鄉中山路二段331號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1437,13 +1545,14 @@
           120.5943862,
           22.3859271
         ]
-      },
-      "properties" : {
-        "name" : "建興素食館",
-        "address" : "屏東縣枋寮鄉中山路二段331號"
       }
     },
     {
+      "id" : "1057F4E1-0D3F-467A-8BEB-CD4836F2FA58",
+      "properties" : {
+        "name" : "心花素食館",
+        "address" : "屏東縣恆春鎮東門路30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1451,13 +1560,14 @@
           120.74937,
           22.004176999999999
         ]
-      },
-      "properties" : {
-        "name" : "心花素食館",
-        "address" : "屏東縣恆春鎮東門路30號"
       }
     },
     {
+      "id" : "76BFD095-FC69-42FC-B6B3-230EC19228E0",
+      "properties" : {
+        "name" : "味珍素食",
+        "address" : "屏東縣恆春鎮恆南路167號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1465,13 +1575,14 @@
           120.7449589,
           21.996813400000001
         ]
-      },
-      "properties" : {
-        "name" : "味珍素食",
-        "address" : "屏東縣恆春鎮恆南路167號"
       }
     },
     {
+      "id" : "8CB62CB0-CB68-4DCF-9F89-E6E25DB2D55C",
+      "properties" : {
+        "name" : "薇芯素食抓餅",
+        "address" : "屏東縣屏東市廣東路747號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1479,13 +1590,14 @@
           120.493582,
           22.686828999999999
         ]
-      },
-      "properties" : {
-        "name" : "薇芯素食抓餅",
-        "address" : "屏東縣屏東市廣東路747號"
       }
     },
     {
+      "id" : "48FB81C0-BFCA-4E69-9373-7F1335468C54",
+      "properties" : {
+        "name" : "菜香園素食坊",
+        "address" : "屏東縣屏東市建華三街48號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1493,13 +1605,14 @@
           120.484668,
           22.668108
         ]
-      },
-      "properties" : {
-        "name" : "菜香園素食坊",
-        "address" : "屏東縣屏東市建華三街48號"
       }
     },
     {
+      "id" : "7859D736-E8FD-4123-A0CF-4BFBBC5202DC",
+      "properties" : {
+        "name" : "菩提素食館",
+        "address" : "屏東縣枋寮鄉中山路二段308號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1507,13 +1620,14 @@
           120.594607,
           22.386329
         ]
-      },
-      "properties" : {
-        "name" : "菩提素食館",
-        "address" : "屏東縣枋寮鄉中山路二段308號"
       }
     },
     {
+      "id" : "BCEACF70-A89F-487B-A63A-30BA8A94957C",
+      "properties" : {
+        "name" : "優尼克蔬食漢堡 Unique Burgers",
+        "address" : "屏東縣屏東市建武路72號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1521,13 +1635,14 @@
           120.48004899999999,
           22.667581999999999
         ]
-      },
-      "properties" : {
-        "name" : "優尼克蔬食漢堡 Unique Burgers",
-        "address" : "屏東縣屏東市建武路72號"
       }
     },
     {
+      "id" : "C2779F6E-3CC3-46DA-9262-F94CA8A6F629",
+      "properties" : {
+        "name" : "永傳素食",
+        "address" : "屏東縣東港鎮中正路62號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1535,13 +1650,14 @@
           120.449691,
           22.466034000000001
         ]
-      },
-      "properties" : {
-        "name" : "永傳素食",
-        "address" : "屏東縣東港鎮中正路62號"
       }
     },
     {
+      "id" : "CC4B7D0E-2FEE-4AA4-A16E-915F49C45ACD",
+      "properties" : {
+        "name" : "喜輪悅",
+        "address" : "屏東縣潮州鎮光春路83號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1549,13 +1665,14 @@
           120.537626,
           22.543285999999998
         ]
-      },
-      "properties" : {
-        "name" : "喜輪悅",
-        "address" : "屏東縣潮州鎮光春路83號"
       }
     },
     {
+      "id" : "A8465B08-B932-41BA-B293-069532BD69E8",
+      "properties" : {
+        "name" : "淡然養生休閒坊~上好素食",
+        "address" : "屏東縣獅子鄉獅子村1巷70號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1563,13 +1680,14 @@
           120.705018,
           22.202769
         ]
-      },
-      "properties" : {
-        "name" : "淡然養生休閒坊~上好素食",
-        "address" : "屏東縣獅子鄉獅子村1巷70號"
       }
     },
     {
+      "id" : "BFAEE9F2-5583-4781-A459-4150683E476D",
+      "properties" : {
+        "name" : "興蕊素食",
+        "address" : "屏東縣屏東市仁愛路79-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1577,13 +1695,14 @@
           120.49499400000001,
           22.679269000000001
         ]
-      },
-      "properties" : {
-        "name" : "興蕊素食",
-        "address" : "屏東縣屏東市仁愛路79-2號"
       }
     },
     {
+      "id" : "3BD2F910-D1C6-4880-8A05-9EB843128A30",
+      "properties" : {
+        "name" : "全麥王子健康全麥雜糧饅頭專賣",
+        "address" : "屏東縣屏東市自由路463號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1591,13 +1710,14 @@
           120.49190900000001,
           22.682770999999999
         ]
-      },
-      "properties" : {
-        "name" : "全麥王子健康全麥雜糧饅頭專賣",
-        "address" : "屏東縣屏東市自由路463號"
       }
     },
     {
+      "id" : "95FB6AF4-F523-4131-87A0-CD1E16CBE9BF",
+      "properties" : {
+        "name" : "牧羊人健康蔬食",
+        "address" : "屏東縣鹽埔鄉維新路127號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1605,13 +1725,14 @@
           120.5570369,
           22.7410797
         ]
-      },
-      "properties" : {
-        "name" : "牧羊人健康蔬食",
-        "address" : "屏東縣鹽埔鄉維新路127號"
       }
     },
     {
+      "id" : "8490C15A-A162-4FF9-9A90-A05C21B44172",
+      "properties" : {
+        "name" : "善德素食",
+        "address" : "屏東縣屏東市天津街19號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1619,13 +1740,14 @@
           120.490163,
           22.679462000000001
         ]
-      },
-      "properties" : {
-        "name" : "善德素食",
-        "address" : "屏東縣屏東市天津街19號"
       }
     },
     {
+      "id" : "91949152-143C-4FE2-A6C3-AA121C44CFC7",
+      "properties" : {
+        "name" : "自然蔬食",
+        "address" : "屏東縣潮州鎮中正路61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1633,13 +1755,14 @@
           120.539329,
           22.553374999999999
         ]
-      },
-      "properties" : {
-        "name" : "自然蔬食",
-        "address" : "屏東縣潮州鎮中正路61號"
       }
     },
     {
+      "id" : "ED49163A-EC9F-4905-9C3B-B3A56C4858C5",
+      "properties" : {
+        "name" : "Dreamer 素食麵線糊",
+        "address" : "屏東縣屏東市華二街13號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1647,13 +1770,14 @@
           120.501639,
           22.682395
         ]
-      },
-      "properties" : {
-        "name" : "Dreamer 素食麵線糊",
-        "address" : "屏東縣屏東市華二街13號"
       }
     },
     {
+      "id" : "7652442C-1CD2-47B4-883D-BA676DFA847D",
+      "properties" : {
+        "name" : "九品素食館",
+        "address" : "屏東縣潮州鎮長興路1-7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1661,13 +1785,14 @@
           120.543278,
           22.550898
         ]
-      },
-      "properties" : {
-        "name" : "九品素食館",
-        "address" : "屏東縣潮州鎮長興路1-7號"
       }
     },
     {
+      "id" : "3BD183B1-4929-46BF-A279-C741C9C37AEE",
+      "properties" : {
+        "name" : "武聖酵素臭豆腐",
+        "address" : "屏東縣屏東市重慶路56號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1675,13 +1800,14 @@
           120.48388799999999,
           22.672636000000001
         ]
-      },
-      "properties" : {
-        "name" : "武聖酵素臭豆腐",
-        "address" : "屏東縣屏東市重慶路56號"
       }
     },
     {
+      "id" : "BB13E124-68AC-45C3-9BF5-63B3F5FA23A5",
+      "properties" : {
+        "name" : "阿宏心素坊",
+        "address" : "屏東縣屏東市民族路198號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1689,13 +1815,14 @@
           120.480975,
           22.671301
         ]
-      },
-      "properties" : {
-        "name" : "阿宏心素坊",
-        "address" : "屏東縣屏東市民族路198號"
       }
     },
     {
+      "id" : "5C179752-6298-4B0D-AD6E-9E8E1870424D",
+      "properties" : {
+        "name" : "鑫記養生系列",
+        "address" : "屏東縣林邊鄉中林路212號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1703,13 +1830,14 @@
           120.51849300000001,
           22.435942000000001
         ]
-      },
-      "properties" : {
-        "name" : "鑫記養生系列",
-        "address" : "屏東縣林邊鄉中林路212號"
       }
     },
     {
+      "id" : "86A20FAB-CA62-4811-8651-63B741BB6454",
+      "properties" : {
+        "name" : "一緣素食",
+        "address" : "屏東縣麟洛鄉民權路24號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1717,13 +1845,14 @@
           120.526695,
           22.652106
         ]
-      },
-      "properties" : {
-        "name" : "一緣素食",
-        "address" : "屏東縣麟洛鄉民權路24號"
       }
     },
     {
+      "id" : "4DA6F50A-0894-4F97-97B5-8EF9C8F4EF62",
+      "properties" : {
+        "name" : "雁行 x 窩cafe",
+        "address" : "屏東縣屏東市中山路61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1731,13 +1860,14 @@
           120.484368,
           22.674531000000002
         ]
-      },
-      "properties" : {
-        "name" : "雁行 x 窩cafe",
-        "address" : "屏東縣屏東市中山路61號"
       }
     },
     {
+      "id" : "1B42F71D-D24F-49AD-9A8E-C32F77931F2C",
+      "properties" : {
+        "name" : "素食麵店",
+        "address" : "屏東縣屏東市前進里147號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1745,13 +1875,14 @@
           120.4653283,
           22.650238099999999
         ]
-      },
-      "properties" : {
-        "name" : "素食麵店",
-        "address" : "屏東縣屏東市前進里147號"
       }
     },
     {
+      "id" : "E63FDE71-5B1E-47D2-AD04-CA18F732CAD4",
+      "properties" : {
+        "name" : "彰德蔬食坊",
+        "address" : "屏東縣屏東市建武路72號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1759,13 +1890,14 @@
           120.48004899999999,
           22.667581999999999
         ]
-      },
-      "properties" : {
-        "name" : "彰德蔬食坊",
-        "address" : "屏東縣屏東市建武路72號"
       }
     },
     {
+      "id" : "D3B445DE-EE86-47FB-8961-500C57BEF225",
+      "properties" : {
+        "name" : "華心緣",
+        "address" : "屏東縣內埔鄉廣濟路176號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1773,13 +1905,14 @@
           120.566137,
           22.615917
         ]
-      },
-      "properties" : {
-        "name" : "華心緣",
-        "address" : "屏東縣內埔鄉廣濟路176號"
       }
     },
     {
+      "id" : "F8601F28-AC79-4567-BBD8-26CB6CE1DB43",
+      "properties" : {
+        "name" : "素素看",
+        "address" : "屏東縣屏東市仁愛路169號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1787,13 +1920,14 @@
           120.497529,
           22.682863999999999
         ]
-      },
-      "properties" : {
-        "name" : "素素看",
-        "address" : "屏東縣屏東市仁愛路169號"
       }
     },
     {
+      "id" : "F5B7BEF6-D287-4D16-8EC8-69D559B02AF9",
+      "properties" : {
+        "name" : "鑫鮮素食",
+        "address" : "屏東縣屏東市勝利路229號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1801,13 +1935,14 @@
           120.478751,
           22.678909000000001
         ]
-      },
-      "properties" : {
-        "name" : "鑫鮮素食",
-        "address" : "屏東縣屏東市勝利路229號"
       }
     },
     {
+      "id" : "F01EAD79-AE50-4F87-9C78-28A2E55D5477",
+      "properties" : {
+        "name" : "準提素食店",
+        "address" : "屏東縣屏東市公園東路111號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1815,13 +1950,14 @@
           120.49769000000001,
           22.672229999999999
         ]
-      },
-      "properties" : {
-        "name" : "準提素食店",
-        "address" : "屏東縣屏東市公園東路111號"
       }
     },
     {
+      "id" : "B2061128-31E9-4539-94A0-FF9873E8C4AF",
+      "properties" : {
+        "name" : "素食",
+        "address" : "屏東縣萬巒鄉褒忠路136號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1829,13 +1965,14 @@
           120.568933,
           22.573903999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "屏東縣萬巒鄉褒忠路136號"
       }
     },
     {
+      "id" : "4A495F57-F28F-4540-8784-A18F423937BD",
+      "properties" : {
+        "name" : "玉雪素食館",
+        "address" : "屏東縣屏東市大興路45號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1843,13 +1980,14 @@
           120.475504,
           22.666896999999999
         ]
-      },
-      "properties" : {
-        "name" : "玉雪素食館",
-        "address" : "屏東縣屏東市大興路45號"
       }
     },
     {
+      "id" : "216CE081-15F1-44E4-A735-79403BACD5AC",
+      "properties" : {
+        "name" : "六標準差素食生活館",
+        "address" : "屏東縣屏東市林森路27-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1857,13 +1995,14 @@
           120.496691,
           22.671586000000001
         ]
-      },
-      "properties" : {
-        "name" : "六標準差素食生活館",
-        "address" : "屏東縣屏東市林森路27-3號"
       }
     },
     {
+      "id" : "45E80FE6-3D8E-4222-9D63-DADD03CA6235",
+      "properties" : {
+        "name" : "佛心素食館",
+        "address" : "屏東縣琉球鄉中山路83-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1871,13 +2010,14 @@
           120.379819,
           22.350301000000002
         ]
-      },
-      "properties" : {
-        "name" : "佛心素食館",
-        "address" : "屏東縣琉球鄉中山路83-2號"
       }
     },
     {
+      "id" : "75B9F08E-D02B-4376-9C78-B8DBD2791F35",
+      "properties" : {
+        "name" : "米勒蔬食風味料理",
+        "address" : "屏東縣屏東市華盛街1-11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1885,13 +2025,14 @@
           120.478585,
           22.665088000000001
         ]
-      },
-      "properties" : {
-        "name" : "米勒蔬食風味料理",
-        "address" : "屏東縣屏東市華盛街1-11號"
       }
     },
     {
+      "id" : "9C217CA8-DE5D-4F7A-A627-4C3018F6751C",
+      "properties" : {
+        "name" : "善循的食堂",
+        "address" : "屏東縣屏東市民生路2-82號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1899,13 +2040,14 @@
           120.502506,
           22.665022
         ]
-      },
-      "properties" : {
-        "name" : "善循的食堂",
-        "address" : "屏東縣屏東市民生路2-82號"
       }
     },
     {
+      "id" : "E4EBF904-5CA0-4858-B148-481E2F9202C0",
+      "properties" : {
+        "name" : "圓融素食",
+        "address" : "屏東縣屏東市勝利路152號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1913,13 +2055,14 @@
           120.482159,
           22.679324000000001
         ]
-      },
-      "properties" : {
-        "name" : "圓融素食",
-        "address" : "屏東縣屏東市勝利路152號"
       }
     },
     {
+      "id" : "6A446428-6E6E-4AAE-8154-DC12FBC67563",
+      "properties" : {
+        "name" : "魏媽媽素食攤",
+        "address" : "屏東縣鹽埔鄉仕絨路6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1927,13 +2070,14 @@
           120.556164,
           22.744121
         ]
-      },
-      "properties" : {
-        "name" : "魏媽媽素食攤",
-        "address" : "屏東縣鹽埔鄉仕絨路6號"
       }
     },
     {
+      "id" : "804506E3-BB8B-476B-987C-2B4A4478BEC9",
+      "properties" : {
+        "name" : "鳳姐素食",
+        "address" : "屏東縣屏東市廣東路737號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1941,13 +2085,14 @@
           120.493984,
           22.686699999999998
         ]
-      },
-      "properties" : {
-        "name" : "鳳姐素食",
-        "address" : "屏東縣屏東市廣東路737號"
       }
     },
     {
+      "id" : "CBAD8C4C-1E2C-467A-91FD-51D87EE7564E",
+      "properties" : {
+        "name" : "和香素食館",
+        "address" : "屏東縣東港鎮福德街45-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1955,13 +2100,14 @@
           120.446911,
           22.463740999999999
         ]
-      },
-      "properties" : {
-        "name" : "和香素食館",
-        "address" : "屏東縣東港鎮福德街45-1號"
       }
     },
     {
+      "id" : "C2942416-3D8B-494B-9967-1C4525B2C7FD",
+      "properties" : {
+        "name" : "愛文鄉冰島",
+        "address" : "屏東縣枋山鄉中山路三段50號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1969,13 +2115,14 @@
           120.662215,
           22.246055999999999
         ]
-      },
-      "properties" : {
-        "name" : "愛文鄉冰島",
-        "address" : "屏東縣枋山鄉中山路三段50號"
       }
     },
     {
+      "id" : "15271B15-54DB-4056-AABE-CAC4A304D02B",
+      "properties" : {
+        "name" : "上真素食館",
+        "address" : "屏東縣屏東市棒球路222號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1983,13 +2130,14 @@
           120.481584,
           22.656027000000002
         ]
-      },
-      "properties" : {
-        "name" : "上真素食館",
-        "address" : "屏東縣屏東市棒球路222號"
       }
     },
     {
+      "id" : "03C3DB63-2E92-49E1-A38E-7FBE7096D350",
+      "properties" : {
+        "name" : "慈元素食",
+        "address" : "屏東縣潮州鎮中正路36號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1997,13 +2145,14 @@
           120.53889100000001,
           22.552589999999999
         ]
-      },
-      "properties" : {
-        "name" : "慈元素食",
-        "address" : "屏東縣潮州鎮中正路36號"
       }
     },
     {
+      "id" : "3B9E49D3-B895-4CF8-AAAB-A1111012E331",
+      "properties" : {
+        "name" : "中華素食",
+        "address" : "屏東縣屏東市中華路193號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2011,13 +2160,14 @@
           120.491613,
           22.677945000000001
         ]
-      },
-      "properties" : {
-        "name" : "中華素食",
-        "address" : "屏東縣屏東市中華路193號"
       }
     },
     {
+      "id" : "D16D9ADE-E354-48CE-A6C4-2D95DF477A9F",
+      "properties" : {
+        "name" : "京盈健康素食",
+        "address" : "屏東縣屏東市自由路273號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2025,13 +2175,14 @@
           120.47894549999999,
           22.682433199999998
         ]
-      },
-      "properties" : {
-        "name" : "京盈健康素食",
-        "address" : "屏東縣屏東市自由路273號"
       }
     },
     {
+      "id" : "D7A5DCAC-E8BC-4D46-9FCB-A6E66B1F23D0",
+      "properties" : {
+        "name" : "永發生鮮素食店",
+        "address" : "屏東縣屏東市徐州路162號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2039,13 +2190,14 @@
           120.479393,
           22.680461999999999
         ]
-      },
-      "properties" : {
-        "name" : "永發生鮮素食店",
-        "address" : "屏東縣屏東市徐州路162號"
       }
     },
     {
+      "id" : "11E37FD4-CE89-4C29-90BB-267C9A0F320A",
+      "properties" : {
+        "name" : "樂好蒔-健康·有機·無毒·柑仔店·小麵店",
+        "address" : "屏東縣屏東市華夏路8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2053,13 +2205,14 @@
           120.50192250000001,
           22.685535600000001
         ]
-      },
-      "properties" : {
-        "name" : "樂好蒔-健康·有機·無毒·柑仔店·小麵店",
-        "address" : "屏東縣屏東市華夏路8號"
       }
     },
     {
+      "id" : "4E57F184-9A40-404B-91A9-910F0E13DC80",
+      "properties" : {
+        "name" : "福臨素食",
+        "address" : "屏東縣新園鄉仙吉路73-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2067,13 +2220,14 @@
           120.460669,
           22.542891999999998
         ]
-      },
-      "properties" : {
-        "name" : "福臨素食",
-        "address" : "屏東縣新園鄉仙吉路73-1號"
       }
     },
     {
+      "id" : "6685B1B1-48DC-4CE7-BC2C-515B1ED508C3",
+      "properties" : {
+        "name" : "菩提素食館",
+        "address" : "屏東縣屏東市建國路140號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2081,13 +2235,14 @@
           120.48061800000001,
           22.66527
         ]
-      },
-      "properties" : {
-        "name" : "菩提素食館",
-        "address" : "屏東縣屏東市建國路140號"
       }
     },
     {
+      "id" : "F88D3285-39F9-4AD0-86BC-4D4165C452C8",
+      "properties" : {
+        "name" : "光慧水煎包 遙の廚房",
+        "address" : "屏東縣內埔鄉新展路3-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2095,13 +2250,14 @@
           120.63146570000001,
           22.693439699999999
         ]
-      },
-      "properties" : {
-        "name" : "光慧水煎包 遙の廚房",
-        "address" : "屏東縣內埔鄉新展路3-6號"
       }
     },
     {
+      "id" : "4570C176-25BE-4BA5-A590-75ECDFF53E94",
+      "properties" : {
+        "name" : "有味素食館",
+        "address" : "屏東縣恆春鎮中正路225號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2109,13 +2265,14 @@
           120.74362499999999,
           22.005991999999999
         ]
-      },
-      "properties" : {
-        "name" : "有味素食館",
-        "address" : "屏東縣恆春鎮中正路225號"
       }
     },
     {
+      "id" : "4CED16D4-086D-4CDE-B58B-5B7CAC221A77",
+      "properties" : {
+        "name" : "同人齋養生素食館",
+        "address" : "屏東縣佳冬鄉中山路1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2123,13 +2280,14 @@
           120.563142,
           22.4259922
         ]
-      },
-      "properties" : {
-        "name" : "同人齋養生素食館",
-        "address" : "屏東縣佳冬鄉中山路1號"
       }
     },
     {
+      "id" : "06AF17A9-9837-4653-A2C5-5F6234D1072E",
+      "properties" : {
+        "name" : "慈仁素食",
+        "address" : "屏東縣東港鎮中山路125號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2137,13 +2295,14 @@
           120.448222,
           22.467652999999999
         ]
-      },
-      "properties" : {
-        "name" : "慈仁素食",
-        "address" : "屏東縣東港鎮中山路125號"
       }
     },
     {
+      "id" : "65F6C0BD-AF87-496C-AA7B-035E06495725",
+      "properties" : {
+        "name" : "毓見蔬食",
+        "address" : "屏東縣屏東市武昌街50號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2151,13 +2310,14 @@
           120.475267,
           22.659262999999999
         ]
-      },
-      "properties" : {
-        "name" : "毓見蔬食",
-        "address" : "屏東縣屏東市武昌街50號"
       }
     },
     {
+      "id" : "13E81C8F-3432-4F93-B1E0-E986EF3F2EFD",
+      "properties" : {
+        "name" : "惟森鐵人蔬食早午餐",
+        "address" : "屏東縣屏東市勝利路232號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2165,13 +2325,14 @@
           120.477254,
           22.678974
         ]
-      },
-      "properties" : {
-        "name" : "惟森鐵人蔬食早午餐",
-        "address" : "屏東縣屏東市勝利路232號"
       }
     },
     {
+      "id" : "263022F3-B121-4A44-AF41-902D05882526",
+      "properties" : {
+        "name" : "大自然素食滷味",
+        "address" : "屏東縣屏東市林森路38號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2179,13 +2340,14 @@
           120.49643500000001,
           22.671810000000001
         ]
-      },
-      "properties" : {
-        "name" : "大自然素食滷味",
-        "address" : "屏東縣屏東市林森路38號"
       }
     },
     {
+      "id" : "CADA88E8-899D-443C-8E1C-80298435C21D",
+      "properties" : {
+        "name" : "素食蚵仔嗲",
+        "address" : "屏東縣萬丹鄉萬丹路一段241號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2193,13 +2355,14 @@
           120.48922899999999,
           22.589214999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食蚵仔嗲",
-        "address" : "屏東縣萬丹鄉萬丹路一段241號"
       }
     },
     {
+      "id" : "B1A439EF-13F5-4E25-BA37-4A28CC7C6B6E",
+      "properties" : {
+        "name" : "妙真素食自助餐",
+        "address" : "屏東縣屏東市大連路60-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2207,13 +2370,14 @@
           120.502566,
           22.682041999999999
         ]
-      },
-      "properties" : {
-        "name" : "妙真素食自助餐",
-        "address" : "屏東縣屏東市大連路60-6號"
       }
     },
     {
+      "id" : "AE176740-8303-4CCB-8FBD-7934A549A31C",
+      "properties" : {
+        "name" : "巧妙素食館",
+        "address" : "屏東縣屏東市廣東路629號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2221,13 +2385,14 @@
           120.49653499999999,
           22.684930000000001
         ]
-      },
-      "properties" : {
-        "name" : "巧妙素食館",
-        "address" : "屏東縣屏東市廣東路629號"
       }
     },
     {
+      "id" : "3E4AC155-8F2C-40C0-8CCA-B67EA200563A",
+      "properties" : {
+        "name" : "素食鹽酥雞",
+        "address" : "屏東縣潮州鎮延平路20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2235,13 +2400,14 @@
           120.5401076,
           22.552160900000001
         ]
-      },
-      "properties" : {
-        "name" : "素食鹽酥雞",
-        "address" : "屏東縣潮州鎮延平路20號"
       }
     },
     {
+      "id" : "AAA29DB2-0CCC-426E-AA37-31D24F7C64FF",
+      "properties" : {
+        "name" : "漢宮御品健康素食糕點總匯",
+        "address" : "屏東縣潮州鎮南進路21-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2249,13 +2415,14 @@
           120.542658,
           22.547936
         ]
-      },
-      "properties" : {
-        "name" : "漢宮御品健康素食糕點總匯",
-        "address" : "屏東縣潮州鎮南進路21-1號"
       }
     },
     {
+      "id" : "90170E4B-0AA7-48BB-81FB-B38F47C67138",
+      "properties" : {
+        "name" : "祥順健康美食",
+        "address" : "屏東縣屏東市南昌街2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2263,13 +2430,14 @@
           120.48759219999999,
           22.6695818
         ]
-      },
-      "properties" : {
-        "name" : "祥順健康美食",
-        "address" : "屏東縣屏東市南昌街2號"
       }
     },
     {
+      "id" : "57B12E06-17E4-4295-A5A0-71D861276908",
+      "properties" : {
+        "name" : "大埔素食",
+        "address" : "屏東縣屏東市信義路38-5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2277,13 +2445,14 @@
           120.483492,
           22.672155
         ]
-      },
-      "properties" : {
-        "name" : "大埔素食",
-        "address" : "屏東縣屏東市信義路38-5號"
       }
     },
     {
+      "id" : "13896C85-765A-4E5D-B311-5A962D7B0625",
+      "properties" : {
+        "name" : "詩多蕾Cafe'",
+        "address" : "屏東縣屏東市廣東南路260-5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2291,13 +2460,14 @@
           120.497247,
           22.666447999999999
         ]
-      },
-      "properties" : {
-        "name" : "詩多蕾Cafe'",
-        "address" : "屏東縣屏東市廣東南路260-5號"
       }
     },
     {
+      "id" : "BC881CE1-11F5-441D-B7D4-BC11CF150DCD",
+      "properties" : {
+        "name" : "中林素食館",
+        "address" : "屏東縣潮州鎮文化路30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2305,13 +2475,14 @@
           120.542374,
           22.551967000000001
         ]
-      },
-      "properties" : {
-        "name" : "中林素食館",
-        "address" : "屏東縣潮州鎮文化路30號"
       }
     },
     {
+      "id" : "9D6CE5D1-A222-41BE-9C88-349F2A83669D",
+      "properties" : {
+        "name" : "卡好吃臭豆腐",
+        "address" : "屏東縣屏東市瑞光路三段36-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2319,13 +2490,14 @@
           120.50484299999999,
           22.684193
         ]
-      },
-      "properties" : {
-        "name" : "卡好吃臭豆腐",
-        "address" : "屏東縣屏東市瑞光路三段36-1號"
       }
     },
     {
+      "id" : "8EC572F1-5E92-44C1-952D-FBC18A237191",
+      "properties" : {
+        "name" : "富慧素食小吃",
+        "address" : "屏東縣屏東市新發巷2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2333,13 +2505,14 @@
           120.49231899999999,
           22.676960000000001
         ]
-      },
-      "properties" : {
-        "name" : "富慧素食小吃",
-        "address" : "屏東縣屏東市新發巷2號"
       }
     },
     {
+      "id" : "B252F0A4-7D70-44AE-9C15-F15586410225",
+      "properties" : {
+        "name" : "膳緣養生素食",
+        "address" : "屏東縣萬丹鄉大昌路541號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2347,13 +2520,14 @@
           120.468461,
           22.616109000000002
         ]
-      },
-      "properties" : {
-        "name" : "膳緣養生素食",
-        "address" : "屏東縣萬丹鄉大昌路541號"
       }
     },
     {
+      "id" : "5852C84B-86A8-4F08-B907-0596DA422724",
+      "properties" : {
+        "name" : "大眾素食",
+        "address" : "屏東縣屏東市自由路293號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2361,13 +2535,14 @@
           120.496852,
           22.677074000000001
         ]
-      },
-      "properties" : {
-        "name" : "大眾素食",
-        "address" : "屏東縣屏東市自由路293號"
       }
     },
     {
+      "id" : "71B456D3-4461-4C48-AC00-B9787CA74869",
+      "properties" : {
+        "name" : "那栗素食館",
+        "address" : "屏東縣屏東市博愛路303號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2375,13 +2550,14 @@
           120.480676,
           22.681778999999999
         ]
-      },
-      "properties" : {
-        "name" : "那栗素食館",
-        "address" : "屏東縣屏東市博愛路303號"
       }
     },
     {
+      "id" : "7B0CC985-866D-477D-9D69-6D41084C33CF",
+      "properties" : {
+        "name" : "傳香素食滷味",
+        "address" : "屏東縣屏東市林森路84號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2389,13 +2565,14 @@
           120.49205600000001,
           22.673037000000001
         ]
-      },
-      "properties" : {
-        "name" : "傳香素食滷味",
-        "address" : "屏東縣屏東市林森路84號"
       }
     },
     {
+      "id" : "3EEC2798-DC41-4A9A-B801-27A67EA2EFF8",
+      "properties" : {
+        "name" : "16號森林",
+        "address" : "屏東縣鹽埔鄉維新路90號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2403,13 +2580,14 @@
           120.55733499999999,
           22.740821
         ]
-      },
-      "properties" : {
-        "name" : "16號森林",
-        "address" : "屏東縣鹽埔鄉維新路90號"
       }
     },
     {
+      "id" : "5F78C9C5-0836-41EE-B1E0-DCF792D31B08",
+      "properties" : {
+        "name" : "阿燕素食材料舖",
+        "address" : "屏東縣屏東市中央市場第二商場20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2417,13 +2595,14 @@
           120.48797639999999,
           22.6832885
         ]
-      },
-      "properties" : {
-        "name" : "阿燕素食材料舖",
-        "address" : "屏東縣屏東市中央市場第二商場20號"
       }
     },
     {
+      "id" : "5B61B7F3-A456-4379-9613-3299C96CD13E",
+      "properties" : {
+        "name" : "阿潭姨素食麵店",
+        "address" : "屏東縣恆春鎮曉南路21號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2431,13 +2610,14 @@
           120.744292,
           22.004359000000001
         ]
-      },
-      "properties" : {
-        "name" : "阿潭姨素食麵店",
-        "address" : "屏東縣恆春鎮曉南路21號"
       }
     },
     {
+      "id" : "429A517F-ADA7-407B-8752-217DEB9FBFF9",
+      "properties" : {
+        "name" : "明祐素餅素料行",
+        "address" : "屏東縣內埔鄉學人路725號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2445,13 +2625,14 @@
           120.56418499999999,
           22.607946999999999
         ]
-      },
-      "properties" : {
-        "name" : "明祐素餅素料行",
-        "address" : "屏東縣內埔鄉學人路725號"
       }
     },
     {
+      "id" : "2B479571-D66C-46EF-A8DC-F20F42191F44",
+      "properties" : {
+        "name" : "素食",
+        "address" : "屏東縣屏東市建國路98-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2459,13 +2640,14 @@
           120.48211000000001,
           22.665054999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "屏東縣屏東市建國路98-3號"
       }
     },
     {
+      "id" : "E2D7F796-C67D-43ED-8477-E1E9ED469A1D",
+      "properties" : {
+        "name" : "東如健康蔬食",
+        "address" : "屏東縣屏東市信義路2-5、2-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2473,13 +2655,14 @@
           120.48797639999999,
           22.6832885
         ]
-      },
-      "properties" : {
-        "name" : "東如健康蔬食",
-        "address" : "屏東縣屏東市信義路2-5、2-6號"
       }
     },
     {
+      "id" : "46DE88AB-30FE-4BD5-BA24-CCEC1D11CD4B",
+      "properties" : {
+        "name" : "天喜素食麵包店",
+        "address" : "屏東縣屏東市勝利路70號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2487,13 +2670,14 @@
           120.490345,
           22.679124999999999
         ]
-      },
-      "properties" : {
-        "name" : "天喜素食麵包店",
-        "address" : "屏東縣屏東市勝利路70號"
       }
     },
     {
+      "id" : "305AECB2-DE4D-4BE4-9A5A-F3A7B5664BDF",
+      "properties" : {
+        "name" : "香美素食",
+        "address" : "屏東縣鹽埔鄉建業街1-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2501,13 +2685,14 @@
           120.55598999999999,
           22.736939
         ]
-      },
-      "properties" : {
-        "name" : "香美素食",
-        "address" : "屏東縣鹽埔鄉建業街1-1號"
       }
     },
     {
+      "id" : "283CEA96-14F5-44FC-8446-AB6E4A3717EC",
+      "properties" : {
+        "name" : "Eagle's cafe",
+        "address" : "屏東縣林邊鄉仁愛路61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2515,13 +2700,14 @@
           120.514318,
           22.431294999999999
         ]
-      },
-      "properties" : {
-        "name" : "Eagle's cafe",
-        "address" : "屏東縣林邊鄉仁愛路61號"
       }
     },
     {
+      "id" : "E3AB5161-9CEB-461A-A617-2B9ECEA7D49A",
+      "properties" : {
+        "name" : "蔬香村",
+        "address" : "屏東縣潮州鎮永坤路170號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2529,13 +2715,14 @@
           120.540717,
           22.553789999999999
         ]
-      },
-      "properties" : {
-        "name" : "蔬香村",
-        "address" : "屏東縣潮州鎮永坤路170號"
       }
     },
     {
+      "id" : "87D8295F-53F1-4AF7-B501-D609711EBA73",
+      "properties" : {
+        "name" : "四季釀蔬食坊",
+        "address" : "屏東縣竹田鄉豐明路23號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2543,13 +2730,14 @@
           120.547222,
           22.585097000000001
         ]
-      },
-      "properties" : {
-        "name" : "四季釀蔬食坊",
-        "address" : "屏東縣竹田鄉豐明路23號"
       }
     },
     {
+      "id" : "614584E1-EBC7-40DA-BF60-0B3FEBD20042",
+      "properties" : {
+        "name" : "心之田蔬食坊",
+        "address" : "屏東縣屏東市忠孝路155-6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2557,13 +2745,14 @@
           120.48731100000001,
           22.676444
         ]
-      },
-      "properties" : {
-        "name" : "心之田蔬食坊",
-        "address" : "屏東縣屏東市忠孝路155-6號"
       }
     },
     {
+      "id" : "DC8237E3-8A73-467D-A50C-55D1419564D4",
+      "properties" : {
+        "name" : "鄉村雲來集",
+        "address" : "屏東縣萬巒鄉永康路36-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2571,13 +2760,14 @@
           120.5635158,
           22.5605118
         ]
-      },
-      "properties" : {
-        "name" : "鄉村雲來集",
-        "address" : "屏東縣萬巒鄉永康路36-3號"
       }
     },
     {
+      "id" : "6E472AFD-ADF9-4BAB-AF3C-EA020949E79F",
+      "properties" : {
+        "name" : "擱再來素食",
+        "address" : "屏東縣屏東市建豐路152號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2585,13 +2775,14 @@
           120.50575000000001,
           22.675920999999999
         ]
-      },
-      "properties" : {
-        "name" : "擱再來素食",
-        "address" : "屏東縣屏東市建豐路152號"
       }
     },
     {
+      "id" : "BB49BE5C-D77F-415F-A244-493D0F3B0F8B",
+      "properties" : {
+        "name" : "故鄉素食",
+        "address" : "屏東縣萬丹鄉萬榮街150號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2599,13 +2790,14 @@
           120.48945500000001,
           22.592175000000001
         ]
-      },
-      "properties" : {
-        "name" : "故鄉素食",
-        "address" : "屏東縣萬丹鄉萬榮街150號"
       }
     },
     {
+      "id" : "666DC4EE-65A4-4664-BEA7-C1F19ACDF447",
+      "properties" : {
+        "name" : "粥太太 養生蔬食 粥品麵食",
+        "address" : "屏東縣琉球鄉中山路74號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2613,13 +2805,14 @@
           120.380321,
           22.350652
         ]
-      },
-      "properties" : {
-        "name" : "粥太太 養生蔬食 粥品麵食",
-        "address" : "屏東縣琉球鄉中山路74號"
       }
     },
     {
+      "id" : "3E18F6E9-F5E6-4876-AAC4-49BCAE92A242",
+      "properties" : {
+        "name" : "潮林素食",
+        "address" : "屏東縣潮州鎮新興路42號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2627,13 +2820,14 @@
           120.536873,
           22.542985999999999
         ]
-      },
-      "properties" : {
-        "name" : "潮林素食",
-        "address" : "屏東縣潮州鎮新興路42號"
       }
     },
     {
+      "id" : "A04FB986-C797-49E9-BA49-9686CB39C416",
+      "properties" : {
+        "name" : "素和聚",
+        "address" : "屏東縣屏東市重慶路71-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2641,13 +2835,14 @@
           120.483797,
           22.672509000000002
         ]
-      },
-      "properties" : {
-        "name" : "素和聚",
-        "address" : "屏東縣屏東市重慶路71-2號"
       }
     },
     {
+      "id" : "C21C63E7-9785-40B7-85E4-E61EB778D2E3",
+      "properties" : {
+        "name" : "佳津素食擔仔麵",
+        "address" : "屏東縣屏東市廣東路191號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2655,13 +2850,14 @@
           120.50034599999999,
           22.675706999999999
         ]
-      },
-      "properties" : {
-        "name" : "佳津素食擔仔麵",
-        "address" : "屏東縣屏東市廣東路191號"
       }
     },
     {
+      "id" : "478B05B9-1FA6-450F-85C0-E729DA0E54FB",
+      "properties" : {
+        "name" : "慈玄素食",
+        "address" : "屏東縣屏東市棒球路164號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2669,13 +2865,14 @@
           120.482822,
           22.656694999999999
         ]
-      },
-      "properties" : {
-        "name" : "慈玄素食",
-        "address" : "屏東縣屏東市棒球路164號"
       }
     },
     {
+      "id" : "F07D2076-576F-4422-9B9B-FC2ECAE8017A",
+      "properties" : {
+        "name" : "慈拓素食店",
+        "address" : "屏東縣屏東市復興路13號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2683,13 +2880,14 @@
           120.48973770000001,
           22.6696092
         ]
-      },
-      "properties" : {
-        "name" : "慈拓素食店",
-        "address" : "屏東縣屏東市復興路13號"
       }
     },
     {
+      "id" : "352361C5-E6CE-4AC2-BE8B-0B495669256D",
+      "properties" : {
+        "name" : "福禧素食之家",
+        "address" : "屏東縣屏東市民學路138號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2697,13 +2895,14 @@
           120.50176399999999,
           22.673957000000001
         ]
-      },
-      "properties" : {
-        "name" : "福禧素食之家",
-        "address" : "屏東縣屏東市民學路138號"
       }
     },
     {
+      "id" : "A263F801-D059-4C54-8F6B-162A165CF311",
+      "properties" : {
+        "name" : "德興素食",
+        "address" : "屏東縣萬丹鄉萬新路1588號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2711,13 +2910,14 @@
           120.48933599999999,
           22.582768999999999
         ]
-      },
-      "properties" : {
-        "name" : "德興素食",
-        "address" : "屏東縣萬丹鄉萬新路1588號"
       }
     },
     {
+      "id" : "675E6F9A-802D-4755-9B23-1826FD96B0AA",
+      "properties" : {
+        "name" : "鑫馨園素食館",
+        "address" : "屏東縣屏東市廣東路833號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2725,13 +2925,14 @@
           120.490184,
           22.687767000000001
         ]
-      },
-      "properties" : {
-        "name" : "鑫馨園素食館",
-        "address" : "屏東縣屏東市廣東路833號"
       }
     },
     {
+      "id" : "329E8F50-EFD9-40C0-BBFC-C11CD80C0D9A",
+      "properties" : {
+        "name" : "六度蔬食餐館",
+        "address" : "屏東縣屏東市勝利東路81號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2739,13 +2940,14 @@
           120.49655799999999,
           22.677534000000001
         ]
-      },
-      "properties" : {
-        "name" : "六度蔬食餐館",
-        "address" : "屏東縣屏東市勝利東路81號"
       }
     },
     {
+      "id" : "89543224-7F4C-456A-82D1-112ABC71B555",
+      "properties" : {
+        "name" : "萬家園素食館",
+        "address" : "屏東縣萬丹鄉萬丹街229-9號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2753,13 +2955,14 @@
           120.637117,
           22.627683000000001
         ]
-      },
-      "properties" : {
-        "name" : "萬家園素食館",
-        "address" : "屏東縣萬丹鄉萬丹街229-9號"
       }
     },
     {
+      "id" : "EF9A4923-0D7C-47A0-8E97-18D7525846A7",
+      "properties" : {
+        "name" : "上海素食自助餐&火鍋店",
+        "address" : "屏東縣屏東市民族路123,125號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2767,13 +2970,14 @@
           120.48784000000001,
           22.670059999999999
         ]
-      },
-      "properties" : {
-        "name" : "上海素食自助餐&火鍋店",
-        "address" : "屏東縣屏東市民族路123,125號"
       }
     },
     {
+      "id" : "DE2CC11B-01A5-46B8-87CB-008B37CA8F22",
+      "properties" : {
+        "name" : "聖德素食複合館",
+        "address" : "屏東縣東港鎮明德一路288號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2781,13 +2985,14 @@
           120.45940400000001,
           22.471862999999999
         ]
-      },
-      "properties" : {
-        "name" : "聖德素食複合館",
-        "address" : "屏東縣東港鎮明德一路288號"
       }
     },
     {
+      "id" : "6B6FDE4F-3B1D-4356-B75C-BC621FA1E249",
+      "properties" : {
+        "name" : "怡然居螢火蟲生態農場",
+        "address" : "屏東縣新埤鄉新中路161號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2795,13 +3000,14 @@
           120.545969,
           22.474492000000001
         ]
-      },
-      "properties" : {
-        "name" : "怡然居螢火蟲生態農場",
-        "address" : "屏東縣新埤鄉新中路161號"
       }
     },
     {
+      "id" : "98AFC392-5E16-4FFD-958E-9ACC89DEFEE9",
+      "properties" : {
+        "name" : "張媽媽素食",
+        "address" : "屏東縣屏東市中山路144號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2809,13 +3015,14 @@
           120.484647,
           22.682639999999999
         ]
-      },
-      "properties" : {
-        "name" : "張媽媽素食",
-        "address" : "屏東縣屏東市中山路144號"
       }
     },
     {
+      "id" : "5779BFA9-CF4D-4944-A973-29FC19BFBE65",
+      "properties" : {
+        "name" : "秀羽素食館屏東店",
+        "address" : "屏東縣屏東市仁愛路42號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2823,13 +3030,14 @@
           120.492408,
           22.670684999999999
         ]
-      },
-      "properties" : {
-        "name" : "秀羽素食館屏東店",
-        "address" : "屏東縣屏東市仁愛路42號"
       }
     },
     {
+      "id" : "451D944F-9906-4D68-8134-9D7957E6831E",
+      "properties" : {
+        "name" : "搖尾溜天然蔬食滷味",
+        "address" : "屏東縣長治鄉潭頭路27號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2837,13 +3045,14 @@
           120.52589,
           22.67587
         ]
-      },
-      "properties" : {
-        "name" : "搖尾溜天然蔬食滷味",
-        "address" : "屏東縣長治鄉潭頭路27號"
       }
     },
     {
+      "id" : "964FD110-64D4-4125-9175-AE6485FCBCE1",
+      "properties" : {
+        "name" : "菩提素食館",
+        "address" : "屏東縣屏東市廣東路154號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2851,13 +3060,14 @@
           120.500376,
           22.6751
         ]
-      },
-      "properties" : {
-        "name" : "菩提素食館",
-        "address" : "屏東縣屏東市廣東路154號"
       }
     },
     {
+      "id" : "4733BBD7-04BD-4A1C-B3FD-C0501C3EDEC5",
+      "properties" : {
+        "name" : "吉祥龍素食餐廳",
+        "address" : "屏東縣潮州鎮興隆路136號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2865,13 +3075,14 @@
           120.540239,
           22.543648000000001
         ]
-      },
-      "properties" : {
-        "name" : "吉祥龍素食餐廳",
-        "address" : "屏東縣潮州鎮興隆路136號"
       }
     },
     {
+      "id" : "C9672696-3A87-455D-AD4A-A088CFCF2C73",
+      "properties" : {
+        "name" : "小孩吃素",
+        "address" : "屏東縣恆春鎮中山路70號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2879,13 +3090,14 @@
           120.74413800000001,
           22.002887999999999
         ]
-      },
-      "properties" : {
-        "name" : "小孩吃素",
-        "address" : "屏東縣恆春鎮中山路70號"
       }
     },
     {
+      "id" : "F1B294D9-4815-45B0-BE18-8D4CD550EB97",
+      "properties" : {
+        "name" : "清粥小菜素食",
+        "address" : "屏東縣潮州鎮長興路14號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2893,13 +3105,14 @@
           120.542449,
           22.551223
         ]
-      },
-      "properties" : {
-        "name" : "清粥小菜素食",
-        "address" : "屏東縣潮州鎮長興路14號"
       }
     },
     {
+      "id" : "1F411956-71A7-4EED-A40B-1CA0EC9807AC",
+      "properties" : {
+        "name" : "打舖2號店",
+        "address" : "屏東縣屏東市民享一路161號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2907,13 +3120,14 @@
           120.498231,
           22.675332999999998
         ]
-      },
-      "properties" : {
-        "name" : "打舖2號店",
-        "address" : "屏東縣屏東市民享一路161號"
       }
     },
     {
+      "id" : "C4F67E42-5A42-410C-8709-31DD2A0207E8",
+      "properties" : {
+        "name" : "菩提林素食園",
+        "address" : "屏東縣林邊鄉中林路48號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2921,13 +3135,14 @@
           120.51697,
           22.433394
         ]
-      },
-      "properties" : {
-        "name" : "菩提林素食園",
-        "address" : "屏東縣林邊鄉中林路48號"
       }
     },
     {
+      "id" : "2E06467C-43D3-4737-B3A9-816ECA9C8C36",
+      "properties" : {
+        "name" : "社皮素食",
+        "address" : "屏東縣萬丹鄉大昌路363號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2935,13 +3150,14 @@
           120.47178099999999,
           22.615020999999999
         ]
-      },
-      "properties" : {
-        "name" : "社皮素食",
-        "address" : "屏東縣萬丹鄉大昌路363號"
       }
     },
     {
+      "id" : "2857EA7B-C4E9-4BB7-AB6A-A4DFA8B6143E",
+      "properties" : {
+        "name" : "靜心居素食館",
+        "address" : "屏東縣長治鄉潭頭路43巷6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2949,13 +3165,14 @@
           120.5258834,
           22.675345700000001
         ]
-      },
-      "properties" : {
-        "name" : "靜心居素食館",
-        "address" : "屏東縣長治鄉潭頭路43巷6號"
       }
     },
     {
+      "id" : "06AAE5C3-3AE5-43B0-9DD0-BEDD59BFDFBD",
+      "properties" : {
+        "name" : "loving hut 屏東安心店",
+        "address" : "屏東縣屏東市安心四橫巷130號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2963,13 +3180,14 @@
           120.51229499999999,
           22.659901000000001
         ]
-      },
-      "properties" : {
-        "name" : "loving hut 屏東安心店",
-        "address" : "屏東縣屏東市安心四橫巷130號"
       }
     },
     {
+      "id" : "3F40CE5A-3D6D-4B4C-8144-FBFE7F757A8C",
+      "properties" : {
+        "name" : "天然自助素食園",
+        "address" : "屏東縣東港鎮光復路一段360-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2977,13 +3195,14 @@
           120.4550397,
           22.469179400000002
         ]
-      },
-      "properties" : {
-        "name" : "天然自助素食園",
-        "address" : "屏東縣東港鎮光復路一段360-1號"
       }
     },
     {
+      "id" : "0F6A0F93-EB24-4684-A930-F074131D7FCF",
+      "properties" : {
+        "name" : "屏東阿儒師養生蔬食",
+        "address" : "屏東縣屏東市大連路60-20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2991,13 +3210,14 @@
           120.502566,
           22.682041999999999
         ]
-      },
-      "properties" : {
-        "name" : "屏東阿儒師養生蔬食",
-        "address" : "屏東縣屏東市大連路60-20號"
       }
     },
     {
+      "id" : "1A46C754-C7E3-4EBA-8CDB-CB99B309BBD2",
+      "properties" : {
+        "name" : "滴水坊",
+        "address" : "屏東縣屏東市建華三街46號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3005,13 +3225,14 @@
           120.4847,
           22.667826000000002
         ]
-      },
-      "properties" : {
-        "name" : "滴水坊",
-        "address" : "屏東縣屏東市建華三街46號"
       }
     },
     {
+      "id" : "43A7E841-EE3B-4F58-901E-4B6E0209A87C",
+      "properties" : {
+        "name" : "崇素蔬食",
+        "address" : "屏東縣屏東市中山黃昏市場一街6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3019,13 +3240,14 @@
           120.48797639999999,
           22.6832885
         ]
-      },
-      "properties" : {
-        "name" : "崇素蔬食",
-        "address" : "屏東縣屏東市中山黃昏市場一街6號"
       }
     },
     {
+      "id" : "17C4499F-B72A-46A6-8B7E-2B4042EDA988",
+      "properties" : {
+        "name" : "上霖全素早點",
+        "address" : "屏東縣恆春鎮恆南路219-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3033,13 +3255,14 @@
           120.7444816,
           22.000366700000001
         ]
-      },
-      "properties" : {
-        "name" : "上霖全素早點",
-        "address" : "屏東縣恆春鎮恆南路219-1號"
       }
     },
     {
+      "id" : "EEFCA636-A547-432B-AECC-F4594E5167CA",
+      "properties" : {
+        "name" : "文素素食Wen Su",
+        "address" : "屏東縣東港鎮中正路一段70號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3047,13 +3270,14 @@
           120.45656099999999,
           22.472466000000001
         ]
-      },
-      "properties" : {
-        "name" : "文素素食Wen Su",
-        "address" : "屏東縣東港鎮中正路一段70號"
       }
     },
     {
+      "id" : "D8064FB2-FF1B-4B21-97C3-C6F2A4A6B80C",
+      "properties" : {
+        "name" : "合珍素食館",
+        "address" : "屏東縣屏東市勝利路163-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3061,13 +3285,14 @@
           120.48188500000001,
           22.679006999999999
         ]
-      },
-      "properties" : {
-        "name" : "合珍素食館",
-        "address" : "屏東縣屏東市勝利路163-2號"
       }
     },
     {
+      "id" : "EDD8AA9B-B104-4A30-B394-4A6B1400DBEA",
+      "properties" : {
+        "name" : "蔬月曲",
+        "address" : "屏東縣東港鎮中正路一段381號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3075,13 +3300,14 @@
           120.46007299999999,
           22.475618999999998
         ]
-      },
-      "properties" : {
-        "name" : "蔬月曲",
-        "address" : "屏東縣東港鎮中正路一段381號"
       }
     },
     {
+      "id" : "F1E30BD0-ECB0-4D27-AFF5-9F84BDFC906B",
+      "properties" : {
+        "name" : "秀發生鮮素食量販店",
+        "address" : "屏東縣林邊鄉中林路200號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3089,13 +3315,14 @@
           120.518404,
           22.435701000000002
         ]
-      },
-      "properties" : {
-        "name" : "秀發生鮮素食量販店",
-        "address" : "屏東縣林邊鄉中林路200號"
       }
     },
     {
+      "id" : "41C1A29C-3E4A-4F28-BF2B-E3E87E3953F6",
+      "properties" : {
+        "name" : "水底寮加祿素食",
+        "address" : "屏東縣枋寮鄉中山路二段297號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3103,13 +3330,14 @@
           120.5945901,
           22.385460599999998
         ]
-      },
-      "properties" : {
-        "name" : "水底寮加祿素食",
-        "address" : "屏東縣枋寮鄉中山路二段297號"
       }
     },
     {
+      "id" : "9FAC349F-70B1-4541-AF9F-EA4851ADC197",
+      "properties" : {
+        "name" : "道堅素食",
+        "address" : "屏東縣屏東市光明街142號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3117,13 +3345,14 @@
           120.483251,
           22.668838000000001
         ]
-      },
-      "properties" : {
-        "name" : "道堅素食",
-        "address" : "屏東縣屏東市光明街142號"
       }
     },
     {
+      "id" : "D45A69CD-4CAB-4017-996E-5D948A520731",
+      "properties" : {
+        "name" : "葉子-素食自助餐館",
+        "address" : "屏東縣屏東市建豐路278號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3131,13 +3360,14 @@
           120.501852,
           22.676952
         ]
-      },
-      "properties" : {
-        "name" : "葉子-素食自助餐館",
-        "address" : "屏東縣屏東市建豐路278號"
       }
     },
     {
+      "id" : "8200D886-34C5-4FBA-8795-050D72E4C3D0",
+      "properties" : {
+        "name" : "觀緣素食",
+        "address" : "屏東縣屏東市廣東路524號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3145,13 +3375,14 @@
           120.499899,
           22.682257
         ]
-      },
-      "properties" : {
-        "name" : "觀緣素食",
-        "address" : "屏東縣屏東市廣東路524號"
       }
     },
     {
+      "id" : "A166D4A5-9ED6-4B77-BD4E-EDD61B351DBB",
+      "properties" : {
+        "name" : "永發生發素食量販店",
+        "address" : "屏東縣屏東市和生路二段235號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3159,13 +3390,14 @@
           120.478995,
           22.652623999999999
         ]
-      },
-      "properties" : {
-        "name" : "永發生發素食量販店",
-        "address" : "屏東縣屏東市和生路二段235號"
       }
     },
     {
+      "id" : "E6CD1914-0824-457D-9515-C13B3D69125A",
+      "properties" : {
+        "name" : "黃媽媽素食早點",
+        "address" : "屏東縣屏東市中正路688巷51號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3173,13 +3405,14 @@
           120.500083,
           22.688326
         ]
-      },
-      "properties" : {
-        "name" : "黃媽媽素食早點",
-        "address" : "屏東縣屏東市中正路688巷51號"
       }
     },
     {
+      "id" : "739A24C4-EEA0-441B-ADFD-0E1A03EAEF60",
+      "properties" : {
+        "name" : "尚德素食",
+        "address" : "屏東縣屏東市勝利路72號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3187,13 +3420,14 @@
           120.490048,
           22.679238000000002
         ]
-      },
-      "properties" : {
-        "name" : "尚德素食",
-        "address" : "屏東縣屏東市勝利路72號"
       }
     },
     {
+      "id" : "4C199864-72F3-4355-BDC7-C002FCEBF5D5",
+      "properties" : {
+        "name" : "伊真素食",
+        "address" : "屏東縣屏東市廣東路486號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3201,13 +3435,14 @@
           120.5008,
           22.681470000000001
         ]
-      },
-      "properties" : {
-        "name" : "伊真素食",
-        "address" : "屏東縣屏東市廣東路486號"
       }
     },
     {
+      "id" : "5B6C995A-BC60-4226-9F25-74298B56422C",
+      "properties" : {
+        "name" : "艸食天堂 創意蔬食料理",
+        "address" : "屏東縣屏東市公園東路115號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3215,13 +3450,14 @@
           120.497607,
           22.672253000000001
         ]
-      },
-      "properties" : {
-        "name" : "艸食天堂 創意蔬食料理",
-        "address" : "屏東縣屏東市公園東路115號"
       }
     },
     {
+      "id" : "556D3A1F-CC11-4DEE-A508-B566724D9BD2",
+      "properties" : {
+        "name" : "圓味素食滷味鹽酥G",
+        "address" : "屏東縣屏東市瑞光路一段383號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3229,13 +3465,14 @@
           120.5141756,
           22.663214700000001
         ]
-      },
-      "properties" : {
-        "name" : "圓味素食滷味鹽酥G",
-        "address" : "屏東縣屏東市瑞光路一段383號"
       }
     },
     {
+      "id" : "05D8E5E8-9AF3-474A-A779-C640CB525219",
+      "properties" : {
+        "name" : "健康素食館",
+        "address" : "屏東縣高樹鄉南興路174號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3243,13 +3480,14 @@
           120.601313,
           22.824791000000001
         ]
-      },
-      "properties" : {
-        "name" : "健康素食館",
-        "address" : "屏東縣高樹鄉南興路174號"
       }
     },
     {
+      "id" : "26FA7B86-B121-40D8-BEA4-C3DFBB52B484",
+      "properties" : {
+        "name" : "素食鍋燒麵",
+        "address" : "屏東縣屏東市莊敬街一段52號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3257,13 +3495,14 @@
           120.50185500000001,
           22.683254000000002
         ]
-      },
-      "properties" : {
-        "name" : "素食鍋燒麵",
-        "address" : "屏東縣屏東市莊敬街一段52號"
       }
     },
     {
+      "id" : "9484A645-49EC-4C5F-80AC-810D09F3ABC8",
+      "properties" : {
+        "name" : "建同素食",
+        "address" : "屏東縣屏東市民生路57-13號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3271,13 +3510,14 @@
           120.505876,
           22.662745000000001
         ]
-      },
-      "properties" : {
-        "name" : "建同素食",
-        "address" : "屏東縣屏東市民生路57-13號"
       }
     },
     {
+      "id" : "EF0D0034-3CA0-4366-BCD9-8DCA84227433",
+      "properties" : {
+        "name" : "禾家豐素食餐館",
+        "address" : "屏東縣屏東市林森路55號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3285,13 +3525,14 @@
           120.49277600000001,
           22.672653
         ]
-      },
-      "properties" : {
-        "name" : "禾家豐素食餐館",
-        "address" : "屏東縣屏東市林森路55號"
       }
     },
     {
+      "id" : "D503540E-6863-4832-844E-102FDBF0C764",
+      "properties" : {
+        "name" : "膳芝坊",
+        "address" : "屏東縣恆春鎮中正路237號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3299,10 +3540,6 @@
           120.74355799999999,
           22.005807000000001
         ]
-      },
-      "properties" : {
-        "name" : "膳芝坊",
-        "address" : "屏東縣恆春鎮中正路237號"
       }
     }
   ]

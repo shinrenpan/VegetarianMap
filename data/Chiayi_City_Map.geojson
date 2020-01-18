@@ -1,7 +1,13 @@
 {
   "type" : "FeatureCollection",
+  "areaCode" : 600,
   "features" : [
     {
+      "id" : "FE0488E7-0DD3-47D9-A0F2-63BE35D0A070",
+      "properties" : {
+        "name" : "無名素食鹽酥雞g",
+        "address" : "嘉義市西區文化路224號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -9,13 +15,14 @@
           120.4450394,
           23.492435
         ]
-      },
-      "properties" : {
-        "name" : "無名素食鹽酥雞g",
-        "address" : "嘉義市西區文化路224號"
       }
     },
     {
+      "id" : "89A381B1-CD1E-4CF4-93A9-E3F4201C01C3",
+      "properties" : {
+        "name" : "NuMeal新食煮藝餐廳",
+        "address" : "嘉義市西區中興路408巷10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -23,13 +30,14 @@
           120.4279422,
           23.479417699999999
         ]
-      },
-      "properties" : {
-        "name" : "NuMeal新食煮藝餐廳",
-        "address" : "嘉義市西區中興路408巷10號"
       }
     },
     {
+      "id" : "49C8E9E7-9777-4FBA-9A0D-4817446659C2",
+      "properties" : {
+        "name" : "一年五季養生坊",
+        "address" : "嘉義市東區大雅路二段522號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -37,13 +45,14 @@
           120.469846,
           23.477913000000001
         ]
-      },
-      "properties" : {
-        "name" : "一年五季養生坊",
-        "address" : "嘉義市東區大雅路二段522號"
       }
     },
     {
+      "id" : "049ADDDC-6226-4EA6-A19B-323AED5F4E76",
+      "properties" : {
+        "name" : "和平素食",
+        "address" : "嘉義市東區和平路173號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -51,13 +60,14 @@
           120.45755,
           23.476209999999998
         ]
-      },
-      "properties" : {
-        "name" : "和平素食",
-        "address" : "嘉義市東區和平路173號"
       }
     },
     {
+      "id" : "060FA9AB-05B1-40A0-956B-0C884FA974F3",
+      "properties" : {
+        "name" : "德香閣素食餐館",
+        "address" : "嘉義市西區成功街75號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -65,13 +75,14 @@
           120.443093,
           23.472033
         ]
-      },
-      "properties" : {
-        "name" : "德香閣素食餐館",
-        "address" : "嘉義市西區成功街75號"
       }
     },
     {
+      "id" : "1A10F799-2F06-4361-BD5C-18DD55219B62",
+      "properties" : {
+        "name" : "老東家素食臭火鍋",
+        "address" : "嘉義市西區民生北路18號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -79,13 +90,14 @@
           120.446894,
           23.474298999999998
         ]
-      },
-      "properties" : {
-        "name" : "老東家素食臭火鍋",
-        "address" : "嘉義市西區民生北路18號"
       }
     },
     {
+      "id" : "D66E3450-391F-45F0-B735-E08034E864F3",
+      "properties" : {
+        "name" : "聖善園餐廳",
+        "address" : "嘉義市西區中興路590號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -93,13 +105,14 @@
           120.428282,
           23.474608
         ]
-      },
-      "properties" : {
-        "name" : "聖善園餐廳",
-        "address" : "嘉義市西區中興路590號"
       }
     },
     {
+      "id" : "F56D2E95-82AA-4AD8-B46D-D6C81D0DF970",
+      "properties" : {
+        "name" : "慈青素食館",
+        "address" : "嘉義市東區體育路83號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -107,13 +120,14 @@
           120.46148700000001,
           23.474383
         ]
-      },
-      "properties" : {
-        "name" : "慈青素食館",
-        "address" : "嘉義市東區體育路83號"
       }
     },
     {
+      "id" : "F473B1D3-D411-4290-8B8E-4B35C551B65C",
+      "properties" : {
+        "name" : "竹林素食-清粥小菜",
+        "address" : "嘉義市東區中正路404號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -121,13 +135,14 @@
           120.450158,
           23.478967000000001
         ]
-      },
-      "properties" : {
-        "name" : "竹林素食-清粥小菜",
-        "address" : "嘉義市東區中正路404號"
       }
     },
     {
+      "id" : "189B1130-E797-4892-A8AA-C2174A6D0835",
+      "properties" : {
+        "name" : "吉芳包子饅頭店",
+        "address" : "嘉義市東區和平路137號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -135,13 +150,14 @@
           120.457688,
           23.475387000000001
         ]
-      },
-      "properties" : {
-        "name" : "吉芳包子饅頭店",
-        "address" : "嘉義市東區和平路137號"
       }
     },
     {
+      "id" : "B8E12A3E-897B-4C41-88FE-74723D3AE835",
+      "properties" : {
+        "name" : "辰善素食",
+        "address" : "嘉義市西區中央第一商場58號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -149,13 +165,14 @@
           121.399428,
           24.976500999999999
         ]
-      },
-      "properties" : {
-        "name" : "辰善素食",
-        "address" : "嘉義市西區中央第一商場58號"
       }
     },
     {
+      "id" : "DF0A2B0D-7410-4C97-A044-94E07D85171E",
+      "properties" : {
+        "name" : "健康原素",
+        "address" : "嘉義市東區興業西路409號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -163,13 +180,14 @@
           120.43556599999999,
           23.467464
         ]
-      },
-      "properties" : {
-        "name" : "健康原素",
-        "address" : "嘉義市東區興業西路409號"
       }
     },
     {
+      "id" : "D6C97ED6-B313-49C0-BBDA-0514D3327B6F",
+      "properties" : {
+        "name" : "觀世音素食廣場",
+        "address" : "嘉義市東區光華路8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -177,13 +195,14 @@
           120.45536,
           23.476959999999998
         ]
-      },
-      "properties" : {
-        "name" : "觀世音素食廣場",
-        "address" : "嘉義市東區光華路8號"
       }
     },
     {
+      "id" : "86522E15-31FB-4FCB-9AFA-DC253676A9FF",
+      "properties" : {
+        "name" : "白鶴養生輕食蔬果汁",
+        "address" : "嘉義市東區民族路138號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -191,13 +210,14 @@
           120.458282,
           23.476852000000001
         ]
-      },
-      "properties" : {
-        "name" : "白鶴養生輕食蔬果汁",
-        "address" : "嘉義市東區民族路138號"
       }
     },
     {
+      "id" : "4B43BAD5-4858-42A9-891B-BA22EA4E2AA3",
+      "properties" : {
+        "name" : "楓禾日秝 - 蔬食養生鍋物",
+        "address" : "嘉義市東區民權路296號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -205,13 +225,14 @@
           120.45179,
           23.482731000000001
         ]
-      },
-      "properties" : {
-        "name" : "楓禾日秝 - 蔬食養生鍋物",
-        "address" : "嘉義市東區民權路296號"
       }
     },
     {
+      "id" : "9A078C3B-0CF5-4875-A84C-BC7D2599DAD9",
+      "properties" : {
+        "name" : "排對－素滷排．鰻魚羹專賣",
+        "address" : "嘉義市西區新民路858號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -219,13 +240,14 @@
           120.43982099999999,
           23.471914000000002
         ]
-      },
-      "properties" : {
-        "name" : "排對－素滷排．鰻魚羹專賣",
-        "address" : "嘉義市西區新民路858號"
       }
     },
     {
+      "id" : "4E3B26AB-1425-4DCA-B118-F5FD51175967",
+      "properties" : {
+        "name" : "巴甜蔬食家廚",
+        "address" : "嘉義市西區北榮街115號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -233,13 +255,14 @@
           120.448076,
           23.480675999999999
         ]
-      },
-      "properties" : {
-        "name" : "巴甜蔬食家廚",
-        "address" : "嘉義市西區北榮街115號"
       }
     },
     {
+      "id" : "890FD159-726F-4E9A-BA05-7A2EB95C8F7F",
+      "properties" : {
+        "name" : "台林素食館",
+        "address" : "嘉義市東區新生路702附1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -247,13 +270,14 @@
           120.45641500000001,
           23.494833
         ]
-      },
-      "properties" : {
-        "name" : "台林素食館",
-        "address" : "嘉義市東區新生路702附1號"
       }
     },
     {
+      "id" : "15FC955D-C6B1-46AD-A8ED-B72C4F3C8BB7",
+      "properties" : {
+        "name" : "蔬食361簡餐",
+        "address" : "嘉義市東區民族路636號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -261,13 +285,14 @@
           120.4544686,
           23.476613199999999
         ]
-      },
-      "properties" : {
-        "name" : "蔬食361簡餐",
-        "address" : "嘉義市東區民族路636號"
       }
     },
     {
+      "id" : "181BE201-6EE0-4C6F-A948-8CFA322A855E",
+      "properties" : {
+        "name" : "玉山路小吃站",
+        "address" : "嘉義市玉山路204號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -275,13 +300,14 @@
           120.422963,
           23.471482999999999
         ]
-      },
-      "properties" : {
-        "name" : "玉山路小吃站",
-        "address" : "嘉義市玉山路204號"
       }
     },
     {
+      "id" : "720B4E6D-1CCA-4328-944C-FD9467CC08B6",
+      "properties" : {
+        "name" : "盧森堡素食麵包坊",
+        "address" : "嘉義市西區民生南路71號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -289,13 +315,14 @@
           120.446613,
           23.464756000000001
         ]
-      },
-      "properties" : {
-        "name" : "盧森堡素食麵包坊",
-        "address" : "嘉義市西區民生南路71號"
       }
     },
     {
+      "id" : "74287F2B-E51A-4B38-858A-C1A11A39EC0C",
+      "properties" : {
+        "name" : "明緣健康素食",
+        "address" : "嘉義市西區新民路736號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -303,13 +330,14 @@
           120.44013200000001,
           23.469104999999999
         ]
-      },
-      "properties" : {
-        "name" : "明緣健康素食",
-        "address" : "嘉義市西區新民路736號"
       }
     },
     {
+      "id" : "C54616EF-2DC1-4701-BD84-46DD8ABD75FC",
+      "properties" : {
+        "name" : "天一素食館",
+        "address" : "嘉義市西區北榮街180號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -317,13 +345,14 @@
           120.444303,
           23.480471000000001
         ]
-      },
-      "properties" : {
-        "name" : "天一素食館",
-        "address" : "嘉義市西區北榮街180號"
       }
     },
     {
+      "id" : "82E4388F-8C16-4874-BB7A-D142CCCBF6A5",
+      "properties" : {
+        "name" : "家鄉好素食自助餐",
+        "address" : "嘉義市東區民權路116號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -331,13 +360,14 @@
           120.457871,
           23.483582999999999
         ]
-      },
-      "properties" : {
-        "name" : "家鄉好素食自助餐",
-        "address" : "嘉義市東區民權路116號"
       }
     },
     {
+      "id" : "B4BB505C-73B6-40A8-8A52-907CA9160EBB",
+      "properties" : {
+        "name" : "香積緣蔬蒔料理",
+        "address" : "嘉義市東區公明路172號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -345,13 +375,14 @@
           120.45724300000001,
           23.480411
         ]
-      },
-      "properties" : {
-        "name" : "香積緣蔬蒔料理",
-        "address" : "嘉義市東區公明路172號"
       }
     },
     {
+      "id" : "FF0F8B59-632C-4C01-98C0-800720F4B994",
+      "properties" : {
+        "name" : "七里素達人",
+        "address" : "嘉義市西區友愛路360號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -359,13 +390,14 @@
           120.43375,
           23.485140000000001
         ]
-      },
-      "properties" : {
-        "name" : "七里素達人",
-        "address" : "嘉義市西區友愛路360號"
       }
     },
     {
+      "id" : "B66C195F-B660-41DD-9B1F-27B2065A78D2",
+      "properties" : {
+        "name" : "素食鍋貼",
+        "address" : "嘉義市西區上海路176號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -373,13 +405,14 @@
           120.432873,
           23.466422999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食鍋貼",
-        "address" : "嘉義市西區上海路176號"
       }
     },
     {
+      "id" : "961E6179-2D29-439C-A2B7-67571F62C3D0",
+      "properties" : {
+        "name" : "蔬覓苑",
+        "address" : "嘉義市西區成功街20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -387,13 +420,14 @@
           120.44612499999999,
           23.472451
         ]
-      },
-      "properties" : {
-        "name" : "蔬覓苑",
-        "address" : "嘉義市西區成功街20號"
       }
     },
     {
+      "id" : "179EA1F6-3507-4299-90C1-850C48AD7132",
+      "properties" : {
+        "name" : "草行居 日式素食料理",
+        "address" : "嘉義市西區自由路121號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -401,13 +435,14 @@
           120.438309,
           23.486943
         ]
-      },
-      "properties" : {
-        "name" : "草行居 日式素食料理",
-        "address" : "嘉義市西區自由路121號"
       }
     },
     {
+      "id" : "F339A6B9-6F48-4C05-A2A9-A50DFBE5C080",
+      "properties" : {
+        "name" : "HOT豆素食PIZZA",
+        "address" : "嘉義市東區大雅路二段493號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -415,13 +450,14 @@
           120.47126400000001,
           23.477523000000001
         ]
-      },
-      "properties" : {
-        "name" : "HOT豆素食PIZZA",
-        "address" : "嘉義市東區大雅路二段493號"
       }
     },
     {
+      "id" : "761D6091-B7FF-4D74-9987-8AD92A2A2DA9",
+      "properties" : {
+        "name" : "南華滴水坊",
+        "address" : "嘉義市西區博愛路二段241號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -429,13 +465,14 @@
           120.43837000000001,
           23.479679999999998
         ]
-      },
-      "properties" : {
-        "name" : "南華滴水坊",
-        "address" : "嘉義市西區博愛路二段241號"
       }
     },
     {
+      "id" : "7E06D384-98FB-4652-B308-2FEBBC300FC5",
+      "properties" : {
+        "name" : "LUZ VEGAN 明。維根",
+        "address" : "嘉義市西區南京路412號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -443,13 +480,14 @@
           120.43631000000001,
           23.464300000000001
         ]
-      },
-      "properties" : {
-        "name" : "LUZ VEGAN 明。維根",
-        "address" : "嘉義市西區南京路412號"
       }
     },
     {
+      "id" : "7BFB261B-F005-43E3-8FFC-5CAAD2A13B3A",
+      "properties" : {
+        "name" : "泰婆婆 椰米燒 香蘭燒 紫芋燒",
+        "address" : "嘉義市西區文化路133-147號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -457,13 +495,14 @@
           120.4451682,
           23.4921376
         ]
-      },
-      "properties" : {
-        "name" : "泰婆婆 椰米燒 香蘭燒 紫芋燒",
-        "address" : "嘉義市西區文化路133-147號"
       }
     },
     {
+      "id" : "76AC5B64-4FAE-4828-9080-A4B6B6063133",
+      "properties" : {
+        "name" : "美中紅茶生活館",
+        "address" : "嘉義市東區民權路357號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -471,13 +510,14 @@
           120.45094400000001,
           23.482389000000001
         ]
-      },
-      "properties" : {
-        "name" : "美中紅茶生活館",
-        "address" : "嘉義市東區民權路357號"
       }
     },
     {
+      "id" : "306E80BD-7EAC-466D-9C05-A1A3E159ECC8",
+      "properties" : {
+        "name" : "巴甜養生蔬食咖啡簡餐",
+        "address" : "嘉義市東區大雅路一段858巷39號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -485,13 +525,14 @@
           120.484774,
           23.482158999999999
         ]
-      },
-      "properties" : {
-        "name" : "巴甜養生蔬食咖啡簡餐",
-        "address" : "嘉義市東區大雅路一段858巷39號"
       }
     },
     {
+      "id" : "19574AA8-3096-4159-92B5-C1FFB96AA20A",
+      "properties" : {
+        "name" : "韓吉香黃金薯",
+        "address" : "嘉義市東區芳安路65號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -499,13 +540,14 @@
           120.464037,
           23.468672999999999
         ]
-      },
-      "properties" : {
-        "name" : "韓吉香黃金薯",
-        "address" : "嘉義市東區芳安路65號"
       }
     },
     {
+      "id" : "91113F01-D5F4-4136-A963-C1CEAC3FF250",
+      "properties" : {
+        "name" : "鼠麴草自然蔬食",
+        "address" : "嘉義市東區東洋新村603號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -513,13 +555,14 @@
           120.5555631,
           23.585067899999999
         ]
-      },
-      "properties" : {
-        "name" : "鼠麴草自然蔬食",
-        "address" : "嘉義市東區東洋新村603號"
       }
     },
     {
+      "id" : "90A05C23-EEB6-4676-BFB8-71C9F428402B",
+      "properties" : {
+        "name" : "十香坊",
+        "address" : "嘉義市東區和平路129號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -527,13 +570,14 @@
           120.457705,
           23.475235000000001
         ]
-      },
-      "properties" : {
-        "name" : "十香坊",
-        "address" : "嘉義市東區和平路129號"
       }
     },
     {
+      "id" : "D17DA9B2-AA9C-471D-BE25-FF9478436B70",
+      "properties" : {
+        "name" : "廣記行素食店",
+        "address" : "嘉義市東區吳鳳北路177號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -541,13 +585,14 @@
           120.453309,
           23.478103999999998
         ]
-      },
-      "properties" : {
-        "name" : "廣記行素食店",
-        "address" : "嘉義市東區吳鳳北路177號"
       }
     },
     {
+      "id" : "CEB5DE30-5F0C-4210-A9EA-A241287569FF",
+      "properties" : {
+        "name" : "觀自在素食海菭飯捲",
+        "address" : "嘉義市西區民生南路140號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -555,13 +600,14 @@
           120.446893,
           23.4694
         ]
-      },
-      "properties" : {
-        "name" : "觀自在素食海菭飯捲",
-        "address" : "嘉義市西區民生南路140號"
       }
     },
     {
+      "id" : "3B4B9290-8EFC-457E-8EA9-2518E54531B7",
+      "properties" : {
+        "name" : "香香素食",
+        "address" : "嘉義市東區民權路126號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -569,13 +615,14 @@
           120.457295,
           23.483514
         ]
-      },
-      "properties" : {
-        "name" : "香香素食",
-        "address" : "嘉義市東區民權路126號"
       }
     },
     {
+      "id" : "F67048A8-F153-43AD-A7DC-4899C3965470",
+      "properties" : {
+        "name" : "宮賓素食館",
+        "address" : "嘉義市西區仁愛路457號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -583,13 +630,14 @@
           120.44181500000001,
           23.478245999999999
         ]
-      },
-      "properties" : {
-        "name" : "宮賓素食館",
-        "address" : "嘉義市西區仁愛路457號"
       }
     },
     {
+      "id" : "4599C962-6216-4110-AEE4-AC19416CA7A1",
+      "properties" : {
+        "name" : "皆大喜素食",
+        "address" : "嘉義市西區中興路235-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -597,13 +645,14 @@
           120.434394,
           23.482154999999999
         ]
-      },
-      "properties" : {
-        "name" : "皆大喜素食",
-        "address" : "嘉義市西區中興路235-1號"
       }
     },
     {
+      "id" : "E82056F1-842B-4A57-9D91-E9521FC2E464",
+      "properties" : {
+        "name" : "習茶",
+        "address" : "嘉義市西區上海路52號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -611,13 +660,14 @@
           120.431223,
           23.46454
         ]
-      },
-      "properties" : {
-        "name" : "習茶",
-        "address" : "嘉義市西區上海路52號"
       }
     },
     {
+      "id" : "CE55519F-A118-47DA-A68E-CBD1869A4353",
+      "properties" : {
+        "name" : "小有名堂",
+        "address" : "嘉義市東區成仁街240-28號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -625,13 +675,14 @@
           120.451055,
           23.483809000000001
         ]
-      },
-      "properties" : {
-        "name" : "小有名堂",
-        "address" : "嘉義市東區成仁街240-28號"
       }
     },
     {
+      "id" : "FE0E6E94-9637-4789-99EE-4E208E9A1091",
+      "properties" : {
+        "name" : "樸素齋坊 & 大草包",
+        "address" : "嘉義市東區林森東路55號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -639,13 +690,14 @@
           120.45552000000001,
           23.48678
         ]
-      },
-      "properties" : {
-        "name" : "樸素齋坊 & 大草包",
-        "address" : "嘉義市東區林森東路55號"
       }
     },
     {
+      "id" : "FA368482-2615-4E0B-A277-0C420D4EC0C9",
+      "properties" : {
+        "name" : "北興素食自助餐",
+        "address" : "嘉義市西區北興公有零售市場3區9號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -653,13 +705,14 @@
           121.399428,
           24.976500999999999
         ]
-      },
-      "properties" : {
-        "name" : "北興素食自助餐",
-        "address" : "嘉義市西區北興公有零售市場3區9號"
       }
     },
     {
+      "id" : "D1A22A3C-752E-4F30-9E55-61873DF84169",
+      "properties" : {
+        "name" : "欣達蔬食pizza",
+        "address" : "嘉義市西區興達路309號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -667,13 +720,14 @@
           120.43731,
           23.486775999999999
         ]
-      },
-      "properties" : {
-        "name" : "欣達蔬食pizza",
-        "address" : "嘉義市西區興達路309號"
       }
     },
     {
+      "id" : "5C211047-F3AE-42FF-8C30-7431AEBCD8BA",
+      "properties" : {
+        "name" : "天香素食鹽酥雞滷味",
+        "address" : "嘉義市東區吳鳳南路509號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -681,13 +735,14 @@
           120.456981,
           23.461545000000001
         ]
-      },
-      "properties" : {
-        "name" : "天香素食鹽酥雞滷味",
-        "address" : "嘉義市東區吳鳳南路509號"
       }
     },
     {
+      "id" : "FC4D9274-F234-4546-B92D-753776AA2585",
+      "properties" : {
+        "name" : "慈音臭豆腐",
+        "address" : "嘉義市東區芳安路227號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -695,13 +750,14 @@
           120.459575,
           23.468228
         ]
-      },
-      "properties" : {
-        "name" : "慈音臭豆腐",
-        "address" : "嘉義市東區芳安路227號"
       }
     },
     {
+      "id" : "A1196F8C-B198-480B-B104-CF0FDF61A098",
+      "properties" : {
+        "name" : "慈心緣素食",
+        "address" : "嘉義市西區民生南路612號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -709,13 +765,14 @@
           120.443551,
           23.457491999999998
         ]
-      },
-      "properties" : {
-        "name" : "慈心緣素食",
-        "address" : "嘉義市西區民生南路612號"
       }
     },
     {
+      "id" : "C3C2B5CB-A5E2-4C5B-AC1C-B002C9ED8098",
+      "properties" : {
+        "name" : "養心園素食",
+        "address" : "嘉義市東區北榮街62號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -723,13 +780,14 @@
           120.45029599999999,
           23.481028800000001
         ]
-      },
-      "properties" : {
-        "name" : "養心園素食",
-        "address" : "嘉義市東區北榮街62號"
       }
     },
     {
+      "id" : "C0F130B8-1C19-49E8-8E3E-A5925F51F750",
+      "properties" : {
+        "name" : "慈旺素料食材",
+        "address" : "嘉義市西區溫州一街59號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -737,13 +795,14 @@
           120.43729,
           23.463339999999999
         ]
-      },
-      "properties" : {
-        "name" : "慈旺素料食材",
-        "address" : "嘉義市西區溫州一街59號"
       }
     },
     {
+      "id" : "162DEB20-6B03-43DB-9407-BFF769654EA7",
+      "properties" : {
+        "name" : "乙鼎齋",
+        "address" : "嘉義市西區北興街330號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -751,13 +810,14 @@
           120.438131,
           23.485865
         ]
-      },
-      "properties" : {
-        "name" : "乙鼎齋",
-        "address" : "嘉義市西區北興街330號"
       }
     },
     {
+      "id" : "013D0EAA-2E23-43DF-AE1E-BE7776D68327",
+      "properties" : {
+        "name" : "一元素食",
+        "address" : "嘉義市西區國華街245號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -765,13 +825,14 @@
           120.448408,
           23.479008
         ]
-      },
-      "properties" : {
-        "name" : "一元素食",
-        "address" : "嘉義市西區國華街245號"
       }
     },
     {
+      "id" : "D93020E7-E16E-48E7-9465-D91A45869565",
+      "properties" : {
+        "name" : "新生蔬食小館",
+        "address" : "嘉義市東區垂楊路112號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -779,13 +840,14 @@
           120.458276,
           23.474779000000002
         ]
-      },
-      "properties" : {
-        "name" : "新生蔬食小館",
-        "address" : "嘉義市東區垂楊路112號"
       }
     },
     {
+      "id" : "8D94A437-31BA-4358-AF82-89B2426591B9",
+      "properties" : {
+        "name" : "素食自助餐 ",
+        "address" : "嘉義市西區北興街398號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -793,13 +855,14 @@
           120.436571,
           23.486646
         ]
-      },
-      "properties" : {
-        "name" : "素食自助餐 ",
-        "address" : "嘉義市西區北興街398號"
       }
     },
     {
+      "id" : "8026EE29-AECC-42EE-B516-F875BCC9285C",
+      "properties" : {
+        "name" : "市政府素食",
+        "address" : "嘉義市西區民生南路2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -807,13 +870,14 @@
           120.44680099999999,
           23.473317000000002
         ]
-      },
-      "properties" : {
-        "name" : "市政府素食",
-        "address" : "嘉義市西區民生南路2號"
       }
     },
     {
+      "id" : "8CB34C06-FFF0-4193-9877-500C68E52AB4",
+      "properties" : {
+        "name" : "口味珍素餅專賣店",
+        "address" : "嘉義市西區國華街230-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -821,13 +885,14 @@
           120.448381,
           23.481389
         ]
-      },
-      "properties" : {
-        "name" : "口味珍素餅專賣店",
-        "address" : "嘉義市西區國華街230-1號"
       }
     },
     {
+      "id" : "0933CDB8-CB46-4FD9-8256-A67A9E4A4BD4",
+      "properties" : {
+        "name" : "健康原素",
+        "address" : "嘉義市東區吳鳳北路124-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -835,13 +900,14 @@
           120.453624,
           23.477461999999999
         ]
-      },
-      "properties" : {
-        "name" : "健康原素",
-        "address" : "嘉義市東區吳鳳北路124-1號"
       }
     },
     {
+      "id" : "EAFE8C1E-3D87-4548-8F4E-5DB63C59FB05",
+      "properties" : {
+        "name" : "蒝福菇菇燒",
+        "address" : "嘉義市西區興業西路409-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -849,13 +915,14 @@
           120.43549,
           23.467410000000001
         ]
-      },
-      "properties" : {
-        "name" : "蒝福菇菇燒",
-        "address" : "嘉義市西區興業西路409-1號"
       }
     },
     {
+      "id" : "5222567D-ACE7-4521-AD81-5DAFC039A3D4",
+      "properties" : {
+        "name" : "素清園小吃店",
+        "address" : "嘉義市西區友孝路244號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -863,13 +930,14 @@
           120.43546499999999,
           23.486418
         ]
-      },
-      "properties" : {
-        "name" : "素清園小吃店",
-        "address" : "嘉義市西區友孝路244號"
       }
     },
     {
+      "id" : "CC74A664-6778-4F16-A5DF-6B36BF533F63",
+      "properties" : {
+        "name" : "初素蔬食炸物",
+        "address" : "嘉義市西區北興街398號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -877,13 +945,14 @@
           120.436571,
           23.486646
         ]
-      },
-      "properties" : {
-        "name" : "初素蔬食炸物",
-        "address" : "嘉義市西區北興街398號"
       }
     },
     {
+      "id" : "0C65C85B-47A4-46DC-B134-50DAB7925653",
+      "properties" : {
+        "name" : "修慧素食",
+        "address" : "嘉義市西區民生南路495號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -891,13 +960,14 @@
           120.443759,
           23.457650000000001
         ]
-      },
-      "properties" : {
-        "name" : "修慧素食",
-        "address" : "嘉義市西區民生南路495號"
       }
     },
     {
+      "id" : "B9A37538-5752-487F-A2AE-F3DAD5E429B1",
+      "properties" : {
+        "name" : "蘭心園素食坊",
+        "address" : "嘉義市東區民權路302號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -905,13 +975,14 @@
           120.45129799999999,
           23.482635999999999
         ]
-      },
-      "properties" : {
-        "name" : "蘭心園素食坊",
-        "address" : "嘉義市東區民權路302號"
       }
     },
     {
+      "id" : "05861F8A-1B86-445A-B61E-83E347A67E60",
+      "properties" : {
+        "name" : "光明素食",
+        "address" : "嘉義市西區民生南路492號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -919,13 +990,14 @@
           120.443432,
           23.460156000000001
         ]
-      },
-      "properties" : {
-        "name" : "光明素食",
-        "address" : "嘉義市西區民生南路492號"
       }
     },
     {
+      "id" : "9AD0266C-95A8-4BDA-9571-329D18688BFB",
+      "properties" : {
+        "name" : "天荷健康素食",
+        "address" : "嘉義市西區德明路123號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -933,13 +1005,14 @@
           120.43173299999999,
           23.482987999999999
         ]
-      },
-      "properties" : {
-        "name" : "天荷健康素食",
-        "address" : "嘉義市西區德明路123號"
       }
     },
     {
+      "id" : "D271DF92-9023-49BA-9A94-5CA27DF6A8AB",
+      "properties" : {
+        "name" : "晨食找餐",
+        "address" : "嘉義市東區延平街237號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -947,13 +1020,14 @@
           120.45075900000001,
           23.476762000000001
         ]
-      },
-      "properties" : {
-        "name" : "晨食找餐",
-        "address" : "嘉義市東區延平街237號"
       }
     },
     {
+      "id" : "AAA1BE70-81AA-4441-AD14-9C9D2CC767FD",
+      "properties" : {
+        "name" : "佳玳素食",
+        "address" : "嘉義市西區國華街469號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -961,13 +1035,14 @@
           120.446625,
           23.487579
         ]
-      },
-      "properties" : {
-        "name" : "佳玳素食",
-        "address" : "嘉義市西區國華街469號"
       }
     },
     {
+      "id" : "BF1BA2F0-FC7C-43EE-9F0B-3B0AC1AC4781",
+      "properties" : {
+        "name" : "蔬耕蔬食滷味",
+        "address" : "嘉義市西區北興街447號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -975,13 +1050,14 @@
           120.43431699999999,
           23.487670999999999
         ]
-      },
-      "properties" : {
-        "name" : "蔬耕蔬食滷味",
-        "address" : "嘉義市西區北興街447號"
       }
     },
     {
+      "id" : "0A6608A5-A8BE-4B67-AE8E-C5F724526A52",
+      "properties" : {
+        "name" : "喜來樂蔬食坊",
+        "address" : "嘉義市東區朝陽街69號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -989,13 +1065,14 @@
           120.459805,
           23.475777000000001
         ]
-      },
-      "properties" : {
-        "name" : "喜來樂蔬食坊",
-        "address" : "嘉義市東區朝陽街69號"
       }
     },
     {
+      "id" : "742D3FB2-1ECE-4EB7-9FA4-5E2598193549",
+      "properties" : {
+        "name" : "原市政府素食",
+        "address" : "嘉義市西區興業西路453號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1003,13 +1080,14 @@
           120.434601,
           23.467932000000001
         ]
-      },
-      "properties" : {
-        "name" : "原市政府素食",
-        "address" : "嘉義市西區興業西路453號"
       }
     },
     {
+      "id" : "68709CE4-2DDD-41D9-B47A-016410832A06",
+      "properties" : {
+        "name" : "宗德素食",
+        "address" : "嘉義市西區博愛路一段419號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1017,13 +1095,14 @@
           120.44191499999999,
           23.484048000000001
         ]
-      },
-      "properties" : {
-        "name" : "宗德素食",
-        "address" : "嘉義市西區博愛路一段419號"
       }
     },
     {
+      "id" : "C9A9E488-F3AF-4C20-A8A1-261A20DDDDFA",
+      "properties" : {
+        "name" : "文化素食館",
+        "address" : "嘉義市延平街222號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1031,13 +1110,14 @@
           120.45064600000001,
           23.476870999999999
         ]
-      },
-      "properties" : {
-        "name" : "文化素食館",
-        "address" : "嘉義市延平街222號"
       }
     },
     {
+      "id" : "CF34D9FB-0923-4348-BA5C-BECB6B4C868C",
+      "properties" : {
+        "name" : "古佛素食館",
+        "address" : "嘉義市東區文化路770-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1045,13 +1125,14 @@
           120.441468,
           23.499272999999999
         ]
-      },
-      "properties" : {
-        "name" : "古佛素食館",
-        "address" : "嘉義市東區文化路770-2號"
       }
     },
     {
+      "id" : "55340D17-86AF-4B02-9619-228636D09A37",
+      "properties" : {
+        "name" : "蒝福菇菇燒",
+        "address" : "嘉義市西區仁愛路512號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1059,13 +1140,14 @@
           120.442184,
           23.476863999999999
         ]
-      },
-      "properties" : {
-        "name" : "蒝福菇菇燒",
-        "address" : "嘉義市西區仁愛路512號"
       }
     },
     {
+      "id" : "2B28FEDF-FF6A-4199-ADD7-FEF3BDB0AE9A",
+      "properties" : {
+        "name" : "香香素食",
+        "address" : "嘉義市西區中正路619號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1073,13 +1155,14 @@
           120.44399300000001,
           23.478558
         ]
-      },
-      "properties" : {
-        "name" : "香香素食",
-        "address" : "嘉義市西區中正路619號"
       }
     },
     {
+      "id" : "2CA1897C-7C08-4392-90CC-497884ADA847",
+      "properties" : {
+        "name" : "福修素食館",
+        "address" : "嘉義市東區興業東路82號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1087,13 +1170,14 @@
           120.45599199999999,
           23.469377000000001
         ]
-      },
-      "properties" : {
-        "name" : "福修素食館",
-        "address" : "嘉義市東區興業東路82號"
       }
     },
     {
+      "id" : "54396AD4-4448-4DFE-836C-88DCB633B6DD",
+      "properties" : {
+        "name" : "福慧健康素食館",
+        "address" : "嘉義市西區民生北路221號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1101,13 +1185,14 @@
           120.44601400000001,
           23.48021
         ]
-      },
-      "properties" : {
-        "name" : "福慧健康素食館",
-        "address" : "嘉義市西區民生北路221號"
       }
     },
     {
+      "id" : "FA7C2469-B0AE-4186-AAB9-A1DB85FB9BEC",
+      "properties" : {
+        "name" : "蒝福菇菇燒",
+        "address" : "嘉義市西區文化路與延平街口"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1115,13 +1200,14 @@
           120.4439665,
           23.494691499999998
         ]
-      },
-      "properties" : {
-        "name" : "蒝福菇菇燒",
-        "address" : "嘉義市西區文化路與延平街口"
       }
     },
     {
+      "id" : "FCB0F534-2B24-4B60-B43C-5DF1FD0512C7",
+      "properties" : {
+        "name" : "阿桃素食鹹酥雞",
+        "address" : "嘉義市東區興業東路72號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1129,10 +1215,6 @@
           120.45585199999999,
           23.469328000000001
         ]
-      },
-      "properties" : {
-        "name" : "阿桃素食鹹酥雞",
-        "address" : "嘉義市東區興業東路72號"
       }
     }
   ]

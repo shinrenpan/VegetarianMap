@@ -1,7 +1,13 @@
 {
   "type" : "FeatureCollection",
+  "areaCode" : 500,
   "features" : [
     {
+      "id" : "A30C49E0-C9F6-429A-BB8E-EF34335B1648",
+      "properties" : {
+        "name" : "阿松素食臭豆腐",
+        "address" : "彰化縣和美鎮彰美路四段89巷22號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -9,13 +15,14 @@
           120.51383199999999,
           24.102823999999998
         ]
-      },
-      "properties" : {
-        "name" : "阿松素食臭豆腐",
-        "address" : "彰化縣和美鎮彰美路四段89巷22號"
       }
     },
     {
+      "id" : "219B682B-F2E9-471D-93FE-2A2CC8EC83CE",
+      "properties" : {
+        "name" : "永興草本養生蔬食館",
+        "address" : "彰化縣彰化市陳稜路224號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -23,13 +30,14 @@
           120.538877,
           24.079628
         ]
-      },
-      "properties" : {
-        "name" : "永興草本養生蔬食館",
-        "address" : "彰化縣彰化市陳稜路224號"
       }
     },
     {
+      "id" : "C80D35D1-9138-4F53-B3C8-7923B3F761F7",
+      "properties" : {
+        "name" : "師大健康素食",
+        "address" : "彰化縣彰化市學士路72-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -37,13 +45,14 @@
           120.542241,
           24.080691000000002
         ]
-      },
-      "properties" : {
-        "name" : "師大健康素食",
-        "address" : "彰化縣彰化市學士路72-1號"
       }
     },
     {
+      "id" : "75BD9CF0-A1DB-4083-AC2B-37AAB042CF8B",
+      "properties" : {
+        "name" : "椿柚蔬食料理",
+        "address" : "彰化縣二林鎮三合街151號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -51,13 +60,14 @@
           120.369603,
           23.901057000000002
         ]
-      },
-      "properties" : {
-        "name" : "椿柚蔬食料理",
-        "address" : "彰化縣二林鎮三合街151號"
       }
     },
     {
+      "id" : "A3B031D7-5C20-4D46-A7DD-5ACE88603EBD",
+      "properties" : {
+        "name" : "大鼎漢堡",
+        "address" : "彰化縣員林市中正路334號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -65,13 +75,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "大鼎漢堡",
-        "address" : "彰化縣員林市中正路334號"
       }
     },
     {
+      "id" : "71ED90AC-6D92-4433-8B8B-D030F7212C84",
+      "properties" : {
+        "name" : "素食麵",
+        "address" : "彰化縣花壇鄉花壇街160號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -79,27 +90,14 @@
           120.537751,
           24.024688999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食麵",
-        "address" : "彰化縣花壇鄉花壇街160號"
       }
     },
     {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          120.572227,
-          23.962657
-        ]
-      },
+      "id" : "BBD7B909-4474-4A0E-A5D9-64BDF6C0E074",
       "properties" : {
         "name" : "祥富素食",
         "address" : "彰化縣員林市育英路154號"
-      }
-    },
-    {
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -107,13 +105,29 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "泳玖紅豆餅-員林分店1",
-        "address" : "彰化縣員林市中山路二段27號"
       }
     },
     {
+      "id" : "601AE340-06BF-46E6-8B0E-D2A26A1C2CE2",
+      "properties" : {
+        "name" : "泳玖紅豆餅-員林分店1",
+        "address" : "彰化縣員林市中山路二段27號"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.572227,
+          23.962657
+        ]
+      }
+    },
+    {
+      "id" : "40641248-EE7A-46A1-833E-3A6B62FAF48E",
+      "properties" : {
+        "name" : "順吉素食",
+        "address" : "彰化縣彰化市太平街51號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -121,13 +135,14 @@
           120.54264000000001,
           24.077254
         ]
-      },
-      "properties" : {
-        "name" : "順吉素食",
-        "address" : "彰化縣彰化市太平街51號"
       }
     },
     {
+      "id" : "0E578FCC-F90E-4259-8D4B-1966769A6B88",
+      "properties" : {
+        "name" : "梅蘭居‧黃記素食",
+        "address" : "彰化縣彰化市太平街127號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -135,13 +150,14 @@
           120.54089399999999,
           24.077438000000001
         ]
-      },
-      "properties" : {
-        "name" : "梅蘭居‧黃記素食",
-        "address" : "彰化縣彰化市太平街127號"
       }
     },
     {
+      "id" : "A3635087-F50F-4C68-842A-0C7EFC1E7A7A",
+      "properties" : {
+        "name" : "小ㄚ姨蔬食",
+        "address" : "彰化縣和美鎮仁和路79號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -149,13 +165,14 @@
           120.4965954,
           24.106839399999998
         ]
-      },
-      "properties" : {
-        "name" : "小ㄚ姨蔬食",
-        "address" : "彰化縣和美鎮仁和路79號"
       }
     },
     {
+      "id" : "53BDF7AE-3FE6-4435-B685-90C1A635BC13",
+      "properties" : {
+        "name" : "廣德素食",
+        "address" : "彰化縣田中鎮員集路三段458號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -163,13 +180,14 @@
           120.587341,
           23.875126999999999
         ]
-      },
-      "properties" : {
-        "name" : "廣德素食",
-        "address" : "彰化縣田中鎮員集路三段458號"
       }
     },
     {
+      "id" : "59DF4258-81D8-4E32-89AE-89C622A44D6D",
+      "properties" : {
+        "name" : "社頭-彰化素食",
+        "address" : "彰化縣社頭鄉忠孝三路16號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -177,13 +195,14 @@
           120.589783,
           23.898405
         ]
-      },
-      "properties" : {
-        "name" : "社頭-彰化素食",
-        "address" : "彰化縣社頭鄉忠孝三路16號"
       }
     },
     {
+      "id" : "1AFE5D1B-2436-49A1-9E9C-A58A99CCD8BC",
+      "properties" : {
+        "name" : "食爸天下！ 素食宮坊",
+        "address" : "彰化縣大村鄉山腳路89-5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -191,13 +210,14 @@
           120.5838378,
           23.9913752
         ]
-      },
-      "properties" : {
-        "name" : "食爸天下！ 素食宮坊",
-        "address" : "彰化縣大村鄉山腳路89-5號"
       }
     },
     {
+      "id" : "FA1B8FDA-8E04-4315-A304-9787206D1840",
+      "properties" : {
+        "name" : "熱浪島南洋蔬食茶堂",
+        "address" : "彰化縣埔心鄉員林大道七段157號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -205,13 +225,14 @@
           120.56191389999999,
           23.957978700000002
         ]
-      },
-      "properties" : {
-        "name" : "熱浪島南洋蔬食茶堂",
-        "address" : "彰化縣埔心鄉員林大道七段157號"
       }
     },
     {
+      "id" : "239506B8-CD3C-4543-AD68-9999046ABFCA",
+      "properties" : {
+        "name" : "荷香緣 素食現煮鍋",
+        "address" : "彰化縣花壇鄉花壇街306號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -219,13 +240,14 @@
           120.53795599999999,
           24.024967
         ]
-      },
-      "properties" : {
-        "name" : "荷香緣 素食現煮鍋",
-        "address" : "彰化縣花壇鄉花壇街306號"
       }
     },
     {
+      "id" : "3C4897FB-A29A-45C6-9F1B-15790C87103E",
+      "properties" : {
+        "name" : "囍樂素食。餐廳",
+        "address" : "彰化縣和美鎮彰新路二段482號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -233,13 +255,14 @@
           120.5335319,
           24.1035124
         ]
-      },
-      "properties" : {
-        "name" : "囍樂素食。餐廳",
-        "address" : "彰化縣和美鎮彰新路二段482號"
       }
     },
     {
+      "id" : "B879F003-CABF-4375-B86D-277184EF14E9",
+      "properties" : {
+        "name" : "趙記素食",
+        "address" : "彰化縣彰化市永樂街154號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -247,13 +270,14 @@
           120.540137,
           24.076978
         ]
-      },
-      "properties" : {
-        "name" : "趙記素食",
-        "address" : "彰化縣彰化市永樂街154號"
       }
     },
     {
+      "id" : "A3D7AB80-221F-4005-946C-2CBC4CCA169D",
+      "properties" : {
+        "name" : "滿竹蔬食",
+        "address" : "彰化縣彰化市延平路389巷2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -261,13 +285,14 @@
           120.542382,
           24.062888000000001
         ]
-      },
-      "properties" : {
-        "name" : "滿竹蔬食",
-        "address" : "彰化縣彰化市延平路389巷2號"
       }
     },
     {
+      "id" : "E5C21F5E-6D62-4B75-9CD6-B2E418F0F9C3",
+      "properties" : {
+        "name" : "35健康素食",
+        "address" : "彰化縣溪湖鎮太平街198號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -275,13 +300,14 @@
           120.47880000000001,
           23.963896999999999
         ]
-      },
-      "properties" : {
-        "name" : "35健康素食",
-        "address" : "彰化縣溪湖鎮太平街198號"
       }
     },
     {
+      "id" : "0E3C0B51-F9B0-4129-A07E-20067F3DABB9",
+      "properties" : {
+        "name" : "C'est si bon蔬食",
+        "address" : "彰化縣彰化市永安街221號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -289,13 +315,14 @@
           120.5444395,
           24.087439400000001
         ]
-      },
-      "properties" : {
-        "name" : "C'est si bon蔬食",
-        "address" : "彰化縣彰化市永安街221號"
       }
     },
     {
+      "id" : "F30C9B96-9114-4957-B89B-4906BE35EA81",
+      "properties" : {
+        "name" : "花壇鄉海苔飯捲",
+        "address" : "彰化縣花壇鄉彰員路二段575號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -303,13 +330,14 @@
           120.5487375,
           24.029961400000001
         ]
-      },
-      "properties" : {
-        "name" : "花壇鄉海苔飯捲",
-        "address" : "彰化縣花壇鄉彰員路二段575號"
       }
     },
     {
+      "id" : "37AF4CD7-E0DF-4254-8F95-817E397A0882",
+      "properties" : {
+        "name" : "水尾素料",
+        "address" : "彰化縣伸港鄉新興路105號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -317,13 +345,14 @@
           120.48648,
           24.14528
         ]
-      },
-      "properties" : {
-        "name" : "水尾素料",
-        "address" : "彰化縣伸港鄉新興路105號"
       }
     },
     {
+      "id" : "6F00C58A-065C-48FB-9009-4C34A34952CD",
+      "properties" : {
+        "name" : "冠品烘培坊",
+        "address" : "彰化縣花壇鄉花壇街63號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -331,13 +360,14 @@
           120.538991,
           24.022798999999999
         ]
-      },
-      "properties" : {
-        "name" : "冠品烘培坊",
-        "address" : "彰化縣花壇鄉花壇街63號"
       }
     },
     {
+      "id" : "24887014-B220-4871-AE15-6ACC05B03DC9",
+      "properties" : {
+        "name" : "心緣素食麵",
+        "address" : "彰化縣彰化市永安街356號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -345,13 +375,14 @@
           120.54296100000001,
           24.091677000000001
         ]
-      },
-      "properties" : {
-        "name" : "心緣素食麵",
-        "address" : "彰化縣彰化市永安街356號"
       }
     },
     {
+      "id" : "B5548E95-981E-459F-94EF-7AC5A69302E9",
+      "properties" : {
+        "name" : "豐盛素食麵館",
+        "address" : "彰化縣鹿港鎮復興路388號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -359,13 +390,14 @@
           120.43668099999999,
           24.058349
         ]
-      },
-      "properties" : {
-        "name" : "豐盛素食麵館",
-        "address" : "彰化縣鹿港鎮復興路388號"
       }
     },
     {
+      "id" : "1AE8E3E3-4A3B-4125-AFC3-ACF9E1F42CB4",
+      "properties" : {
+        "name" : "大鼎素食",
+        "address" : "彰化縣北斗鎮中華路110號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -373,13 +405,14 @@
           120.52574799999999,
           23.873213
         ]
-      },
-      "properties" : {
-        "name" : "大鼎素食",
-        "address" : "彰化縣北斗鎮中華路110號"
       }
     },
     {
+      "id" : "BD617B09-7995-4168-98BA-D44236A9122B",
+      "properties" : {
+        "name" : "行動鮮奶雞蛋糕",
+        "address" : "彰化縣彰化市民族路298號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -387,13 +420,14 @@
           120.539725,
           24.072835000000001
         ]
-      },
-      "properties" : {
-        "name" : "行動鮮奶雞蛋糕",
-        "address" : "彰化縣彰化市民族路298號"
       }
     },
     {
+      "id" : "8292111A-418B-4352-A6E2-D498A711B380",
+      "properties" : {
+        "name" : "員林素食",
+        "address" : "彰化縣溪湖鎮西環路72號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -401,13 +435,14 @@
           120.479859,
           23.956036999999998
         ]
-      },
-      "properties" : {
-        "name" : "員林素食",
-        "address" : "彰化縣溪湖鎮西環路72號"
       }
     },
     {
+      "id" : "9A8BCAC5-BA0B-4C59-A7DA-D16EFE6269E0",
+      "properties" : {
+        "name" : "佈善素食",
+        "address" : "彰化縣田中鎮中洲路一段277號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -415,13 +450,14 @@
           120.583766,
           23.861696999999999
         ]
-      },
-      "properties" : {
-        "name" : "佈善素食",
-        "address" : "彰化縣田中鎮中洲路一段277號"
       }
     },
     {
+      "id" : "315B5B86-A320-45F6-AC14-C85000F72384",
+      "properties" : {
+        "name" : "素食麵店",
+        "address" : "彰化縣大村鄉茄苳路一段17號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -429,13 +465,14 @@
           120.544965,
           23.994394
         ]
-      },
-      "properties" : {
-        "name" : "素食麵店",
-        "address" : "彰化縣大村鄉茄苳路一段17號"
       }
     },
     {
+      "id" : "B38BEEB8-C451-4D89-891E-E73D4EBC744D",
+      "properties" : {
+        "name" : "阿麗素食",
+        "address" : "彰化縣員林市大同路二段318號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -443,13 +480,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "阿麗素食",
-        "address" : "彰化縣員林市大同路二段318號"
       }
     },
     {
+      "id" : "D161E92B-C798-4DFF-895E-E032829DD757",
+      "properties" : {
+        "name" : "吃得巧阿斯瑪海苔飯卷",
+        "address" : "彰化縣和美鎮彰美路五段267號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -457,13 +495,14 @@
           120.500073,
           24.109929000000001
         ]
-      },
-      "properties" : {
-        "name" : "吃得巧阿斯瑪海苔飯卷",
-        "address" : "彰化縣和美鎮彰美路五段267號"
       }
     },
     {
+      "id" : "DDCD9204-F191-404F-A5EE-69B5617A31CA",
+      "properties" : {
+        "name" : "禾意素食餐廳",
+        "address" : "彰化縣員林市大同路二段10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -471,13 +510,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "禾意素食餐廳",
-        "address" : "彰化縣員林市大同路二段10號"
       }
     },
     {
+      "id" : "28E71694-21A1-400F-89DE-48CCEF0B001B",
+      "properties" : {
+        "name" : "超凡商城",
+        "address" : "彰化縣永靖鄉中山路一段850號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -485,13 +525,14 @@
           120.54620199999999,
           23.917724
         ]
-      },
-      "properties" : {
-        "name" : "超凡商城",
-        "address" : "彰化縣永靖鄉中山路一段850號"
       }
     },
     {
+      "id" : "CC346C9A-B426-4A21-9552-C93C9814EF80",
+      "properties" : {
+        "name" : "寶香素食自助餐",
+        "address" : "彰化縣北斗鎮光復路207號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -499,13 +540,14 @@
           120.524041,
           23.874327000000001
         ]
-      },
-      "properties" : {
-        "name" : "寶香素食自助餐",
-        "address" : "彰化縣北斗鎮光復路207號"
       }
     },
     {
+      "id" : "6C6097D2-1352-45FA-91A0-C5E792465296",
+      "properties" : {
+        "name" : "嘉緣素食",
+        "address" : "彰化縣彰化市彰草路865號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -513,13 +555,14 @@
           120.5187055,
           24.078616400000001
         ]
-      },
-      "properties" : {
-        "name" : "嘉緣素食",
-        "address" : "彰化縣彰化市彰草路865號"
       }
     },
     {
+      "id" : "437D8A48-A7C0-43E0-AC4F-C76BDF8B51D9",
+      "properties" : {
+        "name" : "民生素食",
+        "address" : "彰化縣員林市中山路一段539號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -527,13 +570,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "民生素食",
-        "address" : "彰化縣員林市中山路一段539號"
       }
     },
     {
+      "id" : "7A127BEE-529C-420B-9C34-7CCB4D5BD54B",
+      "properties" : {
+        "name" : "如意樂活蔬食早午餐",
+        "address" : "彰化縣彰化市進德路23號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -541,13 +585,14 @@
           120.558368,
           24.083300999999999
         ]
-      },
-      "properties" : {
-        "name" : "如意樂活蔬食早午餐",
-        "address" : "彰化縣彰化市進德路23號"
       }
     },
     {
+      "id" : "1D5B0534-2B25-472D-A2DD-B42E4EACFCBC",
+      "properties" : {
+        "name" : "翁媽媽養生素早餐",
+        "address" : "彰化縣花壇鄉彰員路一段407號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -555,13 +600,14 @@
           120.56974099999999,
           24.013866
         ]
-      },
-      "properties" : {
-        "name" : "翁媽媽養生素早餐",
-        "address" : "彰化縣花壇鄉彰員路一段407號"
       }
     },
     {
+      "id" : "F7F2E774-33D7-4FDD-BA88-F97E29E54D22",
+      "properties" : {
+        "name" : "紫音素食麵",
+        "address" : "彰化縣彰化市長壽街56號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -569,13 +615,14 @@
           120.545738,
           24.084364000000001
         ]
-      },
-      "properties" : {
-        "name" : "紫音素食麵",
-        "address" : "彰化縣彰化市長壽街56號"
       }
     },
     {
+      "id" : "4AD99869-56B4-4116-8CCE-27C65682C3F9",
+      "properties" : {
+        "name" : "鴻雲素食館",
+        "address" : "彰化縣伸港鄉新港路208號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -583,13 +630,14 @@
           120.486835,
           24.146796999999999
         ]
-      },
-      "properties" : {
-        "name" : "鴻雲素食館",
-        "address" : "彰化縣伸港鄉新港路208號"
       }
     },
     {
+      "id" : "CEB7A750-C07C-4CD3-ADFF-3CCA0F9235B1",
+      "properties" : {
+        "name" : "大炳素食烤玉米",
+        "address" : "彰化縣彰化市民族路417號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -597,13 +645,14 @@
           120.539936,
           24.075303999999999
         ]
-      },
-      "properties" : {
-        "name" : "大炳素食烤玉米",
-        "address" : "彰化縣彰化市民族路417號"
       }
     },
     {
+      "id" : "5EBD65F1-5F83-4118-894D-4B6CD4016970",
+      "properties" : {
+        "name" : "蔬布起·蔬食餐車",
+        "address" : "彰化縣秀水鄉安溪街98號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -611,13 +660,14 @@
           120.510008,
           24.044951999999999
         ]
-      },
-      "properties" : {
-        "name" : "蔬布起·蔬食餐車",
-        "address" : "彰化縣秀水鄉安溪街98號"
       }
     },
     {
+      "id" : "BF82E4B6-0623-478B-A04A-1FB0274FF5AA",
+      "properties" : {
+        "name" : "素食麵",
+        "address" : "彰化縣永靖鄉中山路三段4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -625,13 +675,14 @@
           120.5536692,
           23.929953099999999
         ]
-      },
-      "properties" : {
-        "name" : "素食麵",
-        "address" : "彰化縣永靖鄉中山路三段4號"
       }
     },
     {
+      "id" : "074597B3-690B-44DC-A279-9A740B21A24B",
+      "properties" : {
+        "name" : "康吉蔬食素食自助餐",
+        "address" : "彰化縣員林市靜修路35號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -639,13 +690,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "康吉蔬食素食自助餐",
-        "address" : "彰化縣員林市靜修路35號"
       }
     },
     {
+      "id" : "8DA26C2D-D365-4FB4-BA6F-0B4F757751FE",
+      "properties" : {
+        "name" : "天慈素食",
+        "address" : "彰化縣彰化市彰南路一段317號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -653,13 +705,14 @@
           120.57359,
           24.086231999999999
         ]
-      },
-      "properties" : {
-        "name" : "天慈素食",
-        "address" : "彰化縣彰化市彰南路一段317號"
       }
     },
     {
+      "id" : "D6808A64-28BF-40F9-AE0B-2E87A568B490",
+      "properties" : {
+        "name" : "素食自助餐",
+        "address" : "彰化縣花壇鄉花壇街360號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -667,13 +720,14 @@
           120.537649,
           24.026167999999998
         ]
-      },
-      "properties" : {
-        "name" : "素食自助餐",
-        "address" : "彰化縣花壇鄉花壇街360號"
       }
     },
     {
+      "id" : "2689ABDA-F4B1-42C5-970B-3AED3A1268E2",
+      "properties" : {
+        "name" : "Om Coffee",
+        "address" : "彰化縣鹿港鎮民權路113號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -681,13 +735,14 @@
           120.43646099999999,
           24.057290999999999
         ]
-      },
-      "properties" : {
-        "name" : "Om Coffee",
-        "address" : "彰化縣鹿港鎮民權路113號"
       }
     },
     {
+      "id" : "C4D095B1-B35D-4C6F-8785-C63E78268065",
+      "properties" : {
+        "name" : "溪湖春捲專賣店",
+        "address" : "彰化縣溪湖鎮彰水路三段443號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -695,13 +750,14 @@
           120.479956,
           23.962966999999999
         ]
-      },
-      "properties" : {
-        "name" : "溪湖春捲專賣店",
-        "address" : "彰化縣溪湖鎮彰水路三段443號"
       }
     },
     {
+      "id" : "C9E8ADFD-29CF-47C0-B9BC-8A83E0284E03",
+      "properties" : {
+        "name" : "阿林素食麵",
+        "address" : "彰化縣花壇鄉彰員路一段551-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -709,13 +765,14 @@
           120.566856,
           24.014213000000002
         ]
-      },
-      "properties" : {
-        "name" : "阿林素食麵",
-        "address" : "彰化縣花壇鄉彰員路一段551-2號"
       }
     },
     {
+      "id" : "86775E4E-6422-4F39-AC25-F34F78621E2C",
+      "properties" : {
+        "name" : "菩提人素食",
+        "address" : "彰化縣彰化市中正路二段549號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -723,13 +780,14 @@
           120.536047,
           24.070176
         ]
-      },
-      "properties" : {
-        "name" : "菩提人素食",
-        "address" : "彰化縣彰化市中正路二段549號"
       }
     },
     {
+      "id" : "99A4BAA1-054F-46BB-A014-4CDCDDBC04D7",
+      "properties" : {
+        "name" : "聖益香素食宴外燴",
+        "address" : "彰化縣田中鎮大社路三段508巷476號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -737,13 +795,14 @@
           120.5712539,
           23.891152200000001
         ]
-      },
-      "properties" : {
-        "name" : "聖益香素食宴外燴",
-        "address" : "彰化縣田中鎮大社路三段508巷476號"
       }
     },
     {
+      "id" : "71061B2F-2C3A-4A88-9569-F06165A99F7D",
+      "properties" : {
+        "name" : "榮德素食自助餐",
+        "address" : "彰化縣社頭鄉社斗路一段259號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -751,13 +810,14 @@
           120.586645,
           23.897127999999999
         ]
-      },
-      "properties" : {
-        "name" : "榮德素食自助餐",
-        "address" : "彰化縣社頭鄉社斗路一段259號"
       }
     },
     {
+      "id" : "53954BE0-CB98-4960-8A74-B3B8E2452D38",
+      "properties" : {
+        "name" : "大有無毒有機農特產品柑仔店",
+        "address" : "彰化縣埔鹽鄉員鹿路三段140-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -765,13 +825,14 @@
           120.449681,
           24.016829999999999
         ]
-      },
-      "properties" : {
-        "name" : "大有無毒有機農特產品柑仔店",
-        "address" : "彰化縣埔鹽鄉員鹿路三段140-2號"
       }
     },
     {
+      "id" : "DF0DBA50-216C-4E34-8A36-4BE521ABDB6D",
+      "properties" : {
+        "name" : "觀自在素食",
+        "address" : "彰化縣社頭鄉忠孝三路30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -779,13 +840,14 @@
           120.589758,
           23.898693999999999
         ]
-      },
-      "properties" : {
-        "name" : "觀自在素食",
-        "address" : "彰化縣社頭鄉忠孝三路30號"
       }
     },
     {
+      "id" : "1271549C-5BB4-4241-8887-3CD9D9F5A98F",
+      "properties" : {
+        "name" : "合家素食",
+        "address" : "彰化縣鹿港鎮鹿和路四段46號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -793,13 +855,14 @@
           120.481252,
           24.085881000000001
         ]
-      },
-      "properties" : {
-        "name" : "合家素食",
-        "address" : "彰化縣鹿港鎮鹿和路四段46號"
       }
     },
     {
+      "id" : "0CBC35C6-D782-4F87-948F-F003F31F0983",
+      "properties" : {
+        "name" : "The Planet 星球咖啡",
+        "address" : "彰化縣彰化市中華路260號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -807,13 +870,14 @@
           120.537571,
           24.07771
         ]
-      },
-      "properties" : {
-        "name" : "The Planet 星球咖啡",
-        "address" : "彰化縣彰化市中華路260號"
       }
     },
     {
+      "id" : "31CD414A-94B7-4919-AC52-12C231C39A7C",
+      "properties" : {
+        "name" : "善緣素食自助餐",
+        "address" : "彰化縣社頭鄉忠孝三路13號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -821,13 +885,14 @@
           120.58961499999999,
           23.898395000000001
         ]
-      },
-      "properties" : {
-        "name" : "善緣素食自助餐",
-        "address" : "彰化縣社頭鄉忠孝三路13號"
       }
     },
     {
+      "id" : "BF398145-2D10-4E68-A1AC-91450C455CA0",
+      "properties" : {
+        "name" : "養生素食",
+        "address" : "彰化縣員林市新生路270號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -835,13 +900,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "養生素食",
-        "address" : "彰化縣員林市新生路270號"
       }
     },
     {
+      "id" : "D3CA11DD-C472-49F8-BCE8-F6C1E97680D7",
+      "properties" : {
+        "name" : "九留津素食店",
+        "address" : "彰化縣花壇鄉中正路63巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -849,13 +915,14 @@
           120.545708,
           24.027321000000001
         ]
-      },
-      "properties" : {
-        "name" : "九留津素食店",
-        "address" : "彰化縣花壇鄉中正路63巷1號"
       }
     },
     {
+      "id" : "C6BEF26B-96FE-477F-980E-CDC80F0CD247",
+      "properties" : {
+        "name" : "素食",
+        "address" : "彰化縣埔心鄉員鹿路169號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -863,13 +930,14 @@
           120.5632126,
           23.957361500000001
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "彰化縣埔心鄉員鹿路169號"
       }
     },
     {
+      "id" : "B8CED614-F2B4-4087-BD62-A7092F02FD4D",
+      "properties" : {
+        "name" : "田中天然素食",
+        "address" : "彰化縣田中鎮民族街124號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -877,13 +945,14 @@
           120.582741,
           23.855599000000002
         ]
-      },
-      "properties" : {
-        "name" : "田中天然素食",
-        "address" : "彰化縣田中鎮民族街124號"
       }
     },
     {
+      "id" : "07FD5A00-C308-403E-B756-2D0D4C1358D8",
+      "properties" : {
+        "name" : "珍素寶蔬食滷味",
+        "address" : "彰化縣員林市南昌路19號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -891,13 +960,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "珍素寶蔬食滷味",
-        "address" : "彰化縣員林市南昌路19號"
       }
     },
     {
+      "id" : "2467743D-D917-41AC-887D-2806268B18AD",
+      "properties" : {
+        "name" : "草港素食",
+        "address" : "彰化縣鹿港鎮鹿草路四段310號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -905,13 +975,14 @@
           120.45701699999999,
           24.108284999999999
         ]
-      },
-      "properties" : {
-        "name" : "草港素食",
-        "address" : "彰化縣鹿港鎮鹿草路四段310號"
       }
     },
     {
+      "id" : "0F405AAC-D255-42EF-B48F-6618BB841642",
+      "properties" : {
+        "name" : "天然香素食",
+        "address" : "彰化縣員林市明倫路27號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -919,13 +990,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "天然香素食",
-        "address" : "彰化縣員林市明倫路27號"
       }
     },
     {
+      "id" : "2209C394-2C2C-44B0-8421-B10DA037C450",
+      "properties" : {
+        "name" : "昇億行健康素食南北雜貨",
+        "address" : "彰化縣花壇鄉學前路130號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -933,13 +1005,14 @@
           120.542687,
           24.027280399999999
         ]
-      },
-      "properties" : {
-        "name" : "昇億行健康素食南北雜貨",
-        "address" : "彰化縣花壇鄉學前路130號"
       }
     },
     {
+      "id" : "47CDCA5B-48A9-43B7-9DA5-8930F25FCE45",
+      "properties" : {
+        "name" : "素食水煎包",
+        "address" : "彰化縣溪湖鎮員鹿路三段95號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -947,13 +1020,14 @@
           120.48000999999999,
           23.958931
         ]
-      },
-      "properties" : {
-        "name" : "素食水煎包",
-        "address" : "彰化縣溪湖鎮員鹿路三段95號"
       }
     },
     {
+      "id" : "37E92EB7-D305-4C4C-B99B-519FE1C7BEA9",
+      "properties" : {
+        "name" : "林家.素食",
+        "address" : "彰化縣彰化市永樂街145.147號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -961,13 +1035,14 @@
           120.54018000000001,
           24.076782999999999
         ]
-      },
-      "properties" : {
-        "name" : "林家.素食",
-        "address" : "彰化縣彰化市永樂街145.147號"
       }
     },
     {
+      "id" : "63563639-385F-4C88-AE83-03072E8B513F",
+      "properties" : {
+        "name" : "阿珍素食",
+        "address" : "彰化縣田中鎮復興路738號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -975,13 +1050,14 @@
           120.588161,
           23.86103
         ]
-      },
-      "properties" : {
-        "name" : "阿珍素食",
-        "address" : "彰化縣田中鎮復興路738號"
       }
     },
     {
+      "id" : "D99E07BF-F17A-4546-BD5F-B76EAC46B888",
+      "properties" : {
+        "name" : "鵬程素食自助餐",
+        "address" : "彰化縣彰化市中山路二段284號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -989,13 +1065,14 @@
           120.54302800000001,
           24.071826999999999
         ]
-      },
-      "properties" : {
-        "name" : "鵬程素食自助餐",
-        "address" : "彰化縣彰化市中山路二段284號"
       }
     },
     {
+      "id" : "CB5F9A1D-9833-4E13-A4CB-C1AB164182D0",
+      "properties" : {
+        "name" : "自然緣素養生蔬食專賣店",
+        "address" : "彰化縣田中鎮中洲路一段58號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1003,13 +1080,14 @@
           120.583766,
           23.861696999999999
         ]
-      },
-      "properties" : {
-        "name" : "自然緣素養生蔬食專賣店",
-        "address" : "彰化縣田中鎮中洲路一段58號"
       }
     },
     {
+      "id" : "5500A34C-D100-4AE7-B8CA-7374020D0441",
+      "properties" : {
+        "name" : "禾豐蔬食",
+        "address" : "彰化縣員林市山腳路二段271號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1017,13 +1095,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "禾豐蔬食",
-        "address" : "彰化縣員林市山腳路二段271號"
       }
     },
     {
+      "id" : "67DF73DA-2071-493E-BBA3-DBC7B456A2B7",
+      "properties" : {
+        "name" : "素食麵",
+        "address" : "彰化縣花壇鄉花壇街89號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1031,13 +1110,14 @@
           120.5387212,
           24.0225516
         ]
-      },
-      "properties" : {
-        "name" : "素食麵",
-        "address" : "彰化縣花壇鄉花壇街89號"
       }
     },
     {
+      "id" : "64326FB4-EF29-4F36-A7E9-E459A956B232",
+      "properties" : {
+        "name" : "大華素食",
+        "address" : "彰化縣二林鎮斗苑路四段262號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1045,13 +1125,14 @@
           120.382079,
           23.899408000000001
         ]
-      },
-      "properties" : {
-        "name" : "大華素食",
-        "address" : "彰化縣二林鎮斗苑路四段262號"
       }
     },
     {
+      "id" : "9FEE92D4-26AD-4E24-8DAF-E3D9A0BBC156",
+      "properties" : {
+        "name" : "哈佛素食",
+        "address" : "彰化縣員林市至平街120號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1059,13 +1140,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "哈佛素食",
-        "address" : "彰化縣員林市至平街120號"
       }
     },
     {
+      "id" : "FEFC5980-72C0-4819-A1E3-BD3B0FC5A035",
+      "properties" : {
+        "name" : "華陽豆漿",
+        "address" : "彰化縣彰化市旭光路155號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1073,13 +1155,14 @@
           120.547094,
           24.072420000000001
         ]
-      },
-      "properties" : {
-        "name" : "華陽豆漿",
-        "address" : "彰化縣彰化市旭光路155號"
       }
     },
     {
+      "id" : "4C47ABDB-359A-42A4-95C7-7F794A75C1B9",
+      "properties" : {
+        "name" : "喜斯蔬食早餐",
+        "address" : "彰化縣埤頭鄉斗苑路和文鄉路交叉路口"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1087,13 +1170,14 @@
           120.480953,
           23.895571700000001
         ]
-      },
-      "properties" : {
-        "name" : "喜斯蔬食早餐",
-        "address" : "彰化縣埤頭鄉斗苑路和文鄉路交叉路口"
       }
     },
     {
+      "id" : "C606BC2A-186C-40EA-967B-23B4584297C2",
+      "properties" : {
+        "name" : "長江素食自助餐",
+        "address" : "彰化縣彰化市實踐路173號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1101,13 +1185,14 @@
           120.557496,
           24.083613
         ]
-      },
-      "properties" : {
-        "name" : "長江素食自助餐",
-        "address" : "彰化縣彰化市實踐路173號"
       }
     },
     {
+      "id" : "59DB4796-E43A-4410-81ED-8B59689467D8",
+      "properties" : {
+        "name" : "素食牛肉麵",
+        "address" : "彰化縣溪湖鎮西環路49號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1115,13 +1200,14 @@
           120.4807344,
           23.9556453
         ]
-      },
-      "properties" : {
-        "name" : "素食牛肉麵",
-        "address" : "彰化縣溪湖鎮西環路49號"
       }
     },
     {
+      "id" : "E2197CB7-3863-4939-BFEF-A173E5EE0696",
+      "properties" : {
+        "name" : "素食",
+        "address" : "彰化縣埔心鄉員鹿路二段590巷15號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1129,13 +1215,14 @@
           120.53805800000001,
           23.952515999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "彰化縣埔心鄉員鹿路二段590巷15號"
       }
     },
     {
+      "id" : "3C78E4C8-F428-408E-87A9-14135ADB374C",
+      "properties" : {
+        "name" : "素食麵",
+        "address" : "彰化縣埔鹽鄉彰水路一段346號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1143,13 +1230,14 @@
           120.47672,
           23.995159999999998
         ]
-      },
-      "properties" : {
-        "name" : "素食麵",
-        "address" : "彰化縣埔鹽鄉彰水路一段346號"
       }
     },
     {
+      "id" : "966054D1-3AFB-4D97-96E0-238913510BCA",
+      "properties" : {
+        "name" : "修緣素食自助餐",
+        "address" : "彰化縣北斗鎮中正路196號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1157,13 +1245,14 @@
           120.52192100000001,
           23.874739999999999
         ]
-      },
-      "properties" : {
-        "name" : "修緣素食自助餐",
-        "address" : "彰化縣北斗鎮中正路196號"
       }
     },
     {
+      "id" : "FAFAE438-FF10-4423-B872-4AE68D528A55",
+      "properties" : {
+        "name" : "拾食蔬食",
+        "address" : "彰化縣埤頭鄉中山路二段123號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1171,13 +1260,14 @@
           120.46921829999999,
           23.833251600000001
         ]
-      },
-      "properties" : {
-        "name" : "拾食蔬食",
-        "address" : "彰化縣埤頭鄉中山路二段123號"
       }
     },
     {
+      "id" : "A7A261A4-EFAB-43FD-A777-B039256AB39E",
+      "properties" : {
+        "name" : "菩提素食",
+        "address" : "彰化縣二林鎮儒林路351號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1185,13 +1275,14 @@
           120.37492399999999,
           23.876636699999999
         ]
-      },
-      "properties" : {
-        "name" : "菩提素食",
-        "address" : "彰化縣二林鎮儒林路351號"
       }
     },
     {
+      "id" : "59A9DFFA-17B1-4009-A19A-87E06DB6E558",
+      "properties" : {
+        "name" : "鄒樂蔬菜意麵",
+        "address" : "彰化縣田中鎮南北街69號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1199,13 +1290,14 @@
           120.586378,
           23.859335000000002
         ]
-      },
-      "properties" : {
-        "name" : "鄒樂蔬菜意麵",
-        "address" : "彰化縣田中鎮南北街69號"
       }
     },
     {
+      "id" : "87BEF784-B12E-4766-B3E6-5CEFFF8B345F",
+      "properties" : {
+        "name" : "有心臭豆腐",
+        "address" : "彰化縣彰化市民生路3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1213,13 +1305,14 @@
           120.54252099999999,
           24.079906000000001
         ]
-      },
-      "properties" : {
-        "name" : "有心臭豆腐",
-        "address" : "彰化縣彰化市民生路3號"
       }
     },
     {
+      "id" : "2BA270F6-BFC9-435C-9BF2-DBCA79F55C9F",
+      "properties" : {
+        "name" : "147蔬食廚房",
+        "address" : "彰化縣北斗鎮中正路92號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1227,13 +1320,14 @@
           120.52215,
           23.872171000000002
         ]
-      },
-      "properties" : {
-        "name" : "147蔬食廚房",
-        "address" : "彰化縣北斗鎮中正路92號"
       }
     },
     {
+      "id" : "23F1EC8C-B944-4B33-B90B-0779E76FB3E5",
+      "properties" : {
+        "name" : "十方素食",
+        "address" : "彰化縣鹿港鎮菜園路172號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1241,13 +1335,14 @@
           120.432959,
           24.054665
         ]
-      },
-      "properties" : {
-        "name" : "十方素食",
-        "address" : "彰化縣鹿港鎮菜園路172號"
       }
     },
     {
+      "id" : "0BD34576-D633-4B03-B76D-24E32F7C154C",
+      "properties" : {
+        "name" : "素食小吃",
+        "address" : "彰化縣鹿港鎮鹿和路三段620巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1255,13 +1350,14 @@
           120.480441,
           24.085076000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食小吃",
-        "address" : "彰化縣鹿港鎮鹿和路三段620巷1號"
       }
     },
     {
+      "id" : "A81608CC-0042-409A-BF21-51E2E88B6E77",
+      "properties" : {
+        "name" : "寶養素食",
+        "address" : "彰化縣和美鎮仁化路161號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1269,13 +1365,14 @@
           120.497834,
           24.109386000000001
         ]
-      },
-      "properties" : {
-        "name" : "寶養素食",
-        "address" : "彰化縣和美鎮仁化路161號"
       }
     },
     {
+      "id" : "FEDE784C-9A76-4520-A1E1-AFA2E7246525",
+      "properties" : {
+        "name" : "天然素食",
+        "address" : "彰化縣和美鎮彰新路三段632巷60弄100號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1283,13 +1380,14 @@
           120.529735,
           24.117436999999999
         ]
-      },
-      "properties" : {
-        "name" : "天然素食",
-        "address" : "彰化縣和美鎮彰新路三段632巷60弄100號"
       }
     },
     {
+      "id" : "35A0AD9A-B157-459D-A3F5-7E9FF541C24E",
+      "properties" : {
+        "name" : "世恩素食",
+        "address" : "彰化縣員林市民生路132號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1297,13 +1395,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "世恩素食",
-        "address" : "彰化縣員林市民生路132號"
       }
     },
     {
+      "id" : "6292B3F5-F663-4240-8C17-42D28A722F95",
+      "properties" : {
+        "name" : "村莊蔬食早餐",
+        "address" : "彰化縣彰化市三民路59號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1311,13 +1410,14 @@
           120.5393,
           24.082528
         ]
-      },
-      "properties" : {
-        "name" : "村莊蔬食早餐",
-        "address" : "彰化縣彰化市三民路59號"
       }
     },
     {
+      "id" : "48DE0ACE-79C7-440E-805C-5B26B240D3C4",
+      "properties" : {
+        "name" : "蔬活法式蔬食咖啡",
+        "address" : "彰化縣鹿港鎮復興路37號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1325,13 +1425,14 @@
           120.439216,
           24.050141
         ]
-      },
-      "properties" : {
-        "name" : "蔬活法式蔬食咖啡",
-        "address" : "彰化縣鹿港鎮復興路37號"
       }
     },
     {
+      "id" : "4376D5AA-C673-4EC7-A9E4-C4D0FCD8AA6A",
+      "properties" : {
+        "name" : "禪味素食",
+        "address" : "彰化縣溪湖鎮彰水路三段165號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1339,13 +1440,14 @@
           120.480176,
           23.957097000000001
         ]
-      },
-      "properties" : {
-        "name" : "禪味素食",
-        "address" : "彰化縣溪湖鎮彰水路三段165號"
       }
     },
     {
+      "id" : "33C06330-2E10-41BD-B9B8-5303E11F8952",
+      "properties" : {
+        "name" : "新美素食",
+        "address" : "彰化縣彰化市陽明街35號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1353,13 +1455,14 @@
           120.544437,
           24.085063999999999
         ]
-      },
-      "properties" : {
-        "name" : "新美素食",
-        "address" : "彰化縣彰化市陽明街35號"
       }
     },
     {
+      "id" : "DCEA88F0-4CE9-4CE9-8D75-4B54818A718A",
+      "properties" : {
+        "name" : "十方健康素食",
+        "address" : "彰化縣埔心鄉員鹿路一段209號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1367,13 +1470,14 @@
           120.55838799999999,
           23.955251000000001
         ]
-      },
-      "properties" : {
-        "name" : "十方健康素食",
-        "address" : "彰化縣埔心鄉員鹿路一段209號"
       }
     },
     {
+      "id" : "CE1B5875-0AAB-4705-AC4C-306C2D7AE401",
+      "properties" : {
+        "name" : "隨緣素食",
+        "address" : "彰化縣彰化市進德路1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1381,13 +1485,14 @@
           120.558316,
           24.082767
         ]
-      },
-      "properties" : {
-        "name" : "隨緣素食",
-        "address" : "彰化縣彰化市進德路1號"
       }
     },
     {
+      "id" : "B967CE48-6AA7-4334-A948-3404242E18CD",
+      "properties" : {
+        "name" : "山東大餅",
+        "address" : "彰化縣員林市光明南街187號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1395,13 +1500,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "山東大餅",
-        "address" : "彰化縣員林市光明南街187號"
       }
     },
     {
+      "id" : "78EF2597-3012-4AAC-9528-38F38E00A6D0",
+      "properties" : {
+        "name" : "營養素食",
+        "address" : "彰化縣溪湖鎮彰水路三段152號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1409,13 +1515,14 @@
           120.48039300000001,
           23.956719
         ]
-      },
-      "properties" : {
-        "name" : "營養素食",
-        "address" : "彰化縣溪湖鎮彰水路三段152號"
       }
     },
     {
+      "id" : "A9741EAE-3061-4B5D-8D07-2E55F50A0A92",
+      "properties" : {
+        "name" : "龍山寺口素食早餐",
+        "address" : "彰化縣鹿港鎮三民路165號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1423,13 +1530,14 @@
           120.434352,
           24.050629000000001
         ]
-      },
-      "properties" : {
-        "name" : "龍山寺口素食早餐",
-        "address" : "彰化縣鹿港鎮三民路165號"
       }
     },
     {
+      "id" : "D06E4ECD-6E06-4A69-AB8B-DD8F3CC1B7BC",
+      "properties" : {
+        "name" : "清心緣蔬食坊",
+        "address" : "彰化縣彰化市中華西路165號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1437,13 +1545,14 @@
           120.53104999999999,
           24.07227
         ]
-      },
-      "properties" : {
-        "name" : "清心緣蔬食坊",
-        "address" : "彰化縣彰化市中華西路165號"
       }
     },
     {
+      "id" : "B8D059B5-2D64-4754-AE2B-B81265BF5B4F",
+      "properties" : {
+        "name" : "飄香蔬食滷味",
+        "address" : "彰化縣彰化市中正路一段316號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1451,13 +1560,14 @@
           120.545322,
           24.083286999999999
         ]
-      },
-      "properties" : {
-        "name" : "飄香蔬食滷味",
-        "address" : "彰化縣彰化市中正路一段316號"
       }
     },
     {
+      "id" : "0D246408-BF12-447D-BFA0-97F266129278",
+      "properties" : {
+        "name" : "王家素食",
+        "address" : "彰化縣和美鎮愛民路5號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1465,13 +1575,14 @@
           120.497556,
           24.108919
         ]
-      },
-      "properties" : {
-        "name" : "王家素食",
-        "address" : "彰化縣和美鎮愛民路5號"
       }
     },
     {
+      "id" : "3A6A8CC6-056D-4576-8D29-AB1BAC8D49BA",
+      "properties" : {
+        "name" : "可口麵線糊",
+        "address" : "彰化縣鹿港鎮民權路258號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1479,13 +1590,14 @@
           120.433284,
           24.055765000000001
         ]
-      },
-      "properties" : {
-        "name" : "可口麵線糊",
-        "address" : "彰化縣鹿港鎮民權路258號"
       }
     },
     {
+      "id" : "F88977D2-1097-4F40-A1B3-56762A0F8A64",
+      "properties" : {
+        "name" : "妙膳素食",
+        "address" : "彰化縣員林市大同路一段288號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1493,13 +1605,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "妙膳素食",
-        "address" : "彰化縣員林市大同路一段288號"
       }
     },
     {
+      "id" : "C8DEC345-963A-4752-9FDB-25E42907A962",
+      "properties" : {
+        "name" : "越南素食河粉",
+        "address" : "彰化縣彰化市中山路二段959號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1507,13 +1620,14 @@
           120.55156700000001,
           24.083904
         ]
-      },
-      "properties" : {
-        "name" : "越南素食河粉",
-        "address" : "彰化縣彰化市中山路二段959號"
       }
     },
     {
+      "id" : "7CBDF4AC-FAD3-49A8-8F57-377E07679474",
+      "properties" : {
+        "name" : "素食麵.飯",
+        "address" : "彰化縣永靖鄉東門路222號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1521,13 +1635,14 @@
           120.547127,
           23.921828999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食麵.飯",
-        "address" : "彰化縣永靖鄉東門路222號"
       }
     },
     {
+      "id" : "8407CE55-D409-46DA-904B-460477890B78",
+      "properties" : {
+        "name" : "天空之樹",
+        "address" : "彰化縣和美鎮彰新路二段269號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1535,13 +1650,14 @@
           120.5350734,
           24.098828699999999
         ]
-      },
-      "properties" : {
-        "name" : "天空之樹",
-        "address" : "彰化縣和美鎮彰新路二段269號"
       }
     },
     {
+      "id" : "E4FD89BD-4BB8-4428-A99E-53BDF2F05175",
+      "properties" : {
+        "name" : "熱浪島南洋蔬時茶堂",
+        "address" : "彰化縣彰化市民族路26號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1549,13 +1665,14 @@
           120.53739,
           24.066445999999999
         ]
-      },
-      "properties" : {
-        "name" : "熱浪島南洋蔬時茶堂",
-        "address" : "彰化縣彰化市民族路26號"
       }
     },
     {
+      "id" : "3AC0D7CC-5364-45AE-8786-2C621632B778",
+      "properties" : {
+        "name" : "北斗素圓",
+        "address" : "彰化縣北斗鎮斗中路812號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1563,13 +1680,14 @@
           120.53176240000001,
           23.871160799999998
         ]
-      },
-      "properties" : {
-        "name" : "北斗素圓",
-        "address" : "彰化縣北斗鎮斗中路812號"
       }
     },
     {
+      "id" : "C4F47B0F-F409-446D-9CB8-E652A805F700",
+      "properties" : {
+        "name" : "巧吉酥素紅豆餅",
+        "address" : "彰化縣彰化市和美鎮仁美路206號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1577,13 +1695,14 @@
           120.497393,
           24.108841999999999
         ]
-      },
-      "properties" : {
-        "name" : "巧吉酥素紅豆餅",
-        "address" : "彰化縣彰化市和美鎮仁美路206號"
       }
     },
     {
+      "id" : "55347E56-C909-4A17-AF38-01E819913354",
+      "properties" : {
+        "name" : "玲姐素食園",
+        "address" : "彰化縣二林鎮新生路82號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1591,13 +1710,14 @@
           120.36832800000001,
           23.901287
         ]
-      },
-      "properties" : {
-        "name" : "玲姐素食園",
-        "address" : "彰化縣二林鎮新生路82號"
       }
     },
     {
+      "id" : "69940C69-D0AF-4FE5-8C28-D77820F790A5",
+      "properties" : {
+        "name" : "如意素食",
+        "address" : "彰化縣彰化市自強南路168號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1605,13 +1725,14 @@
           120.53449569999999,
           24.083824400000001
         ]
-      },
-      "properties" : {
-        "name" : "如意素食",
-        "address" : "彰化縣彰化市自強南路168號"
       }
     },
     {
+      "id" : "03A99EDD-A85C-4F4A-B568-487B86678A25",
+      "properties" : {
+        "name" : "采欣健康素食",
+        "address" : "彰化縣和美鎮仁美路264號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1619,13 +1740,14 @@
           120.49628,
           24.109438000000001
         ]
-      },
-      "properties" : {
-        "name" : "采欣健康素食",
-        "address" : "彰化縣和美鎮仁美路264號"
       }
     },
     {
+      "id" : "A9AA1738-6688-45C3-A05F-93EC1E8C60E2",
+      "properties" : {
+        "name" : "彰南素料行",
+        "address" : "彰化縣永靖鄉東門路61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1633,13 +1755,14 @@
           120.5503946,
           23.922431899999999
         ]
-      },
-      "properties" : {
-        "name" : "彰南素料行",
-        "address" : "彰化縣永靖鄉東門路61號"
       }
     },
     {
+      "id" : "09A6D88B-993D-4E63-AE38-D618DBB10C5C",
+      "properties" : {
+        "name" : "永素清花草蔬食堂",
+        "address" : "彰化縣彰化市民生路412號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1647,13 +1770,14 @@
           120.54216599999999,
           24.085076999999998
         ]
-      },
-      "properties" : {
-        "name" : "永素清花草蔬食堂",
-        "address" : "彰化縣彰化市民生路412號"
       }
     },
     {
+      "id" : "0845F0B3-1686-48F9-B6D4-5B4BD018A60D",
+      "properties" : {
+        "name" : "陶米人文蔬食",
+        "address" : "彰化縣彰化市南郭路一段176巷32號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1661,13 +1785,14 @@
           120.547321,
           24.074016
         ]
-      },
-      "properties" : {
-        "name" : "陶米人文蔬食",
-        "address" : "彰化縣彰化市南郭路一段176巷32號"
       }
     },
     {
+      "id" : "6BA0E1CA-500E-4E92-8887-8B40FC4E464D",
+      "properties" : {
+        "name" : "孟德素食",
+        "address" : "彰化縣彰化市三民路132號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1675,13 +1800,14 @@
           120.541557,
           24.084568000000001
         ]
-      },
-      "properties" : {
-        "name" : "孟德素食",
-        "address" : "彰化縣彰化市三民路132號"
       }
     },
     {
+      "id" : "9839297F-2F8D-4FEA-A846-891A49E1AAA4",
+      "properties" : {
+        "name" : "無毒的家有機健康世界",
+        "address" : "彰化縣北斗鎮中正路190號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1689,13 +1815,14 @@
           120.522021,
           23.874561
         ]
-      },
-      "properties" : {
-        "name" : "無毒的家有機健康世界",
-        "address" : "彰化縣北斗鎮中正路190號"
       }
     },
     {
+      "id" : "7612456F-AFB8-464B-879A-A7EF1E1D046B",
+      "properties" : {
+        "name" : "六根素食",
+        "address" : "彰化縣彰化市中山路一段530巷17號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1703,13 +1830,14 @@
           120.537755,
           24.064518
         ]
-      },
-      "properties" : {
-        "name" : "六根素食",
-        "address" : "彰化縣彰化市中山路一段530巷17號"
       }
     },
     {
+      "id" : "FB3363A8-3A28-4AE6-A587-229170F3322A",
+      "properties" : {
+        "name" : "圓享和漢蔬食料理",
+        "address" : "彰化縣永靖鄉瑚璉路465號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1717,13 +1845,14 @@
           120.54335879999999,
           23.922688900000001
         ]
-      },
-      "properties" : {
-        "name" : "圓享和漢蔬食料理",
-        "address" : "彰化縣永靖鄉瑚璉路465號"
       }
     },
     {
+      "id" : "D0B54C8A-634A-4864-9BA9-014D2770C659",
+      "properties" : {
+        "name" : "天得素食",
+        "address" : "彰化縣員林市育英路151號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1731,13 +1860,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "天得素食",
-        "address" : "彰化縣員林市育英路151號"
       }
     },
     {
+      "id" : "B483A737-EB8E-4063-995C-B6E98409EA19",
+      "properties" : {
+        "name" : "福緣素食",
+        "address" : "彰化縣彰化市彰南路一段350號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1745,13 +1875,14 @@
           120.574028,
           24.085785999999999
         ]
-      },
-      "properties" : {
-        "name" : "福緣素食",
-        "address" : "彰化縣彰化市彰南路一段350號"
       }
     },
     {
+      "id" : "C9C4A5FA-1D53-422D-B3A3-7B77A02D8959",
+      "properties" : {
+        "name" : "素食 大大麵線",
+        "address" : "彰化縣彰化市彰化市民權路224號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1759,27 +1890,14 @@
           120.537696,
           24.077006999999998
         ]
-      },
-      "properties" : {
-        "name" : "素食 大大麵線",
-        "address" : "彰化縣彰化市彰化市民權路224號"
       }
     },
     {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          120.572227,
-          23.962657
-        ]
-      },
+      "id" : "A6C37F43-4AF1-434F-B1E4-F91B44A6099E",
       "properties" : {
         "name" : "喜善園養生蔬食會館",
         "address" : "彰化縣員林市和平東街70號"
-      }
-    },
-    {
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1787,13 +1905,14 @@
           120.572227,
           23.962657
         ]
-      },
+      }
+    },
+    {
+      "id" : "2E5ABE6E-2ADC-4A3F-BB13-63EB9826B5A5",
       "properties" : {
         "name" : "艾草麵",
         "address" : "彰化縣員林市員水路541號"
-      }
-    },
-    {
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1801,13 +1920,14 @@
           120.572227,
           23.962657
         ]
-      },
+      }
+    },
+    {
+      "id" : "729691AD-398B-43DD-824D-727CB4CFEB4C",
       "properties" : {
         "name" : "聖芳齋素食麵包店 - 素食麵",
         "address" : "彰化縣員林市至善街213號"
-      }
-    },
-    {
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1815,13 +1935,14 @@
           120.572227,
           23.962657
         ]
-      },
+      }
+    },
+    {
+      "id" : "CFFA2D80-3409-426D-BC74-4F8D2DBB36E4",
       "properties" : {
         "name" : "蓮鋐中西式素食簡餐店",
         "address" : "彰化縣員林市靜修東路90號"
-      }
-    },
-    {
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1829,13 +1950,29 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "慈湄老牌香菇素肉羹",
-        "address" : "彰化縣員林市正興街337號"
       }
     },
     {
+      "id" : "703F4573-10F2-4C91-8818-DF66071CC17D",
+      "properties" : {
+        "name" : "慈湄老牌香菇素肉羹",
+        "address" : "彰化縣員林市正興街337號"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.572227,
+          23.962657
+        ]
+      }
+    },
+    {
+      "id" : "C000C90F-F6AA-4210-A1C4-24A23018550B",
+      "properties" : {
+        "name" : "聖華宮素菜餐廳",
+        "address" : "彰化縣彰化市金馬路三段100號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1843,13 +1980,14 @@
           120.533838,
           24.088894
         ]
-      },
-      "properties" : {
-        "name" : "聖華宮素菜餐廳",
-        "address" : "彰化縣彰化市金馬路三段100號"
       }
     },
     {
+      "id" : "555FC902-0986-4E2C-9116-264400868545",
+      "properties" : {
+        "name" : "真好素食館",
+        "address" : "彰化縣田中鎮復興路768號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1857,13 +1995,14 @@
           120.587373,
           23.860809
         ]
-      },
-      "properties" : {
-        "name" : "真好素食館",
-        "address" : "彰化縣田中鎮復興路768號"
       }
     },
     {
+      "id" : "EC47D084-1491-4A4A-A107-41ECF4A303ED",
+      "properties" : {
+        "name" : "福成素食麵",
+        "address" : "彰化縣彰化市太平街3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1871,13 +2010,14 @@
           120.54400200000001,
           24.077083999999999
         ]
-      },
-      "properties" : {
-        "name" : "福成素食麵",
-        "address" : "彰化縣彰化市太平街3號"
       }
     },
     {
+      "id" : "F355F628-E260-4A2F-943D-2BC6512D0715",
+      "properties" : {
+        "name" : "麵線糊",
+        "address" : "彰化縣和美鎮和平街62號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1885,13 +2025,14 @@
           120.57067259999999,
           23.961544100000001
         ]
-      },
-      "properties" : {
-        "name" : "麵線糊",
-        "address" : "彰化縣和美鎮和平街62號"
       }
     },
     {
+      "id" : "B512307C-406E-46B9-A64C-23820570021F",
+      "properties" : {
+        "name" : "六根素食館",
+        "address" : "彰化縣鹿港鎮介壽路三段82號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1899,13 +2040,14 @@
           120.43331999999999,
           24.057787000000001
         ]
-      },
-      "properties" : {
-        "name" : "六根素食館",
-        "address" : "彰化縣鹿港鎮介壽路三段82號"
       }
     },
     {
+      "id" : "F454C7E4-BA02-4D8C-8015-517EFCA591F0",
+      "properties" : {
+        "name" : "玉品香素食麵",
+        "address" : "彰化縣埤頭鄉斗苑西路194號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1913,13 +2055,14 @@
           120.460859,
           23.891528000000001
         ]
-      },
-      "properties" : {
-        "name" : "玉品香素食麵",
-        "address" : "彰化縣埤頭鄉斗苑西路194號"
       }
     },
     {
+      "id" : "23F6E7A6-484F-43B8-85D4-25A201A8E960",
+      "properties" : {
+        "name" : "華陽素食水煎包",
+        "address" : "彰化縣彰化市南校街68號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1927,13 +2070,14 @@
           120.545625,
           24.07207
         ]
-      },
-      "properties" : {
-        "name" : "華陽素食水煎包",
-        "address" : "彰化縣彰化市南校街68號"
       }
     },
     {
+      "id" : "CB5F7098-22CE-4EE2-A03B-51A352120EF9",
+      "properties" : {
+        "name" : "林記素食",
+        "address" : "彰化縣二林鎮斗苑路五段143號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1941,13 +2085,14 @@
           120.369077,
           23.900686
         ]
-      },
-      "properties" : {
-        "name" : "林記素食",
-        "address" : "彰化縣二林鎮斗苑路五段143號"
       }
     },
     {
+      "id" : "EF5FC6AB-11B0-4062-A10A-CB3A1634166C",
+      "properties" : {
+        "name" : "珍緣",
+        "address" : "彰化縣溪湖鎮彰水路三段429號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1955,13 +2100,14 @@
           120.4798783,
           23.962765300000001
         ]
-      },
-      "properties" : {
-        "name" : "珍緣",
-        "address" : "彰化縣溪湖鎮彰水路三段429號"
       }
     },
     {
+      "id" : "71F65D69-D9F0-49A2-9DDF-A21836FED5AC",
+      "properties" : {
+        "name" : "成都 御飯碗 韓式海苔飯捲",
+        "address" : "彰化縣花壇鄉番花路52 號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1969,13 +2115,14 @@
           120.539041,
           24.019866
         ]
-      },
-      "properties" : {
-        "name" : "成都 御飯碗 韓式海苔飯捲",
-        "address" : "彰化縣花壇鄉番花路52 號"
       }
     },
     {
+      "id" : "FE5C9B32-900C-4CA0-A59E-C534975855AA",
+      "properties" : {
+        "name" : "真觀素齋坊",
+        "address" : "彰化縣彰化市辭修路96號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1983,13 +2130,14 @@
           120.538349,
           24.087247999999999
         ]
-      },
-      "properties" : {
-        "name" : "真觀素齋坊",
-        "address" : "彰化縣彰化市辭修路96號"
       }
     },
     {
+      "id" : "09FFF038-3359-4064-B632-C96FF2406509",
+      "properties" : {
+        "name" : "如來素食",
+        "address" : "彰化縣彰化市長興街108號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -1997,13 +2145,14 @@
           120.54467099999999,
           24.083537
         ]
-      },
-      "properties" : {
-        "name" : "如來素食",
-        "address" : "彰化縣彰化市長興街108號"
       }
     },
     {
+      "id" : "E00B02A6-78A1-46A3-A9A9-83D6EAA5D6D6",
+      "properties" : {
+        "name" : "老李の紅燒素食麵",
+        "address" : "彰化縣員林市中正路321號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2011,13 +2160,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "老李の紅燒素食麵",
-        "address" : "彰化縣員林市中正路321號"
       }
     },
     {
+      "id" : "65A0C946-D9BE-425E-9246-C5FD6C74C95D",
+      "properties" : {
+        "name" : "素食麵",
+        "address" : "彰化縣花壇鄉花壇街312號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2025,13 +2175,14 @@
           120.5377038,
           24.026748399999999
         ]
-      },
-      "properties" : {
-        "name" : "素食麵",
-        "address" : "彰化縣花壇鄉花壇街312號"
       }
     },
     {
+      "id" : "B2474013-3EA5-4FCD-A900-2643009FE96A",
+      "properties" : {
+        "name" : "NO.20 義式蔬食料理",
+        "address" : "彰化縣員林市新義街340號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2039,13 +2190,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "NO.20 義式蔬食料理",
-        "address" : "彰化縣員林市新義街340號"
       }
     },
     {
+      "id" : "EA9E6BAA-3D5A-457F-8FA1-2858AB2C3B83",
+      "properties" : {
+        "name" : "梅香源",
+        "address" : "彰化縣鹿港鎮民生路32號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2053,13 +2205,14 @@
           120.43039400000001,
           24.059379
         ]
-      },
-      "properties" : {
-        "name" : "梅香源",
-        "address" : "彰化縣鹿港鎮民生路32號"
       }
     },
     {
+      "id" : "F3E57756-2FD7-4456-8C46-AC5D3AAE94C7",
+      "properties" : {
+        "name" : "蓮村健康素食餐廳",
+        "address" : "彰化縣彰化市平和一街100號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2067,13 +2220,14 @@
           120.52895100000001,
           24.067017
         ]
-      },
-      "properties" : {
-        "name" : "蓮村健康素食餐廳",
-        "address" : "彰化縣彰化市平和一街100號"
       }
     },
     {
+      "id" : "9DDAAC04-710F-4F75-8695-4B3BF2C067E5",
+      "properties" : {
+        "name" : "祥順素食",
+        "address" : "彰化縣彰化市彰鹿路83號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2081,13 +2235,14 @@
           120.51599299999999,
           24.060039
         ]
-      },
-      "properties" : {
-        "name" : "祥順素食",
-        "address" : "彰化縣彰化市彰鹿路83號"
       }
     },
     {
+      "id" : "0CC23425-C004-489A-8635-2DB2B8AAF886",
+      "properties" : {
+        "name" : "家新素食蛋糕麵包店",
+        "address" : "彰化縣伸港鄉新港路214號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2095,13 +2250,14 @@
           120.486755,
           24.146885999999999
         ]
-      },
-      "properties" : {
-        "name" : "家新素食蛋糕麵包店",
-        "address" : "彰化縣伸港鄉新港路214號"
       }
     },
     {
+      "id" : "372651A8-23FF-44D1-B5CC-C8BE1DE2E98D",
+      "properties" : {
+        "name" : "仰德素食",
+        "address" : "彰化縣和美鎮和光路122號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2109,13 +2265,14 @@
           120.493452,
           24.110997999999999
         ]
-      },
-      "properties" : {
-        "name" : "仰德素食",
-        "address" : "彰化縣和美鎮和光路122號"
       }
     },
     {
+      "id" : "CE0E0842-14CE-434A-9412-3E60ED0D6013",
+      "properties" : {
+        "name" : "喜結緣素食",
+        "address" : "彰化縣溪湖鎮二溪路65號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2123,13 +2280,14 @@
           120.481838,
           23.959752999999999
         ]
-      },
-      "properties" : {
-        "name" : "喜結緣素食",
-        "address" : "彰化縣溪湖鎮二溪路65號"
       }
     },
     {
+      "id" : "CFB8A25E-D2C5-4FF7-BC23-E5D88D91B5AD",
+      "properties" : {
+        "name" : "素食小吃攤",
+        "address" : "彰化縣北斗鎮宮後街65號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2137,13 +2295,14 @@
           120.52524099999999,
           23.874690000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食小吃攤",
-        "address" : "彰化縣北斗鎮宮後街65號"
       }
     },
     {
+      "id" : "92944D1C-85F4-4448-91B6-2FA1B59E1107",
+      "properties" : {
+        "name" : "東山廟口素食牛肉麵",
+        "address" : "彰化縣員林市山腳路四段30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2151,13 +2310,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "東山廟口素食牛肉麵",
-        "address" : "彰化縣員林市山腳路四段30號"
       }
     },
     {
+      "id" : "D8C5A244-3B1B-4DD7-8BBF-582B5817A379",
+      "properties" : {
+        "name" : "寶來軒草食堂",
+        "address" : "彰化縣秀水鄉仁愛路20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2165,13 +2325,14 @@
           120.50355999999999,
           24.036301999999999
         ]
-      },
-      "properties" : {
-        "name" : "寶來軒草食堂",
-        "address" : "彰化縣秀水鄉仁愛路20號"
       }
     },
     {
+      "id" : "6BE13312-2747-4961-83A0-55C387048AEB",
+      "properties" : {
+        "name" : "姐妹素食店",
+        "address" : "彰化縣彰化市平和三街30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2179,13 +2340,14 @@
           120.531667,
           24.069565999999998
         ]
-      },
-      "properties" : {
-        "name" : "姐妹素食店",
-        "address" : "彰化縣彰化市平和三街30號"
       }
     },
     {
+      "id" : "6A4B1B5A-B728-4E8D-AC03-DD169F9059A4",
+      "properties" : {
+        "name" : "麗華素料",
+        "address" : "彰化縣彰化市菜市街234-36號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2193,13 +2355,14 @@
           120.5390694,
           24.075254900000001
         ]
-      },
-      "properties" : {
-        "name" : "麗華素料",
-        "address" : "彰化縣彰化市菜市街234-36號"
       }
     },
     {
+      "id" : "7A272571-4B75-4495-93BC-6D9369FB6C08",
+      "properties" : {
+        "name" : "素好吃",
+        "address" : "彰化縣和美鎮愛群路24-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2207,13 +2370,14 @@
           120.498822,
           24.111217
         ]
-      },
-      "properties" : {
-        "name" : "素好吃",
-        "address" : "彰化縣和美鎮愛群路24-1號"
       }
     },
     {
+      "id" : "0C05E22C-8688-47E5-AFBF-0E4F28655ED9",
+      "properties" : {
+        "name" : "津福素食館",
+        "address" : "彰化縣彰化市南校街142號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2221,13 +2385,14 @@
           120.544259,
           24.072336
         ]
-      },
-      "properties" : {
-        "name" : "津福素食館",
-        "address" : "彰化縣彰化市南校街142號"
       }
     },
     {
+      "id" : "C556A3FC-8573-4699-8C44-EC29EE689A48",
+      "properties" : {
+        "name" : "圓通素食自助餐",
+        "address" : "彰化縣永靖鄉瑚璉路167巷11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2235,13 +2400,14 @@
           120.549933,
           23.925184000000002
         ]
-      },
-      "properties" : {
-        "name" : "圓通素食自助餐",
-        "address" : "彰化縣永靖鄉瑚璉路167巷11號"
       }
     },
     {
+      "id" : "68AAF1BB-282F-45D1-902E-EC0A3DD9F59D",
+      "properties" : {
+        "name" : "蔬食煮藝",
+        "address" : "彰化縣彰化市中正路一段511號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2249,13 +2415,14 @@
           120.540808,
           24.081963999999999
         ]
-      },
-      "properties" : {
-        "name" : "蔬食煮藝",
-        "address" : "彰化縣彰化市中正路一段511號"
       }
     },
     {
+      "id" : "0BB157E5-76AA-466C-822F-7AC8C3DDA462",
+      "properties" : {
+        "name" : "養生素食",
+        "address" : "彰化縣花壇鄉中正路276巷1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2263,13 +2430,14 @@
           120.540268,
           24.026251999999999
         ]
-      },
-      "properties" : {
-        "name" : "養生素食",
-        "address" : "彰化縣花壇鄉中正路276巷1號"
       }
     },
     {
+      "id" : "2881DD5E-7919-4843-BA50-683909A6316A",
+      "properties" : {
+        "name" : "素食小吃店",
+        "address" : "彰化縣北斗鎮光復路163號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2277,13 +2445,14 @@
           120.52404799999999,
           23.873335999999998
         ]
-      },
-      "properties" : {
-        "name" : "素食小吃店",
-        "address" : "彰化縣北斗鎮光復路163號"
       }
     },
     {
+      "id" : "2CA83663-D90E-48B6-94C2-0A8BC48E6499",
+      "properties" : {
+        "name" : "素香積素食糧倉",
+        "address" : "彰化縣芳苑鄉斗苑路芳苑段156-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2291,13 +2460,14 @@
           120.321794,
           23.923134000000001
         ]
-      },
-      "properties" : {
-        "name" : "素香積素食糧倉",
-        "address" : "彰化縣芳苑鄉斗苑路芳苑段156-1號"
       }
     },
     {
+      "id" : "431EC39D-3560-49FC-B364-1B3DA256A932",
+      "properties" : {
+        "name" : "素食",
+        "address" : "彰化縣彰化市浮圳路二段609號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2305,13 +2475,14 @@
           120.542241,
           24.080691000000002
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "彰化縣彰化市浮圳路二段609號"
       }
     },
     {
+      "id" : "A1C775AC-327F-4501-9C4D-33CF56B2544B",
+      "properties" : {
+        "name" : "美亞古早味現烤蛋糕",
+        "address" : "彰化縣社頭鄉清水岩路445號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2319,13 +2490,14 @@
           120.587965,
           23.899298000000002
         ]
-      },
-      "properties" : {
-        "name" : "美亞古早味現烤蛋糕",
-        "address" : "彰化縣社頭鄉清水岩路445號"
       }
     },
     {
+      "id" : "B0F8A1A5-8E57-4A9E-87D3-930F92BC5A27",
+      "properties" : {
+        "name" : "素食麵",
+        "address" : "彰化縣員林市新生路4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2333,13 +2505,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "素食麵",
-        "address" : "彰化縣員林市新生路4號"
       }
     },
     {
+      "id" : "D18040FB-CA82-4CAF-81D5-9932121AFD03",
+      "properties" : {
+        "name" : "素食麵",
+        "address" : "彰化縣彰化市永安街171號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2347,13 +2520,14 @@
           120.544653,
           24.086872
         ]
-      },
-      "properties" : {
-        "name" : "素食麵",
-        "address" : "彰化縣彰化市永安街171號"
       }
     },
     {
+      "id" : "BD53E355-F7D9-4FD1-BC69-E0A865B70768",
+      "properties" : {
+        "name" : "慈航素食",
+        "address" : "彰化縣田中鎮員集路二段55號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2361,13 +2535,14 @@
           120.588925,
           23.852784
         ]
-      },
-      "properties" : {
-        "name" : "慈航素食",
-        "address" : "彰化縣田中鎮員集路二段55號"
       }
     },
     {
+      "id" : "9687EF92-7BF3-4969-8525-0DA6F1912CFF",
+      "properties" : {
+        "name" : "榮香珍",
+        "address" : "彰化縣彰化市建和街148號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2375,13 +2550,14 @@
           120.533069,
           24.072489999999998
         ]
-      },
-      "properties" : {
-        "name" : "榮香珍",
-        "address" : "彰化縣彰化市建和街148號"
       }
     },
     {
+      "id" : "1BC98E3A-4B05-4758-8ED0-62587D858A8E",
+      "properties" : {
+        "name" : "祈德素食材料行",
+        "address" : "彰化縣永靖鄉裕農路78號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2389,13 +2565,14 @@
           120.54958000000001,
           23.924185000000001
         ]
-      },
-      "properties" : {
-        "name" : "祈德素食材料行",
-        "address" : "彰化縣永靖鄉裕農路78號"
       }
     },
     {
+      "id" : "414C30B5-A4BA-4038-9A2C-D29A97C425BF",
+      "properties" : {
+        "name" : "素食",
+        "address" : "彰化縣二水鄉員集路四段43號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2403,13 +2580,14 @@
           120.61553499999999,
           23.812176999999998
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "彰化縣二水鄉員集路四段43號"
       }
     },
     {
+      "id" : "4288054A-EC73-4AE2-9554-E8170D4F3172",
+      "properties" : {
+        "name" : "真味素食天香坊",
+        "address" : "彰化縣員林市中山路一段602號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2417,13 +2595,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "真味素食天香坊",
-        "address" : "彰化縣員林市中山路一段602號"
       }
     },
     {
+      "id" : "AA0E08F2-5521-41CD-A985-8E69425C057C",
+      "properties" : {
+        "name" : "小王子素食小籠包",
+        "address" : "彰化縣二林鎮二溪路六段393號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2431,13 +2610,14 @@
           120.420812,
           23.954205999999999
         ]
-      },
-      "properties" : {
-        "name" : "小王子素食小籠包",
-        "address" : "彰化縣二林鎮二溪路六段393號"
       }
     },
     {
+      "id" : "B35A05E2-9A4B-4979-84CB-CE2323FF60A2",
+      "properties" : {
+        "name" : "彰工素食自助餐",
+        "address" : "彰化縣彰化市實踐路120號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2445,13 +2625,14 @@
           120.556354,
           24.083392
         ]
-      },
-      "properties" : {
-        "name" : "彰工素食自助餐",
-        "address" : "彰化縣彰化市實踐路120號"
       }
     },
     {
+      "id" : "CAFFE516-0ABC-4D6A-BD1B-808AB4D3F423",
+      "properties" : {
+        "name" : "五福素食麵",
+        "address" : "彰化縣彰化市自強路109巷29號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2459,13 +2640,14 @@
           120.54070299999999,
           24.090627000000001
         ]
-      },
-      "properties" : {
-        "name" : "五福素食麵",
-        "address" : "彰化縣彰化市自強路109巷29號"
       }
     },
     {
+      "id" : "D9B340B9-260B-486E-BAEF-AD05F4196920",
+      "properties" : {
+        "name" : "天慈素食",
+        "address" : "彰化縣北斗鎮中山路二段14號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2473,13 +2655,14 @@
           120.517635,
           23.873707
         ]
-      },
-      "properties" : {
-        "name" : "天慈素食",
-        "address" : "彰化縣北斗鎮中山路二段14號"
       }
     },
     {
+      "id" : "13C5D671-AE3F-404B-8DBC-3CBA6BCFDE7C",
+      "properties" : {
+        "name" : "里仁",
+        "address" : "彰化縣彰化市中民街33號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2487,13 +2670,14 @@
           120.547183,
           24.085370000000001
         ]
-      },
-      "properties" : {
-        "name" : "里仁",
-        "address" : "彰化縣彰化市中民街33號"
       }
     },
     {
+      "id" : "492C3820-39EF-4729-8541-636D2D03349C",
+      "properties" : {
+        "name" : "圓緣園",
+        "address" : "彰化縣彰化市彰美路一段183號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2501,13 +2685,14 @@
           120.53773,
           24.088618
         ]
-      },
-      "properties" : {
-        "name" : "圓緣園",
-        "address" : "彰化縣彰化市彰美路一段183號"
       }
     },
     {
+      "id" : "B481FA96-0407-4800-98A5-FDC296BEA21D",
+      "properties" : {
+        "name" : "芸家鄉素食手工包子饅頭",
+        "address" : "彰化縣北斗鎮光復里復興路320號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2515,13 +2700,14 @@
           120.527468,
           23.879031999999999
         ]
-      },
-      "properties" : {
-        "name" : "芸家鄉素食手工包子饅頭",
-        "address" : "彰化縣北斗鎮光復里復興路320號"
       }
     },
     {
+      "id" : "C0022711-28F2-4197-85A7-68258435D993",
+      "properties" : {
+        "name" : "粗一食五蔬食拉麵",
+        "address" : "彰化縣彰化市太平街81號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2529,13 +2715,14 @@
           120.54203,
           24.077328000000001
         ]
-      },
-      "properties" : {
-        "name" : "粗一食五蔬食拉麵",
-        "address" : "彰化縣彰化市太平街81號"
       }
     },
     {
+      "id" : "AB613895-6521-493C-87B5-ECFF343A420C",
+      "properties" : {
+        "name" : "素食鹹酥雞.滷味",
+        "address" : "彰化縣彰化市永安街169號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2543,13 +2730,14 @@
           120.5446338,
           24.086977900000001
         ]
-      },
-      "properties" : {
-        "name" : "素食鹹酥雞.滷味",
-        "address" : "彰化縣彰化市永安街169號"
       }
     },
     {
+      "id" : "A8573158-7CC7-4AAA-93BD-71BD976134E8",
+      "properties" : {
+        "name" : "蒝味蔬食.懷舊小吃",
+        "address" : "彰化縣彰化市南郭路一段59號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2557,13 +2745,14 @@
           120.54553,
           24.075240999999998
         ]
-      },
-      "properties" : {
-        "name" : "蒝味蔬食.懷舊小吃",
-        "address" : "彰化縣彰化市南郭路一段59號"
       }
     },
     {
+      "id" : "911E434B-05BE-476F-8A18-5C7C9697D063",
+      "properties" : {
+        "name" : "賴寶麟‧禾九素包子",
+        "address" : "彰化縣員林市大同路一段368號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2571,13 +2760,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "賴寶麟‧禾九素包子",
-        "address" : "彰化縣員林市大同路一段368號"
       }
     },
     {
+      "id" : "345001F7-EDA0-4CD5-BDD7-B2847E572C13",
+      "properties" : {
+        "name" : "翔美素食",
+        "address" : "彰化縣鹿港鎮鹿草路二段267號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2585,13 +2775,14 @@
           120.439943,
           24.072306999999999
         ]
-      },
-      "properties" : {
-        "name" : "翔美素食",
-        "address" : "彰化縣鹿港鎮鹿草路二段267號"
       }
     },
     {
+      "id" : "D090E03F-D52E-48DD-8E01-99E99E0A2D1A",
+      "properties" : {
+        "name" : "利展素料",
+        "address" : "彰化縣鹿港鎮文聖街27號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2599,13 +2790,14 @@
           120.440231,
           24.048250500000002
         ]
-      },
-      "properties" : {
-        "name" : "利展素料",
-        "address" : "彰化縣鹿港鎮文聖街27號"
       }
     },
     {
+      "id" : "CDBD9892-F0BD-4974-82A4-38F345A54CC6",
+      "properties" : {
+        "name" : "開明素食",
+        "address" : "彰化縣永靖鄉開明路34號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2613,13 +2805,14 @@
           120.54556700000001,
           23.918844
         ]
-      },
-      "properties" : {
-        "name" : "開明素食",
-        "address" : "彰化縣永靖鄉開明路34號"
       }
     },
     {
+      "id" : "FF17C178-9659-456B-B650-606038CD0477",
+      "properties" : {
+        "name" : "天慈素食",
+        "address" : "彰化縣員林市中山路一段569號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2627,13 +2820,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "天慈素食",
-        "address" : "彰化縣員林市中山路一段569號"
       }
     },
     {
+      "id" : "169A9021-4D16-466E-B357-5AAC3222152D",
+      "properties" : {
+        "name" : "猿聲蛙鳴",
+        "address" : "彰化縣秀水鄉正興巷41弄19號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2641,13 +2835,14 @@
           120.5242258,
           24.024222399999999
         ]
-      },
-      "properties" : {
-        "name" : "猿聲蛙鳴",
-        "address" : "彰化縣秀水鄉正興巷41弄19號"
       }
     },
     {
+      "id" : "4382AFA1-3428-43F0-B05F-3986BC231A43",
+      "properties" : {
+        "name" : "溪湖素食店",
+        "address" : "彰化縣溪湖鎮彰水路三段130號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2655,13 +2850,14 @@
           120.48041000000001,
           23.956306000000001
         ]
-      },
-      "properties" : {
-        "name" : "溪湖素食店",
-        "address" : "彰化縣溪湖鎮彰水路三段130號"
       }
     },
     {
+      "id" : "C7F8B429-FFFD-4F00-BE9F-EA7D2EFCFDD3",
+      "properties" : {
+        "name" : "有機蔬菜素食麵",
+        "address" : "彰化縣鹿港鎮復興南路90號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2669,13 +2865,14 @@
           120.43721789999999,
           24.047425199999999
         ]
-      },
-      "properties" : {
-        "name" : "有機蔬菜素食麵",
-        "address" : "彰化縣鹿港鎮復興南路90號"
       }
     },
     {
+      "id" : "C246E811-FE6C-4C80-9AA0-844B5A4D58E7",
+      "properties" : {
+        "name" : "金葉素食",
+        "address" : "彰化縣彰化市彰南路二段250號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2683,13 +2880,14 @@
           120.582559,
           24.083994000000001
         ]
-      },
-      "properties" : {
-        "name" : "金葉素食",
-        "address" : "彰化縣彰化市彰南路二段250號"
       }
     },
     {
+      "id" : "A4F1739D-1806-4F92-98DC-72FD14BF4D04",
+      "properties" : {
+        "name" : "奇芳素宴中心",
+        "address" : "彰化縣和美鎮嘉佃路337-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2697,13 +2895,14 @@
           120.50192,
           24.089213999999998
         ]
-      },
-      "properties" : {
-        "name" : "奇芳素宴中心",
-        "address" : "彰化縣和美鎮嘉佃路337-1號"
       }
     },
     {
+      "id" : "5D12CE0F-54D3-4105-8A96-3991219C8F4A",
+      "properties" : {
+        "name" : "滿溢養生素食",
+        "address" : "彰化縣花壇鄉花壇街165號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2711,13 +2910,14 @@
           120.538482,
           24.024388999999999
         ]
-      },
-      "properties" : {
-        "name" : "滿溢養生素食",
-        "address" : "彰化縣花壇鄉花壇街165號"
       }
     },
     {
+      "id" : "B0B308A9-4C05-4D15-9541-2D45CE579AA7",
+      "properties" : {
+        "name" : "大竹明道素食麵",
+        "address" : "彰化縣彰化市彰南路二段82號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2725,13 +2925,14 @@
           120.57879,
           24.085082
         ]
-      },
-      "properties" : {
-        "name" : "大竹明道素食麵",
-        "address" : "彰化縣彰化市彰南路二段82號"
       }
     },
     {
+      "id" : "E28EA85B-1ADB-40D5-BBC0-F0556B4E27F9",
+      "properties" : {
+        "name" : "美の饗素食坊",
+        "address" : "彰化縣鹿港鎮復興路120-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2739,13 +2940,14 @@
           120.439121,
           24.052859999999999
         ]
-      },
-      "properties" : {
-        "name" : "美の饗素食坊",
-        "address" : "彰化縣鹿港鎮復興路120-2號"
       }
     },
     {
+      "id" : "8C8E6E50-35C0-4149-82A1-7E150E2F8CD6",
+      "properties" : {
+        "name" : "食緣美食館素食",
+        "address" : "彰化縣和美鎮中正路64號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2753,13 +2955,14 @@
           120.496664,
           24.112649999999999
         ]
-      },
-      "properties" : {
-        "name" : "食緣美食館素食",
-        "address" : "彰化縣和美鎮中正路64號"
       }
     },
     {
+      "id" : "E0909B36-64AE-4645-81C4-CE50369FB1DA",
+      "properties" : {
+        "name" : "彰化明道素食麵",
+        "address" : "彰化縣彰化市中民街61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2767,13 +2970,14 @@
           120.547213,
           24.084641000000001
         ]
-      },
-      "properties" : {
-        "name" : "彰化明道素食麵",
-        "address" : "彰化縣彰化市中民街61號"
       }
     },
     {
+      "id" : "47907D67-73EB-45B0-9A6E-39318D96E576",
+      "properties" : {
+        "name" : "蓮華素食館",
+        "address" : "彰化縣鹿港鎮三民路35號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2781,13 +2985,14 @@
           120.43805999999999,
           24.05115
         ]
-      },
-      "properties" : {
-        "name" : "蓮華素食館",
-        "address" : "彰化縣鹿港鎮三民路35號"
       }
     },
     {
+      "id" : "48ED4D48-3276-4BCD-AEB4-748DC509037D",
+      "properties" : {
+        "name" : "空幾何 自然時蔬百匯",
+        "address" : "彰化縣彰化市寶山路266巷11-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2795,13 +3000,14 @@
           120.562178,
           24.059505999999999
         ]
-      },
-      "properties" : {
-        "name" : "空幾何 自然時蔬百匯",
-        "address" : "彰化縣彰化市寶山路266巷11-2號"
       }
     },
     {
+      "id" : "B153CEC5-CF48-45F2-BC06-7346452E9038",
+      "properties" : {
+        "name" : "石發脆皮素圓",
+        "address" : "彰化縣彰化市大埔路646號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2809,13 +3015,14 @@
           120.542754,
           24.067712
         ]
-      },
-      "properties" : {
-        "name" : "石發脆皮素圓",
-        "address" : "彰化縣彰化市大埔路646號"
       }
     },
     {
+      "id" : "CB54A57E-AC5E-4B7E-A7D3-2D556435329B",
+      "properties" : {
+        "name" : "佑生素食",
+        "address" : "彰化縣員林市民權街11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2823,13 +3030,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "佑生素食",
-        "address" : "彰化縣員林市民權街11號"
       }
     },
     {
+      "id" : "FFA071A3-0037-47A4-844B-C6A982D6010F",
+      "properties" : {
+        "name" : "鹿港素食老店",
+        "address" : "彰化縣彰化市太平街157號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2837,13 +3045,14 @@
           120.540082,
           24.077656000000001
         ]
-      },
-      "properties" : {
-        "name" : "鹿港素食老店",
-        "address" : "彰化縣彰化市太平街157號"
       }
     },
     {
+      "id" : "2CE4AA02-58A2-4855-BCA2-19C63CC447DB",
+      "properties" : {
+        "name" : "素炸素絕",
+        "address" : "彰化縣和美鎮愛華路342號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2851,13 +3060,14 @@
           120.49751000000001,
           24.108370000000001
         ]
-      },
-      "properties" : {
-        "name" : "素炸素絕",
-        "address" : "彰化縣和美鎮愛華路342號"
       }
     },
     {
+      "id" : "BC986A2D-EF37-43B1-911C-78978047CCBD",
+      "properties" : {
+        "name" : "素料",
+        "address" : "彰化縣彰化市旭光路57號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2865,13 +3075,14 @@
           120.54676120000001,
           24.073091900000001
         ]
-      },
-      "properties" : {
-        "name" : "素料",
-        "address" : "彰化縣彰化市旭光路57號"
       }
     },
     {
+      "id" : "F5B3F1F7-D6DF-4873-B5BD-44EFDEB3307F",
+      "properties" : {
+        "name" : "鹿港素食",
+        "address" : "彰化縣鹿港鎮菜園路161號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2879,13 +3090,14 @@
           120.432776,
           24.054293999999999
         ]
-      },
-      "properties" : {
-        "name" : "鹿港素食",
-        "address" : "彰化縣鹿港鎮菜園路161號"
       }
     },
     {
+      "id" : "664E2023-54C2-46E7-ACDE-9C5320C660BC",
+      "properties" : {
+        "name" : "楊家姐妹蔬食趣",
+        "address" : "彰化縣彰化市永福街45號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2893,13 +3105,14 @@
           120.54381100000001,
           24.079343000000001
         ]
-      },
-      "properties" : {
-        "name" : "楊家姐妹蔬食趣",
-        "address" : "彰化縣彰化市永福街45號"
       }
     },
     {
+      "id" : "A372BCDA-231D-4B5C-83E6-F8214D0B2B44",
+      "properties" : {
+        "name" : "至德素食坊",
+        "address" : "彰化縣永靖鄉東門路196號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2907,13 +3120,14 @@
           120.547703,
           23.921869000000001
         ]
-      },
-      "properties" : {
-        "name" : "至德素食坊",
-        "address" : "彰化縣永靖鄉東門路196號"
       }
     },
     {
+      "id" : "2658E0DC-3506-4BD4-905F-F853EC47D8E3",
+      "properties" : {
+        "name" : "日和一百 老屋蔬店",
+        "address" : "彰化縣埔心鄉中山路100號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2921,13 +3135,14 @@
           120.559595,
           23.939395000000001
         ]
-      },
-      "properties" : {
-        "name" : "日和一百 老屋蔬店",
-        "address" : "彰化縣埔心鄉中山路100號"
       }
     },
     {
+      "id" : "56B126AB-2871-4446-B3F7-A2AA3FAC91DC",
+      "properties" : {
+        "name" : "李記蔬食麵",
+        "address" : "彰化縣彰化市進德路82號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2935,13 +3150,14 @@
           120.558879,
           24.085711
         ]
-      },
-      "properties" : {
-        "name" : "李記蔬食麵",
-        "address" : "彰化縣彰化市進德路82號"
       }
     },
     {
+      "id" : "DA4C898F-4DC2-4049-BC28-448B6A5F8481",
+      "properties" : {
+        "name" : "素食麵自助餐",
+        "address" : "彰化縣鹿港鎮彰頂路340號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2949,13 +3165,14 @@
           120.48212100000001,
           24.085899999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食麵自助餐",
-        "address" : "彰化縣鹿港鎮彰頂路340號"
       }
     },
     {
+      "id" : "03F79B54-20E3-40BC-9C93-8F98EEAC1BCA",
+      "properties" : {
+        "name" : "哩來好食坊",
+        "address" : "彰化縣彰化市中正路二段789號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2963,13 +3180,14 @@
           120.5348501,
           24.0656623
         ]
-      },
-      "properties" : {
-        "name" : "哩來好食坊",
-        "address" : "彰化縣彰化市中正路二段789號"
       }
     },
     {
+      "id" : "757D9097-F68A-4B74-AC28-153A8EEA0131",
+      "properties" : {
+        "name" : "阿松素食老攤 臭豆腐 麵線糊",
+        "address" : "彰化縣和美鎮愛華路與仁美路交叉口"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2977,13 +3195,14 @@
           120.4973459,
           24.108097699999998
         ]
-      },
-      "properties" : {
-        "name" : "阿松素食老攤 臭豆腐 麵線糊",
-        "address" : "彰化縣和美鎮愛華路與仁美路交叉口"
       }
     },
     {
+      "id" : "2C587233-BB16-4824-8465-8C1D971220EC",
+      "properties" : {
+        "name" : "荳荳園",
+        "address" : "彰化縣彰化市永安街310號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -2991,13 +3210,14 @@
           120.543328,
           24.090796999999998
         ]
-      },
-      "properties" : {
-        "name" : "荳荳園",
-        "address" : "彰化縣彰化市永安街310號"
       }
     },
     {
+      "id" : "8BBC802B-C519-4F76-921D-17C845DAAC95",
+      "properties" : {
+        "name" : "壹心素食",
+        "address" : "彰化縣和美鎮愛群路24號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3005,13 +3225,14 @@
           120.498822,
           24.111217
         ]
-      },
-      "properties" : {
-        "name" : "壹心素食",
-        "address" : "彰化縣和美鎮愛群路24號"
       }
     },
     {
+      "id" : "77D3510E-EF57-4B97-B495-8452CEFDD11E",
+      "properties" : {
+        "name" : "素食鹹酥基",
+        "address" : "彰化縣彰化市旭光路291號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3019,13 +3240,14 @@
           120.54401300000001,
           24.070757
         ]
-      },
-      "properties" : {
-        "name" : "素食鹹酥基",
-        "address" : "彰化縣彰化市旭光路291號"
       }
     },
     {
+      "id" : "745FF665-32E3-4B1A-970D-2ADE1C54B09B",
+      "properties" : {
+        "name" : "陳家炭烤玉米",
+        "address" : "彰化縣田尾鄉民族路一段189號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3033,13 +3255,14 @@
           120.531127,
           23.897870999999999
         ]
-      },
-      "properties" : {
-        "name" : "陳家炭烤玉米",
-        "address" : "彰化縣田尾鄉民族路一段189號"
       }
     },
     {
+      "id" : "A2F7BC1A-EFD2-4095-A710-017356607311",
+      "properties" : {
+        "name" : "藥膳素食",
+        "address" : "彰化縣彰化市中興路121-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3047,13 +3270,14 @@
           120.545191,
           24.069697999999999
         ]
-      },
-      "properties" : {
-        "name" : "藥膳素食",
-        "address" : "彰化縣彰化市中興路121-2號"
       }
     },
     {
+      "id" : "80EB27BD-1955-486C-8490-C46433B18C2D",
+      "properties" : {
+        "name" : "心法味有機調理餐點",
+        "address" : "彰化縣彰化市長興街174號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3061,13 +3285,14 @@
           120.54437,
           24.085139000000002
         ]
-      },
-      "properties" : {
-        "name" : "心法味有機調理餐點",
-        "address" : "彰化縣彰化市長興街174號"
       }
     },
     {
+      "id" : "A16223A5-0B17-4A8A-AA5C-A05BEB227C02",
+      "properties" : {
+        "name" : "和米素食",
+        "address" : "彰化縣花壇鄉彰員路三段117號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3075,13 +3300,14 @@
           120.54613569999999,
           24.044961399999998
         ]
-      },
-      "properties" : {
-        "name" : "和米素食",
-        "address" : "彰化縣花壇鄉彰員路三段117號"
       }
     },
     {
+      "id" : "87C1AFA6-2FF3-488D-8617-77BA11776FB8",
+      "properties" : {
+        "name" : "素食麵",
+        "address" : "彰化縣花壇鄉花壇街215號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3089,13 +3315,14 @@
           120.53784899999999,
           24.024733000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食麵",
-        "address" : "彰化縣花壇鄉花壇街215號"
       }
     },
     {
+      "id" : "4327B026-DF1C-4657-A005-BC5BCD69B37A",
+      "properties" : {
+        "name" : "慈德素食",
+        "address" : "彰化縣秀水鄉彰水路二段479號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3103,13 +3330,14 @@
           120.49503,
           24.028898000000002
         ]
-      },
-      "properties" : {
-        "name" : "慈德素食",
-        "address" : "彰化縣秀水鄉彰水路二段479號"
       }
     },
     {
+      "id" : "152A2238-4CFE-4554-A617-4BEB34AD35FC",
+      "properties" : {
+        "name" : "燒烤甘蔗賢",
+        "address" : "彰化縣員林市林森路37號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3117,13 +3345,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "燒烤甘蔗賢",
-        "address" : "彰化縣員林市林森路37號"
       }
     },
     {
+      "id" : "61299669-51BB-425F-BEC5-32B6BA367FAA",
+      "properties" : {
+        "name" : "佛園天然素食",
+        "address" : "彰化縣二林鎮仁愛路503號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3131,13 +3360,14 @@
           120.367262,
           23.903673000000001
         ]
-      },
-      "properties" : {
-        "name" : "佛園天然素食",
-        "address" : "彰化縣二林鎮仁愛路503號"
       }
     },
     {
+      "id" : "F7F4FC60-F64D-4624-9AF7-4F48F42F6ABF",
+      "properties" : {
+        "name" : "草の堂養生素食",
+        "address" : "彰化縣彰化市中正路二段816號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3145,13 +3375,14 @@
           120.5342622,
           24.064564600000001
         ]
-      },
-      "properties" : {
-        "name" : "草の堂養生素食",
-        "address" : "彰化縣彰化市中正路二段816號"
       }
     },
     {
+      "id" : "0AB41836-80A3-4EE8-9A29-2A580D262150",
+      "properties" : {
+        "name" : "大順素食自助餐",
+        "address" : "彰化縣鹿港鎮鹿和路一段18號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3159,13 +3390,14 @@
           120.440162,
           24.059449000000001
         ]
-      },
-      "properties" : {
-        "name" : "大順素食自助餐",
-        "address" : "彰化縣鹿港鎮鹿和路一段18號"
       }
     },
     {
+      "id" : "8BCD32DD-EC8B-4556-A1BE-BF4111F7B051",
+      "properties" : {
+        "name" : "彰化林素食館",
+        "address" : "彰化縣彰化市永興街21號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3173,13 +3405,14 @@
           120.53809099999999,
           24.078233999999998
         ]
-      },
-      "properties" : {
-        "name" : "彰化林素食館",
-        "address" : "彰化縣彰化市永興街21號"
       }
     },
     {
+      "id" : "E442A89B-6E1B-43EF-A924-882663A452E6",
+      "properties" : {
+        "name" : "素食麵",
+        "address" : "彰化縣大村鄉中正西路346號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3187,13 +3420,14 @@
           120.546431,
           23.993665
         ]
-      },
-      "properties" : {
-        "name" : "素食麵",
-        "address" : "彰化縣大村鄉中正西路346號"
       }
     },
     {
+      "id" : "FFB29B38-62AC-4194-9CF9-B434FB1A8129",
+      "properties" : {
+        "name" : "RUGO有機蔬食燙",
+        "address" : "彰化縣彰化市仁愛路8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3201,13 +3435,14 @@
           120.54057450000001,
           24.0691524
         ]
-      },
-      "properties" : {
-        "name" : "RUGO有機蔬食燙",
-        "address" : "彰化縣彰化市仁愛路8號"
       }
     },
     {
+      "id" : "F8356D1C-4AFE-479C-AC42-68EA22127D5E",
+      "properties" : {
+        "name" : "億馨素料",
+        "address" : "彰化縣鹿港鎮鹿和路一段2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3215,13 +3450,14 @@
           120.439559,
           24.059000999999999
         ]
-      },
-      "properties" : {
-        "name" : "億馨素料",
-        "address" : "彰化縣鹿港鎮鹿和路一段2號"
       }
     },
     {
+      "id" : "3245455F-01E5-4E4B-909C-7F0C4D8C187D",
+      "properties" : {
+        "name" : "蓮心健康素食",
+        "address" : "彰化縣北斗鎮中正路402號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3229,13 +3465,14 @@
           120.52167230000001,
           23.874893799999999
         ]
-      },
-      "properties" : {
-        "name" : "蓮心健康素食",
-        "address" : "彰化縣北斗鎮中正路402號"
       }
     },
     {
+      "id" : "D07DE714-4997-4731-AD4D-7C8C0495BCD2",
+      "properties" : {
+        "name" : "長源素食",
+        "address" : "彰化縣鹿港鎮三民路122號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3243,13 +3480,14 @@
           120.43534099999999,
           24.050910999999999
         ]
-      },
-      "properties" : {
-        "name" : "長源素食",
-        "address" : "彰化縣鹿港鎮三民路122號"
       }
     },
     {
+      "id" : "553BE3E7-6429-4C42-B434-27362432FA79",
+      "properties" : {
+        "name" : "祥順",
+        "address" : "彰化縣彰化市永興街69號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3257,13 +3495,14 @@
           120.53828300000001,
           24.079359
         ]
-      },
-      "properties" : {
-        "name" : "祥順",
-        "address" : "彰化縣彰化市永興街69號"
       }
     },
     {
+      "id" : "E43E95EE-95F1-40DF-B2F6-1E4C348AD9B3",
+      "properties" : {
+        "name" : "天慈素食",
+        "address" : "彰化縣彰化市中華路217號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3271,13 +3510,14 @@
           120.538704,
           24.077798000000001
         ]
-      },
-      "properties" : {
-        "name" : "天慈素食",
-        "address" : "彰化縣彰化市中華路217號"
       }
     },
     {
+      "id" : "CBA74236-0AA5-42C1-8273-C247B920761E",
+      "properties" : {
+        "name" : "素湘園中西素食餐廳",
+        "address" : "彰化縣員林市大同路一段291號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3285,13 +3525,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "素湘園中西素食餐廳",
-        "address" : "彰化縣員林市大同路一段291號"
       }
     },
     {
+      "id" : "480EA72E-9EBE-483B-A272-CBFDAFACA86C",
+      "properties" : {
+        "name" : "妙蓮健康素食",
+        "address" : "彰化縣和美鎮彰草路三段152號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3299,13 +3540,14 @@
           120.494679,
           24.081876999999999
         ]
-      },
-      "properties" : {
-        "name" : "妙蓮健康素食",
-        "address" : "彰化縣和美鎮彰草路三段152號"
       }
     },
     {
+      "id" : "B1B7E553-DBDE-4C54-8C9F-6C88E1319486",
+      "properties" : {
+        "name" : "慈生素食滷味",
+        "address" : "彰化縣彰化市中正路一段22號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3313,13 +3555,14 @@
           120.55205599999999,
           24.084350000000001
         ]
-      },
-      "properties" : {
-        "name" : "慈生素食滷味",
-        "address" : "彰化縣彰化市中正路一段22號"
       }
     },
     {
+      "id" : "D6F95276-5B95-4C61-B9F0-B415C19E4580",
+      "properties" : {
+        "name" : "素和餐坊",
+        "address" : "彰化縣鹿港鎮復興路213號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3327,13 +3570,14 @@
           120.437879,
           24.054815999999999
         ]
-      },
-      "properties" : {
-        "name" : "素和餐坊",
-        "address" : "彰化縣鹿港鎮復興路213號"
       }
     },
     {
+      "id" : "891BC684-E726-41D6-BCD9-A7292D85C8E5",
+      "properties" : {
+        "name" : "碧山廬禪的民宿",
+        "address" : "彰化縣芬園鄉彰南路一段103巷130號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3341,13 +3585,14 @@
           120.6423076,
           23.966099799999999
         ]
-      },
-      "properties" : {
-        "name" : "碧山廬禪的民宿",
-        "address" : "彰化縣芬園鄉彰南路一段103巷130號"
       }
     },
     {
+      "id" : "49A15908-C98E-4831-9701-63761DD0DF3B",
+      "properties" : {
+        "name" : "合十蔬食拉麵",
+        "address" : "彰化縣彰化市永安街240-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3355,13 +3600,14 @@
           120.544197,
           24.088771000000001
         ]
-      },
-      "properties" : {
-        "name" : "合十蔬食拉麵",
-        "address" : "彰化縣彰化市永安街240-2號"
       }
     },
     {
+      "id" : "014C2EA1-EF98-4285-BA7B-5BFC7FEF32F2",
+      "properties" : {
+        "name" : "大吃貨臭豆腐",
+        "address" : "彰化縣員林市員水路一段638號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3369,13 +3615,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "大吃貨臭豆腐",
-        "address" : "彰化縣員林市員水路一段638號"
       }
     },
     {
+      "id" : "EED2E93F-DCA1-4311-B0CC-B07AC17D5A04",
+      "properties" : {
+        "name" : "大成素食",
+        "address" : "彰化縣鹿港鎮民族路54號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3383,13 +3630,14 @@
           120.4362055,
           24.055908599999999
         ]
-      },
-      "properties" : {
-        "name" : "大成素食",
-        "address" : "彰化縣鹿港鎮民族路54號"
       }
     },
     {
+      "id" : "F9F914A1-FB38-4D14-AF3C-E31DF191E1B6",
+      "properties" : {
+        "name" : "中南素食",
+        "address" : "彰化縣田中鎮中南路三段181號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3397,13 +3645,14 @@
           120.59719800000001,
           23.853953000000001
         ]
-      },
-      "properties" : {
-        "name" : "中南素食",
-        "address" : "彰化縣田中鎮中南路三段181號"
       }
     },
     {
+      "id" : "515E985E-3C39-498B-88A0-2C1FEF22DA62",
+      "properties" : {
+        "name" : "德來素",
+        "address" : "彰化縣花壇鄉中正路219號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3411,13 +3660,14 @@
           120.541661,
           24.026261000000002
         ]
-      },
-      "properties" : {
-        "name" : "德來素",
-        "address" : "彰化縣花壇鄉中正路219號"
       }
     },
     {
+      "id" : "5D990787-2975-4E46-A4A1-EFC6DFCC15F0",
+      "properties" : {
+        "name" : "聖譁素料",
+        "address" : "彰化縣彰化市三民路281號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3425,13 +3675,14 @@
           120.54415400000001,
           24.085995
         ]
-      },
-      "properties" : {
-        "name" : "聖譁素料",
-        "address" : "彰化縣彰化市三民路281號"
       }
     },
     {
+      "id" : "F5189FAC-00E7-4A96-BF2A-28311B5C10CA",
+      "properties" : {
+        "name" : "兆秀素食",
+        "address" : "彰化縣彰化市民權路61號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3439,13 +3690,14 @@
           120.54205,
           24.075526
         ]
-      },
-      "properties" : {
-        "name" : "兆秀素食",
-        "address" : "彰化縣彰化市民權路61號"
       }
     },
     {
+      "id" : "8CDE0FD2-027B-4455-9930-51149D4CC03C",
+      "properties" : {
+        "name" : "天然素食館",
+        "address" : "彰化縣溪州鄉健中路37號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3453,13 +3705,14 @@
           120.495445,
           23.852343999999999
         ]
-      },
-      "properties" : {
-        "name" : "天然素食館",
-        "address" : "彰化縣溪州鄉健中路37號"
       }
     },
     {
+      "id" : "63D99FDD-AE7C-4D1A-BCBC-623A9E184EE9",
+      "properties" : {
+        "name" : "田中素食閎素圓",
+        "address" : "彰化縣田中鎮中南路三段151巷7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3467,13 +3720,14 @@
           120.5984004,
           23.853703599999999
         ]
-      },
-      "properties" : {
-        "name" : "田中素食閎素圓",
-        "address" : "彰化縣田中鎮中南路三段151巷7號"
       }
     },
     {
+      "id" : "39F2B131-A3BD-400F-97AC-C5D0FD6B6849",
+      "properties" : {
+        "name" : "過溝仔素食",
+        "address" : "彰化縣彰化市辭修路125號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3481,13 +3735,14 @@
           120.538388,
           24.086347
         ]
-      },
-      "properties" : {
-        "name" : "過溝仔素食",
-        "address" : "彰化縣彰化市辭修路125號"
       }
     },
     {
+      "id" : "5777FFFA-3E1A-4362-AC02-EEAD284B1590",
+      "properties" : {
+        "name" : "養生素食",
+        "address" : "彰化縣溪湖鎮西環路57號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3495,13 +3750,14 @@
           120.48058399999999,
           23.955743999999999
         ]
-      },
-      "properties" : {
-        "name" : "養生素食",
-        "address" : "彰化縣溪湖鎮西環路57號"
       }
     },
     {
+      "id" : "626A56E9-7C87-43AB-9738-F2A977773A0D",
+      "properties" : {
+        "name" : "素食",
+        "address" : "彰化縣埤頭鄉文鄉路115號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3509,13 +3765,14 @@
           120.4584327,
           23.892758000000001
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "彰化縣埤頭鄉文鄉路115號"
       }
     },
     {
+      "id" : "A1CAEAAA-2C71-44AD-A063-61ADD090D012",
+      "properties" : {
+        "name" : "紅蓮素食",
+        "address" : "彰化縣和美鎮中正路20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3523,13 +3780,14 @@
           120.49737500000001,
           24.112086999999999
         ]
-      },
-      "properties" : {
-        "name" : "紅蓮素食",
-        "address" : "彰化縣和美鎮中正路20號"
       }
     },
     {
+      "id" : "1D5FA04B-85DE-447F-B30D-74FFA6B1A52C",
+      "properties" : {
+        "name" : "素食小吃",
+        "address" : "彰化縣員林市永昌街12-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3537,13 +3795,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "素食小吃",
-        "address" : "彰化縣員林市永昌街12-1號"
       }
     },
     {
+      "id" : "DFD05CC1-C00A-4E81-B3CE-E55B944267C8",
+      "properties" : {
+        "name" : "千葉素食麵包",
+        "address" : "彰化縣和美鎮鹿和路六段384號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3551,13 +3810,14 @@
           120.495616,
           24.109131999999999
         ]
-      },
-      "properties" : {
-        "name" : "千葉素食麵包",
-        "address" : "彰化縣和美鎮鹿和路六段384號"
       }
     },
     {
+      "id" : "9F1E1523-C8D8-4156-AF1E-4ECF420B5B26",
+      "properties" : {
+        "name" : "天宣素食",
+        "address" : "彰化縣北斗鎮四維路7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3565,27 +3825,14 @@
           120.518607,
           23.872347999999999
         ]
-      },
-      "properties" : {
-        "name" : "天宣素食",
-        "address" : "彰化縣北斗鎮四維路7號"
       }
     },
     {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          120.572227,
-          23.962657
-        ]
-      },
+      "id" : "DD0C61CA-6B0B-413C-87EF-0B754735E0A1",
       "properties" : {
         "name" : "G先生素食炸物",
         "address" : "彰化縣員林市員林火車站旁觀光市場"
-      }
-    },
-    {
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3593,13 +3840,14 @@
           120.572227,
           23.962657
         ]
-      },
+      }
+    },
+    {
+      "id" : "93829262-56C7-4D04-B23E-3BC0145CD862",
       "properties" : {
         "name" : "玉品香素食麵",
         "address" : "彰化縣員林市中山南路97號"
-      }
-    },
-    {
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3607,13 +3855,29 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "覓境256 庭園蔬食料理",
-        "address" : "彰化縣員林市大同路二段256號"
       }
     },
     {
+      "id" : "A46B15EB-7FDB-49D1-BF8D-C58B80F5EA03",
+      "properties" : {
+        "name" : "覓境256 庭園蔬食料理",
+        "address" : "彰化縣員林市大同路二段256號"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.572227,
+          23.962657
+        ]
+      }
+    },
+    {
+      "id" : "85BAA5F5-EDA7-4772-BBCC-E5C287C4CEB0",
+      "properties" : {
+        "name" : "天廚妙供海苔飯捲",
+        "address" : "彰化縣北斗鎮光復路136號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3621,13 +3885,14 @@
           120.524292,
           23.872712
         ]
-      },
-      "properties" : {
-        "name" : "天廚妙供海苔飯捲",
-        "address" : "彰化縣北斗鎮光復路136號"
       }
     },
     {
+      "id" : "BC03B10B-4B2B-444F-B67E-FFDE961F5FE6",
+      "properties" : {
+        "name" : "林明堂素食麵",
+        "address" : "彰化縣鹿港鎮介壽路三段66號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3635,13 +3900,14 @@
           120.43362999999999,
           24.057649000000001
         ]
-      },
-      "properties" : {
-        "name" : "林明堂素食麵",
-        "address" : "彰化縣鹿港鎮介壽路三段66號"
       }
     },
     {
+      "id" : "0C83E50F-D3EF-4B87-999D-DBF692D39941",
+      "properties" : {
+        "name" : "菩提心藥膳素食坊",
+        "address" : "彰化縣彰化市永安街46-2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3649,13 +3915,14 @@
           120.545559,
           24.083462999999998
         ]
-      },
-      "properties" : {
-        "name" : "菩提心藥膳素食坊",
-        "address" : "彰化縣彰化市永安街46-2號"
       }
     },
     {
+      "id" : "C25E5D93-E8DD-48AF-8F60-49B271732586",
+      "properties" : {
+        "name" : "湯堡-港式點心",
+        "address" : "彰化縣和美鎮中正路121號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3663,13 +3930,14 @@
           120.495564,
           24.113039000000001
         ]
-      },
-      "properties" : {
-        "name" : "湯堡-港式點心",
-        "address" : "彰化縣和美鎮中正路121號"
       }
     },
     {
+      "id" : "9B00D6E6-6A43-43A0-B72D-825DCA4474F1",
+      "properties" : {
+        "name" : "李家素食",
+        "address" : "彰化縣彰化市永樂街146號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3677,27 +3945,14 @@
           120.540289,
           24.076899000000001
         ]
-      },
-      "properties" : {
-        "name" : "李家素食",
-        "address" : "彰化縣彰化市永樂街146號"
       }
     },
     {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          120.572227,
-          23.962657
-        ]
-      },
+      "id" : "AAE157D1-9995-4064-97B1-9044E8E12091",
       "properties" : {
         "name" : "員林第一市場素食",
         "address" : "彰化縣員林市民生路95號"
-      }
-    },
-    {
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3705,13 +3960,29 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "大集氣黃金薯",
-        "address" : "彰化縣員林市中正路566號"
       }
     },
     {
+      "id" : "E4E71D05-5414-42B0-A8B5-1A185E6233E5",
+      "properties" : {
+        "name" : "大集氣黃金薯",
+        "address" : "彰化縣員林市中正路566號"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.572227,
+          23.962657
+        ]
+      }
+    },
+    {
+      "id" : "68FB806D-5049-4ABC-AF78-64D701C19EF8",
+      "properties" : {
+        "name" : "Loving Hut",
+        "address" : "彰化縣彰化市陳稜路39號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3719,13 +3990,14 @@
           120.544051,
           24.079547999999999
         ]
-      },
-      "properties" : {
-        "name" : "Loving Hut",
-        "address" : "彰化縣彰化市陳稜路39號"
       }
     },
     {
+      "id" : "411CF980-B306-4FBA-8678-70833EE32D11",
+      "properties" : {
+        "name" : "阿福素食便當",
+        "address" : "彰化縣和美鎮道周路184號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3733,13 +4005,14 @@
           120.49938899999999,
           24.10699
         ]
-      },
-      "properties" : {
-        "name" : "阿福素食便當",
-        "address" : "彰化縣和美鎮道周路184號"
       }
     },
     {
+      "id" : "E0A96AC4-9E44-4AE1-9714-BD41FA88483F",
+      "properties" : {
+        "name" : "緹香苑",
+        "address" : "彰化縣田中鎮興工路348號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3747,13 +4020,14 @@
           120.5924696,
           23.8532458
         ]
-      },
-      "properties" : {
-        "name" : "緹香苑",
-        "address" : "彰化縣田中鎮興工路348號"
       }
     },
     {
+      "id" : "D4E4A460-3644-4A26-8A52-8AF0489E47A3",
+      "properties" : {
+        "name" : "祥順素食",
+        "address" : "彰化縣埤頭鄉彰水路二段865-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3761,13 +4035,14 @@
           120.4586695,
           23.8774418
         ]
-      },
-      "properties" : {
-        "name" : "祥順素食",
-        "address" : "彰化縣埤頭鄉彰水路二段865-1號"
       }
     },
     {
+      "id" : "D321758F-FF80-4153-B3E7-6A035B762AE6",
+      "properties" : {
+        "name" : "熊熊の小丸子",
+        "address" : "彰化縣和美鎮愛群路19,21號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3775,13 +4050,14 @@
           120.4985846,
           24.1113377
         ]
-      },
-      "properties" : {
-        "name" : "熊熊の小丸子",
-        "address" : "彰化縣和美鎮愛群路19,21號"
       }
     },
     {
+      "id" : "FFD94826-C970-4309-B80E-2670DF12891A",
+      "properties" : {
+        "name" : "彰化素肉圓",
+        "address" : "彰化縣彰化市長安街117號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3789,13 +4065,14 @@
           120.53953799999999,
           24.079933
         ]
-      },
-      "properties" : {
-        "name" : "彰化素肉圓",
-        "address" : "彰化縣彰化市長安街117號"
       }
     },
     {
+      "id" : "C2BEBAEE-3C7E-4DD5-A1B3-DF544C79B8FB",
+      "properties" : {
+        "name" : "掬翠拾煙蔬食創作料理",
+        "address" : "彰化縣鹿港鎮金盛巷10號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3803,13 +4080,14 @@
           120.435233,
           24.052472999999999
         ]
-      },
-      "properties" : {
-        "name" : "掬翠拾煙蔬食創作料理",
-        "address" : "彰化縣鹿港鎮金盛巷10號"
       }
     },
     {
+      "id" : "86C9FA5F-385D-49B6-A881-FCA95C507A5D",
+      "properties" : {
+        "name" : "京軒素食-彰化店",
+        "address" : "彰化縣彰化市自強路227號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3817,13 +4095,14 @@
           120.544459,
           24.090610999999999
         ]
-      },
-      "properties" : {
-        "name" : "京軒素食-彰化店",
-        "address" : "彰化縣彰化市自強路227號"
       }
     },
     {
+      "id" : "ADC8D23D-FA04-4702-A726-67FCC3E74563",
+      "properties" : {
+        "name" : "吉米蔬食",
+        "address" : "彰化縣鹿港鎮復興路120號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3831,13 +4110,14 @@
           120.439121,
           24.052859999999999
         ]
-      },
-      "properties" : {
-        "name" : "吉米蔬食",
-        "address" : "彰化縣鹿港鎮復興路120號"
       }
     },
     {
+      "id" : "2052E471-6AD0-4C2F-A938-113DBEBFD6B2",
+      "properties" : {
+        "name" : "善珠素食",
+        "address" : "彰化縣員林市崙雅巷13號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3845,13 +4125,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "善珠素食",
-        "address" : "彰化縣員林市崙雅巷13號"
       }
     },
     {
+      "id" : "5EBB5A9C-0B90-4D4D-8AEE-E87DF7CAAE9F",
+      "properties" : {
+        "name" : "素食水煎包、蘿蔔絲餅",
+        "address" : "彰化縣社頭鄉員集路二段242號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3859,13 +4140,14 @@
           120.5856265,
           23.902914899999999
         ]
-      },
-      "properties" : {
-        "name" : "素食水煎包、蘿蔔絲餅",
-        "address" : "彰化縣社頭鄉員集路二段242號"
       }
     },
     {
+      "id" : "891A21AD-4E55-4300-B304-45D4DC8DAF3C",
+      "properties" : {
+        "name" : "品香素食",
+        "address" : "彰化縣二林鎮舊二路188號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3873,13 +4155,14 @@
           120.3617229,
           23.895159400000001
         ]
-      },
-      "properties" : {
-        "name" : "品香素食",
-        "address" : "彰化縣二林鎮舊二路188號"
       }
     },
     {
+      "id" : "D7FD0216-0982-4530-AA77-8A08935C73F5",
+      "properties" : {
+        "name" : "素食",
+        "address" : "彰化縣和美鎮中興路二段417號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3887,13 +4170,14 @@
           120.5235703,
           24.104915299999998
         ]
-      },
-      "properties" : {
-        "name" : "素食",
-        "address" : "彰化縣和美鎮中興路二段417號"
       }
     },
     {
+      "id" : "5C67E5C3-28C2-4D28-A01F-2DF90AC49ED5",
+      "properties" : {
+        "name" : "慈生素齋自助餐",
+        "address" : "彰化縣彰化市中山路二段288號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3901,13 +4185,14 @@
           120.543024,
           24.071905000000001
         ]
-      },
-      "properties" : {
-        "name" : "慈生素齋自助餐",
-        "address" : "彰化縣彰化市中山路二段288號"
       }
     },
     {
+      "id" : "46FD4E72-D68C-426B-B4D7-B1CB788B265C",
+      "properties" : {
+        "name" : "小吃店",
+        "address" : "彰化縣彰化市陳陵路80號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3915,13 +4200,14 @@
           120.542241,
           24.080691000000002
         ]
-      },
-      "properties" : {
-        "name" : "小吃店",
-        "address" : "彰化縣彰化市陳陵路80號"
       }
     },
     {
+      "id" : "E80343E8-11D8-4A68-9CD2-A3959D7029F1",
+      "properties" : {
+        "name" : "早安素食早餐店",
+        "address" : "彰化縣彰化市長興街154號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3929,13 +4215,14 @@
           120.54450900000001,
           24.084648000000001
         ]
-      },
-      "properties" : {
-        "name" : "早安素食早餐店",
-        "address" : "彰化縣彰化市長興街154號"
       }
     },
     {
+      "id" : "BC43E4C7-23DB-4A94-B1F7-AD9FA297D356",
+      "properties" : {
+        "name" : "益成素食館 ",
+        "address" : "彰化縣社頭鄉社斗路一段118號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3943,13 +4230,14 @@
           120.5887834,
           23.897948700000001
         ]
-      },
-      "properties" : {
-        "name" : "益成素食館 ",
-        "address" : "彰化縣社頭鄉社斗路一段118號"
       }
     },
     {
+      "id" : "8771CEAA-64CA-4E94-A8BF-CB448D7A5CA9",
+      "properties" : {
+        "name" : "春食堂人文蔬食館",
+        "address" : "彰化縣彰化市華山路4-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3957,13 +4245,14 @@
           120.54322000000001,
           24.074462
         ]
-      },
-      "properties" : {
-        "name" : "春食堂人文蔬食館",
-        "address" : "彰化縣彰化市華山路4-1號"
       }
     },
     {
+      "id" : "A6FA5723-31A8-4E96-A777-336298F6051E",
+      "properties" : {
+        "name" : "素食中式早餐",
+        "address" : "彰化縣和美鎮鹿和路六段483號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3971,13 +4260,14 @@
           120.49654,
           24.1111
         ]
-      },
-      "properties" : {
-        "name" : "素食中式早餐",
-        "address" : "彰化縣和美鎮鹿和路六段483號"
       }
     },
     {
+      "id" : "5679210F-2728-487D-BFA9-5CDEDD5F1247",
+      "properties" : {
+        "name" : "上品香健康素食",
+        "address" : "彰化縣二林鎮斗苑路五段236號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3985,13 +4275,14 @@
           120.36811899999999,
           23.901176
         ]
-      },
-      "properties" : {
-        "name" : "上品香健康素食",
-        "address" : "彰化縣二林鎮斗苑路五段236號"
       }
     },
     {
+      "id" : "83013337-47F5-4FB0-A86B-4AF3229BF76D",
+      "properties" : {
+        "name" : "蓮村健康素食餐廳",
+        "address" : "彰化縣彰化市中興路161號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -3999,13 +4290,14 @@
           120.544185,
           24.069727
         ]
-      },
-      "properties" : {
-        "name" : "蓮村健康素食餐廳",
-        "address" : "彰化縣彰化市中興路161號"
       }
     },
     {
+      "id" : "FC939858-8318-47F1-9433-7B499CFF771B",
+      "properties" : {
+        "name" : "慈慧素食自助餐",
+        "address" : "彰化縣永靖鄉東門路16號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4013,13 +4305,14 @@
           120.551518,
           23.922974
         ]
-      },
-      "properties" : {
-        "name" : "慈慧素食自助餐",
-        "address" : "彰化縣永靖鄉東門路16號"
       }
     },
     {
+      "id" : "8EA6C304-D5BE-4303-AAFB-90206CF71E5E",
+      "properties" : {
+        "name" : "天華素食自助餐",
+        "address" : "彰化縣彰化市永福街49-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4027,13 +4320,14 @@
           120.543791,
           24.079419000000001
         ]
-      },
-      "properties" : {
-        "name" : "天華素食自助餐",
-        "address" : "彰化縣彰化市永福街49-1號"
       }
     },
     {
+      "id" : "5FE786E1-1A90-4165-89A3-3D2E88F0CAE7",
+      "properties" : {
+        "name" : "素正香商行",
+        "address" : "彰化縣員林市浮圳路二段527號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4041,13 +4335,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "素正香商行",
-        "address" : "彰化縣員林市浮圳路二段527號"
       }
     },
     {
+      "id" : "83C50167-3E66-4202-8CC8-221004C16D17",
+      "properties" : {
+        "name" : "養生素食&鑫品森咖啡",
+        "address" : "彰化縣溪湖鎮信善街2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4055,13 +4350,14 @@
           120.4795701,
           23.9638028
         ]
-      },
-      "properties" : {
-        "name" : "養生素食&鑫品森咖啡",
-        "address" : "彰化縣溪湖鎮信善街2號"
       }
     },
     {
+      "id" : "E06212A0-DC63-4D1D-9473-317DD40D043A",
+      "properties" : {
+        "name" : "小蔬苑蔬食創意料理",
+        "address" : "彰化縣員林市新興街128號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4069,13 +4365,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "小蔬苑蔬食創意料理",
-        "address" : "彰化縣員林市新興街128號"
       }
     },
     {
+      "id" : "031AEFD5-C10A-4240-A97E-F849CA13E784",
+      "properties" : {
+        "name" : "中華",
+        "address" : "彰化縣彰化市陽明街63號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4083,13 +4380,14 @@
           120.545868,
           24.085196
         ]
-      },
-      "properties" : {
-        "name" : "中華",
-        "address" : "彰化縣彰化市陽明街63號"
       }
     },
     {
+      "id" : "77F8F049-789C-4993-8E44-8132D8C045AF",
+      "properties" : {
+        "name" : "和美圓環素食",
+        "address" : "彰化縣和美鎮鹿和路六段491號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4097,13 +4395,14 @@
           120.49659800000001,
           24.111340999999999
         ]
-      },
-      "properties" : {
-        "name" : "和美圓環素食",
-        "address" : "彰化縣和美鎮鹿和路六段491號"
       }
     },
     {
+      "id" : "9D1313E8-AD89-4319-A3B3-B8676AE0993D",
+      "properties" : {
+        "name" : "阿夷庄素食",
+        "address" : "彰化縣彰化市泰和路二段350號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4111,27 +4410,14 @@
           120.554999,
           24.095386000000001
         ]
-      },
-      "properties" : {
-        "name" : "阿夷庄素食",
-        "address" : "彰化縣彰化市泰和路二段350號"
       }
     },
     {
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          120.572227,
-          23.962657
-        ]
-      },
+      "id" : "8A9F132C-ACA0-429A-83AC-47477402FC83",
       "properties" : {
         "name" : "漱石·蔬食",
         "address" : "彰化縣員林市北和街3號"
-      }
-    },
-    {
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4139,13 +4425,29 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "善友健康素食館",
-        "address" : "彰化縣員林市員東路二段365~367號"
       }
     },
     {
+      "id" : "DFDCA621-DD15-43D8-A0DB-B6170E519C07",
+      "properties" : {
+        "name" : "善友健康素食館",
+        "address" : "彰化縣員林市員東路二段365~367號"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          120.572227,
+          23.962657
+        ]
+      }
+    },
+    {
+      "id" : "989D4EA8-FF5C-4D9F-9A18-2E32B6AFBAAA",
+      "properties" : {
+        "name" : "素食麵",
+        "address" : "彰化縣彰化市介壽北路154號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4153,13 +4455,14 @@
           120.54836899999999,
           24.070698
         ]
-      },
-      "properties" : {
-        "name" : "素食麵",
-        "address" : "彰化縣彰化市介壽北路154號"
       }
     },
     {
+      "id" : "DA7C6E77-1ED3-459C-98F9-900620C6FBF7",
+      "properties" : {
+        "name" : "慈緣素食",
+        "address" : "彰化縣永靖鄉永東村永靖街62號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4167,13 +4470,14 @@
           120.546756,
           23.921165999999999
         ]
-      },
-      "properties" : {
-        "name" : "慈緣素食",
-        "address" : "彰化縣永靖鄉永東村永靖街62號"
       }
     },
     {
+      "id" : "FF7D5A7A-BF5C-467C-9732-EF305452BF20",
+      "properties" : {
+        "name" : "和美.雅文",
+        "address" : "彰化縣和美鎮中山路52巷14號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4181,13 +4485,14 @@
           120.496904,
           24.113030999999999
         ]
-      },
-      "properties" : {
-        "name" : "和美.雅文",
-        "address" : "彰化縣和美鎮中山路52巷14號"
       }
     },
     {
+      "id" : "48B99C02-A979-4839-B127-8C652C581BE3",
+      "properties" : {
+        "name" : "蓮樺素食館",
+        "address" : "彰化縣彰化市自強路11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4195,13 +4500,14 @@
           120.537797,
           24.089699
         ]
-      },
-      "properties" : {
-        "name" : "蓮樺素食館",
-        "address" : "彰化縣彰化市自強路11號"
       }
     },
     {
+      "id" : "FF866062-571C-49D4-8EB6-B75C699F646A",
+      "properties" : {
+        "name" : "泳瀠素餅店",
+        "address" : "彰化縣彰化市中山路二段937號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4209,13 +4515,14 @@
           120.55108199999999,
           24.083866
         ]
-      },
-      "properties" : {
-        "name" : "泳瀠素餅店",
-        "address" : "彰化縣彰化市中山路二段937號"
       }
     },
     {
+      "id" : "D06F2C0A-ADA0-488D-BAA6-24161EE1998D",
+      "properties" : {
+        "name" : "波羅蜜素料商行",
+        "address" : "彰化縣彰化市民權路184號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4223,13 +4530,14 @@
           120.538645,
           24.076663
         ]
-      },
-      "properties" : {
-        "name" : "波羅蜜素料商行",
-        "address" : "彰化縣彰化市民權路184號"
       }
     },
     {
+      "id" : "83C6019E-C73E-4F94-A844-391E56D12B92",
+      "properties" : {
+        "name" : "香味素食自助餐",
+        "address" : "彰化縣秀水鄉中山路347號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4237,13 +4545,14 @@
           120.500739,
           24.034517999999998
         ]
-      },
-      "properties" : {
-        "name" : "香味素食自助餐",
-        "address" : "彰化縣秀水鄉中山路347號"
       }
     },
     {
+      "id" : "920BD662-55BE-4976-955A-4A4AE0C8A9D9",
+      "properties" : {
+        "name" : "蓮華素食",
+        "address" : "彰化縣田中鎮南北街192號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4251,13 +4560,14 @@
           120.585837,
           23.861882000000001
         ]
-      },
-      "properties" : {
-        "name" : "蓮華素食",
-        "address" : "彰化縣田中鎮南北街192號"
       }
     },
     {
+      "id" : "616245E0-A3E6-40DB-A7A7-B1E657B19705",
+      "properties" : {
+        "name" : "善德素食自助餐",
+        "address" : "彰化縣員林市中正路210號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4265,13 +4575,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "善德素食自助餐",
-        "address" : "彰化縣員林市中正路210號"
       }
     },
     {
+      "id" : "BEF84051-1F0E-4191-8CD1-9552973963CB",
+      "properties" : {
+        "name" : "德薏素-食の便利商店",
+        "address" : "彰化縣鹿港鎮文化街145號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4279,13 +4590,14 @@
           120.4404128,
           24.047692000000001
         ]
-      },
-      "properties" : {
-        "name" : "德薏素-食の便利商店",
-        "address" : "彰化縣鹿港鎮文化街145號"
       }
     },
     {
+      "id" : "79BB5133-38E4-4A1E-A931-98E982E05DF9",
+      "properties" : {
+        "name" : "John手作蔬食",
+        "address" : "彰化縣彰化市華山路78號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4293,13 +4605,14 @@
           120.541083,
           24.074797
         ]
-      },
-      "properties" : {
-        "name" : "John手作蔬食",
-        "address" : "彰化縣彰化市華山路78號"
       }
     },
     {
+      "id" : "EC1FB38D-CA21-4C2C-8C70-BC7363986434",
+      "properties" : {
+        "name" : "天恩素食專賣店",
+        "address" : "彰化縣秀水鄉彰水路二段425號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4307,13 +4620,14 @@
           120.494224,
           24.027954000000001
         ]
-      },
-      "properties" : {
-        "name" : "天恩素食專賣店",
-        "address" : "彰化縣秀水鄉彰水路二段425號"
       }
     },
     {
+      "id" : "34EF3A0F-D251-4323-9F3C-3B39499E459B",
+      "properties" : {
+        "name" : "正濟素食",
+        "address" : "彰化縣北斗鎮光復路384號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4321,13 +4635,14 @@
           120.523819,
           23.878129000000001
         ]
-      },
-      "properties" : {
-        "name" : "正濟素食",
-        "address" : "彰化縣北斗鎮光復路384號"
       }
     },
     {
+      "id" : "3AFFFDA0-B42B-47BC-9853-AB80B1749A56",
+      "properties" : {
+        "name" : "蔬布起·蔬食餐車",
+        "address" : "彰化縣鹿港鎮復興路28號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4335,13 +4650,14 @@
           120.4397321,
           24.049362599999998
         ]
-      },
-      "properties" : {
-        "name" : "蔬布起·蔬食餐車",
-        "address" : "彰化縣鹿港鎮復興路28號"
       }
     },
     {
+      "id" : "0CCFB5B8-829D-4143-9BE9-05D572B9BA5E",
+      "properties" : {
+        "name" : "快樂屋素食鹽酥雞",
+        "address" : "彰化縣北斗鎮中華路291號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4349,13 +4665,14 @@
           120.521023,
           23.872881
         ]
-      },
-      "properties" : {
-        "name" : "快樂屋素食鹽酥雞",
-        "address" : "彰化縣北斗鎮中華路291號"
       }
     },
     {
+      "id" : "1753C4B0-1CA5-46D0-8A3F-7CB25F28A825",
+      "properties" : {
+        "name" : "王小姐",
+        "address" : "彰化縣彰化市永安街59號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4363,13 +4680,14 @@
           120.545405,
           24.083606
         ]
-      },
-      "properties" : {
-        "name" : "王小姐",
-        "address" : "彰化縣彰化市永安街59號"
       }
     },
     {
+      "id" : "02F124BB-099F-4722-9DFB-445355E5CC32",
+      "properties" : {
+        "name" : "妙喜圓道素食小館",
+        "address" : "彰化縣鹿港鎮頂草路二段19號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4377,13 +4695,14 @@
           120.47877509999999,
           24.0894716
         ]
-      },
-      "properties" : {
-        "name" : "妙喜圓道素食小館",
-        "address" : "彰化縣鹿港鎮頂草路二段19號"
       }
     },
     {
+      "id" : "2F4F7183-05A5-4519-A647-E6DF916D2848",
+      "properties" : {
+        "name" : "志瑩香積館",
+        "address" : "彰化縣北斗鎮光華街63號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4391,13 +4710,14 @@
           120.5269378,
           23.871784099999999
         ]
-      },
-      "properties" : {
-        "name" : "志瑩香積館",
-        "address" : "彰化縣北斗鎮光華街63號"
       }
     },
     {
+      "id" : "937578A2-522C-49C4-8E95-910904052CD9",
+      "properties" : {
+        "name" : "日月山景休閒農場",
+        "address" : "彰化縣彰化市水月台路218號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4405,13 +4725,14 @@
           120.5859236,
           24.052978800000002
         ]
-      },
-      "properties" : {
-        "name" : "日月山景休閒農場",
-        "address" : "彰化縣彰化市水月台路218號"
       }
     },
     {
+      "id" : "CAE5036D-4266-4A04-9913-05204E92AE9D",
+      "properties" : {
+        "name" : "玉香園素筵",
+        "address" : "彰化縣和美鎮中興路二段14-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4419,13 +4740,14 @@
           120.52419329999999,
           24.099930100000002
         ]
-      },
-      "properties" : {
-        "name" : "玉香園素筵",
-        "address" : "彰化縣和美鎮中興路二段14-1號"
       }
     },
     {
+      "id" : "111942AC-F25E-42AA-99E1-8395B02847F6",
+      "properties" : {
+        "name" : "和樂水果行附設素食小吃店",
+        "address" : "彰化縣彰化市旭光路230號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4433,13 +4755,14 @@
           120.545394,
           24.071511000000001
         ]
-      },
-      "properties" : {
-        "name" : "和樂水果行附設素食小吃店",
-        "address" : "彰化縣彰化市旭光路230號"
       }
     },
     {
+      "id" : "5BFAD99B-E6E1-4CA2-8103-AE9D9C6CAE20",
+      "properties" : {
+        "name" : "清松鄉村庭園館",
+        "address" : "彰化縣北斗鎮後溪巷6號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4447,13 +4770,14 @@
           120.53567769999999,
           23.8809133
         ]
-      },
-      "properties" : {
-        "name" : "清松鄉村庭園館",
-        "address" : "彰化縣北斗鎮後溪巷6號"
       }
     },
     {
+      "id" : "854698FE-BD01-40D5-BA90-214FF4CC453D",
+      "properties" : {
+        "name" : "素齋坊",
+        "address" : "彰化縣員林市林森路122-4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4461,13 +4785,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "素齋坊",
-        "address" : "彰化縣員林市林森路122-4號"
       }
     },
     {
+      "id" : "5285318C-A309-4622-A0A6-4291C746A105",
+      "properties" : {
+        "name" : "天美素食",
+        "address" : "彰化縣彰化市中民街1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4475,13 +4800,14 @@
           120.547017,
           24.086034999999999
         ]
-      },
-      "properties" : {
-        "name" : "天美素食",
-        "address" : "彰化縣彰化市中民街1號"
       }
     },
     {
+      "id" : "B7276A94-78E3-4C25-A9E8-4A36F3866E47",
+      "properties" : {
+        "name" : "麵食及自助餐",
+        "address" : "彰化縣和美鎮彰美路六段234號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4489,13 +4815,14 @@
           120.495362,
           24.116306999999999
         ]
-      },
-      "properties" : {
-        "name" : "麵食及自助餐",
-        "address" : "彰化縣和美鎮彰美路六段234號"
       }
     },
     {
+      "id" : "FF6824FE-2429-48A1-AF48-7106E3E0A926",
+      "properties" : {
+        "name" : "員林素食",
+        "address" : "彰化縣溪湖鎮平和街136號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4503,13 +4830,14 @@
           120.47976,
           23.955500000000001
         ]
-      },
-      "properties" : {
-        "name" : "員林素食",
-        "address" : "彰化縣溪湖鎮平和街136號"
       }
     },
     {
+      "id" : "8625117E-616C-442E-BD1E-ADEF96906014",
+      "properties" : {
+        "name" : "佛緣素食筵席包辦中心",
+        "address" : "彰化縣福興鄉秀安一街647號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4517,13 +4845,14 @@
           120.420845,
           24.028403000000001
         ]
-      },
-      "properties" : {
-        "name" : "佛緣素食筵席包辦中心",
-        "address" : "彰化縣福興鄉秀安一街647號"
       }
     },
     {
+      "id" : "553613F1-9490-4240-890A-E13141A9A878",
+      "properties" : {
+        "name" : "台灣玻璃館",
+        "address" : "彰化縣鹿港鎮鹿工南四路30號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4531,13 +4860,14 @@
           120.395171,
           24.068519999999999
         ]
-      },
-      "properties" : {
-        "name" : "台灣玻璃館",
-        "address" : "彰化縣鹿港鎮鹿工南四路30號"
       }
     },
     {
+      "id" : "8CFE35C1-7890-446F-A735-33B72AB8F459",
+      "properties" : {
+        "name" : "天緣素食",
+        "address" : "彰化縣鹿港鎮介壽路三段148號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4545,13 +4875,14 @@
           120.432135,
           24.058923
         ]
-      },
-      "properties" : {
-        "name" : "天緣素食",
-        "address" : "彰化縣鹿港鎮介壽路三段148號"
       }
     },
     {
+      "id" : "8A27FCFF-CDB1-4468-97D8-A9AF4C1A248F",
+      "properties" : {
+        "name" : "綠圓道蔬食料理",
+        "address" : "彰化縣和美鎮德美路464號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4559,13 +4890,14 @@
           120.49959800000001,
           24.117042999999999
         ]
-      },
-      "properties" : {
-        "name" : "綠圓道蔬食料理",
-        "address" : "彰化縣和美鎮德美路464號"
       }
     },
     {
+      "id" : "6E262EAB-5184-46F0-96E7-4E2BFB232591",
+      "properties" : {
+        "name" : "王功素食麵",
+        "address" : "彰化縣芳苑鄉芳漢路王功段331號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4573,13 +4905,14 @@
           120.33772999999999,
           23.961690000000001
         ]
-      },
-      "properties" : {
-        "name" : "王功素食麵",
-        "address" : "彰化縣芳苑鄉芳漢路王功段331號"
       }
     },
     {
+      "id" : "172590EC-BE6B-4558-B0FF-78BC4974DB20",
+      "properties" : {
+        "name" : "大自然生機飲食",
+        "address" : "彰化縣彰化市彰南路二段147號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4587,13 +4920,14 @@
           120.579981,
           24.085348
         ]
-      },
-      "properties" : {
-        "name" : "大自然生機飲食",
-        "address" : "彰化縣彰化市彰南路二段147號"
       }
     },
     {
+      "id" : "E5626C37-1794-47F2-8483-C339A00DC462",
+      "properties" : {
+        "name" : "福緣素食",
+        "address" : "彰化縣員林市正興街338號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4601,13 +4935,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "福緣素食",
-        "address" : "彰化縣員林市正興街338號"
       }
     },
     {
+      "id" : "EE92A2E7-76BC-465E-BF9D-5A63EC316362",
+      "properties" : {
+        "name" : "清香健康素食館",
+        "address" : "彰化縣彰化市中山路二段622號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4615,13 +4950,14 @@
           120.545855,
           24.080597999999998
         ]
-      },
-      "properties" : {
-        "name" : "清香健康素食館",
-        "address" : "彰化縣彰化市中山路二段622號"
       }
     },
     {
+      "id" : "751ED192-E48F-41CA-B39A-D29CE61F160D",
+      "properties" : {
+        "name" : "生命樹生機坊",
+        "address" : "彰化縣彰化市博愛街65號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4629,13 +4965,14 @@
           120.5454,
           24.073226999999999
         ]
-      },
-      "properties" : {
-        "name" : "生命樹生機坊",
-        "address" : "彰化縣彰化市博愛街65號"
       }
     },
     {
+      "id" : "81085336-1AE8-4A99-A291-9C9ADEC74DA7",
+      "properties" : {
+        "name" : "甲菜人蔬食早午餐",
+        "address" : "彰化縣田中鎮中正路232號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4643,13 +4980,14 @@
           120.58359299999999,
           23.857132
         ]
-      },
-      "properties" : {
-        "name" : "甲菜人蔬食早午餐",
-        "address" : "彰化縣田中鎮中正路232號"
       }
     },
     {
+      "id" : "2D31ACB6-E796-4005-8CAE-B51FAEB5C61D",
+      "properties" : {
+        "name" : "素食大大麵線",
+        "address" : "彰化縣員林市民生路85號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4657,13 +4995,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "素食大大麵線",
-        "address" : "彰化縣員林市民生路85號"
       }
     },
     {
+      "id" : "D7AB5F10-7759-4728-BEFB-9C650F5141C1",
+      "properties" : {
+        "name" : "觀音齋素食",
+        "address" : "彰化縣溪湖鎮培英路8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4671,13 +5010,14 @@
           120.482787,
           23.96772
         ]
-      },
-      "properties" : {
-        "name" : "觀音齋素食",
-        "address" : "彰化縣溪湖鎮培英路8號"
       }
     },
     {
+      "id" : "1D9A1FD7-971A-496A-A8A0-FD52BA12B82B",
+      "properties" : {
+        "name" : "品嚐素食館",
+        "address" : "彰化縣秀水鄉番花路372號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4685,13 +5025,14 @@
           120.516547,
           24.013580999999999
         ]
-      },
-      "properties" : {
-        "name" : "品嚐素食館",
-        "address" : "彰化縣秀水鄉番花路372號"
       }
     },
     {
+      "id" : "BBEEF98E-FFB9-4E98-B5EC-ADA49F8B89ED",
+      "properties" : {
+        "name" : "MAKE A WISH~ 希望之丘",
+        "address" : "彰化縣花壇鄉觀音巷15弄7號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4699,13 +5040,14 @@
           120.33061600000001,
           23.911073999999999
         ]
-      },
-      "properties" : {
-        "name" : "MAKE A WISH~ 希望之丘",
-        "address" : "彰化縣花壇鄉觀音巷15弄7號"
       }
     },
     {
+      "id" : "14C0EC3A-C0F8-4F12-8B75-B6BA0284ABAE",
+      "properties" : {
+        "name" : "天然活力屋",
+        "address" : "彰化縣埔心鄉太平村中山路19號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4713,13 +5055,14 @@
           120.558432,
           23.938217999999999
         ]
-      },
-      "properties" : {
-        "name" : "天然活力屋",
-        "address" : "彰化縣埔心鄉太平村中山路19號"
       }
     },
     {
+      "id" : "816D89FF-39B9-4A99-926C-A2BFC71388FB",
+      "properties" : {
+        "name" : "素食養生臭豆腐",
+        "address" : "彰化縣員林市光明街45巷27號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4727,13 +5070,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "素食養生臭豆腐",
-        "address" : "彰化縣員林市光明街45巷27號"
       }
     },
     {
+      "id" : "F1BFA780-276B-43D2-A718-AEE797126931",
+      "properties" : {
+        "name" : "益昌素食",
+        "address" : "彰化縣彰化市民生路115號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4741,13 +5085,14 @@
           120.542753,
           24.077389
         ]
-      },
-      "properties" : {
-        "name" : "益昌素食",
-        "address" : "彰化縣彰化市民生路115號"
       }
     },
     {
+      "id" : "547BF690-0CE8-495A-B87A-65D3B7A9748D",
+      "properties" : {
+        "name" : "淘米樂蔬食園地",
+        "address" : "彰化縣彰化市寶山路802號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4755,13 +5100,14 @@
           120.56865500000001,
           24.056875999999999
         ]
-      },
-      "properties" : {
-        "name" : "淘米樂蔬食園地",
-        "address" : "彰化縣彰化市寶山路802號"
       }
     },
     {
+      "id" : "EB56446E-A5DB-44E2-8379-283A6BAD39AE",
+      "properties" : {
+        "name" : "順喜齋養生素食館",
+        "address" : "彰化縣員林市復興路135號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4769,13 +5115,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "順喜齋養生素食館",
-        "address" : "彰化縣員林市復興路135號"
       }
     },
     {
+      "id" : "F9383C65-B6EC-436A-9F7B-0464E2162981",
+      "properties" : {
+        "name" : "龍興素食店",
+        "address" : "彰化縣埤頭鄉合興村永興街21號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4783,13 +5130,14 @@
           120.45592000000001,
           23.893111000000001
         ]
-      },
-      "properties" : {
-        "name" : "龍興素食店",
-        "address" : "彰化縣埤頭鄉合興村永興街21號"
       }
     },
     {
+      "id" : "08944163-55E6-4D41-B3B1-3FFA4BFD909B",
+      "properties" : {
+        "name" : "二林庭藝素食館",
+        "address" : "彰化縣二林鎮東興里南安路153巷1弄9號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4797,13 +5145,14 @@
           120.37460900000001,
           23.899106
         ]
-      },
-      "properties" : {
-        "name" : "二林庭藝素食館",
-        "address" : "彰化縣二林鎮東興里南安路153巷1弄9號"
       }
     },
     {
+      "id" : "9719DBEC-2913-4B8A-93BF-25053AFDC0B0",
+      "properties" : {
+        "name" : "保柚素食麵",
+        "address" : "彰化縣大城鄉西平路47號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4811,13 +5160,14 @@
           120.320362,
           23.854312
         ]
-      },
-      "properties" : {
-        "name" : "保柚素食麵",
-        "address" : "彰化縣大城鄉西平路47號"
       }
     },
     {
+      "id" : "1E9C8683-B1A3-4049-B627-AE000CD1985B",
+      "properties" : {
+        "name" : "天慈素食",
+        "address" : "彰化縣芬園鄉彰南路四段243號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4825,13 +5175,14 @@
           120.628423,
           24.016473999999999
         ]
-      },
-      "properties" : {
-        "name" : "天慈素食",
-        "address" : "彰化縣芬園鄉彰南路四段243號"
       }
     },
     {
+      "id" : "160FE66E-D6C9-4840-9C38-D8BC22444CED",
+      "properties" : {
+        "name" : "永吉祥素食材料專賣店",
+        "address" : "彰化縣伸港鄉新港路172號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4839,13 +5190,14 @@
           120.486974,
           24.146059999999999
         ]
-      },
-      "properties" : {
-        "name" : "永吉祥素食材料專賣店",
-        "address" : "彰化縣伸港鄉新港路172號"
       }
     },
     {
+      "id" : "52A63693-F77C-486F-BA31-CA285CB848BD",
+      "properties" : {
+        "name" : "尚展素食",
+        "address" : "彰化縣彰化市陳稜路231號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4853,13 +5205,14 @@
           120.53866600000001,
           24.079383
         ]
-      },
-      "properties" : {
-        "name" : "尚展素食",
-        "address" : "彰化縣彰化市陳稜路231號"
       }
     },
     {
+      "id" : "9D397F4C-A357-4999-B84E-70276292F420",
+      "properties" : {
+        "name" : "東環健康素食自助餐",
+        "address" : "彰化縣溪湖鎮東環路361-3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4867,13 +5220,14 @@
           120.48268299999999,
           23.960417
         ]
-      },
-      "properties" : {
-        "name" : "東環健康素食自助餐",
-        "address" : "彰化縣溪湖鎮東環路361-3號"
       }
     },
     {
+      "id" : "724A4052-3F29-40C2-BA21-B3359AC1A7BF",
+      "properties" : {
+        "name" : "艾蒔蔬",
+        "address" : "彰化縣彰化市崙平南路353號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4881,13 +5235,14 @@
           120.5271,
           24.063043
         ]
-      },
-      "properties" : {
-        "name" : "艾蒔蔬",
-        "address" : "彰化縣彰化市崙平南路353號"
       }
     },
     {
+      "id" : "4C63FFCA-ED27-408B-9136-2FC3E4927443",
+      "properties" : {
+        "name" : "菜頭糕,碗糕",
+        "address" : "彰化縣彰化市民族路282號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4895,13 +5250,14 @@
           120.539546,
           24.072102000000001
         ]
-      },
-      "properties" : {
-        "name" : "菜頭糕,碗糕",
-        "address" : "彰化縣彰化市民族路282號"
       }
     },
     {
+      "id" : "52FFEB8F-8869-47B4-9786-5510A9DAC1EF",
+      "properties" : {
+        "name" : "菩提素",
+        "address" : "彰化縣彰化市華山路143號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4909,13 +5265,14 @@
           120.53916599999999,
           24.074964000000001
         ]
-      },
-      "properties" : {
-        "name" : "菩提素",
-        "address" : "彰化縣彰化市華山路143號"
       }
     },
     {
+      "id" : "319FC464-C5B6-433C-86B2-569A41311533",
+      "properties" : {
+        "name" : "黃金蛋",
+        "address" : "彰化縣田中鎮中洲路一段213號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4923,13 +5280,14 @@
           120.583766,
           23.861696999999999
         ]
-      },
-      "properties" : {
-        "name" : "黃金蛋",
-        "address" : "彰化縣田中鎮中洲路一段213號"
       }
     },
     {
+      "id" : "C314AB14-B54A-4033-BC11-A962F32EB0BA",
+      "properties" : {
+        "name" : "Green House 綠品屋",
+        "address" : "彰化縣彰化市自強路39號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4937,13 +5295,14 @@
           120.5435803,
           24.090357099999999
         ]
-      },
-      "properties" : {
-        "name" : "Green House 綠品屋",
-        "address" : "彰化縣彰化市自強路39號"
       }
     },
     {
+      "id" : "CBA08796-0E7B-4D89-9C44-1924947E8890",
+      "properties" : {
+        "name" : "素食丸子燒",
+        "address" : "彰化縣秀水鄉秀中街148號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4951,13 +5310,14 @@
           120.50557000000001,
           24.035748999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食丸子燒",
-        "address" : "彰化縣秀水鄉秀中街148號"
       }
     },
     {
+      "id" : "C2599636-7AB2-4B12-AFEA-0ABC1E2469C5",
+      "properties" : {
+        "name" : "普光素食",
+        "address" : "彰化縣彰化市博愛街93號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4965,13 +5325,14 @@
           120.545125,
           24.072372000000001
         ]
-      },
-      "properties" : {
-        "name" : "普光素食",
-        "address" : "彰化縣彰化市博愛街93號"
       }
     },
     {
+      "id" : "567B80CE-2E4C-4855-89DA-D41616A638E1",
+      "properties" : {
+        "name" : "員林中華素食",
+        "address" : "彰化縣員林市育英路156號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4979,13 +5340,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "員林中華素食",
-        "address" : "彰化縣員林市育英路156號"
       }
     },
     {
+      "id" : "1DC2C5A4-24F0-4F3E-8B77-427F2491400F",
+      "properties" : {
+        "name" : "千味健康蔬食",
+        "address" : "彰化縣彰化市華山路114號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -4993,13 +5355,14 @@
           120.540201,
           24.075005999999998
         ]
-      },
-      "properties" : {
-        "name" : "千味健康蔬食",
-        "address" : "彰化縣彰化市華山路114號"
       }
     },
     {
+      "id" : "1C66C89B-1EA8-444F-9D89-B07E96FD0031",
+      "properties" : {
+        "name" : "素食飯糰",
+        "address" : "彰化縣彰化市大埔路564號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5007,13 +5370,14 @@
           120.542888,
           24.065850999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食飯糰",
-        "address" : "彰化縣彰化市大埔路564號"
       }
     },
     {
+      "id" : "19750C4C-01FB-419A-8C18-20229F507914",
+      "properties" : {
+        "name" : "福田素食",
+        "address" : "彰化縣彰化市南校街120號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5021,13 +5385,14 @@
           120.54471150000001,
           24.0722269
         ]
-      },
-      "properties" : {
-        "name" : "福田素食",
-        "address" : "彰化縣彰化市南校街120號"
       }
     },
     {
+      "id" : "997FFEB7-B867-4364-9C07-0641B0D81210",
+      "properties" : {
+        "name" : "愛詩蔬食餐館 Love's café",
+        "address" : "彰化縣彰化市中正路二段784號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5035,13 +5400,14 @@
           120.5343196,
           24.064868400000002
         ]
-      },
-      "properties" : {
-        "name" : "愛詩蔬食餐館 Love's café",
-        "address" : "彰化縣彰化市中正路二段784號"
       }
     },
     {
+      "id" : "B7136379-1EE9-4DEA-A299-818D0AC5DB1F",
+      "properties" : {
+        "name" : "素食料理",
+        "address" : "彰化縣芬園鄉永和路117巷50弄11號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5049,13 +5415,14 @@
           120.62537380000001,
           24.017766300000002
         ]
-      },
-      "properties" : {
-        "name" : "素食料理",
-        "address" : "彰化縣芬園鄉永和路117巷50弄11號"
       }
     },
     {
+      "id" : "317C3BD8-068B-43E0-B602-E8A3B9D3982A",
+      "properties" : {
+        "name" : "龍門齊素食",
+        "address" : "彰化縣員林市民生路102號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5063,13 +5430,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "龍門齊素食",
-        "address" : "彰化縣員林市民生路102號"
       }
     },
     {
+      "id" : "853B29AE-54A9-4418-92BF-059AE3E3CA75",
+      "properties" : {
+        "name" : "林家素食養生店",
+        "address" : "彰化縣彰化市永福街20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5077,13 +5445,14 @@
           120.54413599999999,
           24.078966999999999
         ]
-      },
-      "properties" : {
-        "name" : "林家素食養生店",
-        "address" : "彰化縣彰化市永福街20號"
       }
     },
     {
+      "id" : "4FAEE77B-1BAD-4FDA-9744-BFAF78F75CD8",
+      "properties" : {
+        "name" : "天時素食",
+        "address" : "彰化縣彰化市永福街4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5091,13 +5460,14 @@
           120.544201,
           24.078607999999999
         ]
-      },
-      "properties" : {
-        "name" : "天時素食",
-        "address" : "彰化縣彰化市永福街4號"
       }
     },
     {
+      "id" : "F003A973-AAA7-4DFD-8646-2BBED3052478",
+      "properties" : {
+        "name" : "欣之味素食麵包",
+        "address" : "彰化縣鹿港鎮立德街20號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5105,13 +5475,14 @@
           120.43940499999999,
           24.054499
         ]
-      },
-      "properties" : {
-        "name" : "欣之味素食麵包",
-        "address" : "彰化縣鹿港鎮立德街20號"
       }
     },
     {
+      "id" : "E99963D3-331D-4AE5-A073-A34DAB76595B",
+      "properties" : {
+        "name" : "埔心素食",
+        "address" : "彰化縣埔心鄉員鹿路二段236號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5119,13 +5490,14 @@
           120.545793,
           23.952856000000001
         ]
-      },
-      "properties" : {
-        "name" : "埔心素食",
-        "address" : "彰化縣埔心鄉員鹿路二段236號"
       }
     },
     {
+      "id" : "4E8F0EC0-A21C-4011-B8D7-EA154A03CF73",
+      "properties" : {
+        "name" : "慈心素食",
+        "address" : "彰化縣彰化市彰南路三段400號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5133,13 +5505,14 @@
           120.601527,
           24.080964999999999
         ]
-      },
-      "properties" : {
-        "name" : "慈心素食",
-        "address" : "彰化縣彰化市彰南路三段400號"
       }
     },
     {
+      "id" : "44A8F0E7-B86F-48E3-9BB8-D02B0657C13A",
+      "properties" : {
+        "name" : "好香屋烘培名店",
+        "address" : "彰化縣彰化市博愛街125號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5147,13 +5520,14 @@
           120.54501,
           24.071511000000001
         ]
-      },
-      "properties" : {
-        "name" : "好香屋烘培名店",
-        "address" : "彰化縣彰化市博愛街125號"
       }
     },
     {
+      "id" : "DBBA1B90-B37F-42EA-B3BC-B6E890CAA736",
+      "properties" : {
+        "name" : "起緣蔬果百匯",
+        "address" : "彰化縣員林市大同路一段455號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5161,13 +5535,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "起緣蔬果百匯",
-        "address" : "彰化縣員林市大同路一段455號"
       }
     },
     {
+      "id" : "0C9550F4-0F95-4DDF-A0AD-7D60952DD594",
+      "properties" : {
+        "name" : "素食麵",
+        "address" : "彰化縣埔心鄉中山路4號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5175,13 +5550,14 @@
           120.55846,
           23.937750999999999
         ]
-      },
-      "properties" : {
-        "name" : "素食麵",
-        "address" : "彰化縣埔心鄉中山路4號"
       }
     },
     {
+      "id" : "65B8CF14-DD2C-4DF6-82A8-10DA9610184B",
+      "properties" : {
+        "name" : "江媽媽養生蔬食素漢堡",
+        "address" : "彰化縣田尾鄉民族路一段"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5189,13 +5565,14 @@
           120.5293121,
           23.9034747
         ]
-      },
-      "properties" : {
-        "name" : "江媽媽養生蔬食素漢堡",
-        "address" : "彰化縣田尾鄉民族路一段"
       }
     },
     {
+      "id" : "629F10B3-5572-47BD-8861-A3BA9EAFE92E",
+      "properties" : {
+        "name" : "台鳳素食",
+        "address" : "彰化縣彰化市一心東街90號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5203,13 +5580,14 @@
           120.600663,
           24.072794999999999
         ]
-      },
-      "properties" : {
-        "name" : "台鳳素食",
-        "address" : "彰化縣彰化市一心東街90號"
       }
     },
     {
+      "id" : "C398E422-A33B-47A0-9E64-43DFDABFC43C",
+      "properties" : {
+        "name" : "京軒素食",
+        "address" : "彰化縣和美鎮糖東二街52號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5217,13 +5595,14 @@
           120.53321699999999,
           24.108453999999998
         ]
-      },
-      "properties" : {
-        "name" : "京軒素食",
-        "address" : "彰化縣和美鎮糖東二街52號"
       }
     },
     {
+      "id" : "51F9C9E2-6378-41F1-BBDF-CEA8E7AE8FD1",
+      "properties" : {
+        "name" : "祥順素食",
+        "address" : "彰化縣彰化市中正路二段547號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5231,13 +5610,14 @@
           120.536068,
           24.070209999999999
         ]
-      },
-      "properties" : {
-        "name" : "祥順素食",
-        "address" : "彰化縣彰化市中正路二段547號"
       }
     },
     {
+      "id" : "35CD4195-8FE2-4639-8274-CF611A5057F4",
+      "properties" : {
+        "name" : "品富素食廚房",
+        "address" : "彰化縣和美鎮平安路265號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5245,13 +5625,14 @@
           120.49533460000001,
           24.110962900000001
         ]
-      },
-      "properties" : {
-        "name" : "品富素食廚房",
-        "address" : "彰化縣和美鎮平安路265號"
       }
     },
     {
+      "id" : "F960AA50-74AE-4EB3-BD07-E465A5FEB245",
+      "properties" : {
+        "name" : "樹草居-馬來料理",
+        "address" : "彰化縣溪湖鎮忠溪路352號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5259,13 +5640,14 @@
           120.48627999999999,
           23.955703
         ]
-      },
-      "properties" : {
-        "name" : "樹草居-馬來料理",
-        "address" : "彰化縣溪湖鎮忠溪路352號"
       }
     },
     {
+      "id" : "04ACFD7D-C33C-4DFD-BEDF-75D9591ADF93",
+      "properties" : {
+        "name" : "鹿珍坊",
+        "address" : "彰化縣鹿港鎮中山路478號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5273,13 +5655,14 @@
           120.429607,
           24.060307000000002
         ]
-      },
-      "properties" : {
-        "name" : "鹿珍坊",
-        "address" : "彰化縣鹿港鎮中山路478號"
       }
     },
     {
+      "id" : "2FBBA5CA-22EA-4DA9-8E11-5F8648293620",
+      "properties" : {
+        "name" : "如意素食館",
+        "address" : "彰化縣花壇鄉學前路8號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5287,13 +5670,14 @@
           120.54241469999999,
           24.024438100000001
         ]
-      },
-      "properties" : {
-        "name" : "如意素食館",
-        "address" : "彰化縣花壇鄉學前路8號"
       }
     },
     {
+      "id" : "41EB7120-F7C5-4583-A5BC-81BD2C27F26C",
+      "properties" : {
+        "name" : "素一鍋蔬食鍋物",
+        "address" : "彰化縣員林市至善街116號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5301,13 +5685,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "素一鍋蔬食鍋物",
-        "address" : "彰化縣員林市至善街116號"
       }
     },
     {
+      "id" : "C3892746-566E-482F-B35E-417B311EEDC7",
+      "properties" : {
+        "name" : "大統素食",
+        "address" : "彰化縣埔鹽鄉彰水路一段277號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5315,13 +5700,14 @@
           120.476437,
           23.993283999999999
         ]
-      },
-      "properties" : {
-        "name" : "大統素食",
-        "address" : "彰化縣埔鹽鄉彰水路一段277號"
       }
     },
     {
+      "id" : "5852A9B4-903A-4CD8-8053-DD8C9EF98DAB",
+      "properties" : {
+        "name" : "晨安蔬食‧中西式早餐",
+        "address" : "彰化縣彰化市金馬路三段21巷3號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5329,13 +5715,14 @@
           120.535099,
           24.089369000000001
         ]
-      },
-      "properties" : {
-        "name" : "晨安蔬食‧中西式早餐",
-        "address" : "彰化縣彰化市金馬路三段21巷3號"
       }
     },
     {
+      "id" : "8E27AB3C-EB67-4943-A7DB-A3E8B7D4BC19",
+      "properties" : {
+        "name" : "至德素食自助餐館",
+        "address" : "彰化縣彰化市三民路22-1號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5343,13 +5730,14 @@
           120.5394028,
           24.0824812
         ]
-      },
-      "properties" : {
-        "name" : "至德素食自助餐館",
-        "address" : "彰化縣彰化市三民路22-1號"
       }
     },
     {
+      "id" : "3C297E35-26E7-491F-9B62-A2B7C710B39E",
+      "properties" : {
+        "name" : "叭咘移動創廚",
+        "address" : "彰化縣彰化市民生南路25號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5357,13 +5745,14 @@
           120.54196,
           24.072751
         ]
-      },
-      "properties" : {
-        "name" : "叭咘移動創廚",
-        "address" : "彰化縣彰化市民生南路25號"
       }
     },
     {
+      "id" : "2142763D-6979-478C-BA69-396CC599F925",
+      "properties" : {
+        "name" : "風古素食臭豆腐",
+        "address" : "彰化縣彰化市中正路一段509號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5371,13 +5760,14 @@
           120.54084899999999,
           24.081977999999999
         ]
-      },
-      "properties" : {
-        "name" : "風古素食臭豆腐",
-        "address" : "彰化縣彰化市中正路一段509號"
       }
     },
     {
+      "id" : "81331271-BFB9-4454-BDC9-4B159DE17815",
+      "properties" : {
+        "name" : "洋廣鄉素食麵包",
+        "address" : "彰化縣員林市新生路46號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5385,13 +5775,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "洋廣鄉素食麵包",
-        "address" : "彰化縣員林市新生路46號"
       }
     },
     {
+      "id" : "E3351D00-7881-472D-91B5-5ABFB6C4388C",
+      "properties" : {
+        "name" : "菩提林素食",
+        "address" : "彰化縣彰化市長順街235號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5399,13 +5790,14 @@
           120.548918,
           24.09018
         ]
-      },
-      "properties" : {
-        "name" : "菩提林素食",
-        "address" : "彰化縣彰化市長順街235號"
       }
     },
     {
+      "id" : "0479FBF3-20CF-4C75-805D-9552FF4FC267",
+      "properties" : {
+        "name" : "活力健康素食",
+        "address" : "彰化縣彰化市一德南路254巷45號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5413,13 +5805,14 @@
           120.598697,
           24.072056
         ]
-      },
-      "properties" : {
-        "name" : "活力健康素食",
-        "address" : "彰化縣彰化市一德南路254巷45號"
       }
     },
     {
+      "id" : "AC61E779-B235-495A-AD31-5B6964DBA673",
+      "properties" : {
+        "name" : "素食麵線",
+        "address" : "彰化縣員林市中正路484巷36號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5427,13 +5820,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "素食麵線",
-        "address" : "彰化縣員林市中正路484巷36號"
       }
     },
     {
+      "id" : "D9A2120F-0595-46FF-AFB2-D463803FF6B1",
+      "properties" : {
+        "name" : "十一素食",
+        "address" : "彰化縣彰化市辭修路120號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5441,13 +5835,14 @@
           120.53825999999999,
           24.086739999999999
         ]
-      },
-      "properties" : {
-        "name" : "十一素食",
-        "address" : "彰化縣彰化市辭修路120號"
       }
     },
     {
+      "id" : "1FD0206A-6D09-49BD-9E60-16E7858D4FF8",
+      "properties" : {
+        "name" : "觀自在現炒素食",
+        "address" : "彰化縣鹿港鎮中正路433號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5455,13 +5850,14 @@
           120.438197,
           24.059922
         ]
-      },
-      "properties" : {
-        "name" : "觀自在現炒素食",
-        "address" : "彰化縣鹿港鎮中正路433號"
       }
     },
     {
+      "id" : "BA6A69D3-4EDB-45F5-9A31-217E7A411673",
+      "properties" : {
+        "name" : "仁廚蔬食館",
+        "address" : "彰化縣花壇鄉花壇街362號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5469,13 +5865,14 @@
           120.537645,
           24.026201
         ]
-      },
-      "properties" : {
-        "name" : "仁廚蔬食館",
-        "address" : "彰化縣花壇鄉花壇街362號"
       }
     },
     {
+      "id" : "6B985C74-060E-4D52-AFA9-FBEA3543E40D",
+      "properties" : {
+        "name" : "廣興素食",
+        "address" : "彰化縣彰化市實踐路163巷2號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5483,13 +5880,14 @@
           120.55718299999999,
           24.083783
         ]
-      },
-      "properties" : {
-        "name" : "廣興素食",
-        "address" : "彰化縣彰化市實踐路163巷2號"
       }
     },
     {
+      "id" : "2CEDEFEC-C301-4E8D-9449-7CE4FC1C057E",
+      "properties" : {
+        "name" : "一品香素食館",
+        "address" : "彰化縣溪湖鎮信善街27號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5497,13 +5895,14 @@
           120.479518,
           23.964468100000001
         ]
-      },
-      "properties" : {
-        "name" : "一品香素食館",
-        "address" : "彰化縣溪湖鎮信善街27號"
       }
     },
     {
+      "id" : "F83836F3-CB87-4F00-AC5D-D39AC60EBD31",
+      "properties" : {
+        "name" : "興芳健康素食自助餐",
+        "address" : "彰化縣社頭鄉信義三路66號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5511,13 +5910,14 @@
           120.589878,
           23.897632999999999
         ]
-      },
-      "properties" : {
-        "name" : "興芳健康素食自助餐",
-        "address" : "彰化縣社頭鄉信義三路66號"
       }
     },
     {
+      "id" : "EBC19F8D-3E36-4161-AAFD-280695D007F9",
+      "properties" : {
+        "name" : "天德養生素食坊",
+        "address" : "彰化縣員林市博愛路77號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5525,13 +5925,14 @@
           120.572227,
           23.962657
         ]
-      },
-      "properties" : {
-        "name" : "天德養生素食坊",
-        "address" : "彰化縣員林市博愛路77號"
       }
     },
     {
+      "id" : "14831DD1-9429-4E64-B731-7E355CAB739D",
+      "properties" : {
+        "name" : "阿蓮",
+        "address" : "彰化縣彰化市陽明街57號"
+      },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
@@ -5539,10 +5940,6 @@
           120.545738,
           24.085175
         ]
-      },
-      "properties" : {
-        "name" : "阿蓮",
-        "address" : "彰化縣彰化市陽明街57號"
       }
     }
   ]
