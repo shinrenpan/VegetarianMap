@@ -5,31 +5,31 @@
 ## 地圖列表
 依照英文名字排序
 
-| 區域 | 數量 |
-| ----------- | ----------- |
-| [全台灣](data/All_City_Map.geojson) |6980|
-| [彰化縣](data/Changhua_County_Map.geojson) |396|
-| [嘉義市](data/Chiayi_City_Map.geojson) |81|
-| [嘉義縣](data/Chiayi_County_Map.geojson) |59|
-| [新竹市](data/Hsinchu_City_Map.geojson) |151|
-| [新竹縣](data/Hsinchu_County_Map.geojson) |113|
-| [花蓮縣](data/Hualien_County_Map.geojson) |108|
-| [高雄市](data/Kaohsiung_City_Map.geojson) |770|
-| [基隆市](data/Keelung_City_Map.geojson) |62|
-| [金門縣](data/Kinmen_County_Map.geojson) |14|
-| [連江縣](data/Lienchiang_County_Map.geojson) |4|
-| [苗栗縣](data/Miaoli_County_Map.geojson) |95|
-| [南投縣](data/Nantou_County_Map.geojson) |216|
-| [新北市](data/New_Taipei_City_Map.geojson) |1108|
-| [澎湖縣](data/Penghu_County_Map.geojson) |28|
-| [屏東縣](data/Pingtung_County_Map.geojson) |236|
-| [台中市](data/Taichung_City_Map.geojson) |1191|
-| [台南市](data/Tainan_City_Map.geojson) |559|
-| [台北市](data/Taipei_City_Map.geojson) |940|
-| [台東縣](data/Taitung_County_Map.geojson) |75|
-| [桃園市](data/Taoyuan_City_Map.geojson) |420|
-| [宜蘭縣](data/Yilan_County_Map.geojson) |206|
-| [雲林縣](data/Yunlin_County_Map.geojson) |148|
+| 區域 |
+| ----------- |
+| [全台灣](data/All_City_Map.geojson) |
+| [彰化縣](data/Changhua_County_Map.geojson) |
+| [嘉義市](data/Chiayi_City_Map.geojson) |
+| [嘉義縣](data/Chiayi_County_Map.geojson) |
+| [新竹市](data/Hsinchu_City_Map.geojson) |
+| [新竹縣](data/Hsinchu_County_Map.geojson) |
+| [花蓮縣](data/Hualien_County_Map.geojson) |
+| [高雄市](data/Kaohsiung_City_Map.geojson) |
+| [基隆市](data/Keelung_City_Map.geojson) |
+| [金門縣](data/Kinmen_County_Map.geojson) |
+| [連江縣](data/Lienchiang_County_Map.geojson) |
+| [苗栗縣](data/Miaoli_County_Map.geojson) |
+| [南投縣](data/Nantou_County_Map.geojson) |
+| [新北市](data/New_Taipei_City_Map.geojson) |
+| [澎湖縣](data/Penghu_County_Map.geojson) |
+| [屏東縣](data/Pingtung_County_Map.geojson) |
+| [台中市](data/Taichung_City_Map.geojson) |
+| [台南市](data/Tainan_City_Map.geojson) |
+| [台北市](data/Taipei_City_Map.geojson) |
+| [台東縣](data/Taitung_County_Map.geojson) |
+| [桃園市](data/Taoyuan_City_Map.geojson) |
+| [宜蘭縣](data/Yilan_County_Map.geojson) |
+| [雲林縣](data/Yunlin_County_Map.geojson) |
 
 ## 新增修改
 請依照 [GeoJSON](https://geojson.org) format 新增一個 **type = Feature**, **geometry.type = Point** 的 Object  
