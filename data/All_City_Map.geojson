@@ -33693,21 +33693,6 @@
       }
     },
     {
-      "id" : "366569BD-79B9-4B12-B22D-F50C01551AD0",
-      "properties" : {
-        "name" : "觀心",
-        "address" : "新北市蘆洲區得勝街85號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.47363,
-          25.083600000000001
-        ]
-      }
-    },
-    {
       "id" : "740B98E5-3E39-4DEF-AA00-2447FE85B7A1",
       "properties" : {
         "name" : "承恩素食",
