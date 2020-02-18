@@ -3846,14 +3846,14 @@
       "id" : "9E016D94-F237-447A-BA15-F6BF7C4A31C4",
       "properties" : {
         "name" : "彌勒素餐自助餐",
-        "address" : "新北市蘆洲區民生街24號"
+        "address" : "新北市蘆洲區三民路2號"
       },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
-          121.475004,
-          25.078977999999999
+          121.47605,
+          25.081917
         ]
       }
     },
