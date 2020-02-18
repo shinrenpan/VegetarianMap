@@ -21798,17 +21798,17 @@
       }
     },
     {
-      "id" : "4E7B3DAD-4B9E-4331-9A34-12E8D09A6599",
+      "id" : "FCF8779B-AED5-439F-ADDC-50E6AA94B0CE",
       "properties" : {
         "name" : "阿金素食",
-        "address" : "新北市蘆洲區中央路20巷6號"
+        "address" : "新北市蘆洲區中央路20巷1號"
       },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
-          121.47388100000001,
-          25.082764000000001
+          121.4715237,
+          25.0828354
         ]
       }
     },
