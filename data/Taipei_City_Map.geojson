@@ -363,21 +363,6 @@
       }
     },
     {
-      "id" : "475B6F9A-C851-4923-A423-328273B8763B",
-      "properties" : {
-        "name" : "裸得好",
-        "address" : "台北市大安區敦化南路二段172巷5弄2號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.54768900000001,
-          25.024113
-        ]
-      }
-    },
-    {
       "id" : "C1976E9F-A670-4BB2-892E-70FF25601778",
       "properties" : {
         "name" : "稻禾烏龍麵",
@@ -650,7 +635,7 @@
     {
       "id" : "5E98964E-4C1B-4E22-9599-4FB96C236F3C",
       "properties" : {
-        "name" : "齋之傳說素食餐廳永吉店",
+        "name" : "齋之傳說",
         "address" : "台北市信義區永吉路30巷157弄5號"
       },
       "type" : "Feature",
@@ -689,21 +674,6 @@
         "coordinates" : [
           121.55347399999999,
           25.041893999999999
-        ]
-      }
-    },
-    {
-      "id" : "B1B12499-F4C6-41BD-B8F8-CFE655E517E8",
-      "properties" : {
-        "name" : "八面安舒",
-        "address" : "台北市信義區虎林街132巷88號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.5741,
-          25.040465000000001
         ]
       }
     },
@@ -764,21 +734,6 @@
         "coordinates" : [
           121.567268,
           25.028428000000002
-        ]
-      }
-    },
-    {
-      "id" : "A347C7E0-B6C6-48BE-9FAA-9EA0F96A14C1",
-      "properties" : {
-        "name" : "URBN culture",
-        "address" : "台北市大安區基隆路二段252號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.550259,
-          25.022583999999998
         ]
       }
     },
@@ -944,21 +899,6 @@
         "coordinates" : [
           121.60720070000001,
           25.052649500000001
-        ]
-      }
-    },
-    {
-      "id" : "999D4412-5543-429C-866D-312B18751514",
-      "properties" : {
-        "name" : "越南素食",
-        "address" : "台北市南港區成福路30號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.586111,
-          25.045289
         ]
       }
     },
@@ -6948,21 +6888,6 @@
       }
     },
     {
-      "id" : "D4D9E16F-4074-4A4A-8C2F-9B2AC1E466BA",
-      "properties" : {
-        "name" : "蔬漫小姐Miss Shu maan. House",
-        "address" : "台北市信義區永吉路120巷82號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.570104,
-          25.042603
-        ]
-      }
-    },
-    {
       "id" : "3C074CED-5910-4CEF-8EAE-96A74DBFB879",
       "properties" : {
         "name" : "宜亨齋蔬食坊",
@@ -8084,21 +8009,6 @@
         "coordinates" : [
           121.547532,
           25.024484999999999
-        ]
-      }
-    },
-    {
-      "id" : "23F28204-64A7-460E-8FD8-C00A0AC14D80",
-      "properties" : {
-        "name" : "好滋味素食海苔卷臭豆腐",
-        "address" : "台北市南港區興中路28巷7號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.60683299999999,
-          25.055662999999999
         ]
       }
     },
@@ -10203,21 +10113,6 @@
       }
     },
     {
-      "id" : "E4C14CF8-789B-4214-BB27-FD8DEAD9BAEE",
-      "properties" : {
-        "name" : "榎輕食時尚創意食坊",
-        "address" : "台北市南港區興中路28巷31號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.60621500000001,
-          25.055554000000001
-        ]
-      }
-    },
-    {
       "id" : "47DCBCDE-FA44-45B2-98DC-E62E95150564",
       "properties" : {
         "name" : "騷豆花",
@@ -11024,21 +10919,6 @@
         "coordinates" : [
           121.501155,
           25.138752
-        ]
-      }
-    },
-    {
-      "id" : "7E004BE9-DBC3-4CE2-B82B-C983850F0511",
-      "properties" : {
-        "name" : "高仰三廚房",
-        "address" : "台北市南港區忠孝東路七段369號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.60720070000001,
-          25.052649500000001
         ]
       }
     },
@@ -13154,21 +13034,6 @@
         "coordinates" : [
           121.51228,
           25.044166000000001
-        ]
-      }
-    },
-    {
-      "id" : "0F35F591-76CB-4ABC-9B91-D1F8CD3A0763",
-      "properties" : {
-        "name" : "傳說食堂",
-        "address" : "台北市信義區永吉路30巷157弄5號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.56898700000001,
-          25.042411999999999
         ]
       }
     },
