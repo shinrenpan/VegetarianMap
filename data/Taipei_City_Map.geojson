@@ -498,21 +498,6 @@
       }
     },
     {
-      "id" : "17BE18BE-7154-4FF5-B0FA-5FEFA2E3C2D0",
-      "properties" : {
-        "name" : "鈺成素食火烤兩吃",
-        "address" : "台北市大安區市民大道三段304號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          120.587631,
-          24.343485000000001
-        ]
-      }
-    },
-    {
       "id" : "6DC6592A-FACF-47BF-8CF9-429F76964A76",
       "properties" : {
         "name" : "有哆創意蔬食洋食館",
