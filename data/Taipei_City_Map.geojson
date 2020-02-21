@@ -6395,15 +6395,15 @@
     {
       "id" : "7E8BAA07-D57E-4EFE-95DA-50E2DE2FB251",
       "properties" : {
-        "name" : "鈺成素食火烤二吃",
+        "name" : "鈺成素食",
         "address" : "台北市大安區市民大道三段304號"
       },
       "type" : "Feature",
       "geometry" : {
         "type" : "Point",
         "coordinates" : [
-          120.587631,
-          24.343485000000001
+          121.5409988,
+          25.0445884
         ]
       }
     },
