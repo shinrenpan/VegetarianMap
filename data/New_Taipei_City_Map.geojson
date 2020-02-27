@@ -12633,21 +12633,6 @@
       }
     },
     {
-      "id" : "703DDECF-0BC8-47F3-8AA0-0262A2637953",
-      "properties" : {
-        "name" : "碧潭愛家星星蔬食",
-        "address" : "新北市新店區新店路211號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.53706200000001,
-          24.956934
-        ]
-      }
-    },
-    {
       "id" : "AB1B1B1C-8951-4BF7-89AB-4C43381ADD0F",
       "properties" : {
         "name" : "佛林素食",
