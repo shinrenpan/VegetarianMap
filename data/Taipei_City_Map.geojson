@@ -9198,21 +9198,6 @@
       }
     },
     {
-      "id" : "33D4A681-2F8A-4186-BDDB-EE257FF5468E",
-      "properties" : {
-        "name" : "牧羊人與貓",
-        "address" : "台北市中山區松江路194巷59號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.530946,
-          25.057186999999999
-        ]
-      }
-    },
-    {
       "id" : "159FB8F1-DCA8-4260-82C7-0FA1D0ABC0B0",
       "properties" : {
         "name" : "雪花齋糕餅",
