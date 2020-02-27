@@ -3078,21 +3078,6 @@
       }
     },
     {
-      "id" : "0DBD57BD-176B-4608-A44C-4E526C05FB13",
-      "properties" : {
-        "name" : "吉園素食坊",
-        "address" : "台北市大安區市民大道三段140號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.5328743,
-          25.044687
-        ]
-      }
-    },
-    {
       "id" : "DB84ECCA-85F6-431E-8724-502BFBC19AD5",
       "properties" : {
         "name" : "寬心園精緻蔬食料理",
