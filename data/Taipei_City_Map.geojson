@@ -948,21 +948,6 @@
       }
     },
     {
-      "id" : "7F865381-638C-4B7A-BA8B-D99FA87F67EF",
-      "properties" : {
-        "name" : "浣花草堂素食餐廳",
-        "address" : "台北市中山區樂群三路218號"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          121.55779200000001,
-          25.082497
-        ]
-      }
-    },
-    {
       "id" : "4FD653C6-6D94-4B04-A793-77AC28D94039",
       "properties" : {
         "name" : "隨緣居素食餐廳",
@@ -13934,6 +13919,21 @@
         "coordinates" : [
           121.5243885,
           25.0636693
+        ]
+      }
+    },
+    {
+      "id" : "374de96e-d7c8-4228-b838-ec44d4b6e0fe",
+      "properties" : {
+        "name" : "無口小廚",
+        "address" : "台北市大同區環河北路一段431號"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.5065833,
+          25.0622389
         ]
       }
     }
