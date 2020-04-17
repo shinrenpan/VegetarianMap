@@ -13936,6 +13936,21 @@
           25.0622401
         ]
       }
+    },
+    {
+      "id" : "1d44bc72-2f54-4bff-9ebd-1c3915a98516",
+      "properties" : {
+        "name" : "扭登和",
+        "address" : "台灣台北市松山區敦化北路222巷30號"
+      },
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          121.5475,
+          25.0597
+        ]
+      }
     }
   ]
 }
