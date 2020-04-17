@@ -7263,21 +7263,6 @@
       }
     },
     {
-      "id" : "7B280D2B-65FE-42C1-88E9-B5C6263BAAE3",
-      "properties" : {
-        "name" : "ㄚ頭素麵線",
-        "address" : "台北市大同區重慶北路三段113巷與大龍街91巷交叉口"
-      },
-      "type" : "Feature",
-      "geometry" : {
-        "type" : "Point",
-        "coordinates" : [
-          120.681382,
-          24.099898
-        ]
-      }
-    },
-    {
       "id" : "AE7B16FE-EFE9-401B-ACC5-30433F26553D",
       "properties" : {
         "name" : "金華素食麵",
